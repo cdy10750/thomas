@@ -1,0 +1,15 @@
+[
+  { "week": 1,  "title": "Hello, Family!", "theme": "Greetings, introductions, asking people to repeat", "available": true },
+  { "week": 2,  "title": "Kaon na!", "theme": "At the dinner table", "available": false },
+  { "week": 3,  "title": "The Family", "theme": "Family names and what they ask you", "available": false },
+  { "week": 4,  "title": "Hot and Tired", "theme": "Health, heat, and feeling tired", "available": false },
+  { "week": 5,  "title": "When?", "theme": "Numbers, time, arriving and leaving", "available": false },
+  { "week": 6,  "title": "Lami!", "theme": "Likes, dislikes, and food reactions", "available": false },
+  { "week": 7,  "title": "At the Market", "theme": "Shopping, the market, and prices", "available": false },
+  { "week": 8,  "title": "Church and Fiesta", "theme": "Church, fiestas, family events", "available": false },
+  { "week": 9,  "title": "Life at Home", "theme": "Showering, sleeping, helping, relaxing", "available": false },
+  { "week": 10, "title": "Around Bohol", "theme": "Going out and getting around", "available": false },
+  { "week": 11, "title": "Video Calls", "theme": "Talking with Jiana on video", "available": false },
+  { "week": 12, "title": "Thanks and Goodbye", "theme": "Gratitude, feelings, saying goodbye", "available": false },
+  { "week": 13, "title": "The Whole Trip", "theme": "Full review: arrival to departure", "available": false }
+]
