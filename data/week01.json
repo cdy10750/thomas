@@ -1,0 +1,1233 @@
+{
+  "week": 1,
+  "title": "Hello, Family!",
+  "subtitle": "Greetings, introducing yourself, and asking people to repeat",
+  "goal": "Greet everyone at the right time of day, answer 'How are you?' and 'Where are you from?', and - most important - stop a conversation politely when you don't understand.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W01-01",
+      "ceb": "Maayong buntag, Thomas!",
+      "en": "Good morning, Thomas!",
+      "speaker": "Nanay",
+      "scene": "Home - morning",
+      "tip": "Maayong = good (as a greeting). Buntag = morning. Use it until about 11 a.m.",
+      "check": "Is it natural for Nanay to greet him by first name like this?"
+    },
+    {
+      "id": "W01-02",
+      "ceb": "Maayong buntag pud, Nay.",
+      "en": "Good morning to you too, Mom.",
+      "speaker": "Thomas",
+      "scene": "Home - morning",
+      "tip": "pud = too / also. Nay is short for Nanay (Mom). Many families also say Ma.",
+      "check": "In Bohol, which is most natural: pud, pod, or sad?"
+    },
+    {
+      "id": "W01-03",
+      "ceb": "Maayong hapon!",
+      "en": "Good afternoon!",
+      "speaker": "Tatay",
+      "scene": "Home - afternoon",
+      "tip": "Hapon = afternoon (about 1 p.m. until dark). Around noon people say Maayong udto.",
+      "check": ""
+    },
+    {
+      "id": "W01-04",
+      "ceb": "Maayong gabii!",
+      "en": "Good evening!",
+      "speaker": "Inday",
+      "scene": "Home - evening",
+      "tip": "Gabii = evening / night. Used as a hello after dark. For bedtime, many families just say 'Good night' in English.",
+      "check": "At bedtime, do families say 'Maayong gabii' or the English 'Good night'?"
+    },
+    {
+      "id": "W01-05",
+      "ceb": "Kumusta ka, Thomas?",
+      "en": "How are you, Thomas?",
+      "speaker": "Nanay",
+      "scene": "Arriving at the house",
+      "tip": "Kumusta comes from Spanish 'como esta'. ka = you.",
+      "check": ""
+    },
+    {
+      "id": "W01-06",
+      "ceb": "Maayo man ko. Ikaw?",
+      "en": "I'm good. And you?",
+      "speaker": "Thomas",
+      "scene": "Arriving at the house",
+      "tip": "ko = I. man is a small softening word - it makes you sound relaxed and friendly. Ikaw = you (when it stands alone).",
+      "check": "Or is 'Maayo ra man ko' more common as a reply?"
+    },
+    {
+      "id": "W01-07",
+      "ceb": "Maayo ra pud.",
+      "en": "I'm fine too.",
+      "speaker": "Nanay",
+      "scene": "Arriving at the house",
+      "tip": "ra = just. 'Maayo ra' = just fine, doing okay.",
+      "check": "Or 'Maayo ra man pud'?"
+    },
+    {
+      "id": "W01-08",
+      "ceb": "Mano, Nay.",
+      "en": "(Asking for the blessing) Your hand, Mom.",
+      "speaker": "Thomas",
+      "scene": "Arriving at the house",
+      "tip": "Say this as you take an elder's right hand and touch the back of it to your forehead. See today's culture note.",
+      "check": "In Bohol, do people say 'Mano, Nay' or 'Mano po, Nay' (with Tagalog 'po')? Or just reach for the hand silently?"
+    },
+    {
+      "id": "W01-09",
+      "ceb": "Kaloy-an ka sa Ginoo.",
+      "en": "God bless you.",
+      "speaker": "Nanay",
+      "scene": "Arriving at the house",
+      "lit": "May the Lord have mercy on you",
+      "tip": "What elders say after you do the mano. Often shortened to 'Kaloy-an ka.'",
+      "check": ""
+    },
+    {
+      "id": "W01-10",
+      "ceb": "Maayong pag-abot sa Bohol!",
+      "en": "Welcome to Bohol!",
+      "speaker": "Tatay",
+      "scene": "Airport arrival",
+      "lit": "Good arrival in Bohol",
+      "tip": "pag-abot = arrival. sa = in / at / to.",
+      "check": "Would Tatay say this, or just 'Welcome!' in English?"
+    },
+    {
+      "id": "W01-11",
+      "ceb": "Ako si Thomas.",
+      "en": "I'm Thomas.",
+      "speaker": "Thomas",
+      "scene": "Meeting relatives",
+      "tip": "si goes before a person's name. You'll hear it everywhere: si Jiana, si Nanay.",
+      "check": ""
+    },
+    {
+      "id": "W01-12",
+      "ceb": "Taga-asa ka?",
+      "en": "Where are you from?",
+      "speaker": "Kuya",
+      "scene": "Meeting relatives",
+      "tip": "taga- = from (a place). asa = where.",
+      "check": ""
+    },
+    {
+      "id": "W01-13",
+      "ceb": "Taga-America ko.",
+      "en": "I'm from America.",
+      "speaker": "Thomas",
+      "scene": "Meeting relatives",
+      "tip": "Swap in your state or city: Taga-Texas ko. Taga-Chicago ko.",
+      "check": "Most natural spelling/word: Taga-America, Taga-Amerika, or Taga-States?"
+    },
+    {
+      "id": "W01-14",
+      "ceb": "Kabalo ka mag-Bisaya?",
+      "en": "Can you speak Bisaya?",
+      "speaker": "Dodong",
+      "scene": "Family gathering",
+      "tip": "kabalo = know how to. In Bohol people call their language Bisaya (Binisaya) rather than 'Cebuano'.",
+      "check": "kabalo vs kahibalo - which does a Bohol family use more?"
+    },
+    {
+      "id": "W01-15",
+      "ceb": "Gamay ra. Nagtuon pa ko.",
+      "en": "Just a little. I'm still learning.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "gamay ra = just a little. pa = still. Nagtuon = studying / learning.",
+      "check": "Is 'Nagtuon pa ko' natural here, or 'Nagkat-on pa ko'?"
+    },
+    {
+      "id": "W01-16",
+      "ceb": "Unsa?",
+      "en": "What?",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "Your number-one survival word. Say it with a rising, friendly tone. 'Unsa man?' sounds even softer.",
+      "check": "Is plain 'Unsa?' polite enough toward his girlfriend's parents, or should he say 'Unsa man, Nay?'"
+    },
+    {
+      "id": "W01-17",
+      "ceb": "Hinay-hinay lang, palihug.",
+      "en": "Slowly, please.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "hinay = slow. Doubled, it means nice and slow. palihug = please.",
+      "check": ""
+    },
+    {
+      "id": "W01-18",
+      "ceb": "Wala ko kasabot.",
+      "en": "I don't understand.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "wala = didn't / not. kasabot = understand. In fast speech you'll hear 'Wa ko kasabot.'",
+      "check": ""
+    },
+    {
+      "id": "W01-19",
+      "ceb": "Balika, palihug.",
+      "en": "Say it again, please.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "From balik = again / return.",
+      "check": "Balika vs Usba - which is more natural for 'say it again'?"
+    },
+    {
+      "id": "W01-20",
+      "ceb": "Unsa'y English ana?",
+      "en": "What's that in English?",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "ana = that (what was just said). Families mix English into Bisaya all the time, so this question is completely natural.",
+      "check": ""
+    },
+    {
+      "id": "W01-21",
+      "ceb": "Nakasabot ka?",
+      "en": "Did you understand?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "Same root as kasabot. Expect to hear this one a lot.",
+      "check": ""
+    },
+    {
+      "id": "W01-22",
+      "ceb": "Oo, nakasabot ko.",
+      "en": "Yes, I understood.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Oo = yes. Note: nakasabot ko (I understood) but wala ko kasabot (I didn't understand).",
+      "check": ""
+    },
+    {
+      "id": "W01-23",
+      "ceb": "Sige, salamat.",
+      "en": "Okay, thanks.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "Sige = okay / sure / go ahead. One of the most useful words in Bisaya.",
+      "check": ""
+    },
+    {
+      "id": "W01-24",
+      "ceb": "Salamat kaayo.",
+      "en": "Thank you very much.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "kaayo = very.",
+      "check": ""
+    },
+    {
+      "id": "W01-25",
+      "ceb": "Walay sapayan.",
+      "en": "You're welcome.",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "lit": "It's nothing / no problem",
+      "tip": "Many people also just say 'Welcome!' in English.",
+      "check": "Is 'Walay sapayan' still common, or do most families say 'Welcome' / 'Way problema'?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W01-D1",
+      "title": "Arriving at Jiana's house",
+      "scene": "Arriving at the house",
+      "lines": [
+        {
+          "chunk": "W01-08"
+        },
+        {
+          "chunk": "W01-09"
+        },
+        {
+          "chunk": "W01-05"
+        },
+        {
+          "chunk": "W01-06"
+        },
+        {
+          "chunk": "W01-07"
+        },
+        {
+          "id": "W01-D1-06",
+          "speaker": "Nanay",
+          "ceb": "Sulod, sulod!",
+          "en": "Come in, come in!",
+          "check": ""
+        },
+        {
+          "chunk": "W01-23"
+        }
+      ]
+    },
+    {
+      "id": "W01-D2",
+      "title": "Morning video call",
+      "scene": "Video call",
+      "lines": [
+        {
+          "id": "W01-D2-01",
+          "speaker": "Jiana",
+          "ceb": "Maayong buntag diri, Thomas! Maayong gabii diha!",
+          "en": "Good morning here, Thomas! Good evening there!",
+          "check": "diri / diha (here / there) natural in this joke about the time difference?"
+        },
+        {
+          "id": "W01-D2-02",
+          "speaker": "Thomas",
+          "ceb": "Maayong gabii, Jiana! Kumusta ka?",
+          "en": "Good evening, Jiana! How are you?",
+          "check": ""
+        },
+        {
+          "id": "W01-D2-03",
+          "speaker": "Jiana",
+          "ceb": "Maayo ra man. Unsa'y imong gibuhat karon?",
+          "en": "I'm fine. What are you doing now?",
+          "check": "Should be spoken at normal, fast-ish speed."
+        },
+        {
+          "id": "W01-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Unsa? Hinay-hinay lang, palihug.",
+          "en": "What? Slowly, please.",
+          "check": ""
+        },
+        {
+          "id": "W01-D2-05",
+          "speaker": "Jiana",
+          "ceb": "Unsa'y... imong... gibuhat... karon?",
+          "en": "What... are you... doing... now?",
+          "check": "Same sentence, said slowly with pauses."
+        },
+        {
+          "id": "W01-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Wala ko kasabot. Unsa'y English ana?",
+          "en": "I don't understand. What's that in English?",
+          "check": ""
+        },
+        {
+          "id": "W01-D2-07",
+          "speaker": "Jiana",
+          "ceb": "'What are you doing now?' Nakasabot ka?",
+          "en": "'What are you doing now?' Did you understand?",
+          "check": ""
+        },
+        {
+          "id": "W01-D2-08",
+          "speaker": "Thomas",
+          "ceb": "Oo, nakasabot ko. Salamat kaayo!",
+          "en": "Yes, I understood. Thank you very much!",
+          "check": ""
+        },
+        {
+          "id": "W01-D2-09",
+          "speaker": "Jiana",
+          "ceb": "Okay ra. Hinay-hinay lang ta, ha?",
+          "en": "It's okay. We'll take it slow, okay?",
+          "check": "Is 'Hinay-hinay lang ta, ha?' natural for 'we'll take it slow'?"
+        }
+      ]
+    },
+    {
+      "id": "W01-D3",
+      "title": "Inday at the family party",
+      "scene": "Family gathering",
+      "lines": [
+        {
+          "id": "W01-D3-01",
+          "speaker": "Inday",
+          "ceb": "Maayong hapon, Thomas!",
+          "en": "Good afternoon, Thomas!",
+          "check": ""
+        },
+        {
+          "id": "W01-D3-02",
+          "speaker": "Thomas",
+          "ceb": "Maayong hapon pud, Inday.",
+          "en": "Good afternoon to you too, Inday.",
+          "check": "Is it natural for him to call Jiana's younger sister 'Inday'?"
+        },
+        {
+          "id": "W01-D3-03",
+          "speaker": "Inday",
+          "ceb": "Kabalo ka mag-Bisaya?",
+          "en": "Can you speak Bisaya?",
+          "check": ""
+        },
+        {
+          "chunk": "W01-15"
+        },
+        {
+          "id": "W01-D3-05",
+          "speaker": "Inday",
+          "ceb": "Wow! Maayo man diay!",
+          "en": "Wow! That's great!",
+          "check": "diay = expresses surprise. Natural?"
+        },
+        {
+          "id": "W01-D3-06",
+          "speaker": "Thomas",
+          "ceb": "Salamat, Inday!",
+          "en": "Thanks, Inday!",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Greetings for every time of day",
+      "intro": "Bisaya greetings follow the clock. Learn the three you'll hear every single day.",
+      "new": [
+        "W01-01",
+        "W01-02",
+        "W01-03",
+        "W01-04"
+      ],
+      "culture": {
+        "title": "Greetings follow the clock - and the Bohol accent",
+        "text": "Maayong buntag (morning, until about 11), Maayong udto (around noon), Maayong hapon (afternoon), Maayong gabii (evening). In Bohol you may hear the y sound turn into j: 'Maajong buntag' instead of 'Maayong buntag'. It's the same word - just the local accent. Jiana's family may tease you kindly if you copy it."
+      },
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W01-01",
+          "answer": "Home - morning",
+          "options": [
+            "Home - morning",
+            "Home - evening",
+            "Airport arrival"
+          ]
+        },
+        {
+          "type": "scene",
+          "ref": "W01-04",
+          "answer": "Home - evening",
+          "options": [
+            "Home - morning",
+            "Home - evening",
+            "Church"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-01",
+          "answer": "W01-02",
+          "distractors": [
+            "W01-04",
+            "W01-03"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-03",
+          "text": "Maayong ___!",
+          "answer": "hapon",
+          "options": [
+            "hapon",
+            "buntag",
+            "gabii"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-04",
+          "text": "Maayong ___!",
+          "answer": "gabii",
+          "options": [
+            "gabii",
+            "hapon",
+            "buntag"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-02",
+          "text": "Maayong buntag ___, Nay.",
+          "answer": "pud",
+          "options": [
+            "pud",
+            "ko",
+            "ka"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-02",
+          "tiles": [
+            "Maayong buntag",
+            "pud",
+            "Nay"
+          ],
+          "answers": [
+            [
+              "Maayong buntag",
+              "pud",
+              "Nay"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "How are you? Thank you!",
+      "intro": "The first question Nanay will ask you, plus the two words that will get you through every meal.",
+      "new": [
+        "W01-05",
+        "W01-06",
+        "W01-07",
+        "W01-24",
+        "W01-25"
+      ],
+      "culture": {
+        "title": "Little words, big friendliness",
+        "text": "Bisaya is full of tiny words like man, ra and pud. They don't translate neatly, but they make speech sound warm instead of blunt. Don't analyze them - just learn them inside the phrases, exactly as written."
+      },
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W01-24",
+          "answer": "Dinner table",
+          "options": [
+            "Dinner table",
+            "Airport arrival",
+            "Video call"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-05",
+          "answer": "W01-06",
+          "distractors": [
+            "W01-04",
+            "W01-02"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "Nanay puts a plate of food in front of you.",
+          "answer": "W01-24",
+          "distractors": [
+            "W01-07",
+            "W01-03"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-06",
+          "text": "Maayo ___ ko. Ikaw?",
+          "answer": "man",
+          "options": [
+            "man",
+            "pud",
+            "ka"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-24",
+          "text": "Salamat ___.",
+          "answer": "kaayo",
+          "options": [
+            "kaayo",
+            "pud",
+            "Nay"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-07",
+          "text": "Maayo ___ pud.",
+          "answer": "ra",
+          "options": [
+            "ra",
+            "buntag",
+            "Nay"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-05",
+          "tiles": [
+            "Kumusta ka",
+            "Thomas"
+          ],
+          "answers": [
+            [
+              "Kumusta ka",
+              "Thomas"
+            ],
+            [
+              "Thomas",
+              "Kumusta ka"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-06",
+          "tiles": [
+            "Maayo man ko",
+            "Ikaw?",
+            "Maayong gabii"
+          ],
+          "answers": [
+            [
+              "Maayo man ko",
+              "Ikaw?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Respect: the Mano",
+      "intro": "One gesture and three words that will win over Nanay and Tatay the moment you walk in.",
+      "new": [
+        "W01-08",
+        "W01-09",
+        "W01-10"
+      ],
+      "culture": {
+        "title": "The Mano (blessing)",
+        "text": "When you greet an older relative, take their right hand, bow slightly, and gently touch the back of their hand to your forehead while saying 'Mano, Nay' or 'Mano, Tay'. They answer 'Kaloy-an ka sa Ginoo' (God bless you). Jiana's parents may be close to your own age, so ask Jiana first whether they'd like you to do it - but most families are deeply touched when a foreign partner makes the effort. Grandparents (Lolo, Lola) should always get a mano."
+      },
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W01-10",
+          "answer": "Airport arrival",
+          "options": [
+            "Airport arrival",
+            "Dinner table",
+            "Home - evening"
+          ]
+        },
+        {
+          "type": "scene",
+          "ref": "W01-08",
+          "answer": "Arriving at the house",
+          "options": [
+            "Arriving at the house",
+            "Video call",
+            "Dinner table"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "You walk into the house and see Nanay. You want to show respect.",
+          "answer": "W01-08",
+          "distractors": [
+            "W01-25",
+            "W01-03"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-10",
+          "answer": "W01-24",
+          "distractors": [
+            "W01-07",
+            "W01-04"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-09",
+          "text": "Kaloy-an ka sa ___.",
+          "answer": "Ginoo",
+          "options": [
+            "Ginoo",
+            "Bohol",
+            "Nay"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-10",
+          "text": "Maayong pag-abot sa ___!",
+          "answer": "Bohol",
+          "options": [
+            "Bohol",
+            "Ginoo",
+            "gabii"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-10",
+          "tiles": [
+            "Maayong pag-abot",
+            "sa Bohol",
+            "Maayo man ko"
+          ],
+          "answers": [
+            [
+              "Maayong pag-abot",
+              "sa Bohol"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-09",
+          "tiles": [
+            "Kaloy-an ka",
+            "sa Ginoo"
+          ],
+          "answers": [
+            [
+              "Kaloy-an ka",
+              "sa Ginoo"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Who are you? Where are you from?",
+      "intro": "Every relative and neighbor will ask you the same few questions. Here are the questions - and your answers.",
+      "new": [
+        "W01-11",
+        "W01-12",
+        "W01-13",
+        "W01-14",
+        "W01-15"
+      ],
+      "culture": {
+        "title": "Bisaya, Cebuano, Boholano",
+        "text": "Linguists call the language Cebuano. People in Bohol usually call it Bisaya or Binisaya, and some proudly call their version Boholano. If you say 'Nagtuon ko og Bisaya' (I'm studying Bisaya), expect big smiles - and a lot of relatives testing you."
+      },
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W01-12",
+          "answer": "Meeting relatives",
+          "options": [
+            "Meeting relatives",
+            "Church",
+            "Video call"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-12",
+          "answer": "W01-13",
+          "distractors": [
+            "W01-11",
+            "W01-06"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-14",
+          "answer": "W01-15",
+          "distractors": [
+            "W01-13",
+            "W01-09"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "A cousin you've never met smiles and shakes your hand.",
+          "answer": "W01-11",
+          "distractors": [
+            "W01-25",
+            "W01-12"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-11",
+          "text": "Ako ___ Thomas.",
+          "answer": "si",
+          "options": [
+            "si",
+            "ka",
+            "ko"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-13",
+          "text": "___-America ko.",
+          "answer": "Taga",
+          "options": [
+            "Taga",
+            "Ako",
+            "Maayo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-14",
+          "text": "Kabalo ka mag-___?",
+          "answer": "Bisaya",
+          "options": [
+            "Bisaya",
+            "Bohol",
+            "Ginoo"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-15",
+          "tiles": [
+            "Gamay ra",
+            "Nagtuon pa ko"
+          ],
+          "answers": [
+            [
+              "Gamay ra",
+              "Nagtuon pa ko"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-14",
+          "tiles": [
+            "Kabalo ka",
+            "mag-Bisaya",
+            "Taga-asa"
+          ],
+          "answers": [
+            [
+              "Kabalo ka",
+              "mag-Bisaya"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Survival: Stop! Slow down! Again!",
+      "intro": "The most important phrases of the whole course. With these, no conversation can leave you completely lost.",
+      "new": [
+        "W01-16",
+        "W01-17",
+        "W01-18",
+        "W01-19"
+      ],
+      "culture": {
+        "title": "Don't just smile and nod",
+        "text": "Asking someone to repeat is not rude - it shows you're really trying. The trap is nodding along when you're lost; the family will think you understood. Another trap: people kindly switch to English to help you. If you want to practice, smile and say 'Bisaya lang, hinay-hinay lang.' (Just Bisaya, slowly.)"
+      },
+      "exercises": [
+        {
+          "type": "respond",
+          "context": "Nanay says something fast. You didn't catch a single word.",
+          "answer": "W01-16",
+          "distractors": [
+            "W01-13",
+            "W01-07"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-D2-03",
+          "answer": "W01-17",
+          "distractors": [
+            "W01-11",
+            "W01-03"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "Inday repeated it slowly, but you still have no idea what it means.",
+          "answer": "W01-18",
+          "distractors": [
+            "W01-06",
+            "W01-10"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "You almost caught it. You want to hear it one more time.",
+          "answer": "W01-19",
+          "distractors": [
+            "W01-04",
+            "W01-11"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-17",
+          "text": "Hinay-hinay lang, ___.",
+          "answer": "palihug",
+          "options": [
+            "palihug",
+            "Ginoo",
+            "Bisaya"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-18",
+          "text": "Wala ko ___.",
+          "answer": "kasabot",
+          "options": [
+            "kasabot",
+            "Bisaya",
+            "Thomas"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-17",
+          "tiles": [
+            "Hinay-hinay lang",
+            "palihug"
+          ],
+          "answers": [
+            [
+              "Hinay-hinay lang",
+              "palihug"
+            ],
+            [
+              "palihug",
+              "Hinay-hinay lang"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-19",
+          "tiles": [
+            "Balika",
+            "palihug"
+          ],
+          "answers": [
+            [
+              "Balika",
+              "palihug"
+            ],
+            [
+              "palihug",
+              "Balika"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-18",
+          "tiles": [
+            "Wala ko",
+            "kasabot",
+            "Maayo"
+          ],
+          "answers": [
+            [
+              "Wala ko",
+              "kasabot"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Checking understanding (Bisaya + English)",
+      "intro": "Ask for the English, say whether you understood, and agree with one magic word.",
+      "new": [
+        "W01-20",
+        "W01-21",
+        "W01-22",
+        "W01-23"
+      ],
+      "culture": {
+        "title": "Bisaya + English is normal",
+        "text": "Filipino families switch between Bisaya and English constantly, often in the same sentence: 'Okay ra, hinay-hinay lang ta.' You are not 'cheating' when you mix in English - you're talking the way they do. Asking 'Unsa'y English ana?' is something even locals say."
+      },
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W01-20",
+          "answer": "Video call",
+          "options": [
+            "Video call",
+            "Church",
+            "Airport arrival"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-21",
+          "answer": "W01-22",
+          "distractors": [
+            "W01-10",
+            "W01-03"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "Jiana says, 'Let's eat later, okay?' You agree.",
+          "answer": "W01-23",
+          "distractors": [
+            "W01-18",
+            "W01-12"
+          ]
+        },
+        {
+          "type": "respond",
+          "context": "Jiana uses a Bisaya word you don't know. You want the English.",
+          "answer": "W01-20",
+          "distractors": [
+            "W01-14",
+            "W01-05"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-20",
+          "text": "Unsa'y ___ ana?",
+          "answer": "English",
+          "options": [
+            "English",
+            "Bohol",
+            "Ginoo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W01-22",
+          "text": "Oo, ___ ko.",
+          "answer": "nakasabot",
+          "options": [
+            "nakasabot",
+            "kasabot",
+            "kabalo"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-22",
+          "tiles": [
+            "Oo",
+            "nakasabot ko",
+            "Wala ko"
+          ],
+          "answers": [
+            [
+              "Oo",
+              "nakasabot ko"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-23",
+          "tiles": [
+            "Sige",
+            "salamat"
+          ],
+          "answers": [
+            [
+              "Sige",
+              "salamat"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-20",
+          "tiles": [
+            "Unsa'y English",
+            "ana?"
+          ],
+          "answers": [
+            [
+              "Unsa'y English",
+              "ana?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases today. Listen to three real-life conversations, answer as Thomas, then do your video-call mission.",
+      "new": [],
+      "dialogues": [
+        "W01-D1",
+        "W01-D2",
+        "W01-D3"
+      ],
+      "culture": {
+        "title": "Video calls and the time difference",
+        "text": "The Philippines is 12 to 16 hours ahead of the U.S. mainland (it never changes for daylight saving). So your evening is usually Jiana's morning. Greet her with her time of day, not yours - she'll notice."
+      },
+      "exercises": [
+        {
+          "type": "respond",
+          "prompt": "W01-D1-06",
+          "answer": "W01-23",
+          "distractors": [
+            "W01-18",
+            "W01-12"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-D2-01",
+          "answer": "W01-D2-02",
+          "distractors": [
+            "W01-02",
+            "W01-10"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-D3-01",
+          "answer": "W01-D3-02",
+          "distractors": [
+            "W01-04",
+            "W01-12"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-D3-03",
+          "answer": "W01-15",
+          "distractors": [
+            "W01-22",
+            "W01-13"
+          ]
+        },
+        {
+          "type": "respond",
+          "prompt": "W01-D2-07",
+          "answer": "W01-22",
+          "distractors": [
+            "W01-06",
+            "W01-11"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-D2-02",
+          "tiles": [
+            "Maayong gabii",
+            "Jiana",
+            "Kumusta ka?"
+          ],
+          "answers": [
+            [
+              "Maayong gabii",
+              "Jiana",
+              "Kumusta ka?"
+            ],
+            [
+              "Jiana",
+              "Maayong gabii",
+              "Kumusta ka?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W01-D2-04",
+          "tiles": [
+            "Unsa?",
+            "Hinay-hinay lang",
+            "palihug"
+          ],
+          "answers": [
+            [
+              "Unsa?",
+              "Hinay-hinay lang",
+              "palihug"
+            ],
+            [
+              "Unsa?",
+              "palihug",
+              "Hinay-hinay lang"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 1",
+    "steps": [
+      "Greet Jiana with HER time of day (Maayong buntag / hapon / gabii).",
+      "Ask 'Kumusta ka?' and answer when she asks you back.",
+      "Ask her to say one sentence in fast Bisaya. Answer with 'Unsa? Hinay-hinay lang, palihug.'",
+      "When she repeats it, say 'Wala ko kasabot. Unsa'y English ana?'",
+      "If Nanay or Inday walks by on camera, greet them too: 'Maayong buntag, Nay!'",
+      "End with 'Sige, salamat!' and ask Jiana how your pronunciation was."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W01-X1",
+      "ceb": "Maayong udto!",
+      "en": "Good noon! (greeting around midday)",
+      "where": "Day 1 culture note",
+      "check": ""
+    },
+    {
+      "id": "W01-X2",
+      "ceb": "Maajong buntag!",
+      "en": "Good morning! (Bohol accent, y -> j)",
+      "where": "Day 1 culture note",
+      "check": "Is this description of the Bohol accent accurate and not offensive?"
+    },
+    {
+      "id": "W01-X3",
+      "ceb": "Mano, Tay.",
+      "en": "(Asking for the blessing) Your hand, Dad.",
+      "where": "Day 3 culture note",
+      "check": ""
+    },
+    {
+      "id": "W01-X4",
+      "ceb": "Nagtuon ko og Bisaya.",
+      "en": "I'm studying Bisaya.",
+      "where": "Day 4 culture note",
+      "check": ""
+    },
+    {
+      "id": "W01-X5",
+      "ceb": "Bisaya lang, hinay-hinay lang.",
+      "en": "Just Bisaya, slowly.",
+      "where": "Day 5 culture note",
+      "check": "Natural way to ask people not to switch to English?"
+    },
+    {
+      "id": "W01-X6",
+      "ceb": "Okay ra, hinay-hinay lang ta.",
+      "en": "It's okay, let's take it slow.",
+      "where": "Day 6 culture note",
+      "check": ""
+    }
+  ]
+}
