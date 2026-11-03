@@ -204,9 +204,25 @@
   }
   function setBar(frac) { topProgressFill.style.width = Math.round(Math.max(0, Math.min(1, frac)) * 100) + "%"; }
   backBtn.addEventListener("click", function () {
-    if (session && !session.finished && !confirm("Leave this lesson? Answers so far are saved, but the lesson won't be marked as done.")) return;
-    stopAudio(); session = null; renderHome();
+    function leave() { stopAudio(); session = null; renderHome(); }
+    if (session && !session.finished) {
+      askConfirm("Leave this lesson?", "Your answers so far are saved, but the lesson won't be marked as done.", "Leave lesson", leave);
+    } else leave();
   });
+
+  /* In-page confirmation (browser confirm() dialogs are not available everywhere). */
+  function askConfirm(title, text, okLabel, onOk) {
+    var old = document.getElementById("confirmBox"); if (old) old.remove();
+    var box = el("div", { class: "overlay", id: "confirmBox", role: "dialog", "aria-modal": "true", "aria-label": title });
+    function close() { box.remove(); }
+    var ok = el("button", { class: "btn primary", type: "button", onclick: function () { close(); onOk(); } }, okLabel);
+    box.appendChild(el("div", { class: "card overlay-card" },
+      el("h2", { text: title }), el("p", { class: "muted", text: text }),
+      el("div", { class: "btn-row" }, el("button", { class: "btn", type: "button", onclick: close }, "Cancel"), ok)));
+    box.addEventListener("click", function (e) { if (e.target === box) close(); });
+    document.body.appendChild(box);
+    ok.focus();
+  }
 
   /* ---------- HOME ---------- */
   function renderHome() {
@@ -264,7 +280,8 @@
 
     app.appendChild(el("p", { class: "muted small", style: "text-align:center" },
       el("button", { class: "reveal-btn", type: "button", onclick: function () {
-        if (confirm("Erase all progress and review data on this device?")) { progress = loadProgressFrom({}); save(); renderHome(); }
+        askConfirm("Reset progress?", "This erases all lessons done and the review schedule on this device.", "Erase progress",
+          function () { progress = loadProgressFrom({}); save(); renderHome(); });
       } }, "Reset progress on this device")));
   }
   function loadProgressFrom(p) {
