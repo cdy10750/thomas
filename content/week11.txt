@@ -1,0 +1,133 @@
+TITLE Video Calls
+SUBTITLE Talking with Jiana on video
+GOAL Handle a whole video call in Bisaya: connection problems, daily news, family greetings, and a sweet goodbye.
+
+C 01 | Jiana | Video call | Madungog ko nimo? | Can you hear me? | dungog = hear.
+C 02 | Thomas | Video call | Oo, madungog tika. | Yes, I can hear you. | tika = I ... you.
+C 03 | Thomas | Video call | Wala ko kadungog. | I can't hear you. | Same pattern as Wala ko kasabot.
+C 04 | Jiana | Video call | Hinay ang signal. | The signal is weak. | hinay = slow, weak.
+C 05 | Thomas | Video call | Nag-freeze ang video. | The video froze. | English tech words get Bisaya endings.
+C 06 | Jiana | Video call | Tawag ko balik. | I'll call back. | tawag = call. balik = again, back.
+C 07 | Thomas | Video call | Nalipay ko nga makita tika. | I'm happy to see you. | makita = see.
+C 08 | Jiana | Video call | Mingaw na ko nimo. | I miss you. | mingaw = miss (someone), also 'lonely'.
+C 09 | Thomas | Video call | Mingaw pud ko nimo. | I miss you too. | pud = too.
+C 10 | Jiana | Video call | Unsa'y imong gibuhat karon? | What are you doing now? | You heard this fast in Week 1. Now it's yours.
+C 11 | Thomas | Video call | Nagtrabaho ko. | I'm working. | nag- = doing right now.
+C 12 | Thomas | Video call | Nagluto ko. | I'm cooking. | luto = cook.
+C 13 | Jiana | Video call | Unsa'y imong gikaon? | What did you eat? | gi- = what was (done).
+C 14 | Thomas | Video call | Unsa'y balita? | What's new? | balita = news.
+C 15 | Jiana | Video call | Wala ra man. Ingon gihapon. | Nothing much. Same as usual. | ingon gihapon = still the same.
+C 16 | Thomas | Video call | Kumusta si Nanay? | How's Mom? | Ask about each family member by title.
+C 17 | Jiana | Video call | Maayo ra sila. Nangumusta sila nimo. | They're fine. They say hi to you. | sila = they. nangumusta = sent greetings.
+C 18 | Thomas | Video call | Ikumusta ko nila. | Say hi to them for me. | Use it at the end of every call.
+C 19 | Jiana | Video call | Nanay, si Thomas! | Mom, it's Thomas! | Jiana calls her mother to the phone.
+C 20 | Thomas | Video call | Hello, Nay! Kumusta ka? | Hello, Mom! How are you? | Short and warm. Nanay will be delighted.
+C 21 | Jiana | Video call | Ugma na lang ta mag-istorya. | Let's talk tomorrow. | istorya = chat, story.
+C 22 | Thomas | Video call | Sige, ugma. Ayo-ayo. | Okay, tomorrow. Take care. | ayo-ayo = take care. | check: Natural goodbye?
+C 23 | Jiana | Video call | Gihigugma tika. | I love you. | Often said in English too - but Bisaya means more.
+C 24 | Thomas | Video call | Gihigugma pud tika. | I love you too. | Practice it until it's smooth.
+C 25 | Thomas | Video call | Kita ka nako? | Can you see me? | kita = see.
+
+D 1 | Bad connection | Video call
+L 01
+L 03
+L 04
+L 05
+L 06
+L Thomas | Sige, maghulat ko. | Okay, I'll wait.
+D 2 | How was your day? | Video call
+L Jiana | Hi, love! Kumusta ang imong adlaw? | Hi, love! How was your day?
+L Thomas | Okay ra. Kapoy gamay. | Okay. A little tired.
+L 13
+L Thomas | Nagluto ko og adobo! | I cooked adobo!
+L Jiana | Wow! Lami? | Wow! Was it good?
+L Thomas | Dili pareha sa luto ni Nanay. | Not like Mom's cooking.
+D 3 | Saying good night | Video call
+L 08
+L 09
+L 21
+L 22
+L 23
+L 24
+
+DAY 1 | Can you hear me? | Start the call and check the connection.
+CULTURE Calling across time zones | Most of your calls happen across a 12-16 hour time difference. Set fixed call times that suit both of you, and start each call with the right greeting for HER time of day.
+NEW 01 02 03 25
+RESP 01 > 02 | 03 W01-22
+RESPC Jiana's voice keeps cutting out. > 03 | 02 25
+RESPC Jiana's screen shows only her ceiling. You want to know if she sees you. > 25 | 02 03
+FILL 03 | kadungog | kasabot; kakita
+FILL 02 | madungog | makita; mokaon
+ORDER 02 | Oo, / madungog tika. | extra: Wala
+ORDER 25 | Kita ka / nako? | extra: Wala
+
+DAY 2 | Technical trouble | Weak signal, frozen video, call back.
+CULTURE Signal in the province | Internet in rural Bohol can be slow, especially in rain. A frozen screen is normal. Keep it light - joking about the signal together is part of long-distance love.
+NEW 04 05 06
+RESP 04 > 05 | 02 25
+RESP 06 > D1-06 | 03 02
+FILL 04 | signal | video; adlaw
+FILL 06 | balik | ugma; pud
+ORDER 05 | Nag-freeze / ang video. | extra: signal
+ORDER 06 | Tawag ko / balik. | extra: ugma
+
+DAY 3 | Missing you | The sweet part of every call.
+CULTURE Saying it in Bisaya | Jiana hears 'I love you' in English from movies and songs. Hearing Gihigugma tika from you, in her own language, is different. Use it.
+NEW 07 08 09 23 24
+RESP 08 > 09 | 24 07
+RESP 23 > 24 | 09 02
+FILL 08 | Mingaw | Lipay; Kapoy
+FILL 24 | pud | ra; na
+ORDER 24 | Gihigugma / pud tika. | extra: Mingaw
+ORDER 07 | Nalipay ko / nga makita tika. | extra: Mingaw
+
+DAY 4 | What are you doing? | Tell her what you're doing and what you ate.
+CULTURE Nag- means 'now' | nag- + action = doing it now: nagtrabaho (working), nagluto (cooking), nagkaon (eating), nagtuon (studying - like you in Week 1!).
+NEW 10 11 12 13
+RESP 10 > 11 | 12 09
+RESP 13 > W02-24 | 11 09
+RESPC You're making dinner while on the call. > 12 | 11 09
+FILL 11 | Nagtrabaho | Nagluto; Nagkaon
+FILL 13 | gikaon | gibuhat; gusto
+ORDER 10 | Unsa'y imong / gibuhat karon? | extra: Asa
+ORDER 12 | Nagluto / ko. | extra: Nagtrabaho
+
+DAY 5 | News and family | Ask what's new and how everyone is.
+CULTURE Asking about everyone | A good call includes asking about each family member: Kumusta si Nanay? si Tatay? si Inday? Remembering small news - Dodong's exam, Lola's health - means a lot.
+NEW 14 15 16 17
+RESP 15 > 16 | 14 09
+RESP 17 > 18 | 16 09
+FILL 16 | Nanay | Inday; Thomas
+FILL 15 | gihapon | ugma; balik
+ORDER 16 | Kumusta / si Nanay? | extra: Asa
+ORDER 14 | Unsa'y / balita? | extra: Pila
+
+DAY 6 | Hi to the family, and goodbye | Greet Nanay when she appears, send greetings, and end the call.
+CULTURE Ending the call | Filipino goodbyes can take a while. Plan the next call (Ugma?), send greetings to the family, and say goodbye more than once. Ayo-ayo and Amping are both 'take care'.
+NEW 18 19 20 21 22
+RESP 19 > 20 | 18 16
+RESP 21 > 22 | 20 24
+RESPC The call is ending and you want the family to know you're thinking of them. > 18 | 22 16
+FILL 22 | ugma | gabii; karon
+FILL 20 | Hello | Mano; Unsa
+ORDER 22 | Sige, ugma. / Ayo-ayo. | extra: Mingaw
+ORDER 18 | Ikumusta ko / nila. | extra: si
+
+DAY 7 | Putting it together | No new phrases. Three complete video-call scenes, then your mission.
+DIALOGUES 1 2 3
+CULTURE Make it a routine | Use the same opening and closing phrases on every call. Repetition is how these become automatic - and Jiana will start answering you in Bisaya.
+RESP D2-01 > D2-02 | 11 09
+RESP D2-05 > D2-06 | 22 09
+RESP 06 > D1-06 | 02 24
+RESP 21 > 22 | 24 18
+ORDER D2-04 | Nagluto ko / og adobo! | extra: Nagtrabaho
+
+MISSION Video-call mission: Week 11
+STEP Do a full call in Bisaya for the first 5 minutes - no English unless you're stuck.
+STEP Open with: Madungog ko nimo? Kita ka nako?
+STEP Tell her what you're doing and what you ate, using nag- and gi- phrases.
+STEP Ask about two family members by title.
+STEP End with: Ikumusta ko nila. Gihigugma tika. Sige, ugma. Ayo-ayo.
+
+X | Amping! | Take care! | Day 6 culture note
+X | Kumusta ang imong adlaw? | How was your day? | Dialogue 2

@@ -10,9 +10,10 @@
   var TYPE_RANK = { listen_meaning: 0, scene: 1, respond: 2, fill: 3, order: 4 };
   var SPEAKER_LABEL = {
     Thomas: "You (Thomas)", Jiana: "Jiana", Nanay: "Nanay (Mom)", Tatay: "Tatay (Dad)",
-    Kuya: "Kuya (big brother)", Dodong: "Dodong (little brother)", Inday: "Inday (little sister)"
+    Kuya: "Kuya (big brother)", Dodong: "Dodong (little brother)", Inday: "Inday (little sister)",
+    Tindera: "Tindera (vendor)"
   };
-  var FEMALE = { Jiana: 1, Nanay: 1, Inday: 1 };
+  var FEMALE = { Jiana: 1, Nanay: 1, Inday: 1, Tindera: 1 };
 
   var app = document.getElementById("app");
   var player = document.getElementById("player");

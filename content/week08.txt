@@ -1,0 +1,133 @@
+TITLE Church and Fiesta
+SUBTITLE Church, fiestas, family events
+GOAL Join Sunday Mass, a town fiesta and a family birthday - and handle the dancing and karaoke invitations.
+
+C 01 | Nanay | Living room | Mosimba ta karong Domingo. | We'll go to Mass this Sunday. | simba = go to church / Mass. karong = this (coming).
+C 02 | Thomas | Living room | Sige, mouban ko. | Okay, I'll come along. | uban = go with someone.
+C 03 | Jiana | Church | Hilom lang sa simbahan. | Stay quiet in church. | hilom = quiet. simbahan = church.
+C 04 | Tatay | Living room | Fiesta na sunod semana! | The fiesta is next week! | sunod = next. Every town has a yearly fiesta for its patron saint.
+C 05 | Thomas | Living room | Unsa'y naa sa fiesta? | What happens at the fiesta? | naa = there is.
+C 06 | Kuya | Living room | Daghang pagkaon ug sayaw. | Lots of food and dancing. | pagkaon = food. sayaw = dance.
+C 07 | Inday | Fiesta | Mosayaw ka? | Will you dance? | mo- = will.
+C 08 | Thomas | Fiesta | Dili ko kahibalo mosayaw! | I don't know how to dance! | kahibalo = know how.
+C 09 | Inday | Fiesta | Tudloan tika! | I'll teach you! | tika = I (do it to) you.
+C 10 | Nanay | Living room | Birthday ni Lola ugma. | Tomorrow is Grandma's birthday. | Lola = grandma, Lolo = grandpa. Birthday stays in English.
+C 11 | Thomas | Family gathering | Malipayong adlawng natawhan, Lola! | Happy birthday, Grandma! | adlawng natawhan = birthday. Many people just say Happy birthday. | check: Natural to say to an elder?
+C 12 | Tatay | Family gathering | Kanta ta! | Let's sing! | kanta = sing. Karaoke (videoke) is at every party.
+C 13 | Thomas | Family gathering | Dili ko maayo mokanta. | I'm not good at singing. | Nobody accepts this excuse.
+C 14 | Kuya | Family gathering | Okay ra, sige na! | It's fine, come on! | sige na = come on, go ahead.
+C 15 | Thomas | Family gathering | Sige, usa lang ka kanta. | Okay, just one song. | Pick an old American classic - they'll know it.
+C 16 | Nanay | Family gathering | Daghang bisita. | There are lots of guests. | bisita = guest, visitor.
+C 17 | Thomas | Family gathering | Kinsa siya? | Who is he? / Who is she? | kinsa = who. siya = he or she.
+C 18 | Jiana | Family gathering | Akong ig-agaw. | My cousin. | ig-agaw = cousin. There will be many.
+C 19 | Thomas | Family gathering | Nalipay ko nga nakaila nimo. | Nice to meet you. | nakaila = got to know. | check: Natural for 'nice to meet you'?
+C 20 | Nanay | Family gathering | Salamat sa pag-anhi. | Thank you for coming. | What hosts say to guests.
+C 21 | Thomas | Family gathering | Salamat sa pag-imbita. | Thank you for inviting me. | imbita = invite.
+C 22 | Thomas | Family gathering | Pila na ka tuig si Lola? | How old is Grandma? | tuig = year.
+C 23 | Nanay | Family gathering | Otsenta na siya. | She's eighty. | otsenta = eighty (Spanish).
+C 24 | Thomas | Church | Nindot kaayo ang simbahan. | The church is very beautiful. | nindot = beautiful, nice. Bohol has famous old stone churches.
+C 25 | Thomas | Fiesta | Lingaw kaayo! | This is so much fun! | lingaw = fun.
+
+D 1 | Sunday Mass | Living room
+L 01
+L 02
+L Nanay | Alas siyete ang misa. | Mass is at seven.
+L Thomas | Sayo kaayo! | That's so early!
+L Nanay | Ha ha. Mobangon ta og sayo. | Ha ha. We'll get up early.
+L Thomas | Sige, Nay. | Okay, Mom.
+D 2 | Dancing at the fiesta | Fiesta
+L 07
+L 08
+L 09
+L Thomas | Sige! Hinay-hinay lang. | Okay! Slowly, though.
+L Inday | Lingaw kaayo, no? | So much fun, right?
+L 25
+D 3 | Who's that? | Family gathering
+L 17
+L 18
+L 19
+L Jiana | Ug kana si Lola. | And that's Grandma.
+L 22
+L Jiana | Otsenta na siya. | She's eighty.
+
+DAY 1 | Going to Mass | Accept the invitation to church and behave like a pro.
+CULTURE Church in Bohol | Most Boholanos are Catholic and Sunday Mass is a family event. Dress neatly (no shorts or tank tops), and if you're not Catholic, stay seated during communion - nobody will mind. Bohol's old stone churches, like Baclayon, are among the oldest in the country.
+NEW 01 02 03 24
+SCENE 03 | Church | Market | Beach
+RESP 01 > 02 | W05-24 W03-16
+RESP 03 > W01-23 | 24 02
+FILL 01 | Domingo | Lunes; ugma
+FILL 24 | Nindot | Lami; Init
+ORDER 02 | Sige, / mouban ko. | extra: dili
+ORDER 24 | Nindot kaayo / ang simbahan. | alt: Ang simbahan / nindot kaayo.
+
+DAY 2 | Fiesta! | The biggest day of the year in every town.
+CULTURE The town fiesta | Each town celebrates its patron saint once a year. Houses open their doors, there's lechon, music and a procession. Families invite relatives and friends to eat - you may visit three or four houses in one day.
+NEW 04 05 06 25
+SCENE 04 | Living room | Market | Airport arrival
+RESP 04 > 05 | 02 25
+RESPC Everyone is eating, dancing and laughing around you. > 25 | 05 24
+FILL 06 | sayaw | kanta; simba
+FILL 05 | fiesta | simbahan; merkado
+ORDER 05 | Unsa'y naa / sa fiesta? | extra: Kinsa
+ORDER 06 | Daghang pagkaon / ug sayaw. | extra: ug kanta
+
+DAY 3 | Dance invitation | Inday wants you on the dance floor. Here's what you'll say.
+CULTURE Everyone dances | At fiestas and parties older people dance too. Trying, even badly, earns more respect than refusing. Hinay-hinay lang works here as well.
+NEW 07 08 09
+RESP 07 > 08 | 25 02
+RESP 09 > D2-04 | 08 24
+FILL 08 | mosayaw | mokanta; mokaon
+FILL 09 | Tudloan | Ampingi; Sulayan
+ORDER 08 | Dili ko kahibalo / mosayaw! | extra: Lingaw
+
+DAY 4 | Karaoke | Videoke is unavoidable. Make your one song count.
+CULTURE Videoke | Almost every party has a videoke machine that scores your singing. Low scores get laughs, not judgment. Choose a song you know - American classics from the 70s and 80s are very popular.
+NEW 12 13 14 15
+RESP 12 > 13 | 15 25
+RESP 14 > 15 | 13 08
+FILL 13 | mokanta | mosayaw; mokaon
+FILL 15 | kanta | sayaw; adlaw
+ORDER 15 | Sige, / usa lang ka kanta. | extra: duha
+ORDER 13 | Dili ko maayo / mokanta. | extra: Lingaw
+
+DAY 5 | Meeting guests | Cousins, aunts, neighbors - meet them all.
+CULTURE Ig-agaw | Filipino families count second and third cousins as close family, and family friends become Tito and Tita (uncle and aunt). You'll meet many people. Nobody expects you to remember every name.
+NEW 16 17 18 19
+RESP 16 > 17 | 19 25
+RESP 18 > 19 | 17 W03-02
+FILL 18 | ig-agaw | igsoon; manghod
+FILL 17 | Kinsa | Unsa; Asa
+ORDER 19 | Nalipay ko / nga nakaila / nimo. | extra: Kinsa
+ORDER 17 | Kinsa / siya? | extra: Asa
+
+DAY 6 | A birthday for Lola | Greet Grandma, ask her age, and thank the hosts.
+CULTURE Lolo and Lola | Grandparents are deeply respected. Greet them first, with a mano. Big birthdays (60, 70, 80) are huge family celebrations with food for everyone in the neighborhood.
+NEW 10 11 20 21 22 23
+RESP 10 > 22 | 21 15
+RESP 20 > 21 | 11 19
+RESP 23 > W05-14 | 21 08
+FILL 11 | Lola | Nanay; Inday
+FILL 21 | pag-imbita | pag-anhi; kanta
+ORDER 21 | Salamat / sa pag-imbita. | extra: kanta
+ORDER 22 | Pila na ka tuig / si Lola? | extra: Kinsa
+
+DAY 7 | Putting it together | No new phrases. Three conversations from church, fiesta and party, then your mission.
+DIALOGUES 1 2 3
+CULTURE Bring something | When visiting during a fiesta or birthday, families don't expect gifts from you, but bringing a cake or fruit is a kind gesture. Ask Jiana what fits.
+RESP D1-03 > D1-04 | 02 25
+RESP D1-05 > D1-06 | 08 13
+RESP D2-05 > 25 | 08 13
+RESP D3-04 > 22 | 17 19
+ORDER D2-04 | Sige! / Hinay-hinay lang. | extra: Dili
+
+MISSION Video-call mission: Week 8
+STEP Ask Jiana when her town's fiesta is: Kanus-a ang fiesta?
+STEP Ask her: Unsa'y naa sa fiesta? and listen for the food and events.
+STEP Tell her honestly: Dili ko kahibalo mosayaw! and see if she offers to teach you.
+STEP Ask her which song you should sing at videoke.
+STEP Practice saying Malipayong adlawng natawhan for the next family birthday.
+
+X | Kanus-a ang fiesta? | When is the fiesta? | Mission
+X | Tito, Tita | Uncle, Aunt (titles) | Day 5 culture note
+X | Lolo | Grandpa | Day 6 culture note

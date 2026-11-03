@@ -1,0 +1,139 @@
+TITLE Kaon na!
+SUBTITLE At the dinner table
+GOAL Understand the food offers that come at every meal, accept and refuse politely, and praise the cooking.
+
+C 01 | Nanay | Dinner table | Kaon na, Thomas! | Come and eat, Thomas! | Kaon = eat. na = now. You will hear this at every single meal.
+C 02 | Thomas | Dinner table | Sige, Nay. Moadto na ko. | Okay, Mom. I'm coming. | moadto = go (there). na ko = now I... | check: Natural reply when called to the table?
+C 03 | Tatay | Dinner table | Kaon pa! | Eat some more! | pa = more / still. Hosts keep offering. It's how they show love.
+C 04 | Thomas | Dinner table | Busog na ko. | I'm full now. | busog = full (after eating).
+C 05 | Nanay | Dinner table | Gamay ra imong gikaon! | You only ate a little! | gamay ra = only a little. gikaon = what was eaten. | check: Natural for 'you ate so little'?
+C 06 | Thomas | Dinner table | Busog na gyud ko, Nay. Salamat. | I'm really full, Mom. Thank you. | gyud = really. Add it to sound sincere.
+C 07 | Nanay | Dinner table | Lami? | Is it good? | lami = delicious. The cook will ask this - watch her face.
+C 08 | Thomas | Dinner table | Lami kaayo! | It's very delicious! | kaayo = very. The best compliment you can give the cook.
+C 09 | Inday | Dinner table | Unsa'y gusto nimo? | What would you like? | gusto = want / like. nimo = you (your).
+C 10 | Thomas | Dinner table | Kini, palihug. | This one, please. | kini = this. Point at the dish as you say it.
+C 11 | Kuya | Dinner table | Kaon og daghan, Thomas! | Eat a lot, Thomas! | daghan = a lot. og = some / of.
+C 12 | Nanay | Dinner table | Kuha pa og kan-on. | Take more rice. | kan-on = cooked rice. Rice comes with every meal, even breakfast.
+C 13 | Thomas | Dinner table | Tama na, salamat. | That's enough, thank you. | tama na = that's enough. Smile and pat your stomach.
+C 14 | Jiana | Dinner table | Gigutom ka? | Are you hungry? | gutom = hungry.
+C 15 | Thomas | Dinner table | Oo, gigutom na ko. | Yes, I'm hungry now. | Swap Oo for Dili (no) if you're not.
+C 16 | Nanay | Dinner table | Inom og tubig. | Drink some water. | inom = drink. tubig = water.
+C 17 | Thomas | Dinner table | Pwede ko mangayo og tubig? | Can I have some water? | pwede = can / may (from Spanish puede). mangayo = ask for.
+C 18 | Dodong | Dinner table | Kamot o kutsara? | Hands or spoon? | kamot = hand. kutsara = spoon. Eating with your hands is called kinamot.
+C 19 | Thomas | Dinner table | Sulayan nako! | I'll try it! | Use this whenever someone offers you something new. They will love it.
+C 20 | Tatay | Dinner table | Mag-ampo sa ta. | Let's pray first. | ampo = pray. sa = first. Many families say grace before eating. | check: Natural for leading grace at the table?
+C 21 | Nanay | Dinner table | Kaon na ta! | Let's eat! | ta = we (you and me together).
+C 22 | Thomas | Dinner table | Human na ko. | I'm finished. | human = finished / done.
+C 23 | Jiana | Video call | Nikaon na ka? | Have you eaten? | Filipinos ask this the way Americans ask 'How are you?'. It shows care.
+C 24 | Thomas | Video call | Oo, nikaon na ko. | Yes, I've eaten. | nikaon = ate (completed).
+C 25 | Thomas | Dinner table | Unsa ni? | What is this? | ni = this (short for kini). Ask about every new dish.
+
+D 1 | Dinner is ready | Dinner table
+L 01
+L 02
+L Nanay | Kaon pa, Thomas! Kuha pa og kan-on. | Eat more, Thomas! Take more rice.
+L 04
+L 05
+L 06
+L 07
+L 08
+D 2 | Did you eat? | Video call
+L 23
+L Thomas | Wala pa. Gigutom na ko. | Not yet. I'm getting hungry.
+L Jiana | Kaon na! Unsa'y imong kaonon? | Go eat! What are you going to eat?
+L Thomas | Pizza. | Pizza.
+L Jiana | Pizza na pud? Mas lami ang kan-on! | Pizza again? Rice is tastier! | check: Natural teasing?
+L Thomas | Sige, sulayan nako ang kan-on. | Okay, I'll try rice.
+D 3 | More food from Inday | Dinner table
+L Inday | Thomas, kaon pa! | Thomas, eat more!
+L 04
+L Inday | Gamay ra imong gikaon! | You only ate a little!
+L 06
+L Inday | Inom og tubig? | Some water?
+L Thomas | Oo, salamat, Inday. | Yes, thanks, Inday.
+
+DAY 1 | Called to the table | The first words of every meal: being called to eat, and saying you're hungry.
+CULTURE Mealtimes are the center of the day | Filipino families eat together and often. Being called to eat is not a question. Come to the table quickly - keeping people waiting is the rude part, not the eating.
+NEW 01 02 21 14 15
+SCENE 01 | Dinner table | Church | Airport arrival
+RESP 01 > 02 | W01-13 W01-19
+RESP 14 > 15 | 02 W01-11
+FILL 01 | Kaon | Ako; Unsa
+FILL 15 | gigutom | busog; kasabot
+ORDER 02 | Sige, Nay. / Moadto na ko. | extra: Kaon pa
+ORDER 21 | Kaon / na ta! | extra: pa
+
+DAY 2 | Eat more! | The battle every guest fights: more food keeps coming. Here is how to say you're full.
+CULTURE Kaon pa! is love | Hosts will offer more food again and again, and say you ate too little even when you didn't. Refusing once is expected. Say you're full, smile, and say thank you - two or three times is normal.
+NEW 03 04 05 06
+RESP 03 > 04 | 15 W01-11
+RESP 05 > 06 | 02 W01-13
+FILL 04 | Busog | Gutom; Lami
+FILL 06 | gyud | pa; ra
+ORDER 06 | Busog na gyud ko, Nay. / Salamat. | extra: Kaon pa
+ORDER 04 | Busog / na ko. | extra: pa
+
+DAY 3 | It's delicious! | Praise the food, ask what a dish is, and agree to try something new.
+CULTURE Praise the cook | Saying Lami kaayo! to whoever cooked is one of the fastest ways to win over a Filipino family. Trying everything at least once matters more than finishing it.
+NEW 07 08 25 19
+RESP 07 > 08 | 04 W01-18
+RESPC Dodong puts a strange-looking dish in front of you. > 25 | 04 15
+RESPC Kuya offers you a food you've never tried. > 19 | 22 W01-13
+FILL 08 | kaayo | ra; pa
+FILL 19 | Sulayan | Busog; Kaon
+ORDER 08 | Lami / kaayo! | extra: ka
+ORDER 19 | Sulayan / nako! | extra: na
+
+DAY 4 | Choosing and enough | Point to what you want, take more rice, and politely stop.
+CULTURE Rice, rice, rice | A meal without rice is just a snack for many Filipinos. Expect rice at breakfast, lunch and dinner. When you've had enough, Tama na, salamat with a hand over your plate is the polite stop sign.
+NEW 09 10 12 13
+RESP 09 > 10 | 22 15
+RESP 12 > 13 | 10 W01-11
+FILL 10 | Kini | Ako; Unsa
+FILL 12 | kan-on | tubig; kutsara
+ORDER 13 | Tama na, / salamat. | extra: Kini
+ORDER 12 | Kuha pa / og kan-on. | extra: og tubig
+
+DAY 5 | Drinks, grace, and 'have you eaten?' | Ask for water, join in grace, and answer the most common Filipino greeting.
+CULTURE Nikaon na ka? | 'Have you eaten?' is a greeting, not a dinner invitation. Answer it like 'How are you?': Oo, nikaon na ko. Jiana may ask it on almost every video call.
+NEW 16 17 20 23 24
+SCENE 23 | Video call | Church | Airport arrival
+RESP 23 > 24 | 04 10
+RESP 16 > W01-23 | 25 13
+RESPC You're thirsty at dinner. > 17 | 13 25
+FILL 17 | tubig | kan-on; kamot
+FILL 24 | nikaon | kasabot; gutom
+ORDER 17 | Pwede ko / mangayo / og tubig? | extra: Lami
+ORDER 24 | Oo, / nikaon na ko. | extra: wala
+
+DAY 6 | Hands, a big appetite, and done | Eat the local way, take Kuya's advice, and say you're finished.
+CULTURE Kinamot: eating with your hands | At a beach picnic or with grilled fish, many Boholanos eat with their right hand. Use your fingertips and push food with your thumb. If you try it, everyone will notice - in a good way.
+NEW 11 18 22
+RESP 18 > 19 | 04 24
+RESP 11 > 04 | 25 17
+RESPC You've finished eating and want to stand up. > 22 | 10 17
+FILL 18 | kutsara | kan-on; tubig
+FILL 22 | Human | Busog; Lami
+ORDER 22 | Human / na ko. | extra: Kini
+
+DAY 7 | Putting it together | No new phrases. Three mealtime conversations, then your video-call mission.
+DIALOGUES 1 2 3
+CULTURE Leftovers and baon | When you leave, Nanay may pack food for you to take (baon). Accept it with both hands and say Salamat kaayo, Nay. Refusing food is much harder than accepting it.
+RESP D1-03 > 04 | 08 25
+RESP 23 > D2-02 | 24 13
+RESP D3-03 > 06 | 08 02
+RESP D3-05 > D3-06 | 22 25
+ORDER D2-06 | Sige, / sulayan nako / ang kan-on. | extra: Busog
+ORDER D1-03 | Kaon pa, Thomas! / Kuha pa og kan-on. | alt: Kuha pa og kan-on. / Kaon pa, Thomas!
+
+MISSION Video-call mission: Week 2
+STEP When Jiana answers, ask her first: Nikaon na ka?
+STEP Answer when she asks you back: Oo, nikaon na ko. (or Wala pa.)
+STEP Show her your food on camera and say: Lami kaayo!
+STEP Ask her what she is eating: Unsa ni?
+STEP Pretend she offers you more: answer Busog na gyud ko. Salamat.
+STEP Ask her to teach you one dish name from Bohol and say it back three times.
+
+X | Baon | Food packed to take with you | Day 7 culture note
+X | Kinamot | Eating with your hands | Day 6 culture note
+X | Wala pa. | Not yet. | Dialogue 2

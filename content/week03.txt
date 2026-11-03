@@ -1,0 +1,134 @@
+TITLE The Family
+SUBTITLE Family names and what they ask you
+GOAL Know who is who in Jiana's family, and answer the personal questions every Filipino family asks.
+
+C 01 | Jiana | Family gathering | Si Nanay ug si Tatay. | (This is) Mom and Dad. | ug = and. si goes before names and family titles.
+C 02 | Thomas | Family gathering | Nalipay ko nga nakita ko kamo. | I'm happy to see you all. | nalipay = happy. kamo = you (more than one person). | check: Natural greeting to parents you've met before?
+C 03 | Jiana | Family gathering | Kini si Kuya. | This is my big brother. | Kuya = older brother. People also call any older man Kuya - a driver, a waiter.
+C 04 | Jiana | Family gathering | Kini si Inday, akong manghod. | This is Inday, my younger sister. | manghod = younger sibling. akong = my.
+C 05 | Nanay | Living room | Pila imong igsoon? | How many brothers and sisters do you have? | pila = how many. igsoon = sibling.
+C 06 | Thomas | Living room | Duha akong igsoon. | I have two siblings. | Change the number for your family: usa (1), duha (2), tulo (3), upat (4).
+C 07 | Tatay | Living room | Asa imong pamilya? | Where is your family? | asa = where.
+C 08 | Thomas | Living room | Naa sa America akong pamilya. | My family is in America. | naa = is there / are there.
+C 09 | Tatay | Living room | Naa kay anak? | Do you have children? | anak = child. A very normal question here, not a nosy one.
+C 10 | Thomas | Living room | Naa, duha. | Yes, two. | If you have none, answer Wala. Change the number to fit.
+C 11 | Nanay | Living room | Pila na imong edad? | How old are you? | edad = age. Asking age is not rude in the Philippines.
+C 12 | Thomas | Living room | Singkwenta na ko. | I'm fifty. | Ages and prices often use Spanish numbers: singkwenta = 50, singkwenta'y uno = 51. | check: Natural for stating age? Or Kalim-an na ko?
+C 13 | Kuya | Living room | Unsa imong trabaho? | What's your job? | trabaho = work, job.
+C 14 | Thomas | Living room | Nagtrabaho ko sa America. | I work in America. | To name your job, use the English word + ko: Engineer ko. Teacher ko. Retired na ko.
+C 15 | Inday | Living room | Kanus-a mo magminyo? | When are you two getting married? | kanus-a = when. Every couple gets this question, usually with a big grin.
+C 16 | Thomas | Living room | Pangutan-a si Jiana! | Ask Jiana! | pangutan-a = ask (someone). A safe, funny answer that gets a laugh. | check: Natural and light-hearted?
+C 17 | Nanay | Living room | Gwapo man ka, Thomas! | You're handsome, Thomas! | gwapo = handsome, gwapa = beautiful. Teasing compliments are very common.
+C 18 | Thomas | Living room | Salamat! Gwapa pud ka, Nay. | Thanks! You're beautiful too, Mom. | pud = too. Return the compliment.
+C 19 | Dodong | Living room | Asa ka nagpuyo? | Where do you live? | puyo = live, stay.
+C 20 | Thomas | Living room | Nagpuyo ko sa America. | I live in America. | Swap in your state or city: Nagpuyo ko sa Texas.
+C 21 | Jiana | Family gathering | Akong uyab si Thomas. | Thomas is my boyfriend. | uyab = boyfriend or girlfriend.
+C 22 | Thomas | Family gathering | Ako ang uyab ni Jiana. | I'm Jiana's boyfriend. | ni = of (before a name).
+C 23 | Tatay | Living room | Ampingi si Jiana. | Take care of Jiana. | amping = care, protect. A father's serious request.
+C 24 | Thomas | Living room | Oo, Tay. Ampingan nako siya. | Yes, Dad. I'll take care of her. | siya = he or she. | check: Natural reply to the father?
+C 25 | Kuya | Family gathering | Pamilya na ka namo. | You're family now. | namo = our (not including you). The warmest thing you can hear.
+
+D 1 | Meeting the family | Family gathering
+L 01
+L 02
+L 03
+L Thomas | Maayong buntag, Kuya! | Good morning, Kuya!
+L 04
+L Thomas | Hi, Inday! Kumusta ka? | Hi, Inday! How are you?
+L 21
+D 2 | Nanay's questions | Living room
+L 11
+L 12
+L Nanay | Naa kay anak? | Do you have children?
+L 10
+L 17
+L 18
+D 3 | Inday teases | Living room
+L 15
+L 16
+L Inday | Ha ha! Unsa imong trabaho, Thomas? | Ha ha! What's your job, Thomas?
+L 14
+L Inday | Asa ka nagpuyo? | Where do you live?
+L 20
+
+DAY 1 | Who's who | Jiana introduces her family. Learn the family titles and a warm greeting.
+CULTURE Family titles instead of names | In the Philippines you rarely call older relatives by their first name. Use the title: Nanay or Nay, Tatay or Tay, Kuya for older brothers. Younger ones are often called Inday (girls) and Dodong or Dong (boys).
+NEW 01 03 04 02
+SCENE 01 | Family gathering | Dinner table | Airport arrival
+RESP 01 > 02 | W02-04 W01-13
+FILL 04 | manghod | Kuya; Nanay
+FILL 01 | ug | si; ni
+ORDER 02 | Nalipay ko / nga nakita / ko kamo. | extra: Kini
+ORDER 04 | Kini si Inday, / akong manghod. | alt: Akong manghod, / kini si Inday.
+
+DAY 2 | Brothers, sisters, and kids | Answer the family-size questions everyone asks.
+CULTURE Big families | Many Boholano families have four, five or more children, and cousins are counted almost like siblings. Don't be surprised if 'my brother' turns out to be a cousin.
+NEW 05 06 09 10
+RESP 05 > 06 | 10 W02-04
+RESP 09 > 10 | 06 W01-13
+FILL 05 | igsoon | anak; trabaho
+FILL 09 | anak | igsoon; edad
+ORDER 06 | Duha / akong igsoon. | extra: anak
+ORDER 09 | Naa kay / anak? | extra: Pila
+
+DAY 3 | Age and work | Age and job questions come early. Here are the questions and short answers.
+CULTURE Age is respect | Age questions help people choose how to address you. At around fifty you may hear younger people call you Sir, Kuya, or even Tito (uncle). It's a sign of respect, not a comment on your age.
+NEW 11 12 13 14
+RESP 11 > 12 | 06 10
+RESP 13 > 14 | 12 08
+FILL 11 | edad | trabaho; anak
+FILL 13 | trabaho | edad; igsoon
+ORDER 14 | Nagtrabaho ko / sa America. | extra: Asa
+ORDER 12 | Singkwenta / na ko. | extra: Pila
+
+DAY 4 | Where do you live? | Talk about where your family lives and where you live.
+CULTURE Naa and Wala | Naa means 'there is' or 'yes, I have'; Wala means 'there isn't' or 'no, I don't'. With these two words you can answer most 'do you have...?' questions.
+NEW 07 08 19 20
+RESP 07 > 08 | 12 W02-13
+RESP 19 > 20 | 06 W02-22
+FILL 08 | Naa | Wala; Asa
+FILL 19 | nagpuyo | nagtrabaho; nikaon
+ORDER 20 | Nagpuyo ko / sa America. | extra: Naa
+ORDER 08 | Naa sa America / akong pamilya. | alt: Akong pamilya / naa sa America.
+
+DAY 5 | Boyfriend, and the big question | How Jiana introduces you, and how to survive 'When are you getting married?'
+CULTURE Kanus-a mo magminyo? | Relatives ask couples about marriage often and openly. It's friendly curiosity. A smile and a light answer like Pangutan-a si Jiana! keeps it fun. Talk with Jiana beforehand about how she'd like you to answer.
+NEW 21 22 15 16
+RESP 15 > 16 | 14 06
+RESP 21 > 22 | 16 W01-11
+FILL 21 | uyab | anak; igsoon
+FILL 22 | ni | si; ug
+ORDER 22 | Ako ang uyab / ni Jiana. | alt: Ni Jiana / ako ang uyab.
+ORDER 16 | Pangutan-a / si Jiana! | extra: Kanus-a
+
+DAY 6 | Warm words | Compliments, a father's request, and being welcomed into the family.
+CULTURE Gwapo and Gwapa | Filipinos tease with compliments all the time. Expect Gwapo man ka! from aunties and laugh along. Returning it - Gwapa pud ka! - is the right move.
+NEW 17 18 23 24 25
+RESP 17 > 18 | 24 W02-04
+RESP 23 > 24 | 18 16
+RESP 25 > W01-24 | 16 12
+FILL 18 | Gwapa | Gwapo; Busog
+FILL 23 | Ampingi | Pangutan-a; Kaon
+ORDER 24 | Oo, Tay. / Ampingan nako siya. | extra: Gwapa
+ORDER 25 | Pamilya / na ka / namo. | extra: Kini
+
+DAY 7 | Putting it together | No new phrases. Three family conversations, then your video-call mission.
+DIALOGUES 1 2 3
+CULTURE Ate and Kuya for you too | If Jiana has an older sister, call her Ate (AH-teh). Using family titles yourself, even for Jiana's cousins, shows you understand how the family works.
+RESP 03 > D1-04 | W02-04 12
+RESP D2-03 > 10 | 06 12
+RESP D3-03 > 14 | 20 06
+RESP D3-05 > 20 | 14 08
+ORDER D1-06 | Hi, Inday! / Kumusta ka? | extra: Kuya
+
+MISSION Video-call mission: Week 3
+STEP Ask Jiana to introduce whoever is home: Kinsa na? (Who's that?) and listen for si Nanay, si Kuya...
+STEP Greet each person with their title: Maayong gabii, Nay!
+STEP Ask Jiana the family questions: Pila imong igsoon? Asa ka nagpuyo?
+STEP Answer when she asks you back - use naa / wala and your real numbers.
+STEP Tell her one compliment: Gwapa ka!
+STEP Ask her how her family calls each of her siblings, and write the names down.
+
+X | Kinsa na? | Who's that? | Mission | check: Natural for 'who's that?' pointing at a person?
+X | Ate | Older sister (title) | Day 7 culture note
+X | Tito | Uncle (title) | Day 3 culture note

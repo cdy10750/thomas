@@ -1,0 +1,38 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+7,W07-01,Pila ni?,How much is this?,Thomas,Market,Learner tip: pila = how much. ni = this. The most useful market phrase.
+7,W07-02,Singkwenta pesos.,Fifty pesos.,Tindera,Market,Learner tip: Prices are usually said in Spanish or English numbers.
+7,W07-03,Mahal kaayo!,That's too expensive!,Thomas,Market,Learner tip: mahal = expensive. Say it with a smile - it's part of the game.
+7,W07-04,Pwede hangyo?,Can we bargain?,Thomas,Market,"Learner tip: hangyo = ask for a discount. Polite at markets, not in malls."
+7,W07-05,"Sige, kwarenta na lang.","Okay, just forty.",Tindera,Market,"Learner tip: na lang = just, only. kwarenta = forty."
+7,W07-06,Paliton nako ni.,I'll buy this.,Thomas,Market,Learner tip: palit = buy. | QUESTION FOR REVIEWER: Natural?
+7,W07-07,"Duha ka buok, palihug.","Two pieces, please.",Thomas,Market,Learner tip: buok = piece.
+7,W07-08,Unsa pa?,What else?,Tindera,Market,"Learner tip: pa = more, else."
+7,W07-09,Mao ra.,That's all.,Thomas,Market,Learner tip: mao ra = that's it.
+7,W07-10,"Ayaw palit diri, mahal.","Don't buy here, it's expensive.",Nanay,Market,Learner tip: ayaw = don't. Foreigners often get a higher price.
+7,W07-11,Ako na lang ang mohangyo.,Let me do the bargaining.,Nanay,Market,Learner tip: Let her - she'll get a better price.
+7,W07-12,Asa ta mamalit?,Where are we going shopping?,Thomas,Living room,Learner tip: mamalit = go shopping.
+7,W07-13,Moadto ta sa merkado.,We're going to the market.,Jiana,Living room,Learner tip: merkado = market. Also: mall.
+7,W07-14,Barato!,That's cheap!,Thomas,Market,Learner tip: barato = cheap.
+7,W07-15,"Presko ni, bag-o lang nakuha.","This is fresh, just caught.",Tindera,Market,Learner tip: presko = fresh. You'll hear it at every fish stall. | QUESTION FOR REVIEWER: Natural for fish?
+7,W07-16,Pila ang usa ka kilo?,How much for one kilo?,Thomas,Market,"Learner tip: Fish, fruit and rice are sold by the kilo."
+7,W07-17,Usa ka gatos ang kilo.,One hundred a kilo.,Tindera,Market,Learner tip: gatos = hundred. You may also hear 'one hundred'.
+7,W07-18,Naa moy sukli?,Do you have change?,Thomas,Market,Learner tip: sukli = change (money). Small stalls often don't.
+7,W07-19,Wala koy sukli.,I don't have change.,Tindera,Market,"Learner tip: Carry small bills: 20, 50, 100 pesos."
+7,W07-20,Ako na'y mobayad.,I'll pay.,Kuya,Market,Learner tip: bayad = pay.
+7,W07-21,"Dili, ako na.","No, I've got it.",Thomas,Market,Learner tip: Expect a friendly fight over the bill.
+7,W07-22,Palit ta og pasalubong!,Let's buy pasalubong!,Inday,Market,Learner tip: pasalubong = gifts you bring back from a trip.
+7,W07-23,Para kang Nanay.,It's for Mom.,Thomas,Market,"Learner tip: para = for. kang = to, for (before a name)."
+7,W07-24,Asa ang CR?,Where's the restroom?,Thomas,Market,Learner tip: CR = comfort room. Everyone says CR.
+7,W07-25,Bitbita ni.,Carry this.,Nanay,Market,Learner tip: bitbit = carry by hand.
+7,W07-D1-05,"Sige, nobenta na lang.","Okay, just ninety.",Tindera,Market,Learner tip: Dialogue: At the fish stall
+7,W07-D1-06,"Sige, usa ka kilo.","Okay, one kilo.",Thomas,Market,Learner tip: Dialogue: At the fish stall
+7,W07-D2-02,"Ngano, Nay?","Why, Mom?",Thomas,Market,Learner tip: Dialogue: Nanay bargains
+7,W07-D2-04,"Sige, Nay.","Okay, Mom.",Thomas,Market,Learner tip: Dialogue: Nanay bargains
+7,W07-D2-06,"Sige, ako na'y magbitbit.","Okay, I'll carry it.",Thomas,Market,Learner tip: Dialogue: Nanay bargains
+7,W07-D3-02,Para kang kinsa ni?,Who's this for?,Inday,Market,Learner tip: Dialogue: Pasalubong
+7,W07-D3-04,"Ay, sweet kaayo ka!","Aw, you're so sweet!",Inday,Market,Learner tip: Dialogue: Pasalubong
+7,W07-D3-06,Didto sa likod.,"Over there, in the back.",Inday,Market,Learner tip: Dialogue: Pasalubong
+7,W07-07-ALT2,"Palihug,, duha ka buok.","Two pieces, please.",Thomas,Market,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 3 word-order exercise. Is it natural? (punctuation is ignored)
+7,W07-X1,| Pila pa-adto sa merkado?,How much to the market?,"(text only, no audio)",Day 7 culture note,QUESTION FOR REVIEWER: Natural for asking a tricycle fare?
+7,W07-X2,| tabo,Market (day market),"(text only, no audio)",Day 4 culture note,
+7,W07-X3,| calamay,Sweet sticky treat,"(text only, no audio)",Day 6 culture note,

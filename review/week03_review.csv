@@ -1,0 +1,37 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+3,W03-01,Si Nanay ug si Tatay.,(This is) Mom and Dad.,Jiana,Family gathering,Learner tip: ug = and. si goes before names and family titles.
+3,W03-02,Nalipay ko nga nakita ko kamo.,I'm happy to see you all.,Thomas,Family gathering,Learner tip: nalipay = happy. kamo = you (more than one person). | QUESTION FOR REVIEWER: Natural greeting to parents you've met before?
+3,W03-03,Kini si Kuya.,This is my big brother.,Jiana,Family gathering,"Learner tip: Kuya = older brother. People also call any older man Kuya - a driver, a waiter."
+3,W03-04,"Kini si Inday, akong manghod.","This is Inday, my younger sister.",Jiana,Family gathering,Learner tip: manghod = younger sibling. akong = my.
+3,W03-05,Pila imong igsoon?,How many brothers and sisters do you have?,Nanay,Living room,Learner tip: pila = how many. igsoon = sibling.
+3,W03-06,Duha akong igsoon.,I have two siblings.,Thomas,Living room,"Learner tip: Change the number for your family: usa (1), duha (2), tulo (3), upat (4)."
+3,W03-07,Asa imong pamilya?,Where is your family?,Tatay,Living room,Learner tip: asa = where.
+3,W03-08,Naa sa America akong pamilya.,My family is in America.,Thomas,Living room,Learner tip: naa = is there / are there.
+3,W03-09,Naa kay anak?,Do you have children?,Tatay,Living room,"Learner tip: anak = child. A very normal question here, not a nosy one."
+3,W03-10,"Naa, duha.","Yes, two.",Thomas,Living room,"Learner tip: If you have none, answer Wala. Change the number to fit."
+3,W03-11,Pila na imong edad?,How old are you?,Nanay,Living room,Learner tip: edad = age. Asking age is not rude in the Philippines.
+3,W03-12,Singkwenta na ko.,I'm fifty.,Thomas,Living room,"Learner tip: Ages and prices often use Spanish numbers: singkwenta = 50, singkwenta'y uno = 51. | QUESTION FOR REVIEWER: Natural for stating age? Or Kalim-an na ko?"
+3,W03-13,Unsa imong trabaho?,What's your job?,Kuya,Living room,"Learner tip: trabaho = work, job."
+3,W03-14,Nagtrabaho ko sa America.,I work in America.,Thomas,Living room,"Learner tip: To name your job, use the English word + ko: Engineer ko. Teacher ko. Retired na ko."
+3,W03-15,Kanus-a mo magminyo?,When are you two getting married?,Inday,Living room,"Learner tip: kanus-a = when. Every couple gets this question, usually with a big grin."
+3,W03-16,Pangutan-a si Jiana!,Ask Jiana!,Thomas,Living room,"Learner tip: pangutan-a = ask (someone). A safe, funny answer that gets a laugh. | QUESTION FOR REVIEWER: Natural and light-hearted?"
+3,W03-17,"Gwapo man ka, Thomas!","You're handsome, Thomas!",Nanay,Living room,"Learner tip: gwapo = handsome, gwapa = beautiful. Teasing compliments are very common."
+3,W03-18,"Salamat! Gwapa pud ka, Nay.","Thanks! You're beautiful too, Mom.",Thomas,Living room,Learner tip: pud = too. Return the compliment.
+3,W03-19,Asa ka nagpuyo?,Where do you live?,Dodong,Living room,"Learner tip: puyo = live, stay."
+3,W03-20,Nagpuyo ko sa America.,I live in America.,Thomas,Living room,Learner tip: Swap in your state or city: Nagpuyo ko sa Texas.
+3,W03-21,Akong uyab si Thomas.,Thomas is my boyfriend.,Jiana,Family gathering,Learner tip: uyab = boyfriend or girlfriend.
+3,W03-22,Ako ang uyab ni Jiana.,I'm Jiana's boyfriend.,Thomas,Family gathering,Learner tip: ni = of (before a name).
+3,W03-23,Ampingi si Jiana.,Take care of Jiana.,Tatay,Living room,"Learner tip: amping = care, protect. A father's serious request."
+3,W03-24,"Oo, Tay. Ampingan nako siya.","Yes, Dad. I'll take care of her.",Thomas,Living room,Learner tip: siya = he or she. | QUESTION FOR REVIEWER: Natural reply to the father?
+3,W03-25,Pamilya na ka namo.,You're family now.,Kuya,Family gathering,Learner tip: namo = our (not including you). The warmest thing you can hear.
+3,W03-D1-04,"Maayong buntag, Kuya!","Good morning, Kuya!",Thomas,Family gathering,Learner tip: Dialogue: Meeting the family
+3,W03-D1-06,"Hi, Inday! Kumusta ka?","Hi, Inday! How are you?",Thomas,Family gathering,Learner tip: Dialogue: Meeting the family
+3,W03-D2-03,Naa kay anak?,Do you have children?,Nanay,Living room,Learner tip: Dialogue: Nanay's questions
+3,W03-D3-03,"Ha ha! Unsa imong trabaho, Thomas?","Ha ha! What's your job, Thomas?",Inday,Living room,Learner tip: Dialogue: Inday teases
+3,W03-D3-05,Asa ka nagpuyo?,Where do you live?,Inday,Living room,Learner tip: Dialogue: Inday teases
+3,W03-04-ALT2,"Akong manghod,, kini si Inday.","This is Inday, my younger sister.",Jiana,Family gathering,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+3,W03-08-ALT2,"Akong pamilya, naa sa America.",My family is in America.,Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 4 word-order exercise. Is it natural? (punctuation is ignored)
+3,W03-22-ALT2,"Ni Jiana, ako ang uyab.",I'm Jiana's boyfriend.,Thomas,Family gathering,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+3,W03-X1,| Kinsa na?,Who's that?,"(text only, no audio)",Mission,QUESTION FOR REVIEWER: Natural for 'who's that?' pointing at a person?
+3,W03-X2,| Ate,Older sister (title),"(text only, no audio)",Day 7 culture note,
+3,W03-X3,| Tito,Uncle (title),"(text only, no audio)",Day 3 culture note,

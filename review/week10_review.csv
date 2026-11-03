@@ -1,0 +1,38 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+10,W10-01,Molakaw ta karon.,We're heading out now.,Jiana,Outside the house,"Learner tip: lakaw = go out, walk."
+10,W10-02,Asa ta padulong?,Where are we going?,Thomas,Outside the house,Learner tip: padulong = heading to.
+10,W10-03,Sa Chocolate Hills.,To the Chocolate Hills.,Jiana,Outside the house,Learner tip: Bohol's most famous sight: over a thousand round hills that turn brown in the dry season.
+10,W10-04,Unsaon nato pag-adto?,How do we get there?,Thomas,Outside the house,Learner tip: unsaon = how.
+10,W10-05,Mosakay ta og motor.,We'll ride the motorbike.,Kuya,Outside the house,Learner tip: sakay = ride. motor = motorbike.
+10,W10-06,"Hinay-hinay lang og dagan, Kuya!","Drive slowly, Kuya!",Thomas,On the road,"Learner tip: dagan = speed, run. Your old friend hinay-hinay again."
+10,W10-07,Kapit og maayo!,Hold on tight!,Kuya,On the road,Learner tip: kapit = hold on.
+10,W10-08,Layo pa?,Is it still far?,Thomas,On the road,Learner tip: layo = far.
+10,W10-09,Duol na lang.,It's close now.,Kuya,On the road,Learner tip: duol = near.
+10,W10-10,"Hunong sa diri, palihug.","Stop here for a moment, please.",Thomas,On the road,Learner tip: hunong = stop.
+10,W10-11,Pwede ko mag-picture?,Can I take a picture?,Thomas,Tourist spot,Learner tip: English picture becomes a Bisaya verb.
+10,W10-12,Picture ta!,Let's take a picture!,Inday,Tourist spot,Learner tip: Group photos are a must. Expect many.
+10,W10-13,Nindot kaayo ang dagat!,The sea is beautiful!,Thomas,Beach,Learner tip: dagat = sea.
+10,W10-14,Molangoy ta?,Shall we swim?,Jiana,Beach,Learner tip: langoy = swim.
+10,W10-15,"Sige, molangoy ko!","Sure, I'll swim!",Thomas,Beach,Learner tip: Watch out for sea urchins near rocks.
+10,W10-16,Asa ta mosakay?,Where do we catch a ride?,Thomas,On the road,"Learner tip: Jeepneys, buses and tricycles all stop on the roadside."
+10,W10-17,Pag-amping sa dalan.,Be careful on the road.,Nanay,Outside the house,Learner tip: dalan = road. amping = care.
+10,W10-18,"Oo, Nay. Mag-amping mi.","Yes, Mom. We'll be careful.",Thomas,Outside the house,Learner tip: mi = we (not including the listener).
+10,W10-19,Wala nay gasolina!,We're out of gas!,Kuya,On the road,Learner tip: gasolina = gasoline.
+10,W10-20,Naa bay gasolinahan duol diri?,Is there a gas station near here?,Thomas,On the road,Learner tip: gasolinahan = gas station. Small shops sell gas in glass bottles.
+10,W10-21,Liko sa wala.,Turn left.,Jiana,On the road,Learner tip: liko = turn. wala = left (it also means 'none').
+10,W10-22,Diretso lang.,Just go straight.,Jiana,On the road,Learner tip: diretso = straight.
+10,W10-23,Liko sa tuo?,Turn right?,Thomas,On the road,Learner tip: tuo = right.
+10,W10-24,Unsang orasa mo mouli?,What time will you be back?,Nanay,Outside the house,Learner tip: mo = you (plural).
+10,W10-25,Mouli mi sa gabii.,We'll be back in the evening.,Thomas,Outside the house,Learner tip: sa hapon = in the afternoon.
+10,W10-D1-05,Mosakay ta og motor uban ni Kuya.,We'll ride the motorbike with Kuya.,Jiana,Outside the house,Learner tip: Dialogue: A day trip
+10,W10-D1-06,Sige! Lingaw!,Okay! Fun!,Thomas,Outside the house,Learner tip: Dialogue: A day trip
+10,W10-D2-05,Pagdala og tubig.,Bring water.,Nanay,Outside the house,Learner tip: Dialogue: Before you leave
+10,W10-D2-06,"Sige, Nay. Salamat.","Okay, Mom. Thanks.",Thomas,Outside the house,Learner tip: Dialogue: Before you leave
+10,W10-D3-01,Asa ta moliko?,Where do we turn?,Thomas,On the road,Learner tip: Dialogue: Which way?
+10,W10-D3-04,"Dili, sa wala! Ha ha!","No, left! Ha ha!",Jiana,On the road,Learner tip: Dialogue: Which way?
+10,W10-D3-06,Duol na lang.,It's close now.,Jiana,On the road,Learner tip: Dialogue: Which way?
+10,W10-10-ALT2,"Palihug,, hunong sa diri.","Stop here for a moment, please.",Thomas,On the road,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 3 word-order exercise. Is it natural? (punctuation is ignored)
+10,W10-13-ALT2,"Ang dagat, nindot kaayo!",The sea is beautiful!,Thomas,Beach,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+10,W10-X1,| Lugar lang!,Stop here! (on a jeepney),"(text only, no audio)",Day 7 culture note,QUESTION FOR REVIEWER: Still common in Bohol?
+10,W10-X2,| habal-habal,Motorbike taxi,"(text only, no audio)",Day 2 culture note,
+10,W10-X3,| Asa ta molakaw?,Where shall we go?,"(text only, no audio)",Mission,

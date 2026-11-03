@@ -1,0 +1,136 @@
+TITLE Around Bohol
+SUBTITLE Going out and getting around
+GOAL Understand trip plans, ride along safely, follow simple directions, and enjoy the sights.
+
+C 01 | Jiana | Outside the house | Molakaw ta karon. | We're heading out now. | lakaw = go out, walk.
+C 02 | Thomas | Outside the house | Asa ta padulong? | Where are we going? | padulong = heading to.
+C 03 | Jiana | Outside the house | Sa Chocolate Hills. | To the Chocolate Hills. | Bohol's most famous sight: over a thousand round hills that turn brown in the dry season.
+C 04 | Thomas | Outside the house | Unsaon nato pag-adto? | How do we get there? | unsaon = how.
+C 05 | Kuya | Outside the house | Mosakay ta og motor. | We'll ride the motorbike. | sakay = ride. motor = motorbike.
+C 06 | Thomas | On the road | Hinay-hinay lang og dagan, Kuya! | Drive slowly, Kuya! | dagan = speed, run. Your old friend hinay-hinay again.
+C 07 | Kuya | On the road | Kapit og maayo! | Hold on tight! | kapit = hold on.
+C 08 | Thomas | On the road | Layo pa? | Is it still far? | layo = far.
+C 09 | Kuya | On the road | Duol na lang. | It's close now. | duol = near.
+C 10 | Thomas | On the road | Hunong sa diri, palihug. | Stop here for a moment, please. | hunong = stop.
+C 11 | Thomas | Tourist spot | Pwede ko mag-picture? | Can I take a picture? | English picture becomes a Bisaya verb.
+C 12 | Inday | Tourist spot | Picture ta! | Let's take a picture! | Group photos are a must. Expect many.
+C 13 | Thomas | Beach | Nindot kaayo ang dagat! | The sea is beautiful! | dagat = sea.
+C 14 | Jiana | Beach | Molangoy ta? | Shall we swim? | langoy = swim.
+C 15 | Thomas | Beach | Sige, molangoy ko! | Sure, I'll swim! | Watch out for sea urchins near rocks.
+C 16 | Thomas | On the road | Asa ta mosakay? | Where do we catch a ride? | Jeepneys, buses and tricycles all stop on the roadside.
+C 17 | Nanay | Outside the house | Pag-amping sa dalan. | Be careful on the road. | dalan = road. amping = care.
+C 18 | Thomas | Outside the house | Oo, Nay. Mag-amping mi. | Yes, Mom. We'll be careful. | mi = we (not including the listener).
+C 19 | Kuya | On the road | Wala nay gasolina! | We're out of gas! | gasolina = gasoline.
+C 20 | Thomas | On the road | Naa bay gasolinahan duol diri? | Is there a gas station near here? | gasolinahan = gas station. Small shops sell gas in glass bottles.
+C 21 | Jiana | On the road | Liko sa wala. | Turn left. | liko = turn. wala = left (it also means 'none').
+C 22 | Jiana | On the road | Diretso lang. | Just go straight. | diretso = straight.
+C 23 | Thomas | On the road | Liko sa tuo? | Turn right? | tuo = right.
+C 24 | Nanay | Outside the house | Unsang orasa mo mouli? | What time will you be back? | mo = you (plural).
+C 25 | Thomas | Outside the house | Mouli mi sa gabii. | We'll be back in the evening. | sa hapon = in the afternoon.
+
+D 1 | A day trip | Outside the house
+L 01
+L 02
+L 03
+L 04
+L Jiana | Mosakay ta og motor uban ni Kuya. | We'll ride the motorbike with Kuya.
+L Thomas | Sige! Lingaw! | Okay! Fun!
+D 2 | Before you leave | Outside the house
+L 17
+L 18
+L 24
+L 25
+L Nanay | Pagdala og tubig. | Bring water.
+L Thomas | Sige, Nay. Salamat. | Okay, Mom. Thanks.
+D 3 | Which way? | On the road
+L Thomas | Asa ta moliko? | Where do we turn?
+L 21
+L 23
+L Jiana | Dili, sa wala! Ha ha! | No, left! Ha ha!
+L 08
+L Jiana | Duol na lang. | It's close now.
+
+DAY 1 | Heading out | Find out where you're going and how.
+CULTURE Bohol's sights | Favorites for visitors: the Chocolate Hills, the tiny tarsiers (one of the smallest primates in the world) in Corella, the Loboc River cruise, and white-sand beaches on Panglao. Families love to show them off.
+NEW 01 02 03 04
+SCENE 03 | Outside the house | Dinner table | Bedroom
+RESP 01 > 02 | 04 W09-15
+RESP 03 > 04 | 02 W01-16
+FILL 02 | padulong | mosakay; molangoy
+FILL 04 | Unsaon | Asa; Pila
+ORDER 02 | Asa ta / padulong? | extra: Unsa
+ORDER 04 | Unsaon nato / pag-adto? | extra: Asa
+
+DAY 2 | On the motorbike | Rides in Bohol are often on a motorbike or tricycle.
+CULTURE Habal-habal | Motorbikes carry whole families in Bohol, and motorbike taxis (habal-habal) go where cars can't. Wear a helmet when you can, and don't be shy about asking the driver to slow down.
+NEW 05 06 07
+SCENE 07 | On the road | Church | Kitchen
+RESP 05 > 06 | 04 08
+RESP 07 > W01-23 | 06 08
+FILL 06 | dagan | sakay; kapit
+FILL 05 | motor | dagat; balay
+ORDER 06 | Hinay-hinay lang / og dagan, / Kuya! | extra: Kapit
+ORDER 05 | Mosakay ta / og motor. | extra: dagat
+
+DAY 3 | Far, near, stop | Ask how far, and ask to stop.
+CULTURE Kilometers and minutes | Distances are given in kilometers or in time, and 'near' can be generous. If you need a break - a restroom, a drink, a photo - just ask to stop. Families are happy to.
+NEW 08 09 10
+RESP 09 > W01-23 | 08 10
+RESPC You see a beautiful view and want the driver to stop. > 10 | 08 06
+FILL 08 | Layo | Duol; Init
+FILL 10 | Hunong | Liko; Kapit
+ORDER 10 | Hunong sa diri, / palihug. | alt: Palihug, / hunong sa diri.
+ORDER 09 | Duol / na lang. | extra: layo
+
+DAY 4 | Directions and gas | Left, right, straight - and the gas station.
+CULTURE Wala, two meanings | wala means 'left' in directions and 'none / not' everywhere else. Context makes it clear: Liko sa wala = turn left; Wala koy sukli = I have no change.
+NEW 21 22 23 19 20
+RESP 21 > 23 | 22 08
+RESP 19 > 20 | 08 10
+RESP 22 > W01-23 | 23 08
+FILL 21 | wala | tuo; dalan
+FILL 23 | tuo | wala; layo
+ORDER 20 | Naa bay gasolinahan / duol diri? | extra: layo
+ORDER 21 | Liko / sa wala. | extra: tuo
+
+DAY 5 | Photos and the beach | Pictures, the sea, and swimming.
+CULTURE Picture, picture | Filipinos love photos - group photos, selfies, photos with you. Say yes to them; they'll be shared with the whole family by evening.
+NEW 11 12 13 14 15
+SCENE 13 | Beach | Market | Church
+RESP 12 > W01-23 | 15 08
+RESP 14 > 15 | 11 08
+FILL 13 | dagat | balay; dalan
+FILL 15 | molangoy | mosakay; molakaw
+ORDER 13 | Nindot kaayo / ang dagat! | alt: Ang dagat / nindot kaayo!
+ORDER 11 | Pwede ko / mag-picture? | extra: Asa
+
+DAY 6 | Leaving and coming back | Promise Nanay you'll be careful, and tell her when you'll be home.
+CULTURE Pag-amping | Families worry about travelers. Telling Nanay where you're going and when you'll be back - and texting if you're late - is a sign of respect.
+NEW 16 17 18 24 25
+RESP 17 > 18 | 25 15
+RESP 24 > 25 | 18 08
+RESPC You're at the roadside and need to know where the jeepney stops. > 16 | 02 10
+FILL 17 | dalan | dagat; balay
+FILL 25 | gabii | buntag; ugma
+ORDER 18 | Oo, Nay. / Mag-amping mi. | extra: Layo
+ORDER 25 | Mouli mi / sa gabii. | extra: ugma
+
+DAY 7 | Putting it together | No new phrases. Three conversations from a day out, then your mission.
+DIALOGUES 1 2 3
+CULTURE Jeepneys and buses | Long-distance rides are by bus or van, and local rides by jeepney or tricycle. Say Lugar lang! (Stop here!) to get off a jeepney.
+RESP D1-05 > D1-06 | 08 10
+RESP D2-05 > D2-06 | 25 08
+RESP D3-04 > 08 | 23 10
+RESP 01 > 02 | 04 16
+ORDER D3-01 | Asa ta / moliko? | extra: Layo
+
+MISSION Video-call mission: Week 10
+STEP Ask Jiana which place in Bohol she wants to show you first: Asa ta molakaw?
+STEP Ask how you'd get there: Unsaon nato pag-adto?
+STEP Practice directions: have her guide you around your room with Liko sa wala / tuo / Diretso lang.
+STEP Promise her: Mag-amping ko.
+STEP Ask her to teach you how to stop a jeepney.
+
+X | Lugar lang! | Stop here! (on a jeepney) | Day 7 culture note | check: Still common in Bohol?
+X | habal-habal | Motorbike taxi | Day 2 culture note
+X | Asa ta molakaw? | Where shall we go? | Mission

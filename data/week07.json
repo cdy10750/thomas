@@ -1,0 +1,1040 @@
+{
+  "week": 7,
+  "title": "At the Market",
+  "subtitle": "Shopping, the market, and prices",
+  "goal": "Ask prices, understand the answer, bargain a little, and pay - or let the family handle it.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W07-01",
+      "ceb": "Pila ni?",
+      "en": "How much is this?",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "pila = how much. ni = this. The most useful market phrase.",
+      "check": ""
+    },
+    {
+      "id": "W07-02",
+      "ceb": "Singkwenta pesos.",
+      "en": "Fifty pesos.",
+      "speaker": "Tindera",
+      "scene": "Market",
+      "tip": "Prices are usually said in Spanish or English numbers.",
+      "check": ""
+    },
+    {
+      "id": "W07-03",
+      "ceb": "Mahal kaayo!",
+      "en": "That's too expensive!",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "mahal = expensive. Say it with a smile - it's part of the game.",
+      "check": ""
+    },
+    {
+      "id": "W07-04",
+      "ceb": "Pwede hangyo?",
+      "en": "Can we bargain?",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "hangyo = ask for a discount. Polite at markets, not in malls.",
+      "check": ""
+    },
+    {
+      "id": "W07-05",
+      "ceb": "Sige, kwarenta na lang.",
+      "en": "Okay, just forty.",
+      "speaker": "Tindera",
+      "scene": "Market",
+      "tip": "na lang = just, only. kwarenta = forty.",
+      "check": ""
+    },
+    {
+      "id": "W07-06",
+      "ceb": "Paliton nako ni.",
+      "en": "I'll buy this.",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "palit = buy.",
+      "check": "Natural?"
+    },
+    {
+      "id": "W07-07",
+      "ceb": "Duha ka buok, palihug.",
+      "en": "Two pieces, please.",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "buok = piece.",
+      "check": ""
+    },
+    {
+      "id": "W07-08",
+      "ceb": "Unsa pa?",
+      "en": "What else?",
+      "speaker": "Tindera",
+      "scene": "Market",
+      "tip": "pa = more, else.",
+      "check": ""
+    },
+    {
+      "id": "W07-09",
+      "ceb": "Mao ra.",
+      "en": "That's all.",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "mao ra = that's it.",
+      "check": ""
+    },
+    {
+      "id": "W07-10",
+      "ceb": "Ayaw palit diri, mahal.",
+      "en": "Don't buy here, it's expensive.",
+      "speaker": "Nanay",
+      "scene": "Market",
+      "tip": "ayaw = don't. Foreigners often get a higher price.",
+      "check": ""
+    },
+    {
+      "id": "W07-11",
+      "ceb": "Ako na lang ang mohangyo.",
+      "en": "Let me do the bargaining.",
+      "speaker": "Nanay",
+      "scene": "Market",
+      "tip": "Let her - she'll get a better price.",
+      "check": ""
+    },
+    {
+      "id": "W07-12",
+      "ceb": "Asa ta mamalit?",
+      "en": "Where are we going shopping?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "mamalit = go shopping.",
+      "check": ""
+    },
+    {
+      "id": "W07-13",
+      "ceb": "Moadto ta sa merkado.",
+      "en": "We're going to the market.",
+      "speaker": "Jiana",
+      "scene": "Living room",
+      "tip": "merkado = market. Also: mall.",
+      "check": ""
+    },
+    {
+      "id": "W07-14",
+      "ceb": "Barato!",
+      "en": "That's cheap!",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "barato = cheap.",
+      "check": ""
+    },
+    {
+      "id": "W07-15",
+      "ceb": "Presko ni, bag-o lang nakuha.",
+      "en": "This is fresh, just caught.",
+      "speaker": "Tindera",
+      "scene": "Market",
+      "tip": "presko = fresh. You'll hear it at every fish stall.",
+      "check": "Natural for fish?"
+    },
+    {
+      "id": "W07-16",
+      "ceb": "Pila ang usa ka kilo?",
+      "en": "How much for one kilo?",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "Fish, fruit and rice are sold by the kilo.",
+      "check": ""
+    },
+    {
+      "id": "W07-17",
+      "ceb": "Usa ka gatos ang kilo.",
+      "en": "One hundred a kilo.",
+      "speaker": "Tindera",
+      "scene": "Market",
+      "tip": "gatos = hundred. You may also hear 'one hundred'.",
+      "check": ""
+    },
+    {
+      "id": "W07-18",
+      "ceb": "Naa moy sukli?",
+      "en": "Do you have change?",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "sukli = change (money). Small stalls often don't.",
+      "check": ""
+    },
+    {
+      "id": "W07-19",
+      "ceb": "Wala koy sukli.",
+      "en": "I don't have change.",
+      "speaker": "Tindera",
+      "scene": "Market",
+      "tip": "Carry small bills: 20, 50, 100 pesos.",
+      "check": ""
+    },
+    {
+      "id": "W07-20",
+      "ceb": "Ako na'y mobayad.",
+      "en": "I'll pay.",
+      "speaker": "Kuya",
+      "scene": "Market",
+      "tip": "bayad = pay.",
+      "check": ""
+    },
+    {
+      "id": "W07-21",
+      "ceb": "Dili, ako na.",
+      "en": "No, I've got it.",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "Expect a friendly fight over the bill.",
+      "check": ""
+    },
+    {
+      "id": "W07-22",
+      "ceb": "Palit ta og pasalubong!",
+      "en": "Let's buy pasalubong!",
+      "speaker": "Inday",
+      "scene": "Market",
+      "tip": "pasalubong = gifts you bring back from a trip.",
+      "check": ""
+    },
+    {
+      "id": "W07-23",
+      "ceb": "Para kang Nanay.",
+      "en": "It's for Mom.",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "para = for. kang = to, for (before a name).",
+      "check": ""
+    },
+    {
+      "id": "W07-24",
+      "ceb": "Asa ang CR?",
+      "en": "Where's the restroom?",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "CR = comfort room. Everyone says CR.",
+      "check": ""
+    },
+    {
+      "id": "W07-25",
+      "ceb": "Bitbita ni.",
+      "en": "Carry this.",
+      "speaker": "Nanay",
+      "scene": "Market",
+      "tip": "bitbit = carry by hand.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W07-D1",
+      "title": "At the fish stall",
+      "scene": "Market",
+      "lines": [
+        {
+          "chunk": "W07-15"
+        },
+        {
+          "chunk": "W07-16"
+        },
+        {
+          "chunk": "W07-17"
+        },
+        {
+          "chunk": "W07-03"
+        },
+        {
+          "id": "W07-D1-05",
+          "speaker": "Tindera",
+          "ceb": "Sige, nobenta na lang.",
+          "en": "Okay, just ninety.",
+          "check": ""
+        },
+        {
+          "id": "W07-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, usa ka kilo.",
+          "en": "Okay, one kilo.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W07-D2",
+      "title": "Nanay bargains",
+      "scene": "Market",
+      "lines": [
+        {
+          "chunk": "W07-10"
+        },
+        {
+          "id": "W07-D2-02",
+          "speaker": "Thomas",
+          "ceb": "Ngano, Nay?",
+          "en": "Why, Mom?",
+          "check": ""
+        },
+        {
+          "chunk": "W07-11"
+        },
+        {
+          "id": "W07-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Sige, Nay.",
+          "en": "Okay, Mom.",
+          "check": ""
+        },
+        {
+          "chunk": "W07-25"
+        },
+        {
+          "id": "W07-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, ako na'y magbitbit.",
+          "en": "Okay, I'll carry it.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W07-D3",
+      "title": "Pasalubong",
+      "scene": "Market",
+      "lines": [
+        {
+          "chunk": "W07-22"
+        },
+        {
+          "id": "W07-D3-02",
+          "speaker": "Inday",
+          "ceb": "Para kang kinsa ni?",
+          "en": "Who's this for?",
+          "check": ""
+        },
+        {
+          "chunk": "W07-23"
+        },
+        {
+          "id": "W07-D3-04",
+          "speaker": "Inday",
+          "ceb": "Ay, sweet kaayo ka!",
+          "en": "Aw, you're so sweet!",
+          "check": ""
+        },
+        {
+          "chunk": "W07-24"
+        },
+        {
+          "id": "W07-D3-06",
+          "speaker": "Inday",
+          "ceb": "Didto sa likod.",
+          "en": "Over there, in the back.",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "How much?",
+      "intro": "Ask the price, understand it, and react.",
+      "new": [
+        "W07-01",
+        "W07-02",
+        "W07-03",
+        "W07-14"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W07-01",
+          "answer": "Market",
+          "options": [
+            "Market",
+            "Church",
+            "Bedroom"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W07-03",
+          "distractors": [
+            "W02-08",
+            "W01-23"
+          ],
+          "prompt": "W07-02"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-14",
+          "distractors": [
+            "W07-03",
+            "W02-13"
+          ],
+          "context": "Mangoes are only twenty pesos a kilo."
+        },
+        {
+          "type": "fill",
+          "ref": "W07-03",
+          "text": "___ kaayo!",
+          "answer": "Mahal",
+          "options": [
+            "Mahal",
+            "Barato",
+            "Lami"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W07-01",
+          "text": "___ ni?",
+          "answer": "Pila",
+          "options": [
+            "Pila",
+            "Unsa",
+            "Asa"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-03",
+          "tiles": [
+            "Mahal",
+            "kaayo!",
+            "barato"
+          ],
+          "answers": [
+            [
+              "Mahal",
+              "kaayo!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-01",
+          "tiles": [
+            "Pila",
+            "ni?",
+            "Unsa"
+          ],
+          "answers": [
+            [
+              "Pila",
+              "ni?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Pesos and prices",
+        "text": "Prices are in pesos. Small markets have no price tags, so you ask Pila ni? Numbers come back in Spanish (singkwenta, kwarenta) or English. If you don't catch it, Balika, palihug works here too."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Bargaining",
+      "intro": "Ask for a better price, and let Nanay take over.",
+      "new": [
+        "W07-04",
+        "W07-05",
+        "W07-10",
+        "W07-11"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W07-03",
+            "W07-14"
+          ],
+          "prompt": "W07-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W03-24",
+          "distractors": [
+            "W07-03",
+            "W07-01"
+          ],
+          "prompt": "W07-11"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-04",
+          "distractors": [
+            "W07-03",
+            "W07-14"
+          ],
+          "context": "The price seems high and you want to try for less."
+        },
+        {
+          "type": "fill",
+          "ref": "W07-04",
+          "text": "Pwede ___?",
+          "answer": "hangyo",
+          "options": [
+            "hangyo",
+            "sukli",
+            "palit"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W07-10",
+          "text": "Ayaw palit diri, ___.",
+          "answer": "mahal",
+          "options": [
+            "mahal",
+            "barato",
+            "lami"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-04",
+          "tiles": [
+            "Pwede",
+            "hangyo?",
+            "Pila"
+          ],
+          "answers": [
+            [
+              "Pwede",
+              "hangyo?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-11",
+          "tiles": [
+            "Ako na lang",
+            "ang mohangyo.",
+            "mahal"
+          ],
+          "answers": [
+            [
+              "Ako na lang",
+              "ang mohangyo."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Hangyo",
+        "text": "Bargaining is normal at markets and with tricycle drivers, but keep it friendly and small. A foreigner's face can raise the price - Nanay or Jiana will often bargain for you. Let them."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Buying",
+      "intro": "Say what you want, how many, and when you're done.",
+      "new": [
+        "W07-06",
+        "W07-07",
+        "W07-08",
+        "W07-09"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W07-09",
+          "distractors": [
+            "W07-07",
+            "W07-03"
+          ],
+          "prompt": "W07-08"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-07",
+          "distractors": [
+            "W07-06",
+            "W07-09"
+          ],
+          "context": "You want two of the bananas."
+        },
+        {
+          "type": "respond",
+          "answer": "W07-06",
+          "distractors": [
+            "W07-09",
+            "W07-03"
+          ],
+          "context": "You've decided to buy the shirt."
+        },
+        {
+          "type": "fill",
+          "ref": "W07-07",
+          "text": "Duha ka ___, palihug.",
+          "answer": "buok",
+          "options": [
+            "buok",
+            "kilo",
+            "pesos"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W07-09",
+          "text": "Mao ___.",
+          "answer": "ra",
+          "options": [
+            "ra",
+            "pa",
+            "na"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-07",
+          "tiles": [
+            "Duha ka buok,",
+            "palihug."
+          ],
+          "answers": [
+            [
+              "Duha ka buok,",
+              "palihug."
+            ],
+            [
+              "Palihug,",
+              "duha ka buok."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-06",
+          "tiles": [
+            "Paliton nako",
+            "ni.",
+            "Pila"
+          ],
+          "answers": [
+            [
+              "Paliton nako",
+              "ni."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Buok",
+        "text": "buok means 'piece'. Usa ka buok (one piece), duha ka buok (two pieces). Vendors may also count in English - 'two pieces' - which is fine."
+      }
+    },
+    {
+      "day": 4,
+      "title": "At the wet market",
+      "intro": "Fresh fish and prices by the kilo.",
+      "new": [
+        "W07-13",
+        "W07-15",
+        "W07-16",
+        "W07-17"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W02-19",
+          "distractors": [
+            "W07-16",
+            "W07-03"
+          ],
+          "prompt": "W07-13"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-16",
+          "distractors": [
+            "W07-01",
+            "W07-09"
+          ],
+          "prompt": "W07-15"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-03",
+          "distractors": [
+            "W07-14",
+            "W07-07"
+          ],
+          "prompt": "W07-17"
+        },
+        {
+          "type": "fill",
+          "ref": "W07-16",
+          "text": "Pila ang usa ka ___?",
+          "answer": "kilo",
+          "options": [
+            "kilo",
+            "buok",
+            "pesos"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W07-13",
+          "text": "Moadto ta sa ___.",
+          "answer": "merkado",
+          "options": [
+            "merkado",
+            "simbahan",
+            "balay"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-16",
+          "tiles": [
+            "Pila ang",
+            "usa ka kilo?",
+            "buok"
+          ],
+          "answers": [
+            [
+              "Pila ang",
+              "usa ka kilo?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-15",
+          "tiles": [
+            "Presko ni,",
+            "bag-o lang nakuha.",
+            "mahal"
+          ],
+          "answers": [
+            [
+              "Presko ni,",
+              "bag-o lang nakuha."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "The wet market",
+        "text": "The public market (merkado or tabo) opens early. The freshest fish is gone by mid-morning. It is noisy, wet and wonderful - wear sandals you don't mind getting dirty."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Paying",
+      "intro": "Change, small bills, and the fight over who pays.",
+      "new": [
+        "W07-18",
+        "W07-19",
+        "W07-20",
+        "W07-21"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W07-21",
+            "W07-03"
+          ],
+          "prompt": "W07-19"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-21",
+          "distractors": [
+            "W07-09",
+            "W07-18"
+          ],
+          "prompt": "W07-20"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-18",
+          "distractors": [
+            "W07-21",
+            "W07-04"
+          ],
+          "context": "You only have a 1000-peso bill for a small purchase."
+        },
+        {
+          "type": "fill",
+          "ref": "W07-18",
+          "text": "Naa moy ___?",
+          "answer": "sukli",
+          "options": [
+            "sukli",
+            "pesos",
+            "kilo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W07-20",
+          "text": "Ako na'y ___.",
+          "answer": "mobayad",
+          "options": [
+            "mobayad",
+            "mohangyo",
+            "mopalit"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-21",
+          "tiles": [
+            "Dili,",
+            "ako na.",
+            "mahal"
+          ],
+          "answers": [
+            [
+              "Dili,",
+              "ako na."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-18",
+          "tiles": [
+            "Naa moy",
+            "sukli?",
+            "Pila"
+          ],
+          "answers": [
+            [
+              "Naa moy",
+              "sukli?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Who pays?",
+        "text": "Family members may insist on paying, and you may want to pay. A friendly back-and-forth is normal. Discuss with Jiana beforehand how you'd like to handle money with the family."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Gifts and practical questions",
+      "intro": "Pasalubong, who it's for, the restroom, and carrying the bags.",
+      "new": [
+        "W07-12",
+        "W07-22",
+        "W07-23",
+        "W07-24",
+        "W07-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W07-23",
+          "distractors": [
+            "W07-09",
+            "W07-21"
+          ],
+          "prompt": "W07-22"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W07-21",
+            "W07-14"
+          ],
+          "prompt": "W07-25"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-24",
+          "distractors": [
+            "W07-12",
+            "W07-01"
+          ],
+          "context": "You need a bathroom at the mall."
+        },
+        {
+          "type": "fill",
+          "ref": "W07-23",
+          "text": "___ kang Nanay.",
+          "answer": "Para",
+          "options": [
+            "Para",
+            "Ako",
+            "Pila"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W07-24",
+          "text": "Asa ang ___?",
+          "answer": "CR",
+          "options": [
+            "CR",
+            "merkado",
+            "sukli"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-12",
+          "tiles": [
+            "Asa ta",
+            "mamalit?",
+            "Pila"
+          ],
+          "answers": [
+            [
+              "Asa ta",
+              "mamalit?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W07-23",
+          "tiles": [
+            "Para",
+            "kang Nanay.",
+            "si"
+          ],
+          "answers": [
+            [
+              "Para",
+              "kang Nanay."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Pasalubong",
+        "text": "Bringing gifts back from a trip is expected. Bohol favorites include peanut kisses cookies and calamay (a sweet sticky treat in a coconut shell). Gifts from America for the family are also treasured."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three market conversations, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W07-D1-06",
+          "distractors": [
+            "W07-03",
+            "W07-09"
+          ],
+          "prompt": "W07-D1-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-D2-02",
+          "distractors": [
+            "W07-21",
+            "W07-09"
+          ],
+          "prompt": "W07-10"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-23",
+          "distractors": [
+            "W07-09",
+            "W07-06"
+          ],
+          "prompt": "W07-D3-02"
+        },
+        {
+          "type": "respond",
+          "answer": "W07-24",
+          "distractors": [
+            "W07-03",
+            "W07-01"
+          ],
+          "prompt": "W07-D3-04"
+        },
+        {
+          "type": "order",
+          "ref": "W07-D1-06",
+          "tiles": [
+            "Sige,",
+            "usa ka kilo.",
+            "mahal"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "usa ka kilo."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W07-D1",
+        "W07-D2",
+        "W07-D3"
+      ],
+      "culture": {
+        "title": "Tricycle fares",
+        "text": "Short rides around town are by tricycle (a motorbike with a sidecar). Agree on the fare before you get in: Pila pa-adto sa merkado? (How much to the market?)"
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 7",
+    "steps": [
+      "Hold up three things near you and ask Jiana: Pila ni? Let her make up a price.",
+      "React to each price: Mahal kaayo! or Barato!",
+      "Try a friendly bargain: Pwede hangyo?",
+      "Ask her what pasalubong her family would love from America.",
+      "Practice: Para kang Nanay. Para kang Tatay. Para kang Inday."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W07-X1",
+      "ceb": "| Pila pa-adto sa merkado?",
+      "en": "How much to the market?",
+      "where": "Day 7 culture note",
+      "check": "Natural for asking a tricycle fare?"
+    },
+    {
+      "id": "W07-X2",
+      "ceb": "| tabo",
+      "en": "Market (day market)",
+      "where": "Day 4 culture note",
+      "check": ""
+    },
+    {
+      "id": "W07-X3",
+      "ceb": "| calamay",
+      "en": "Sweet sticky treat",
+      "where": "Day 6 culture note",
+      "check": ""
+    }
+  ]
+}

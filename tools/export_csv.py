@@ -48,6 +48,17 @@ def main(week):
     errors = []
 
     voice_of = {sp: v for v, sps in d["voices"].items() for sp in sps}
+    other = {}  # chunks and dialogue lines from other weeks (cross-week references)
+    for p in sorted((ROOT / "data").glob("week[0-9][0-9].json")):
+        if p == src:
+            continue
+        od = json.loads(p.read_text(encoding="utf-8"))
+        for c in od["chunks"]:
+            other[c["id"]] = c
+        for dl in od["dialogues"]:
+            for ln in dl["lines"]:
+                if "id" in ln:
+                    other[ln["id"]] = ln
     items = {}  # id -> dict(ceb, en, speaker, scene)
     for c in d["chunks"]:
         items[c["id"]] = c
@@ -81,7 +92,7 @@ def main(week):
             if ex["type"] == "respond":
                 refs += [ex["answer"], *ex["distractors"]]
             for r in filter(None, refs):
-                if r not in items:
+                if r not in items and r not in other:
                     errors.append(f"{tag}: unknown id {r}")
             if ex["type"] in ("scene", "fill") and ex["answer"] not in ex["options"]:
                 errors.append(f"{tag}: answer not in options")
@@ -92,7 +103,7 @@ def main(week):
             if ex["type"] == "order":
                 target = norm(items[ex["ref"]]["ceb"])
                 for a in ex["answers"]:
-                    if any(t not in ex["tiles"] for t in a):
+                    if any(norm(t) not in [norm(x) for x in ex["tiles"]] for t in a):
                         errors.append(f"{tag}: answer uses a tile not in tiles")
                 if norm(" ".join(ex["answers"][0])) != target:
                     errors.append(f"{tag}: first answer does not match chunk text")

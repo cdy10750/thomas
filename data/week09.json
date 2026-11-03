@@ -1,0 +1,1037 @@
+{
+  "week": 9,
+  "title": "Life at Home",
+  "subtitle": "Showering, sleeping, helping, relaxing",
+  "goal": "Get through a normal day in the family's house: mornings, showers, chores, downtime and bedtime.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W09-01",
+      "ceb": "Maligo na ka.",
+      "en": "Go take your shower.",
+      "speaker": "Nanay",
+      "scene": "Home - morning",
+      "tip": "ligo = bathe, shower.",
+      "check": ""
+    },
+    {
+      "id": "W09-02",
+      "ceb": "Naa bay init nga tubig?",
+      "en": "Is there hot water?",
+      "speaker": "Thomas",
+      "scene": "Home - morning",
+      "tip": "init nga tubig = hot water. Many homes don't have it.",
+      "check": ""
+    },
+    {
+      "id": "W09-03",
+      "ceb": "Walay init nga tubig.",
+      "en": "There's no hot water.",
+      "speaker": "Inday",
+      "scene": "Home - morning",
+      "tip": "walay = there is no.",
+      "check": ""
+    },
+    {
+      "id": "W09-04",
+      "ceb": "Okay ra. Maligo na ko.",
+      "en": "That's okay. I'll shower now.",
+      "speaker": "Thomas",
+      "scene": "Home - morning",
+      "tip": "A cold shower in Bohol heat feels great.",
+      "check": ""
+    },
+    {
+      "id": "W09-05",
+      "ceb": "Unsa'y akong matabang?",
+      "en": "What can I help with?",
+      "speaker": "Thomas",
+      "scene": "Kitchen",
+      "tip": "tabang = help.",
+      "check": ""
+    },
+    {
+      "id": "W09-06",
+      "ceb": "Ayaw na, bisita man ka.",
+      "en": "No need, you're a guest.",
+      "speaker": "Nanay",
+      "scene": "Kitchen",
+      "tip": "bisita = guest. She'll say this at first.",
+      "check": ""
+    },
+    {
+      "id": "W09-07",
+      "ceb": "Gusto ko motabang.",
+      "en": "I want to help.",
+      "speaker": "Thomas",
+      "scene": "Kitchen",
+      "tip": "Insist gently.",
+      "check": ""
+    },
+    {
+      "id": "W09-08",
+      "ceb": "Sige, hugasi ang mga plato.",
+      "en": "Okay, wash the dishes.",
+      "speaker": "Nanay",
+      "scene": "Kitchen",
+      "tip": "hugas = wash. plato = plate. mga = plural.",
+      "check": ""
+    },
+    {
+      "id": "W09-09",
+      "ceb": "Lingkod sa.",
+      "en": "Sit down for a while.",
+      "speaker": "Tatay",
+      "scene": "Living room",
+      "tip": "lingkod = sit.",
+      "check": ""
+    },
+    {
+      "id": "W09-10",
+      "ceb": "Relax lang, Thomas.",
+      "en": "Just relax, Thomas.",
+      "speaker": "Tatay",
+      "scene": "Living room",
+      "tip": "English words mix right in.",
+      "check": ""
+    },
+    {
+      "id": "W09-11",
+      "ceb": "Nakatulog ka og maayo?",
+      "en": "Did you sleep well?",
+      "speaker": "Nanay",
+      "scene": "Home - morning",
+      "tip": "tulog = sleep. maayo = well.",
+      "check": ""
+    },
+    {
+      "id": "W09-12",
+      "ceb": "Oo, nakatulog ko og maayo.",
+      "en": "Yes, I slept well.",
+      "speaker": "Thomas",
+      "scene": "Home - morning",
+      "tip": "Swap Oo for Dili kaayo if you didn't.",
+      "check": ""
+    },
+    {
+      "id": "W09-13",
+      "ceb": "Gipaak ko sa lamok.",
+      "en": "I got bitten by mosquitoes.",
+      "speaker": "Thomas",
+      "scene": "Home - morning",
+      "tip": "lamok = mosquito. paak = bite.",
+      "check": ""
+    },
+    {
+      "id": "W09-14",
+      "ceb": "Isira ang pultahan, daghang lamok.",
+      "en": "Close the door, there are lots of mosquitoes.",
+      "speaker": "Nanay",
+      "scene": "Home - evening",
+      "tip": "isira = close. pultahan = door.",
+      "check": ""
+    },
+    {
+      "id": "W09-15",
+      "ceb": "Unsa'y atong buhaton karon?",
+      "en": "What are we doing today?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "buhat = do. atong = our (including you).",
+      "check": ""
+    },
+    {
+      "id": "W09-16",
+      "ceb": "Pahulay lang ta sa balay.",
+      "en": "We'll just relax at home.",
+      "speaker": "Jiana",
+      "scene": "Living room",
+      "tip": "balay = house, home.",
+      "check": ""
+    },
+    {
+      "id": "W09-17",
+      "ceb": "Tan-aw ta og TV.",
+      "en": "Let's watch TV.",
+      "speaker": "Kuya",
+      "scene": "Living room",
+      "tip": "tan-aw = watch, look.",
+      "check": ""
+    },
+    {
+      "id": "W09-18",
+      "ceb": "Unsa'y atong tan-awon?",
+      "en": "What are we going to watch?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "Filipino families love teleseryes (drama series) and basketball.",
+      "check": ""
+    },
+    {
+      "id": "W09-19",
+      "ceb": "Molaba ko karon.",
+      "en": "I'm doing the laundry now.",
+      "speaker": "Nanay",
+      "scene": "Outside the house",
+      "tip": "laba = wash clothes. Often by hand.",
+      "check": ""
+    },
+    {
+      "id": "W09-20",
+      "ceb": "Tabangan tika, Nay.",
+      "en": "I'll help you, Mom.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "tika = I (do it for) you.",
+      "check": ""
+    },
+    {
+      "id": "W09-21",
+      "ceb": "Asa nako ibutang ni?",
+      "en": "Where should I put this?",
+      "speaker": "Thomas",
+      "scene": "Kitchen",
+      "tip": "butang = put, place.",
+      "check": ""
+    },
+    {
+      "id": "W09-22",
+      "ceb": "Diha lang sa lamesa.",
+      "en": "Just there on the table.",
+      "speaker": "Inday",
+      "scene": "Kitchen",
+      "tip": "lamesa = table.",
+      "check": ""
+    },
+    {
+      "id": "W09-23",
+      "ceb": "Brownout na pud!",
+      "en": "The power's out again!",
+      "speaker": "Dodong",
+      "scene": "Home - evening",
+      "tip": "brownout = power outage. They happen; nobody panics.",
+      "check": ""
+    },
+    {
+      "id": "W09-24",
+      "ceb": "Naa moy flashlight?",
+      "en": "Do you have a flashlight?",
+      "speaker": "Thomas",
+      "scene": "Home - evening",
+      "tip": "Phones work too.",
+      "check": ""
+    },
+    {
+      "id": "W09-25",
+      "ceb": "Matulog na ko. Good night!",
+      "en": "I'm going to sleep. Good night!",
+      "speaker": "Thomas",
+      "scene": "Bedroom",
+      "tip": "Good night in English is completely normal.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W09-D1",
+      "title": "Morning routine",
+      "scene": "Home - morning",
+      "lines": [
+        {
+          "chunk": "W09-11"
+        },
+        {
+          "chunk": "W09-12"
+        },
+        {
+          "chunk": "W09-01"
+        },
+        {
+          "chunk": "W09-02"
+        },
+        {
+          "id": "W09-D1-05",
+          "speaker": "Nanay",
+          "ceb": "Wala, pasensya. Bugnaw ra.",
+          "en": "No, sorry. Only cold.",
+          "check": ""
+        },
+        {
+          "id": "W09-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Okay ra, Nay. Presko!",
+          "en": "That's fine, Mom. Refreshing!",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W09-D2",
+      "title": "Can I help?",
+      "scene": "Kitchen",
+      "lines": [
+        {
+          "chunk": "W09-05"
+        },
+        {
+          "chunk": "W09-06"
+        },
+        {
+          "chunk": "W09-07"
+        },
+        {
+          "chunk": "W09-08"
+        },
+        {
+          "id": "W09-D2-05",
+          "speaker": "Thomas",
+          "ceb": "Sige! Asa ang sabon?",
+          "en": "Sure! Where's the soap?",
+          "check": ""
+        },
+        {
+          "id": "W09-D2-06",
+          "speaker": "Nanay",
+          "ceb": "Diha sa lababo.",
+          "en": "There at the sink.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W09-D3",
+      "title": "Brownout",
+      "scene": "Home - evening",
+      "lines": [
+        {
+          "id": "W09-D3-01",
+          "speaker": "Inday",
+          "ceb": "Brownout na pud!",
+          "en": "The power's out again!",
+          "check": ""
+        },
+        {
+          "chunk": "W09-24"
+        },
+        {
+          "id": "W09-D3-03",
+          "speaker": "Inday",
+          "ceb": "Naa, hulat kadiyot.",
+          "en": "Yes, wait a moment.",
+          "check": ""
+        },
+        {
+          "id": "W09-D3-04",
+          "speaker": "Thomas",
+          "ceb": "Init kaayo!",
+          "en": "It's so hot!",
+          "check": ""
+        },
+        {
+          "id": "W09-D3-05",
+          "speaker": "Inday",
+          "ceb": "Abrihan nato ang bintana.",
+          "en": "Let's open the window.",
+          "check": ""
+        },
+        {
+          "id": "W09-D3-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, Inday. Salamat.",
+          "en": "Okay, Inday. Thanks.",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shower time",
+      "intro": "The morning shower - and what to say when there's no hot water.",
+      "new": [
+        "W09-01",
+        "W09-02",
+        "W09-03",
+        "W09-04"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W09-01",
+          "answer": "Home - morning",
+          "options": [
+            "Home - morning",
+            "Church",
+            "Market"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W09-02",
+          "distractors": [
+            "W04-22",
+            "W05-24"
+          ],
+          "prompt": "W09-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-04",
+          "distractors": [
+            "W09-02",
+            "W04-20"
+          ],
+          "prompt": "W09-03"
+        },
+        {
+          "type": "fill",
+          "ref": "W09-02",
+          "text": "Naa bay ___ nga tubig?",
+          "answer": "init",
+          "options": [
+            "init",
+            "bugnaw",
+            "lami"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W09-01",
+          "text": "___ na ka.",
+          "answer": "Maligo",
+          "options": [
+            "Maligo",
+            "Matulog",
+            "Kaon"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-04",
+          "tiles": [
+            "Okay ra.",
+            "Maligo na ko.",
+            "Wala"
+          ],
+          "answers": [
+            [
+              "Okay ra.",
+              "Maligo na ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-02",
+          "tiles": [
+            "Naa bay",
+            "init nga tubig?",
+            "Wala"
+          ],
+          "answers": [
+            [
+              "Naa bay",
+              "init nga tubig?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Tabo and timba",
+        "text": "Many homes shower with a bucket (timba) and a dipper (tabo) instead of a showerhead, and water is usually cold. It's refreshing in the heat. Ask Jiana to show you how it's done."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Offering help",
+      "intro": "Offer to help, get refused, and offer again.",
+      "new": [
+        "W09-05",
+        "W09-06",
+        "W09-07",
+        "W09-08"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W09-07",
+          "distractors": [
+            "W09-05",
+            "W09-04"
+          ],
+          "prompt": "W09-06"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W09-07",
+            "W09-02"
+          ],
+          "prompt": "W09-08"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-05",
+          "distractors": [
+            "W09-07",
+            "W09-04"
+          ],
+          "context": "Nanay is cooking a big meal and you want to be useful."
+        },
+        {
+          "type": "fill",
+          "ref": "W09-07",
+          "text": "Gusto ko ___.",
+          "answer": "motabang",
+          "options": [
+            "motabang",
+            "mokaon",
+            "maligo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W09-08",
+          "text": "Sige, hugasi ang mga ___.",
+          "answer": "plato",
+          "options": [
+            "plato",
+            "lamesa",
+            "tubig"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-07",
+          "tiles": [
+            "Gusto ko",
+            "motabang.",
+            "Ayaw"
+          ],
+          "answers": [
+            [
+              "Gusto ko",
+              "motabang."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-05",
+          "tiles": [
+            "Unsa'y akong",
+            "matabang?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Unsa'y akong",
+              "matabang?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "The guest dance",
+        "text": "As a guest you'll first be told to sit down. Offering again shows good manners. Small jobs - washing dishes, carrying things, sweeping - make you part of the family."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Taking it easy",
+      "intro": "Sit down, relax, and ask what the plan is.",
+      "new": [
+        "W09-09",
+        "W09-10",
+        "W09-15",
+        "W09-16"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W09-07",
+            "W09-05"
+          ],
+          "prompt": "W09-09"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W09-15",
+            "W09-07"
+          ],
+          "prompt": "W09-16"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-15",
+          "distractors": [
+            "W09-05",
+            "W09-02"
+          ],
+          "context": "It's morning and you wonder what the family is planning."
+        },
+        {
+          "type": "fill",
+          "ref": "W09-16",
+          "text": "Pahulay lang ta sa ___.",
+          "answer": "balay",
+          "options": [
+            "balay",
+            "merkado",
+            "simbahan"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W09-15",
+          "text": "Unsa'y atong ___ karon?",
+          "answer": "buhaton",
+          "options": [
+            "buhaton",
+            "kaonon",
+            "tan-awon"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-15",
+          "tiles": [
+            "Unsa'y atong",
+            "buhaton karon?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Unsa'y atong",
+              "buhaton karon?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-16",
+          "tiles": [
+            "Pahulay lang ta",
+            "sa balay.",
+            "merkado"
+          ],
+          "answers": [
+            [
+              "Pahulay lang ta",
+              "sa balay."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Nothing planned is a plan",
+        "text": "Many days in Bohol are slow: sitting, chatting, eating, napping. It's quality time. You don't need to fill every day with sightseeing."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Sleeping and mosquitoes",
+      "intro": "Mornings after the night, mosquitoes, and saying good night.",
+      "new": [
+        "W09-11",
+        "W09-12",
+        "W09-13",
+        "W09-14",
+        "W09-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W09-12",
+          "distractors": [
+            "W09-13",
+            "W09-25"
+          ],
+          "prompt": "W09-11"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W09-13",
+            "W09-12"
+          ],
+          "prompt": "W09-14"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-25",
+          "distractors": [
+            "W09-12",
+            "W09-13"
+          ],
+          "context": "It's late and you're heading to bed."
+        },
+        {
+          "type": "fill",
+          "ref": "W09-13",
+          "text": "Gipaak ko sa ___.",
+          "answer": "lamok",
+          "options": [
+            "lamok",
+            "lamesa",
+            "balay"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W09-12",
+          "text": "Oo, nakatulog ko og ___.",
+          "answer": "maayo",
+          "options": [
+            "maayo",
+            "init",
+            "gamay"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-12",
+          "tiles": [
+            "Oo,",
+            "nakatulog ko",
+            "og maayo.",
+            "Dili"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "nakatulog ko",
+              "og maayo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-25",
+          "tiles": [
+            "Matulog na ko.",
+            "Good night!",
+            "Maligo"
+          ],
+          "answers": [
+            [
+              "Matulog na ko.",
+              "Good night!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Mosquitoes",
+        "text": "Mosquitoes are worst at dusk. Close doors and windows in the evening, use repellent, and sleep under a fan or net. Telling the family Gipaak ko sa lamok gets you help quickly."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Chores together",
+      "intro": "Laundry, putting things away, and following simple directions.",
+      "new": [
+        "W09-19",
+        "W09-20",
+        "W09-21",
+        "W09-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W09-20",
+          "distractors": [
+            "W09-21",
+            "W09-07"
+          ],
+          "prompt": "W09-19"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W09-21",
+            "W09-05"
+          ],
+          "prompt": "W09-22"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-21",
+          "distractors": [
+            "W09-20",
+            "W09-05"
+          ],
+          "context": "You're holding a bowl and don't know where it goes."
+        },
+        {
+          "type": "fill",
+          "ref": "W09-20",
+          "text": "___ tika, Nay.",
+          "answer": "Tabangan",
+          "options": [
+            "Tabangan",
+            "Hugasi",
+            "Isira"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W09-22",
+          "text": "Diha lang sa ___.",
+          "answer": "lamesa",
+          "options": [
+            "lamesa",
+            "lamok",
+            "balay"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-20",
+          "tiles": [
+            "Tabangan tika,",
+            "Nay."
+          ],
+          "answers": [
+            [
+              "Tabangan tika,",
+              "Nay."
+            ],
+            [
+              "Nay,",
+              "tabangan tika."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-21",
+          "tiles": [
+            "Asa nako",
+            "ibutang ni?",
+            "Unsa'y"
+          ],
+          "answers": [
+            [
+              "Asa nako",
+              "ibutang ni?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Laundry day",
+        "text": "Laundry is often washed by hand and hung outside. Helping hang clothes or carry the basket is a simple way to spend time with Nanay - even without many words."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Evenings: TV and brownouts",
+      "intro": "Watch TV with the family and stay calm when the power goes out.",
+      "new": [
+        "W09-17",
+        "W09-18",
+        "W09-23",
+        "W09-24"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W09-18",
+          "distractors": [
+            "W09-24",
+            "W09-15"
+          ],
+          "prompt": "W09-17"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-24",
+          "distractors": [
+            "W09-18",
+            "W09-04"
+          ],
+          "prompt": "W09-23"
+        },
+        {
+          "type": "fill",
+          "ref": "W09-17",
+          "text": "Tan-aw ta og ___.",
+          "answer": "TV",
+          "options": [
+            "TV",
+            "balay",
+            "lamesa"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W09-24",
+          "text": "Naa moy ___?",
+          "answer": "flashlight",
+          "options": [
+            "flashlight",
+            "tubig",
+            "TV"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-18",
+          "tiles": [
+            "Unsa'y atong",
+            "tan-awon?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Unsa'y atong",
+              "tan-awon?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W09-24",
+          "tiles": [
+            "Naa moy",
+            "flashlight?",
+            "Wala"
+          ],
+          "answers": [
+            [
+              "Naa moy",
+              "flashlight?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Brownouts",
+        "text": "Power outages still happen in parts of Bohol, especially in storms. Families keep candles, flashlights and fans with batteries. Charge your phone when you can."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three everyday home conversations, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W09-D1-06",
+          "distractors": [
+            "W09-02",
+            "W09-13"
+          ],
+          "prompt": "W09-D1-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W09-05",
+            "W09-21"
+          ],
+          "prompt": "W09-D2-06"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-D3-04",
+          "distractors": [
+            "W09-24",
+            "W09-25"
+          ],
+          "prompt": "W09-D3-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W09-D3-06",
+          "distractors": [
+            "W09-04",
+            "W09-13"
+          ],
+          "prompt": "W09-D3-05"
+        },
+        {
+          "type": "order",
+          "ref": "W09-D1-06",
+          "tiles": [
+            "Okay ra, Nay.",
+            "Presko!",
+            "Init"
+          ],
+          "answers": [
+            [
+              "Okay ra, Nay.",
+              "Presko!"
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W09-D1",
+        "W09-D2",
+        "W09-D3"
+      ],
+      "culture": {
+        "title": "Small words, big effect",
+        "text": "The family won't remember perfect grammar. They'll remember that you said Maayong buntag every morning, offered to help, and said Good night to everyone."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 9",
+    "steps": [
+      "In the morning (her time), ask: Nakatulog ka og maayo?",
+      "Ask her: Unsa'y imong buhaton karon? and listen for the plan.",
+      "Tell her something about your day using maligo, mokaon, or matulog.",
+      "Ask her what you could help with at her family's house next visit.",
+      "End the call with: Matulog na ko. Good night!"
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W09-X1",
+      "ceb": "| Unsa'y imong buhaton karon?",
+      "en": "What are you doing today?",
+      "where": "Mission",
+      "check": ""
+    },
+    {
+      "id": "W09-X2",
+      "ceb": "| tabo, timba",
+      "en": "dipper, bucket",
+      "where": "Day 1 culture note",
+      "check": ""
+    },
+    {
+      "id": "W09-X3",
+      "ceb": "| teleserye",
+      "en": "TV drama series",
+      "where": "Day 6 chunk tip",
+      "check": ""
+    }
+  ]
+}

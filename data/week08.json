@@ -1,0 +1,1001 @@
+{
+  "week": 8,
+  "title": "Church and Fiesta",
+  "subtitle": "Church, fiestas, family events",
+  "goal": "Join Sunday Mass, a town fiesta and a family birthday - and handle the dancing and karaoke invitations.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W08-01",
+      "ceb": "Mosimba ta karong Domingo.",
+      "en": "We'll go to Mass this Sunday.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "simba = go to church / Mass. karong = this (coming).",
+      "check": ""
+    },
+    {
+      "id": "W08-02",
+      "ceb": "Sige, mouban ko.",
+      "en": "Okay, I'll come along.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "uban = go with someone.",
+      "check": ""
+    },
+    {
+      "id": "W08-03",
+      "ceb": "Hilom lang sa simbahan.",
+      "en": "Stay quiet in church.",
+      "speaker": "Jiana",
+      "scene": "Church",
+      "tip": "hilom = quiet. simbahan = church.",
+      "check": ""
+    },
+    {
+      "id": "W08-04",
+      "ceb": "Fiesta na sunod semana!",
+      "en": "The fiesta is next week!",
+      "speaker": "Tatay",
+      "scene": "Living room",
+      "tip": "sunod = next. Every town has a yearly fiesta for its patron saint.",
+      "check": ""
+    },
+    {
+      "id": "W08-05",
+      "ceb": "Unsa'y naa sa fiesta?",
+      "en": "What happens at the fiesta?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "naa = there is.",
+      "check": ""
+    },
+    {
+      "id": "W08-06",
+      "ceb": "Daghang pagkaon ug sayaw.",
+      "en": "Lots of food and dancing.",
+      "speaker": "Kuya",
+      "scene": "Living room",
+      "tip": "pagkaon = food. sayaw = dance.",
+      "check": ""
+    },
+    {
+      "id": "W08-07",
+      "ceb": "Mosayaw ka?",
+      "en": "Will you dance?",
+      "speaker": "Inday",
+      "scene": "Fiesta",
+      "tip": "mo- = will.",
+      "check": ""
+    },
+    {
+      "id": "W08-08",
+      "ceb": "Dili ko kahibalo mosayaw!",
+      "en": "I don't know how to dance!",
+      "speaker": "Thomas",
+      "scene": "Fiesta",
+      "tip": "kahibalo = know how.",
+      "check": ""
+    },
+    {
+      "id": "W08-09",
+      "ceb": "Tudloan tika!",
+      "en": "I'll teach you!",
+      "speaker": "Inday",
+      "scene": "Fiesta",
+      "tip": "tika = I (do it to) you.",
+      "check": ""
+    },
+    {
+      "id": "W08-10",
+      "ceb": "Birthday ni Lola ugma.",
+      "en": "Tomorrow is Grandma's birthday.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "Lola = grandma, Lolo = grandpa. Birthday stays in English.",
+      "check": ""
+    },
+    {
+      "id": "W08-11",
+      "ceb": "Malipayong adlawng natawhan, Lola!",
+      "en": "Happy birthday, Grandma!",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "adlawng natawhan = birthday. Many people just say Happy birthday.",
+      "check": "Natural to say to an elder?"
+    },
+    {
+      "id": "W08-12",
+      "ceb": "Kanta ta!",
+      "en": "Let's sing!",
+      "speaker": "Tatay",
+      "scene": "Family gathering",
+      "tip": "kanta = sing. Karaoke (videoke) is at every party.",
+      "check": ""
+    },
+    {
+      "id": "W08-13",
+      "ceb": "Dili ko maayo mokanta.",
+      "en": "I'm not good at singing.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "Nobody accepts this excuse.",
+      "check": ""
+    },
+    {
+      "id": "W08-14",
+      "ceb": "Okay ra, sige na!",
+      "en": "It's fine, come on!",
+      "speaker": "Kuya",
+      "scene": "Family gathering",
+      "tip": "sige na = come on, go ahead.",
+      "check": ""
+    },
+    {
+      "id": "W08-15",
+      "ceb": "Sige, usa lang ka kanta.",
+      "en": "Okay, just one song.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "Pick an old American classic - they'll know it.",
+      "check": ""
+    },
+    {
+      "id": "W08-16",
+      "ceb": "Daghang bisita.",
+      "en": "There are lots of guests.",
+      "speaker": "Nanay",
+      "scene": "Family gathering",
+      "tip": "bisita = guest, visitor.",
+      "check": ""
+    },
+    {
+      "id": "W08-17",
+      "ceb": "Kinsa siya?",
+      "en": "Who is he? / Who is she?",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "kinsa = who. siya = he or she.",
+      "check": ""
+    },
+    {
+      "id": "W08-18",
+      "ceb": "Akong ig-agaw.",
+      "en": "My cousin.",
+      "speaker": "Jiana",
+      "scene": "Family gathering",
+      "tip": "ig-agaw = cousin. There will be many.",
+      "check": ""
+    },
+    {
+      "id": "W08-19",
+      "ceb": "Nalipay ko nga nakaila nimo.",
+      "en": "Nice to meet you.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "nakaila = got to know.",
+      "check": "Natural for 'nice to meet you'?"
+    },
+    {
+      "id": "W08-20",
+      "ceb": "Salamat sa pag-anhi.",
+      "en": "Thank you for coming.",
+      "speaker": "Nanay",
+      "scene": "Family gathering",
+      "tip": "What hosts say to guests.",
+      "check": ""
+    },
+    {
+      "id": "W08-21",
+      "ceb": "Salamat sa pag-imbita.",
+      "en": "Thank you for inviting me.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "imbita = invite.",
+      "check": ""
+    },
+    {
+      "id": "W08-22",
+      "ceb": "Pila na ka tuig si Lola?",
+      "en": "How old is Grandma?",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "tuig = year.",
+      "check": ""
+    },
+    {
+      "id": "W08-23",
+      "ceb": "Otsenta na siya.",
+      "en": "She's eighty.",
+      "speaker": "Nanay",
+      "scene": "Family gathering",
+      "tip": "otsenta = eighty (Spanish).",
+      "check": ""
+    },
+    {
+      "id": "W08-24",
+      "ceb": "Nindot kaayo ang simbahan.",
+      "en": "The church is very beautiful.",
+      "speaker": "Thomas",
+      "scene": "Church",
+      "tip": "nindot = beautiful, nice. Bohol has famous old stone churches.",
+      "check": ""
+    },
+    {
+      "id": "W08-25",
+      "ceb": "Lingaw kaayo!",
+      "en": "This is so much fun!",
+      "speaker": "Thomas",
+      "scene": "Fiesta",
+      "tip": "lingaw = fun.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W08-D1",
+      "title": "Sunday Mass",
+      "scene": "Living room",
+      "lines": [
+        {
+          "chunk": "W08-01"
+        },
+        {
+          "chunk": "W08-02"
+        },
+        {
+          "id": "W08-D1-03",
+          "speaker": "Nanay",
+          "ceb": "Alas siyete ang misa.",
+          "en": "Mass is at seven.",
+          "check": ""
+        },
+        {
+          "id": "W08-D1-04",
+          "speaker": "Thomas",
+          "ceb": "Sayo kaayo!",
+          "en": "That's so early!",
+          "check": ""
+        },
+        {
+          "id": "W08-D1-05",
+          "speaker": "Nanay",
+          "ceb": "Ha ha. Mobangon ta og sayo.",
+          "en": "Ha ha. We'll get up early.",
+          "check": ""
+        },
+        {
+          "id": "W08-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, Nay.",
+          "en": "Okay, Mom.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W08-D2",
+      "title": "Dancing at the fiesta",
+      "scene": "Fiesta",
+      "lines": [
+        {
+          "chunk": "W08-07"
+        },
+        {
+          "chunk": "W08-08"
+        },
+        {
+          "chunk": "W08-09"
+        },
+        {
+          "id": "W08-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Sige! Hinay-hinay lang.",
+          "en": "Okay! Slowly, though.",
+          "check": ""
+        },
+        {
+          "id": "W08-D2-05",
+          "speaker": "Inday",
+          "ceb": "Lingaw kaayo, no?",
+          "en": "So much fun, right?",
+          "check": ""
+        },
+        {
+          "chunk": "W08-25"
+        }
+      ]
+    },
+    {
+      "id": "W08-D3",
+      "title": "Who's that?",
+      "scene": "Family gathering",
+      "lines": [
+        {
+          "chunk": "W08-17"
+        },
+        {
+          "chunk": "W08-18"
+        },
+        {
+          "chunk": "W08-19"
+        },
+        {
+          "id": "W08-D3-04",
+          "speaker": "Jiana",
+          "ceb": "Ug kana si Lola.",
+          "en": "And that's Grandma.",
+          "check": ""
+        },
+        {
+          "chunk": "W08-22"
+        },
+        {
+          "id": "W08-D3-06",
+          "speaker": "Jiana",
+          "ceb": "Otsenta na siya.",
+          "en": "She's eighty.",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Going to Mass",
+      "intro": "Accept the invitation to church and behave like a pro.",
+      "new": [
+        "W08-01",
+        "W08-02",
+        "W08-03",
+        "W08-24"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W08-03",
+          "answer": "Church",
+          "options": [
+            "Church",
+            "Market",
+            "Beach"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W08-02",
+          "distractors": [
+            "W05-24",
+            "W03-16"
+          ],
+          "prompt": "W08-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W08-24",
+            "W08-02"
+          ],
+          "prompt": "W08-03"
+        },
+        {
+          "type": "fill",
+          "ref": "W08-01",
+          "text": "Mosimba ta karong ___.",
+          "answer": "Domingo",
+          "options": [
+            "Domingo",
+            "Lunes",
+            "ugma"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W08-24",
+          "text": "___ kaayo ang simbahan.",
+          "answer": "Nindot",
+          "options": [
+            "Nindot",
+            "Lami",
+            "Init"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-02",
+          "tiles": [
+            "Sige,",
+            "mouban ko.",
+            "dili"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "mouban ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-24",
+          "tiles": [
+            "Nindot kaayo",
+            "ang simbahan."
+          ],
+          "answers": [
+            [
+              "Nindot kaayo",
+              "ang simbahan."
+            ],
+            [
+              "Ang simbahan",
+              "nindot kaayo."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Church in Bohol",
+        "text": "Most Boholanos are Catholic and Sunday Mass is a family event. Dress neatly (no shorts or tank tops), and if you're not Catholic, stay seated during communion - nobody will mind. Bohol's old stone churches, like Baclayon, are among the oldest in the country."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Fiesta!",
+      "intro": "The biggest day of the year in every town.",
+      "new": [
+        "W08-04",
+        "W08-05",
+        "W08-06",
+        "W08-25"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W08-04",
+          "answer": "Living room",
+          "options": [
+            "Living room",
+            "Market",
+            "Airport arrival"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W08-05",
+          "distractors": [
+            "W08-02",
+            "W08-25"
+          ],
+          "prompt": "W08-04"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-25",
+          "distractors": [
+            "W08-05",
+            "W08-24"
+          ],
+          "context": "Everyone is eating, dancing and laughing around you."
+        },
+        {
+          "type": "fill",
+          "ref": "W08-06",
+          "text": "Daghang pagkaon ug ___.",
+          "answer": "sayaw",
+          "options": [
+            "sayaw",
+            "kanta",
+            "simba"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W08-05",
+          "text": "Unsa'y naa sa ___?",
+          "answer": "fiesta",
+          "options": [
+            "fiesta",
+            "simbahan",
+            "merkado"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-05",
+          "tiles": [
+            "Unsa'y naa",
+            "sa fiesta?",
+            "Kinsa"
+          ],
+          "answers": [
+            [
+              "Unsa'y naa",
+              "sa fiesta?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-06",
+          "tiles": [
+            "Daghang pagkaon",
+            "ug sayaw.",
+            "ug kanta"
+          ],
+          "answers": [
+            [
+              "Daghang pagkaon",
+              "ug sayaw."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "The town fiesta",
+        "text": "Each town celebrates its patron saint once a year. Houses open their doors, there's lechon, music and a procession. Families invite relatives and friends to eat - you may visit three or four houses in one day."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Dance invitation",
+      "intro": "Inday wants you on the dance floor. Here's what you'll say.",
+      "new": [
+        "W08-07",
+        "W08-08",
+        "W08-09"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W08-08",
+          "distractors": [
+            "W08-25",
+            "W08-02"
+          ],
+          "prompt": "W08-07"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-D2-04",
+          "distractors": [
+            "W08-08",
+            "W08-24"
+          ],
+          "prompt": "W08-09"
+        },
+        {
+          "type": "fill",
+          "ref": "W08-08",
+          "text": "Dili ko kahibalo ___!",
+          "answer": "mosayaw",
+          "options": [
+            "mosayaw",
+            "mokanta",
+            "mokaon"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W08-09",
+          "text": "___ tika!",
+          "answer": "Tudloan",
+          "options": [
+            "Tudloan",
+            "Ampingi",
+            "Sulayan"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-08",
+          "tiles": [
+            "Dili ko kahibalo",
+            "mosayaw!",
+            "Lingaw"
+          ],
+          "answers": [
+            [
+              "Dili ko kahibalo",
+              "mosayaw!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Everyone dances",
+        "text": "At fiestas and parties older people dance too. Trying, even badly, earns more respect than refusing. Hinay-hinay lang works here as well."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Karaoke",
+      "intro": "Videoke is unavoidable. Make your one song count.",
+      "new": [
+        "W08-12",
+        "W08-13",
+        "W08-14",
+        "W08-15"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W08-13",
+          "distractors": [
+            "W08-15",
+            "W08-25"
+          ],
+          "prompt": "W08-12"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-15",
+          "distractors": [
+            "W08-13",
+            "W08-08"
+          ],
+          "prompt": "W08-14"
+        },
+        {
+          "type": "fill",
+          "ref": "W08-13",
+          "text": "Dili ko maayo ___.",
+          "answer": "mokanta",
+          "options": [
+            "mokanta",
+            "mosayaw",
+            "mokaon"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W08-15",
+          "text": "Sige, usa lang ka ___.",
+          "answer": "kanta",
+          "options": [
+            "kanta",
+            "sayaw",
+            "adlaw"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-15",
+          "tiles": [
+            "Sige,",
+            "usa lang ka kanta.",
+            "duha"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "usa lang ka kanta."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-13",
+          "tiles": [
+            "Dili ko maayo",
+            "mokanta.",
+            "Lingaw"
+          ],
+          "answers": [
+            [
+              "Dili ko maayo",
+              "mokanta."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Videoke",
+        "text": "Almost every party has a videoke machine that scores your singing. Low scores get laughs, not judgment. Choose a song you know - American classics from the 70s and 80s are very popular."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Meeting guests",
+      "intro": "Cousins, aunts, neighbors - meet them all.",
+      "new": [
+        "W08-16",
+        "W08-17",
+        "W08-18",
+        "W08-19"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W08-17",
+          "distractors": [
+            "W08-19",
+            "W08-25"
+          ],
+          "prompt": "W08-16"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-19",
+          "distractors": [
+            "W08-17",
+            "W03-02"
+          ],
+          "prompt": "W08-18"
+        },
+        {
+          "type": "fill",
+          "ref": "W08-18",
+          "text": "Akong ___.",
+          "answer": "ig-agaw",
+          "options": [
+            "ig-agaw",
+            "igsoon",
+            "manghod"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W08-17",
+          "text": "___ siya?",
+          "answer": "Kinsa",
+          "options": [
+            "Kinsa",
+            "Unsa",
+            "Asa"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-19",
+          "tiles": [
+            "Nalipay ko",
+            "nga nakaila",
+            "nimo.",
+            "Kinsa"
+          ],
+          "answers": [
+            [
+              "Nalipay ko",
+              "nga nakaila",
+              "nimo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-17",
+          "tiles": [
+            "Kinsa",
+            "siya?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Kinsa",
+              "siya?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Ig-agaw",
+        "text": "Filipino families count second and third cousins as close family, and family friends become Tito and Tita (uncle and aunt). You'll meet many people. Nobody expects you to remember every name."
+      }
+    },
+    {
+      "day": 6,
+      "title": "A birthday for Lola",
+      "intro": "Greet Grandma, ask her age, and thank the hosts.",
+      "new": [
+        "W08-10",
+        "W08-11",
+        "W08-20",
+        "W08-21",
+        "W08-22",
+        "W08-23"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W08-22",
+          "distractors": [
+            "W08-21",
+            "W08-15"
+          ],
+          "prompt": "W08-10"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-21",
+          "distractors": [
+            "W08-11",
+            "W08-19"
+          ],
+          "prompt": "W08-20"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-14",
+          "distractors": [
+            "W08-21",
+            "W08-08"
+          ],
+          "prompt": "W08-23"
+        },
+        {
+          "type": "fill",
+          "ref": "W08-11",
+          "text": "Malipayong adlawng natawhan, ___!",
+          "answer": "Lola",
+          "options": [
+            "Lola",
+            "Nanay",
+            "Inday"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W08-21",
+          "text": "Salamat sa ___.",
+          "answer": "pag-imbita",
+          "options": [
+            "pag-imbita",
+            "pag-anhi",
+            "kanta"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-21",
+          "tiles": [
+            "Salamat",
+            "sa pag-imbita.",
+            "kanta"
+          ],
+          "answers": [
+            [
+              "Salamat",
+              "sa pag-imbita."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W08-22",
+          "tiles": [
+            "Pila na ka tuig",
+            "si Lola?",
+            "Kinsa"
+          ],
+          "answers": [
+            [
+              "Pila na ka tuig",
+              "si Lola?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Lolo and Lola",
+        "text": "Grandparents are deeply respected. Greet them first, with a mano. Big birthdays (60, 70, 80) are huge family celebrations with food for everyone in the neighborhood."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three conversations from church, fiesta and party, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W08-D1-04",
+          "distractors": [
+            "W08-02",
+            "W08-25"
+          ],
+          "prompt": "W08-D1-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-D1-06",
+          "distractors": [
+            "W08-08",
+            "W08-13"
+          ],
+          "prompt": "W08-D1-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-25",
+          "distractors": [
+            "W08-08",
+            "W08-13"
+          ],
+          "prompt": "W08-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W08-22",
+          "distractors": [
+            "W08-17",
+            "W08-19"
+          ],
+          "prompt": "W08-D3-04"
+        },
+        {
+          "type": "order",
+          "ref": "W08-D2-04",
+          "tiles": [
+            "Sige!",
+            "Hinay-hinay lang.",
+            "Dili"
+          ],
+          "answers": [
+            [
+              "Sige!",
+              "Hinay-hinay lang."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W08-D1",
+        "W08-D2",
+        "W08-D3"
+      ],
+      "culture": {
+        "title": "Bring something",
+        "text": "When visiting during a fiesta or birthday, families don't expect gifts from you, but bringing a cake or fruit is a kind gesture. Ask Jiana what fits."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 8",
+    "steps": [
+      "Ask Jiana when her town's fiesta is: Kanus-a ang fiesta?",
+      "Ask her: Unsa'y naa sa fiesta? and listen for the food and events.",
+      "Tell her honestly: Dili ko kahibalo mosayaw! and see if she offers to teach you.",
+      "Ask her which song you should sing at videoke.",
+      "Practice saying Malipayong adlawng natawhan for the next family birthday."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W08-X1",
+      "ceb": "| Kanus-a ang fiesta?",
+      "en": "When is the fiesta?",
+      "where": "Mission",
+      "check": ""
+    },
+    {
+      "id": "W08-X2",
+      "ceb": "| Tito, Tita",
+      "en": "Uncle, Aunt (titles)",
+      "where": "Day 5 culture note",
+      "check": ""
+    },
+    {
+      "id": "W08-X3",
+      "ceb": "| Lolo",
+      "en": "Grandpa",
+      "where": "Day 6 culture note",
+      "check": ""
+    }
+  ]
+}

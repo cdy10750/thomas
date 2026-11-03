@@ -1,0 +1,135 @@
+TITLE Hot and Tired
+SUBTITLE Health, heat, and feeling tired
+GOAL Understand when the family checks on you, and tell them how you feel: tired, hot, sleepy, or sick.
+
+C 01 | Nanay | Arriving at the house | Kapoy ka? | Are you tired? | kapoy = tired. The first thing Nanay will ask after a long flight.
+C 02 | Thomas | Arriving at the house | Oo, kapoy kaayo ko. | Yes, I'm very tired. | kaayo = very.
+C 03 | Tatay | Outside the house | Init kaayo, no? | It's really hot, isn't it? | init = hot. no? at the end means 'right?'.
+C 04 | Thomas | Outside the house | Oo, init kaayo! | Yes, it's very hot! | Bohol is hot and humid all year. This conversation never gets old.
+C 05 | Inday | Living room | Gusto ka og electric fan? | Do you want an electric fan? | Everyone says 'electric fan' in English. gusto = want.
+C 06 | Thomas | Living room | Oo, palihug. | Yes, please. | Short and polite. Works for any offer.
+C 07 | Nanay | Living room | Pahulay sa. | Rest for a while. | pahulay = rest. sa = first, for now.
+C 08 | Thomas | Living room | Sige, mopahulay sa ko. | Okay, I'll rest for a bit. | mo- = will (future). | check: Natural?
+C 09 | Jiana | Video call | Okay ra ka? | Are you okay? | Mixed English: okay ra = just fine.
+C 10 | Thomas | Video call | Okay ra ko. | I'm okay. | The easy answer. Use it only if it's true.
+C 11 | Thomas | Any conversation | Sakit akong ulo. | I have a headache. | sakit = hurts, sick. ulo = head.
+C 12 | Thomas | Any conversation | Sakit akong tiyan. | My stomach hurts. | tiyan = stomach. New food and water can do this on the first days.
+C 13 | Nanay | Living room | Naa kay tambal? | Do you have medicine? | tambal = medicine.
+C 14 | Thomas | Living room | Wala. Naa moy tambal? | No. Do you have any medicine? | moy = you (all) have. Asking for help is fine.
+C 15 | Kuya | Living room | Gihilantan ka? | Do you have a fever? | hilanat = fever.
+C 16 | Thomas | Living room | Dili, kapoy lang ko. | No, I'm just tired. | Dili = no / not. lang = just.
+C 17 | Nanay | Living room | Inom og daghang tubig. | Drink lots of water. | daghang = a lot of.
+C 18 | Dodong | Beach | Nasunog ka sa adlaw! | You got sunburned! | adlaw = sun (also 'day'). nasunog = burned.
+C 19 | Thomas | Beach | Pula na kaayo ko! | I'm so red! | pula = red. Expect laughter. | check: Natural?
+C 20 | Thomas | Living room | Gitugnaw ko. | I'm cold. | tugnaw = cold. Useful in strong air-conditioning, malls, and buses.
+C 21 | Nanay | Bedroom | Katulog na. | Go to sleep now. | tulog = sleep.
+C 22 | Thomas | Bedroom | Katulgon na ko. | I'm sleepy. | katulgon = sleepy.
+C 23 | Jiana | Video call | Jet lag pa ka? | Are you still jet-lagged? | pa = still. English words like jet lag stay in English.
+C 24 | Thomas | Video call | Oo, gamay pa. | Yes, still a little. | gamay = a little.
+C 25 | Tatay | Living room | Maayo na ka? | Are you better now? | maayo = good, well. na = now, already.
+
+D 1 | Just arrived | Arriving at the house
+L 01
+L 02
+L 07
+L 08
+L 17
+L Thomas | Sige, Nay. Salamat. | Okay, Mom. Thanks.
+D 2 | Jet lag on video | Video call
+L 23
+L 24
+L 09
+L 11
+L Jiana | Inom og tubig, unya katulog na. | Drink water, then go to sleep.
+L Thomas | Sige. Maayong gabii, Jiana. | Okay. Good night, Jiana.
+D 3 | A hot afternoon | Living room
+L Inday | Init kaayo, no? | It's really hot, isn't it?
+L 04
+L 05
+L 06
+L Inday | Okay ra ka, Thomas? | Are you okay, Thomas?
+L 10
+
+DAY 1 | Tired? | After the flight everyone will ask if you're tired. Answer honestly.
+CULTURE Being looked after | Expect the family to watch over you closely: if you look tired, hot or quiet, someone will ask. Answering honestly lets them help you, and they want to.
+NEW 01 02 09 10
+SCENE 01 | Arriving at the house | Church | Market
+RESP 01 > 02 | W03-12 W02-08
+RESP 09 > 10 | 02 W01-11
+FILL 02 | kapoy | init; busog
+FILL 10 | Okay | Kapoy; Init
+ORDER 02 | Oo, / kapoy kaayo ko. | extra: init
+ORDER 10 | Okay / ra ko. | extra: ka
+
+DAY 2 | The heat | Talk about the weather everyone talks about, and accept the fan.
+CULTURE Init kaayo! | Bohol is hot and humid all year, with a hotter dry season from March to May. Small talk about the heat is like small talk about the weather at home. Light cotton clothes and lots of water help.
+NEW 03 04 05 06
+RESP 03 > 04 | 02 W02-08
+RESP 05 > 06 | 04 W02-13
+FILL 03 | Init | Kapoy; Lami
+FILL 05 | electric fan | tubig; tambal
+ORDER 04 | Oo, / init kaayo! | extra: kapoy
+ORDER 03 | Init kaayo, / no? | extra: ka
+
+DAY 3 | Rest and sleep | Accept the invitation to rest, and say you're sleepy.
+CULTURE Siesta | In the hottest part of the afternoon many people rest or nap. If Nanay says Pahulay sa, it's a kind offer, and taking it is polite.
+NEW 07 08 21 22
+RESP 07 > 08 | 22 04
+RESP 21 > W01-23 | 04 02
+RESPC It's late and your eyes are closing. > 22 | 06 04
+FILL 07 | Pahulay | Kaon; Inom
+FILL 22 | Katulgon | Kapoy; Busog
+ORDER 08 | Sige, / mopahulay sa ko. | extra: init
+ORDER 21 | Katulog / na. | extra: pa
+
+DAY 4 | Not feeling well | Say where it hurts and ask for medicine.
+CULTURE Tambal | Families often have their own remedies: ginger tea (salabat), a balm called Vicks or efficasent oil rubbed on the stomach or forehead. Accept the care - it's a way of showing love.
+NEW 11 12 13 14
+RESP 13 > 14 | 10 06
+RESPC Your head is pounding after a long day in the sun. > 11 | 12 06
+RESPC You ate something new and your stomach feels bad. > 12 | 11 04
+FILL 11 | ulo | tiyan; tubig
+FILL 13 | tambal | tubig; anak
+ORDER 11 | Sakit / akong ulo. | extra: tiyan
+ORDER 14 | Wala. / Naa moy tambal? | extra: Oo
+
+DAY 5 | Fever, water, and feeling better | Answer the 'are you sick?' questions and tell them you're better.
+CULTURE Drink water - the right kind | Drink bottled or filtered water, not tap water. Families usually have a big water dispenser. Asking Pwede ko mangayo og tubig? is always fine.
+NEW 15 16 17 25
+RESP 15 > 16 | 10 14
+RESP 25 > D1-06 | 02 12
+FILL 16 | lang | ra; pa
+FILL 17 | daghang | gamay; init
+ORDER 16 | Dili, / kapoy lang ko. | extra: Oo
+ORDER 17 | Inom og / daghang tubig. | extra: kan-on
+
+DAY 6 | Sun, cold, and jet lag | Sunburn at the beach, cold air-conditioning, and jet lag on video calls.
+CULTURE Hot outside, freezing inside | Malls, buses and some homes use very strong air-conditioning. Bring a light jacket. Gitugnaw ko is a sentence you may need on a 10-hour bus ride.
+NEW 18 19 20 23 24
+SCENE 18 | Beach | Church | Dinner table
+RESP 18 > 19 | 20 10
+RESP 23 > 24 | 19 22
+RESPC The air-conditioning in the bus is blowing straight at you. > 20 | 04 19
+FILL 20 | Gitugnaw | Gigutom; Kapoy
+FILL 24 | gamay | daghan; init
+ORDER 19 | Pula / na kaayo ko! | extra: init
+ORDER 23 | Jet lag / pa ka? | extra: na
+
+DAY 7 | Putting it together | No new phrases. Three conversations about how you feel, then your mission.
+DIALOGUES 1 2 3
+CULTURE Taking care of yourself is polite | If you get sick, the whole family worries. Drinking water, resting, and telling them how you feel early is the considerate thing to do.
+RESP D2-05 > D2-06 | 24 11
+RESP D3-01 > 04 | 02 19
+RESP D3-05 > 10 | 06 16
+ORDER D2-06 | Sige. / Maayong gabii, Jiana. | extra: Kapoy
+ORDER D1-06 | Sige, Nay. / Salamat. | alt: Salamat. / Sige, Nay.
+
+MISSION Video-call mission: Week 4
+STEP Ask Jiana: Kapoy ka? and Init ba diha? (Is it hot there?)
+STEP Tell her how you feel today with one sentence: kapoy, init, gitugnaw, or katulgon.
+STEP Pretend you have a headache and say Sakit akong ulo. Ask her what remedy her family would give you.
+STEP When she asks Okay ra ka? answer honestly.
+STEP Say goodnight with: Katulgon na ko. Maayong gabii!
+
+X | Init ba diha? | Is it hot there? | Mission | check: Natural question on a video call?
+X | salabat | Ginger tea | Day 4 culture note

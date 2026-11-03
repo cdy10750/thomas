@@ -1,0 +1,994 @@
+{
+  "week": 11,
+  "title": "Video Calls",
+  "subtitle": "Talking with Jiana on video",
+  "goal": "Handle a whole video call in Bisaya: connection problems, daily news, family greetings, and a sweet goodbye.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W11-01",
+      "ceb": "Madungog ko nimo?",
+      "en": "Can you hear me?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "dungog = hear.",
+      "check": ""
+    },
+    {
+      "id": "W11-02",
+      "ceb": "Oo, madungog tika.",
+      "en": "Yes, I can hear you.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "tika = I ... you.",
+      "check": ""
+    },
+    {
+      "id": "W11-03",
+      "ceb": "Wala ko kadungog.",
+      "en": "I can't hear you.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Same pattern as Wala ko kasabot.",
+      "check": ""
+    },
+    {
+      "id": "W11-04",
+      "ceb": "Hinay ang signal.",
+      "en": "The signal is weak.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "hinay = slow, weak.",
+      "check": ""
+    },
+    {
+      "id": "W11-05",
+      "ceb": "Nag-freeze ang video.",
+      "en": "The video froze.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "English tech words get Bisaya endings.",
+      "check": ""
+    },
+    {
+      "id": "W11-06",
+      "ceb": "Tawag ko balik.",
+      "en": "I'll call back.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "tawag = call. balik = again, back.",
+      "check": ""
+    },
+    {
+      "id": "W11-07",
+      "ceb": "Nalipay ko nga makita tika.",
+      "en": "I'm happy to see you.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "makita = see.",
+      "check": ""
+    },
+    {
+      "id": "W11-08",
+      "ceb": "Mingaw na ko nimo.",
+      "en": "I miss you.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "mingaw = miss (someone), also 'lonely'.",
+      "check": ""
+    },
+    {
+      "id": "W11-09",
+      "ceb": "Mingaw pud ko nimo.",
+      "en": "I miss you too.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "pud = too.",
+      "check": ""
+    },
+    {
+      "id": "W11-10",
+      "ceb": "Unsa'y imong gibuhat karon?",
+      "en": "What are you doing now?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "You heard this fast in Week 1. Now it's yours.",
+      "check": ""
+    },
+    {
+      "id": "W11-11",
+      "ceb": "Nagtrabaho ko.",
+      "en": "I'm working.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "nag- = doing right now.",
+      "check": ""
+    },
+    {
+      "id": "W11-12",
+      "ceb": "Nagluto ko.",
+      "en": "I'm cooking.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "luto = cook.",
+      "check": ""
+    },
+    {
+      "id": "W11-13",
+      "ceb": "Unsa'y imong gikaon?",
+      "en": "What did you eat?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "gi- = what was (done).",
+      "check": ""
+    },
+    {
+      "id": "W11-14",
+      "ceb": "Unsa'y balita?",
+      "en": "What's new?",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "balita = news.",
+      "check": ""
+    },
+    {
+      "id": "W11-15",
+      "ceb": "Wala ra man. Ingon gihapon.",
+      "en": "Nothing much. Same as usual.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "ingon gihapon = still the same.",
+      "check": ""
+    },
+    {
+      "id": "W11-16",
+      "ceb": "Kumusta si Nanay?",
+      "en": "How's Mom?",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Ask about each family member by title.",
+      "check": ""
+    },
+    {
+      "id": "W11-17",
+      "ceb": "Maayo ra sila. Nangumusta sila nimo.",
+      "en": "They're fine. They say hi to you.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "sila = they. nangumusta = sent greetings.",
+      "check": ""
+    },
+    {
+      "id": "W11-18",
+      "ceb": "Ikumusta ko nila.",
+      "en": "Say hi to them for me.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Use it at the end of every call.",
+      "check": ""
+    },
+    {
+      "id": "W11-19",
+      "ceb": "Nanay, si Thomas!",
+      "en": "Mom, it's Thomas!",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "Jiana calls her mother to the phone.",
+      "check": ""
+    },
+    {
+      "id": "W11-20",
+      "ceb": "Hello, Nay! Kumusta ka?",
+      "en": "Hello, Mom! How are you?",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Short and warm. Nanay will be delighted.",
+      "check": ""
+    },
+    {
+      "id": "W11-21",
+      "ceb": "Ugma na lang ta mag-istorya.",
+      "en": "Let's talk tomorrow.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "istorya = chat, story.",
+      "check": ""
+    },
+    {
+      "id": "W11-22",
+      "ceb": "Sige, ugma. Ayo-ayo.",
+      "en": "Okay, tomorrow. Take care.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "ayo-ayo = take care.",
+      "check": "Natural goodbye?"
+    },
+    {
+      "id": "W11-23",
+      "ceb": "Gihigugma tika.",
+      "en": "I love you.",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "Often said in English too - but Bisaya means more.",
+      "check": ""
+    },
+    {
+      "id": "W11-24",
+      "ceb": "Gihigugma pud tika.",
+      "en": "I love you too.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Practice it until it's smooth.",
+      "check": ""
+    },
+    {
+      "id": "W11-25",
+      "ceb": "Kita ka nako?",
+      "en": "Can you see me?",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "kita = see.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W11-D1",
+      "title": "Bad connection",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W11-01"
+        },
+        {
+          "chunk": "W11-03"
+        },
+        {
+          "chunk": "W11-04"
+        },
+        {
+          "chunk": "W11-05"
+        },
+        {
+          "chunk": "W11-06"
+        },
+        {
+          "id": "W11-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, maghulat ko.",
+          "en": "Okay, I'll wait.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W11-D2",
+      "title": "How was your day?",
+      "scene": "Video call",
+      "lines": [
+        {
+          "id": "W11-D2-01",
+          "speaker": "Jiana",
+          "ceb": "Hi, love! Kumusta ang imong adlaw?",
+          "en": "Hi, love! How was your day?",
+          "check": ""
+        },
+        {
+          "id": "W11-D2-02",
+          "speaker": "Thomas",
+          "ceb": "Okay ra. Kapoy gamay.",
+          "en": "Okay. A little tired.",
+          "check": ""
+        },
+        {
+          "chunk": "W11-13"
+        },
+        {
+          "id": "W11-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Nagluto ko og adobo!",
+          "en": "I cooked adobo!",
+          "check": ""
+        },
+        {
+          "id": "W11-D2-05",
+          "speaker": "Jiana",
+          "ceb": "Wow! Lami?",
+          "en": "Wow! Was it good?",
+          "check": ""
+        },
+        {
+          "id": "W11-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Dili pareha sa luto ni Nanay.",
+          "en": "Not like Mom's cooking.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W11-D3",
+      "title": "Saying good night",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W11-08"
+        },
+        {
+          "chunk": "W11-09"
+        },
+        {
+          "chunk": "W11-21"
+        },
+        {
+          "chunk": "W11-22"
+        },
+        {
+          "chunk": "W11-23"
+        },
+        {
+          "chunk": "W11-24"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Can you hear me?",
+      "intro": "Start the call and check the connection.",
+      "new": [
+        "W11-01",
+        "W11-02",
+        "W11-03",
+        "W11-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-02",
+          "distractors": [
+            "W11-03",
+            "W01-22"
+          ],
+          "prompt": "W11-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-03",
+          "distractors": [
+            "W11-02",
+            "W11-25"
+          ],
+          "context": "Jiana's voice keeps cutting out."
+        },
+        {
+          "type": "respond",
+          "answer": "W11-25",
+          "distractors": [
+            "W11-02",
+            "W11-03"
+          ],
+          "context": "Jiana's screen shows only her ceiling. You want to know if she sees you."
+        },
+        {
+          "type": "fill",
+          "ref": "W11-03",
+          "text": "Wala ko ___.",
+          "answer": "kadungog",
+          "options": [
+            "kadungog",
+            "kasabot",
+            "kakita"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W11-02",
+          "text": "Oo, ___ tika.",
+          "answer": "madungog",
+          "options": [
+            "madungog",
+            "makita",
+            "mokaon"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-02",
+          "tiles": [
+            "Oo,",
+            "madungog tika.",
+            "Wala"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "madungog tika."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-25",
+          "tiles": [
+            "Kita ka",
+            "nako?",
+            "Wala"
+          ],
+          "answers": [
+            [
+              "Kita ka",
+              "nako?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Calling across time zones",
+        "text": "Most of your calls happen across a 12-16 hour time difference. Set fixed call times that suit both of you, and start each call with the right greeting for HER time of day."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Technical trouble",
+      "intro": "Weak signal, frozen video, call back.",
+      "new": [
+        "W11-04",
+        "W11-05",
+        "W11-06"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-05",
+          "distractors": [
+            "W11-02",
+            "W11-25"
+          ],
+          "prompt": "W11-04"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-D1-06",
+          "distractors": [
+            "W11-03",
+            "W11-02"
+          ],
+          "prompt": "W11-06"
+        },
+        {
+          "type": "fill",
+          "ref": "W11-04",
+          "text": "Hinay ang ___.",
+          "answer": "signal",
+          "options": [
+            "signal",
+            "video",
+            "adlaw"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W11-06",
+          "text": "Tawag ko ___.",
+          "answer": "balik",
+          "options": [
+            "balik",
+            "ugma",
+            "pud"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-05",
+          "tiles": [
+            "Nag-freeze",
+            "ang video.",
+            "signal"
+          ],
+          "answers": [
+            [
+              "Nag-freeze",
+              "ang video."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-06",
+          "tiles": [
+            "Tawag ko",
+            "balik.",
+            "ugma"
+          ],
+          "answers": [
+            [
+              "Tawag ko",
+              "balik."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Signal in the province",
+        "text": "Internet in rural Bohol can be slow, especially in rain. A frozen screen is normal. Keep it light - joking about the signal together is part of long-distance love."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Missing you",
+      "intro": "The sweet part of every call.",
+      "new": [
+        "W11-07",
+        "W11-08",
+        "W11-09",
+        "W11-23",
+        "W11-24"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-09",
+          "distractors": [
+            "W11-24",
+            "W11-07"
+          ],
+          "prompt": "W11-08"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-24",
+          "distractors": [
+            "W11-09",
+            "W11-02"
+          ],
+          "prompt": "W11-23"
+        },
+        {
+          "type": "fill",
+          "ref": "W11-08",
+          "text": "___ na ko nimo.",
+          "answer": "Mingaw",
+          "options": [
+            "Mingaw",
+            "Lipay",
+            "Kapoy"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W11-24",
+          "text": "Gihigugma ___ tika.",
+          "answer": "pud",
+          "options": [
+            "pud",
+            "ra",
+            "na"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-24",
+          "tiles": [
+            "Gihigugma",
+            "pud tika.",
+            "Mingaw"
+          ],
+          "answers": [
+            [
+              "Gihigugma",
+              "pud tika."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-07",
+          "tiles": [
+            "Nalipay ko",
+            "nga makita tika.",
+            "Mingaw"
+          ],
+          "answers": [
+            [
+              "Nalipay ko",
+              "nga makita tika."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Saying it in Bisaya",
+        "text": "Jiana hears 'I love you' in English from movies and songs. Hearing Gihigugma tika from you, in her own language, is different. Use it."
+      }
+    },
+    {
+      "day": 4,
+      "title": "What are you doing?",
+      "intro": "Tell her what you're doing and what you ate.",
+      "new": [
+        "W11-10",
+        "W11-11",
+        "W11-12",
+        "W11-13"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-11",
+          "distractors": [
+            "W11-12",
+            "W11-09"
+          ],
+          "prompt": "W11-10"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-24",
+          "distractors": [
+            "W11-11",
+            "W11-09"
+          ],
+          "prompt": "W11-13"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-12",
+          "distractors": [
+            "W11-11",
+            "W11-09"
+          ],
+          "context": "You're making dinner while on the call."
+        },
+        {
+          "type": "fill",
+          "ref": "W11-11",
+          "text": "___ ko.",
+          "answer": "Nagtrabaho",
+          "options": [
+            "Nagtrabaho",
+            "Nagluto",
+            "Nagkaon"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W11-13",
+          "text": "Unsa'y imong ___?",
+          "answer": "gikaon",
+          "options": [
+            "gikaon",
+            "gibuhat",
+            "gusto"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-10",
+          "tiles": [
+            "Unsa'y imong",
+            "gibuhat karon?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Unsa'y imong",
+              "gibuhat karon?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-12",
+          "tiles": [
+            "Nagluto",
+            "ko.",
+            "Nagtrabaho"
+          ],
+          "answers": [
+            [
+              "Nagluto",
+              "ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Nag- means 'now'",
+        "text": "nag- + action = doing it now: nagtrabaho (working), nagluto (cooking), nagkaon (eating), nagtuon (studying - like you in Week 1!)."
+      }
+    },
+    {
+      "day": 5,
+      "title": "News and family",
+      "intro": "Ask what's new and how everyone is.",
+      "new": [
+        "W11-14",
+        "W11-15",
+        "W11-16",
+        "W11-17"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-16",
+          "distractors": [
+            "W11-14",
+            "W11-09"
+          ],
+          "prompt": "W11-15"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-18",
+          "distractors": [
+            "W11-16",
+            "W11-09"
+          ],
+          "prompt": "W11-17"
+        },
+        {
+          "type": "fill",
+          "ref": "W11-16",
+          "text": "Kumusta si ___?",
+          "answer": "Nanay",
+          "options": [
+            "Nanay",
+            "Inday",
+            "Thomas"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W11-15",
+          "text": "Wala ra man. Ingon ___.",
+          "answer": "gihapon",
+          "options": [
+            "gihapon",
+            "ugma",
+            "balik"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-16",
+          "tiles": [
+            "Kumusta",
+            "si Nanay?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Kumusta",
+              "si Nanay?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-14",
+          "tiles": [
+            "Unsa'y",
+            "balita?",
+            "Pila"
+          ],
+          "answers": [
+            [
+              "Unsa'y",
+              "balita?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Asking about everyone",
+        "text": "A good call includes asking about each family member: Kumusta si Nanay? si Tatay? si Inday? Remembering small news - Dodong's exam, Lola's health - means a lot."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Hi to the family, and goodbye",
+      "intro": "Greet Nanay when she appears, send greetings, and end the call.",
+      "new": [
+        "W11-18",
+        "W11-19",
+        "W11-20",
+        "W11-21",
+        "W11-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-20",
+          "distractors": [
+            "W11-18",
+            "W11-16"
+          ],
+          "prompt": "W11-19"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-22",
+          "distractors": [
+            "W11-20",
+            "W11-24"
+          ],
+          "prompt": "W11-21"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-18",
+          "distractors": [
+            "W11-22",
+            "W11-16"
+          ],
+          "context": "The call is ending and you want the family to know you're thinking of them."
+        },
+        {
+          "type": "fill",
+          "ref": "W11-22",
+          "text": "Sige, ___. Ayo-ayo.",
+          "answer": "ugma",
+          "options": [
+            "ugma",
+            "gabii",
+            "karon"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W11-20",
+          "text": "___, Nay! Kumusta ka?",
+          "answer": "Hello",
+          "options": [
+            "Hello",
+            "Mano",
+            "Unsa"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-22",
+          "tiles": [
+            "Sige, ugma.",
+            "Ayo-ayo.",
+            "Mingaw"
+          ],
+          "answers": [
+            [
+              "Sige, ugma.",
+              "Ayo-ayo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W11-18",
+          "tiles": [
+            "Ikumusta ko",
+            "nila.",
+            "si"
+          ],
+          "answers": [
+            [
+              "Ikumusta ko",
+              "nila."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Ending the call",
+        "text": "Filipino goodbyes can take a while. Plan the next call (Ugma?), send greetings to the family, and say goodbye more than once. Ayo-ayo and Amping are both 'take care'."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three complete video-call scenes, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W11-D2-02",
+          "distractors": [
+            "W11-11",
+            "W11-09"
+          ],
+          "prompt": "W11-D2-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-D2-06",
+          "distractors": [
+            "W11-22",
+            "W11-09"
+          ],
+          "prompt": "W11-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-D1-06",
+          "distractors": [
+            "W11-02",
+            "W11-24"
+          ],
+          "prompt": "W11-06"
+        },
+        {
+          "type": "respond",
+          "answer": "W11-22",
+          "distractors": [
+            "W11-24",
+            "W11-18"
+          ],
+          "prompt": "W11-21"
+        },
+        {
+          "type": "order",
+          "ref": "W11-D2-04",
+          "tiles": [
+            "Nagluto ko",
+            "og adobo!",
+            "Nagtrabaho"
+          ],
+          "answers": [
+            [
+              "Nagluto ko",
+              "og adobo!"
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W11-D1",
+        "W11-D2",
+        "W11-D3"
+      ],
+      "culture": {
+        "title": "Make it a routine",
+        "text": "Use the same opening and closing phrases on every call. Repetition is how these become automatic - and Jiana will start answering you in Bisaya."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 11",
+    "steps": [
+      "Do a full call in Bisaya for the first 5 minutes - no English unless you're stuck.",
+      "Open with: Madungog ko nimo? Kita ka nako?",
+      "Tell her what you're doing and what you ate, using nag- and gi- phrases.",
+      "Ask about two family members by title.",
+      "End with: Ikumusta ko nila. Gihigugma tika. Sige, ugma. Ayo-ayo."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W11-X1",
+      "ceb": "| Amping!",
+      "en": "Take care!",
+      "where": "Day 6 culture note",
+      "check": ""
+    },
+    {
+      "id": "W11-X2",
+      "ceb": "| Kumusta ang imong adlaw?",
+      "en": "How was your day?",
+      "where": "Dialogue 2",
+      "check": ""
+    }
+  ]
+}

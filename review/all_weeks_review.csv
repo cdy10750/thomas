@@ -1,0 +1,502 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+1,W01-01,"Maayong buntag, Thomas!","Good morning, Thomas!",Nanay,Home - morning,Learner tip: Maayong = good (as a greeting). Buntag = morning. Use it until about 11 a.m. | QUESTION FOR REVIEWER: Is it natural for Nanay to greet him by first name like this?
+1,W01-02,"Maayong buntag pud, Nay.","Good morning to you too, Mom.",Thomas,Home - morning,"Learner tip: pud = too / also. Nay is short for Nanay (Mom). Many families also say Ma. | QUESTION FOR REVIEWER: In Bohol, which is most natural: pud, pod, or sad?"
+1,W01-03,Maayong hapon!,Good afternoon!,Tatay,Home - afternoon,Learner tip: Hapon = afternoon (about 1 p.m. until dark). Around noon people say Maayong udto.
+1,W01-04,Maayong gabii!,Good evening!,Inday,Home - evening,"Learner tip: Gabii = evening / night. Used as a hello after dark. For bedtime, many families just say 'Good night' in English. | QUESTION FOR REVIEWER: At bedtime, do families say 'Maayong gabii' or the English 'Good night'?"
+1,W01-05,"Kumusta ka, Thomas?","How are you, Thomas?",Nanay,Arriving at the house,Learner tip: Kumusta comes from Spanish 'como esta'. ka = you.
+1,W01-06,Maayo man ko. Ikaw?,I'm good. And you?,Thomas,Arriving at the house,Learner tip: ko = I. man is a small softening word - it makes you sound relaxed and friendly. Ikaw = you (when it stands alone). | QUESTION FOR REVIEWER: Or is 'Maayo ra man ko' more common as a reply?
+1,W01-07,Maayo ra pud.,I'm fine too.,Nanay,Arriving at the house,"Learner tip: ra = just. 'Maayo ra' = just fine, doing okay. | QUESTION FOR REVIEWER: Or 'Maayo ra man pud'?"
+1,W01-08,"Mano, Nay.","(Asking for the blessing) Your hand, Mom.",Thomas,Arriving at the house,"Learner tip: Say this as you take an elder's right hand and touch the back of it to your forehead. See today's culture note. | QUESTION FOR REVIEWER: In Bohol, do people say 'Mano, Nay' or 'Mano po, Nay' (with Tagalog 'po')? Or just reach for the hand silently?"
+1,W01-09,Kaloy-an ka sa Ginoo.,God bless you.,Nanay,Arriving at the house,Learner tip: (lit. 'May the Lord have mercy on you') What elders say after you do the mano. Often shortened to 'Kaloy-an ka.'
+1,W01-10,Maayong pag-abot sa Bohol!,Welcome to Bohol!,Tatay,Airport arrival,"Learner tip: (lit. 'Good arrival in Bohol') pag-abot = arrival. sa = in / at / to. | QUESTION FOR REVIEWER: Would Tatay say this, or just 'Welcome!' in English?"
+1,W01-11,Ako si Thomas.,I'm Thomas.,Thomas,Meeting relatives,"Learner tip: si goes before a person's name. You'll hear it everywhere: si Jiana, si Nanay."
+1,W01-12,Taga-asa ka?,Where are you from?,Kuya,Meeting relatives,Learner tip: taga- = from (a place). asa = where.
+1,W01-13,Taga-America ko.,I'm from America.,Thomas,Meeting relatives,"Learner tip: Swap in your state or city: Taga-Texas ko. Taga-Chicago ko. | QUESTION FOR REVIEWER: Most natural spelling/word: Taga-America, Taga-Amerika, or Taga-States?"
+1,W01-14,Kabalo ka mag-Bisaya?,Can you speak Bisaya?,Dodong,Family gathering,Learner tip: kabalo = know how to. In Bohol people call their language Bisaya (Binisaya) rather than 'Cebuano'. | QUESTION FOR REVIEWER: kabalo vs kahibalo - which does a Bohol family use more?
+1,W01-15,Gamay ra. Nagtuon pa ko.,Just a little. I'm still learning.,Thomas,Family gathering,"Learner tip: gamay ra = just a little. pa = still. Nagtuon = studying / learning. | QUESTION FOR REVIEWER: Is 'Nagtuon pa ko' natural here, or 'Nagkat-on pa ko'?"
+1,W01-16,Unsa?,What?,Thomas,Any conversation,"Learner tip: Your number-one survival word. Say it with a rising, friendly tone. 'Unsa man?' sounds even softer. | QUESTION FOR REVIEWER: Is plain 'Unsa?' polite enough toward his girlfriend's parents, or should he say 'Unsa man, Nay?'"
+1,W01-17,"Hinay-hinay lang, palihug.","Slowly, please.",Thomas,Any conversation,"Learner tip: hinay = slow. Doubled, it means nice and slow. palihug = please."
+1,W01-18,Wala ko kasabot.,I don't understand.,Thomas,Any conversation,Learner tip: wala = didn't / not. kasabot = understand. In fast speech you'll hear 'Wa ko kasabot.'
+1,W01-19,"Balika, palihug.","Say it again, please.",Thomas,Any conversation,Learner tip: From balik = again / return. | QUESTION FOR REVIEWER: Balika vs Usba - which is more natural for 'say it again'?
+1,W01-20,Unsa'y English ana?,What's that in English?,Thomas,Video call,"Learner tip: ana = that (what was just said). Families mix English into Bisaya all the time, so this question is completely natural."
+1,W01-21,Nakasabot ka?,Did you understand?,Jiana,Video call,Learner tip: Same root as kasabot. Expect to hear this one a lot.
+1,W01-22,"Oo, nakasabot ko.","Yes, I understood.",Thomas,Video call,Learner tip: Oo = yes. Note: nakasabot ko (I understood) but wala ko kasabot (I didn't understand).
+1,W01-23,"Sige, salamat.","Okay, thanks.",Thomas,Any conversation,Learner tip: Sige = okay / sure / go ahead. One of the most useful words in Bisaya.
+1,W01-24,Salamat kaayo.,Thank you very much.,Thomas,Dinner table,Learner tip: kaayo = very.
+1,W01-25,Walay sapayan.,You're welcome.,Nanay,Dinner table,"Learner tip: (lit. 'It's nothing / no problem') Many people also just say 'Welcome!' in English. | QUESTION FOR REVIEWER: Is 'Walay sapayan' still common, or do most families say 'Welcome' / 'Way problema'?"
+1,W01-D1-06,"Sulod, sulod!","Come in, come in!",Nanay,Arriving at the house,Learner tip: Dialogue: Arriving at Jiana's house
+1,W01-D2-01,"Maayong buntag diri, Thomas! Maayong gabii diha!","Good morning here, Thomas! Good evening there!",Jiana,Video call,Learner tip: Dialogue: Morning video call | QUESTION FOR REVIEWER: diri / diha (here / there) natural in this joke about the time difference?
+1,W01-D2-02,"Maayong gabii, Jiana! Kumusta ka?","Good evening, Jiana! How are you?",Thomas,Video call,Learner tip: Dialogue: Morning video call
+1,W01-D2-03,Maayo ra man. Unsa'y imong gibuhat karon?,I'm fine. What are you doing now?,Jiana,Video call,"Learner tip: Dialogue: Morning video call | QUESTION FOR REVIEWER: Should be spoken at normal, fast-ish speed."
+1,W01-D2-04,"Unsa? Hinay-hinay lang, palihug.","What? Slowly, please.",Thomas,Video call,Learner tip: Dialogue: Morning video call
+1,W01-D2-05,Unsa'y... imong... gibuhat... karon?,What... are you... doing... now?,Jiana,Video call,"Learner tip: Dialogue: Morning video call | QUESTION FOR REVIEWER: Same sentence, said slowly with pauses."
+1,W01-D2-06,Wala ko kasabot. Unsa'y English ana?,I don't understand. What's that in English?,Thomas,Video call,Learner tip: Dialogue: Morning video call
+1,W01-D2-07,'What are you doing now?' Nakasabot ka?,'What are you doing now?' Did you understand?,Jiana,Video call,Learner tip: Dialogue: Morning video call
+1,W01-D2-08,"Oo, nakasabot ko. Salamat kaayo!","Yes, I understood. Thank you very much!",Thomas,Video call,Learner tip: Dialogue: Morning video call
+1,W01-D2-09,"Okay ra. Hinay-hinay lang ta, ha?","It's okay. We'll take it slow, okay?",Jiana,Video call,"Learner tip: Dialogue: Morning video call | QUESTION FOR REVIEWER: Is 'Hinay-hinay lang ta, ha?' natural for 'we'll take it slow'?"
+1,W01-D3-01,"Maayong hapon, Thomas!","Good afternoon, Thomas!",Inday,Family gathering,Learner tip: Dialogue: Inday at the family party
+1,W01-D3-02,"Maayong hapon pud, Inday.","Good afternoon to you too, Inday.",Thomas,Family gathering,Learner tip: Dialogue: Inday at the family party | QUESTION FOR REVIEWER: Is it natural for him to call Jiana's younger sister 'Inday'?
+1,W01-D3-03,Kabalo ka mag-Bisaya?,Can you speak Bisaya?,Inday,Family gathering,Learner tip: Dialogue: Inday at the family party
+1,W01-D3-05,Wow! Maayo man diay!,Wow! That's great!,Inday,Family gathering,Learner tip: Dialogue: Inday at the family party | QUESTION FOR REVIEWER: diay = expresses surprise. Natural?
+1,W01-D3-06,"Salamat, Inday!","Thanks, Inday!",Thomas,Family gathering,Learner tip: Dialogue: Inday at the family party
+1,W01-05-ALT2,"Thomas, kumusta ka?","How are you, Thomas?",Nanay,Arriving at the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 2 word-order exercise. Is it natural? (punctuation is ignored)
+1,W01-17-ALT2,"Palihug, hinay-hinay lang.","Slowly, please.",Thomas,Any conversation,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+1,W01-19-ALT2,"Palihug, balika.","Say it again, please.",Thomas,Any conversation,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+1,W01-D2-02-ALT2,"Jiana, maayong gabii, kumusta ka?","Good evening, Jiana! How are you?",Thomas,Video call,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+1,W01-D2-04-ALT2,"Unsa? Palihug, hinay-hinay lang.","What? Slowly, please.",Thomas,Video call,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+1,W01-X1,Maayong udto!,Good noon! (greeting around midday),"(text only, no audio)",Day 1 culture note,
+1,W01-X2,Maajong buntag!,"Good morning! (Bohol accent, y -> j)","(text only, no audio)",Day 1 culture note,QUESTION FOR REVIEWER: Is this description of the Bohol accent accurate and not offensive?
+1,W01-X3,"Mano, Tay.","(Asking for the blessing) Your hand, Dad.","(text only, no audio)",Day 3 culture note,
+1,W01-X4,Nagtuon ko og Bisaya.,I'm studying Bisaya.,"(text only, no audio)",Day 4 culture note,
+1,W01-X5,"Bisaya lang, hinay-hinay lang.","Just Bisaya, slowly.","(text only, no audio)",Day 5 culture note,QUESTION FOR REVIEWER: Natural way to ask people not to switch to English?
+1,W01-X6,"Okay ra, hinay-hinay lang ta.","It's okay, let's take it slow.","(text only, no audio)",Day 6 culture note,
+2,W02-01,"Kaon na, Thomas!","Come and eat, Thomas!",Nanay,Dinner table,Learner tip: Kaon = eat. na = now. You will hear this at every single meal.
+2,W02-02,"Sige, Nay. Moadto na ko.","Okay, Mom. I'm coming.",Thomas,Dinner table,Learner tip: moadto = go (there). na ko = now I... | QUESTION FOR REVIEWER: Natural reply when called to the table?
+2,W02-03,Kaon pa!,Eat some more!,Tatay,Dinner table,Learner tip: pa = more / still. Hosts keep offering. It's how they show love.
+2,W02-04,Busog na ko.,I'm full now.,Thomas,Dinner table,Learner tip: busog = full (after eating).
+2,W02-05,Gamay ra imong gikaon!,You only ate a little!,Nanay,Dinner table,Learner tip: gamay ra = only a little. gikaon = what was eaten. | QUESTION FOR REVIEWER: Natural for 'you ate so little'?
+2,W02-06,"Busog na gyud ko, Nay. Salamat.","I'm really full, Mom. Thank you.",Thomas,Dinner table,Learner tip: gyud = really. Add it to sound sincere.
+2,W02-07,Lami?,Is it good?,Nanay,Dinner table,Learner tip: lami = delicious. The cook will ask this - watch her face.
+2,W02-08,Lami kaayo!,It's very delicious!,Thomas,Dinner table,Learner tip: kaayo = very. The best compliment you can give the cook.
+2,W02-09,Unsa'y gusto nimo?,What would you like?,Inday,Dinner table,Learner tip: gusto = want / like. nimo = you (your).
+2,W02-10,"Kini, palihug.","This one, please.",Thomas,Dinner table,Learner tip: kini = this. Point at the dish as you say it.
+2,W02-11,"Kaon og daghan, Thomas!","Eat a lot, Thomas!",Kuya,Dinner table,Learner tip: daghan = a lot. og = some / of.
+2,W02-12,Kuha pa og kan-on.,Take more rice.,Nanay,Dinner table,"Learner tip: kan-on = cooked rice. Rice comes with every meal, even breakfast."
+2,W02-13,"Tama na, salamat.","That's enough, thank you.",Thomas,Dinner table,Learner tip: tama na = that's enough. Smile and pat your stomach.
+2,W02-14,Gigutom ka?,Are you hungry?,Jiana,Dinner table,Learner tip: gutom = hungry.
+2,W02-15,"Oo, gigutom na ko.","Yes, I'm hungry now.",Thomas,Dinner table,Learner tip: Swap Oo for Dili (no) if you're not.
+2,W02-16,Inom og tubig.,Drink some water.,Nanay,Dinner table,Learner tip: inom = drink. tubig = water.
+2,W02-17,Pwede ko mangayo og tubig?,Can I have some water?,Thomas,Dinner table,Learner tip: pwede = can / may (from Spanish puede). mangayo = ask for.
+2,W02-18,Kamot o kutsara?,Hands or spoon?,Dodong,Dinner table,Learner tip: kamot = hand. kutsara = spoon. Eating with your hands is called kinamot.
+2,W02-19,Sulayan nako!,I'll try it!,Thomas,Dinner table,Learner tip: Use this whenever someone offers you something new. They will love it.
+2,W02-20,Mag-ampo sa ta.,Let's pray first.,Tatay,Dinner table,Learner tip: ampo = pray. sa = first. Many families say grace before eating. | QUESTION FOR REVIEWER: Natural for leading grace at the table?
+2,W02-21,Kaon na ta!,Let's eat!,Nanay,Dinner table,Learner tip: ta = we (you and me together).
+2,W02-22,Human na ko.,I'm finished.,Thomas,Dinner table,Learner tip: human = finished / done.
+2,W02-23,Nikaon na ka?,Have you eaten?,Jiana,Video call,Learner tip: Filipinos ask this the way Americans ask 'How are you?'. It shows care.
+2,W02-24,"Oo, nikaon na ko.","Yes, I've eaten.",Thomas,Video call,Learner tip: nikaon = ate (completed).
+2,W02-25,Unsa ni?,What is this?,Thomas,Dinner table,Learner tip: ni = this (short for kini). Ask about every new dish.
+2,W02-D1-03,"Kaon pa, Thomas! Kuha pa og kan-on.","Eat more, Thomas! Take more rice.",Nanay,Dinner table,Learner tip: Dialogue: Dinner is ready
+2,W02-D2-02,Wala pa. Gigutom na ko.,Not yet. I'm getting hungry.,Thomas,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D2-03,Kaon na! Unsa'y imong kaonon?,Go eat! What are you going to eat?,Jiana,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D2-04,Pizza.,Pizza.,Thomas,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D2-05,Pizza na pud? Mas lami ang kan-on!,Pizza again? Rice is tastier!,Jiana,Video call,Learner tip: Dialogue: Did you eat? | QUESTION FOR REVIEWER: Natural teasing?
+2,W02-D2-06,"Sige, sulayan nako ang kan-on.","Okay, I'll try rice.",Thomas,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D3-01,"Thomas, kaon pa!","Thomas, eat more!",Inday,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D3-03,Gamay ra imong gikaon!,You only ate a little!,Inday,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D3-05,Inom og tubig?,Some water?,Inday,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D3-06,"Oo, salamat, Inday.","Yes, thanks, Inday.",Thomas,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D1-03-ALT2,"Kuha pa og kan-on. Kaon pa, Thomas.","Eat more, Thomas! Take more rice.",Nanay,Dinner table,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+2,W02-X1,| Baon,Food packed to take with you,"(text only, no audio)",Day 7 culture note,
+2,W02-X2,| Kinamot,Eating with your hands,"(text only, no audio)",Day 6 culture note,
+2,W02-X3,| Wala pa.,Not yet.,"(text only, no audio)",Dialogue 2,
+3,W03-01,Si Nanay ug si Tatay.,(This is) Mom and Dad.,Jiana,Family gathering,Learner tip: ug = and. si goes before names and family titles.
+3,W03-02,Nalipay ko nga nakita ko kamo.,I'm happy to see you all.,Thomas,Family gathering,Learner tip: nalipay = happy. kamo = you (more than one person). | QUESTION FOR REVIEWER: Natural greeting to parents you've met before?
+3,W03-03,Kini si Kuya.,This is my big brother.,Jiana,Family gathering,"Learner tip: Kuya = older brother. People also call any older man Kuya - a driver, a waiter."
+3,W03-04,"Kini si Inday, akong manghod.","This is Inday, my younger sister.",Jiana,Family gathering,Learner tip: manghod = younger sibling. akong = my.
+3,W03-05,Pila imong igsoon?,How many brothers and sisters do you have?,Nanay,Living room,Learner tip: pila = how many. igsoon = sibling.
+3,W03-06,Duha akong igsoon.,I have two siblings.,Thomas,Living room,"Learner tip: Change the number for your family: usa (1), duha (2), tulo (3), upat (4)."
+3,W03-07,Asa imong pamilya?,Where is your family?,Tatay,Living room,Learner tip: asa = where.
+3,W03-08,Naa sa America akong pamilya.,My family is in America.,Thomas,Living room,Learner tip: naa = is there / are there.
+3,W03-09,Naa kay anak?,Do you have children?,Tatay,Living room,"Learner tip: anak = child. A very normal question here, not a nosy one."
+3,W03-10,"Naa, duha.","Yes, two.",Thomas,Living room,"Learner tip: If you have none, answer Wala. Change the number to fit."
+3,W03-11,Pila na imong edad?,How old are you?,Nanay,Living room,Learner tip: edad = age. Asking age is not rude in the Philippines.
+3,W03-12,Singkwenta na ko.,I'm fifty.,Thomas,Living room,"Learner tip: Ages and prices often use Spanish numbers: singkwenta = 50, singkwenta'y uno = 51. | QUESTION FOR REVIEWER: Natural for stating age? Or Kalim-an na ko?"
+3,W03-13,Unsa imong trabaho?,What's your job?,Kuya,Living room,"Learner tip: trabaho = work, job."
+3,W03-14,Nagtrabaho ko sa America.,I work in America.,Thomas,Living room,"Learner tip: To name your job, use the English word + ko: Engineer ko. Teacher ko. Retired na ko."
+3,W03-15,Kanus-a mo magminyo?,When are you two getting married?,Inday,Living room,"Learner tip: kanus-a = when. Every couple gets this question, usually with a big grin."
+3,W03-16,Pangutan-a si Jiana!,Ask Jiana!,Thomas,Living room,"Learner tip: pangutan-a = ask (someone). A safe, funny answer that gets a laugh. | QUESTION FOR REVIEWER: Natural and light-hearted?"
+3,W03-17,"Gwapo man ka, Thomas!","You're handsome, Thomas!",Nanay,Living room,"Learner tip: gwapo = handsome, gwapa = beautiful. Teasing compliments are very common."
+3,W03-18,"Salamat! Gwapa pud ka, Nay.","Thanks! You're beautiful too, Mom.",Thomas,Living room,Learner tip: pud = too. Return the compliment.
+3,W03-19,Asa ka nagpuyo?,Where do you live?,Dodong,Living room,"Learner tip: puyo = live, stay."
+3,W03-20,Nagpuyo ko sa America.,I live in America.,Thomas,Living room,Learner tip: Swap in your state or city: Nagpuyo ko sa Texas.
+3,W03-21,Akong uyab si Thomas.,Thomas is my boyfriend.,Jiana,Family gathering,Learner tip: uyab = boyfriend or girlfriend.
+3,W03-22,Ako ang uyab ni Jiana.,I'm Jiana's boyfriend.,Thomas,Family gathering,Learner tip: ni = of (before a name).
+3,W03-23,Ampingi si Jiana.,Take care of Jiana.,Tatay,Living room,"Learner tip: amping = care, protect. A father's serious request."
+3,W03-24,"Oo, Tay. Ampingan nako siya.","Yes, Dad. I'll take care of her.",Thomas,Living room,Learner tip: siya = he or she. | QUESTION FOR REVIEWER: Natural reply to the father?
+3,W03-25,Pamilya na ka namo.,You're family now.,Kuya,Family gathering,Learner tip: namo = our (not including you). The warmest thing you can hear.
+3,W03-D1-04,"Maayong buntag, Kuya!","Good morning, Kuya!",Thomas,Family gathering,Learner tip: Dialogue: Meeting the family
+3,W03-D1-06,"Hi, Inday! Kumusta ka?","Hi, Inday! How are you?",Thomas,Family gathering,Learner tip: Dialogue: Meeting the family
+3,W03-D2-03,Naa kay anak?,Do you have children?,Nanay,Living room,Learner tip: Dialogue: Nanay's questions
+3,W03-D3-03,"Ha ha! Unsa imong trabaho, Thomas?","Ha ha! What's your job, Thomas?",Inday,Living room,Learner tip: Dialogue: Inday teases
+3,W03-D3-05,Asa ka nagpuyo?,Where do you live?,Inday,Living room,Learner tip: Dialogue: Inday teases
+3,W03-04-ALT2,"Akong manghod,, kini si Inday.","This is Inday, my younger sister.",Jiana,Family gathering,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+3,W03-08-ALT2,"Akong pamilya, naa sa America.",My family is in America.,Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 4 word-order exercise. Is it natural? (punctuation is ignored)
+3,W03-22-ALT2,"Ni Jiana, ako ang uyab.",I'm Jiana's boyfriend.,Thomas,Family gathering,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+3,W03-X1,| Kinsa na?,Who's that?,"(text only, no audio)",Mission,QUESTION FOR REVIEWER: Natural for 'who's that?' pointing at a person?
+3,W03-X2,| Ate,Older sister (title),"(text only, no audio)",Day 7 culture note,
+3,W03-X3,| Tito,Uncle (title),"(text only, no audio)",Day 3 culture note,
+4,W04-01,Kapoy ka?,Are you tired?,Nanay,Arriving at the house,Learner tip: kapoy = tired. The first thing Nanay will ask after a long flight.
+4,W04-02,"Oo, kapoy kaayo ko.","Yes, I'm very tired.",Thomas,Arriving at the house,Learner tip: kaayo = very.
+4,W04-03,"Init kaayo, no?","It's really hot, isn't it?",Tatay,Outside the house,Learner tip: init = hot. no? at the end means 'right?'.
+4,W04-04,"Oo, init kaayo!","Yes, it's very hot!",Thomas,Outside the house,Learner tip: Bohol is hot and humid all year. This conversation never gets old.
+4,W04-05,Gusto ka og electric fan?,Do you want an electric fan?,Inday,Living room,Learner tip: Everyone says 'electric fan' in English. gusto = want.
+4,W04-06,"Oo, palihug.","Yes, please.",Thomas,Living room,Learner tip: Short and polite. Works for any offer.
+4,W04-07,Pahulay sa.,Rest for a while.,Nanay,Living room,"Learner tip: pahulay = rest. sa = first, for now."
+4,W04-08,"Sige, mopahulay sa ko.","Okay, I'll rest for a bit.",Thomas,Living room,Learner tip: mo- = will (future). | QUESTION FOR REVIEWER: Natural?
+4,W04-09,Okay ra ka?,Are you okay?,Jiana,Video call,Learner tip: Mixed English: okay ra = just fine.
+4,W04-10,Okay ra ko.,I'm okay.,Thomas,Video call,Learner tip: The easy answer. Use it only if it's true.
+4,W04-11,Sakit akong ulo.,I have a headache.,Thomas,Any conversation,"Learner tip: sakit = hurts, sick. ulo = head."
+4,W04-12,Sakit akong tiyan.,My stomach hurts.,Thomas,Any conversation,Learner tip: tiyan = stomach. New food and water can do this on the first days.
+4,W04-13,Naa kay tambal?,Do you have medicine?,Nanay,Living room,Learner tip: tambal = medicine.
+4,W04-14,Wala. Naa moy tambal?,No. Do you have any medicine?,Thomas,Living room,Learner tip: moy = you (all) have. Asking for help is fine.
+4,W04-15,Gihilantan ka?,Do you have a fever?,Kuya,Living room,Learner tip: hilanat = fever.
+4,W04-16,"Dili, kapoy lang ko.","No, I'm just tired.",Thomas,Living room,Learner tip: Dili = no / not. lang = just.
+4,W04-17,Inom og daghang tubig.,Drink lots of water.,Nanay,Living room,Learner tip: daghang = a lot of.
+4,W04-18,Nasunog ka sa adlaw!,You got sunburned!,Dodong,Beach,Learner tip: adlaw = sun (also 'day'). nasunog = burned.
+4,W04-19,Pula na kaayo ko!,I'm so red!,Thomas,Beach,Learner tip: pula = red. Expect laughter. | QUESTION FOR REVIEWER: Natural?
+4,W04-20,Gitugnaw ko.,I'm cold.,Thomas,Living room,"Learner tip: tugnaw = cold. Useful in strong air-conditioning, malls, and buses."
+4,W04-21,Katulog na.,Go to sleep now.,Nanay,Bedroom,Learner tip: tulog = sleep.
+4,W04-22,Katulgon na ko.,I'm sleepy.,Thomas,Bedroom,Learner tip: katulgon = sleepy.
+4,W04-23,Jet lag pa ka?,Are you still jet-lagged?,Jiana,Video call,Learner tip: pa = still. English words like jet lag stay in English.
+4,W04-24,"Oo, gamay pa.","Yes, still a little.",Thomas,Video call,Learner tip: gamay = a little.
+4,W04-25,Maayo na ka?,Are you better now?,Tatay,Living room,"Learner tip: maayo = good, well. na = now, already."
+4,W04-D1-06,"Sige, Nay. Salamat.","Okay, Mom. Thanks.",Thomas,Arriving at the house,Learner tip: Dialogue: Just arrived
+4,W04-D2-05,"Inom og tubig, unya katulog na.","Drink water, then go to sleep.",Jiana,Video call,Learner tip: Dialogue: Jet lag on video
+4,W04-D2-06,"Sige. Maayong gabii, Jiana.","Okay. Good night, Jiana.",Thomas,Video call,Learner tip: Dialogue: Jet lag on video
+4,W04-D3-01,"Init kaayo, no?","It's really hot, isn't it?",Inday,Living room,Learner tip: Dialogue: A hot afternoon
+4,W04-D3-05,"Okay ra ka, Thomas?","Are you okay, Thomas?",Inday,Living room,Learner tip: Dialogue: A hot afternoon
+4,W04-D1-06-ALT2,"Salamat. Sige, Nay.","Okay, Mom. Thanks.",Thomas,Arriving at the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+4,W04-X1,| Init ba diha?,Is it hot there?,"(text only, no audio)",Mission,QUESTION FOR REVIEWER: Natural question on a video call?
+4,W04-X2,| salabat,Ginger tea,"(text only, no audio)",Day 4 culture note,
+5,W05-01,Kanus-a ka niabot?,When did you arrive?,Tatay,Airport arrival,Learner tip: kanus-a = when. niabot = arrived.
+5,W05-02,Niabot ko gahapon.,I arrived yesterday.,Thomas,Airport arrival,"Learner tip: gahapon = yesterday. karon = today, now."
+5,W05-03,Kanus-a ka mouli?,When are you going home?,Nanay,Living room,Learner tip: mouli = go home. Expect a sad face when you answer.
+5,W05-04,Mouli ko sa Domingo.,I'm going home on Sunday.,Thomas,Living room,"Learner tip: Days come from Spanish: Lunes, Martes, Miyerkoles, Huwebes, Biyernes, Sabado, Domingo."
+5,W05-05,Pila ka adlaw ka diri?,How many days are you here?,Inday,Living room,Learner tip: adlaw = day. diri = here.
+5,W05-06,Duha ka semana.,Two weeks.,Thomas,Living room,Learner tip: semana = week. ka links a number to a noun.
+5,W05-07,Unsa'y oras na?,What time is it?,Thomas,Any conversation,"Learner tip: oras = hour, time."
+5,W05-08,Alas tres na.,It's three o'clock.,Kuya,Any conversation,"Learner tip: Clock times use Spanish numbers: alas una (1), alas dos (2), alas tres (3)..."
+5,W05-09,Unsa'y oras diha?,What time is it there?,Jiana,Video call,Learner tip: diha = there (where you are).
+5,W05-10,Alas nuwebe sa gabii diri.,It's nine at night here.,Thomas,Video call,"Learner tip: sa buntag = in the morning, sa hapon = in the afternoon, sa gabii = at night."
+5,W05-11,Ugma ta molakaw.,We'll go out tomorrow.,Nanay,Living room,"Learner tip: ugma = tomorrow. molakaw = go out, leave. | QUESTION FOR REVIEWER: Natural?"
+5,W05-12,Unsang orasa?,What time?,Thomas,Living room,Learner tip: Short and useful whenever a plan is mentioned.
+5,W05-13,Sayo ta mobiya.,We'll leave early.,Tatay,Living room,Learner tip: sayo = early. mobiya = leave.
+5,W05-14,"Sige, mobangon ko og sayo.","Okay, I'll get up early.",Thomas,Living room,Learner tip: bangon = get up.
+5,W05-15,Hulat lang kadiyot.,Just wait a moment.,Jiana,Any conversation,Learner tip: hulat = wait. kadiyot = a moment.
+5,W05-16,"Sige, maghulat ko.","Okay, I'll wait.",Thomas,Any conversation,Learner tip: mag- = will (doing something).
+5,W05-17,"Usa, duha, tulo, upat, lima.","One, two, three, four, five.",Thomas,Any conversation,"Learner tip: Bisaya numbers, used for counting things and people."
+5,W05-18,"Unom, pito, walo, siyam, napulo.","Six, seven, eight, nine, ten.",Thomas,Any conversation,Learner tip: For prices and times people usually switch to Spanish or English numbers.
+5,W05-19,Pila ka oras ang biyahe?,How many hours is the trip?,Dodong,Living room,"Learner tip: biyahe = trip, journey."
+5,W05-20,Mga baynte ka oras.,About twenty hours.,Thomas,Living room,Learner tip: mga = about. baynte = twenty (Spanish). | QUESTION FOR REVIEWER: Natural?
+5,W05-21,Pila na lang ka adlaw?,How many days left?,Jiana,Video call,Learner tip: na lang = only ... left. The countdown before your visit.
+5,W05-22,Tulo na lang ka adlaw!,Only three days left!,Thomas,Video call,Learner tip: Change tulo to the real number.
+5,W05-23,Unya na lang.,Later.,Nanay,Living room,Learner tip: unya = later. Plans often move. Relax.
+5,W05-24,Karon na?,Now?,Thomas,Living room,"Learner tip: karon = now, today."
+5,W05-25,Late na ta!,We're late!,Kuya,Outside the house,Learner tip: English words like late mix in naturally.
+5,W05-D1-01,Kanus-a ka niabot?,When did you arrive?,Nanay,Living room,Learner tip: Dialogue: How long are you staying?
+5,W05-D1-05,Mubo ra kaayo!,That's so short!,Nanay,Living room,Learner tip: Dialogue: How long are you staying?
+5,W05-D1-06,"Mobalik ko dayon, Nay.","I'll come back soon, Mom.",Thomas,Living room,Learner tip: Dialogue: How long are you staying? | QUESTION FOR REVIEWER: dayon = soon here?
+5,W05-D2-05,"Diri, alas nuwebe sa buntag.","Here, it's nine in the morning.",Jiana,Video call,Learner tip: Dialogue: The countdown
+5,W05-D2-06,Maayong buntag diha!,Good morning over there!,Thomas,Video call,Learner tip: Dialogue: The countdown
+5,W05-D3-01,"Hulat lang kadiyot, Thomas.","Just wait a moment, Thomas.",Inday,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-D3-03,Unya na lang ta mokaon.,We'll eat later.,Inday,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-D3-05,"Dili, unya na.","No, later.",Inday,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-D3-06,"Sige, Inday.","Okay, Inday.",Thomas,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-02-ALT2,"Gahapon, niabot ko.",I arrived yesterday.,Thomas,Airport arrival,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+5,W05-04-ALT2,"Sa Domingo, mouli ko.",I'm going home on Sunday.,Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+5,W05-X1,| Moabot ko sa Biyernes.,I'll arrive on Friday.,"(text only, no audio)",Mission,QUESTION FOR REVIEWER: Natural?
+5,W05-X2,"| alas siyete, alas otso, alas diyes, alas onse, alas dose","7, 8, 10, 11, 12 o'clock","(text only, no audio)",Day 3 culture note,
+6,W06-01,Ganahan ka og isda?,Do you like fish?,Nanay,Dinner table,Learner tip: ganahan = like. isda = fish. Bohol is an island - fish is everywhere.
+6,W06-02,"Oo, ganahan kaayo ko.","Yes, I like it a lot.",Thomas,Dinner table,Learner tip: kaayo = very.
+6,W06-03,Dili kaayo ko ganahan.,I don't really like it.,Thomas,Dinner table,"Learner tip: dili kaayo = not really. A soft, polite no."
+6,W06-04,Gusto ka mosulay og balut?,Do you want to try balut?,Kuya,Family gathering,Learner tip: balut = a boiled duck egg with a developing chick inside. A classic test for visitors.
+6,W06-05,"Sige, gamay lang.","Okay, just a little.",Thomas,Family gathering,Learner tip: A brave but careful answer.
+6,W06-06,Halang!,Spicy!,Thomas,Dinner table,Learner tip: halang = spicy. Say it while fanning your mouth.
+6,W06-07,Halang ba?,Is it spicy?,Inday,Dinner table,Learner tip: ba turns a sentence into a yes/no question.
+6,W06-08,Tam-is kaayo.,It's very sweet.,Thomas,Dinner table,Learner tip: tam-is = sweet.
+6,W06-09,Parat gamay.,It's a little salty.,Thomas,Dinner table,Learner tip: parat = salty. Use gamay (a little) to keep it gentle. | QUESTION FOR REVIEWER: Natural word order?
+6,W06-10,Unsa'y imong paborito?,What's your favorite?,Nanay,Dinner table,Learner tip: paborito = favorite (from Spanish).
+6,W06-11,Paborito nako ang lechon.,My favorite is lechon.,Thomas,Dinner table,"Learner tip: lechon = whole roast pig, the star of every fiesta."
+6,W06-12,"Unsa'y imong gusto, kape o tsaa?","What do you want, coffee or tea?",Jiana,Video call,Learner tip: o = or.
+6,W06-13,"Kape, palihug.","Coffee, please.",Thomas,Video call,"Learner tip: kape = coffee, tsaa = tea."
+6,W06-14,Ganahan ka diri sa Bohol?,Do you like it here in Bohol?,Tatay,Living room,Learner tip: diri = here.
+6,W06-15,Ganahan kaayo ko diri.,I really like it here.,Thomas,Living room,Learner tip: The answer Tatay hopes for.
+6,W06-16,"Unsa'y mas lami, kini o kana?","Which is tastier, this or that?",Dodong,Dinner table,Learner tip: mas = more. kana = that.
+6,W06-17,Mas lami kini.,This one is tastier.,Thomas,Dinner table,Learner tip: Point at it as you say it.
+6,W06-18,Pareha ra.,They're the same.,Thomas,Dinner table,Learner tip: pareha = same. A diplomatic answer.
+6,W06-19,"Ayaw kabalaka, dili halang.","Don't worry, it's not spicy.",Nanay,Dinner table,Learner tip: ayaw = don't. kabalaka = worry.
+6,W06-20,Unsa'y tawag ani?,What's this called?,Thomas,Dinner table,"Learner tip: tawag = name, what it's called. ani = this."
+6,W06-21,Adobo kana.,That's adobo.,Inday,Dinner table,"Learner tip: adobo = meat stewed in vinegar, soy sauce and garlic."
+6,W06-22,Mangga! Akong paborito.,Mangoes! My favorite.,Thomas,Market,Learner tip: Philippine mangoes are famous for being very sweet.
+6,W06-23,Ganahan ka og tuba?,Do you like tuba?,Kuya,Family gathering,"Learner tip: tuba = coconut wine, popular in Bohol. Offered at gatherings."
+6,W06-24,"Dili ko moinom, salamat.","I don't drink, thanks.",Thomas,Family gathering,"Learner tip: Only if true. Otherwise: Sige, gamay lang. Either answer is respected."
+6,W06-25,"Lami kaayo ang imong luto, Nay!","Your cooking is delicious, Mom!",Thomas,Dinner table,Learner tip: luto = cooking. The compliment that matters most.
+6,W06-D1-03,Sulayi ang adobo. Dili halang.,Try the adobo. It's not spicy.,Nanay,Dinner table,Learner tip: Dialogue: Nanay's cooking
+6,W06-D2-03,Ganahan ka og tam-is?,Do you like sweets?,Jiana,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D2-04,"Oo, ganahan kaayo ko og mangga.","Yes, I really like mangoes.",Thomas,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D2-05,Daghan og mangga diri sa Bohol!,There are lots of mangoes here in Bohol!,Jiana,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D2-06,Lami!,Yum!,Thomas,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D3-03,Inom og tubig! Ha ha!,Drink some water! Ha ha!,Inday,Dinner table,Learner tip: Dialogue: Too spicy
+6,W06-D3-04,"Halang kaayo, Inday!","It's really spicy, Inday!",Thomas,Dinner table,Learner tip: Dialogue: Too spicy
+6,W06-D3-05,"Unsa'y mas lami, kini o kana?","Which is tastier, this or that?",Inday,Dinner table,Learner tip: Dialogue: Too spicy
+6,W06-15-ALT2,"Diri, ganahan kaayo ko.",I really like it here.,Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+6,W06-11-ALT2,"Ang lechon, paborito nako.",My favorite is lechon.,Thomas,Dinner table,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 4 word-order exercise. Is it natural? (punctuation is ignored)
+6,W06-X1,| Lami kaayo ang luto ni Nanay!,Mom's cooking is delicious!,"(text only, no audio)",Mission,
+6,W06-X2,| sili,chili pepper,"(text only, no audio)",Day 3 culture note,
+6,W06-X3,| tagay,shared drinking round,"(text only, no audio)",Day 6 culture note,
+7,W07-01,Pila ni?,How much is this?,Thomas,Market,Learner tip: pila = how much. ni = this. The most useful market phrase.
+7,W07-02,Singkwenta pesos.,Fifty pesos.,Tindera,Market,Learner tip: Prices are usually said in Spanish or English numbers.
+7,W07-03,Mahal kaayo!,That's too expensive!,Thomas,Market,Learner tip: mahal = expensive. Say it with a smile - it's part of the game.
+7,W07-04,Pwede hangyo?,Can we bargain?,Thomas,Market,"Learner tip: hangyo = ask for a discount. Polite at markets, not in malls."
+7,W07-05,"Sige, kwarenta na lang.","Okay, just forty.",Tindera,Market,"Learner tip: na lang = just, only. kwarenta = forty."
+7,W07-06,Paliton nako ni.,I'll buy this.,Thomas,Market,Learner tip: palit = buy. | QUESTION FOR REVIEWER: Natural?
+7,W07-07,"Duha ka buok, palihug.","Two pieces, please.",Thomas,Market,Learner tip: buok = piece.
+7,W07-08,Unsa pa?,What else?,Tindera,Market,"Learner tip: pa = more, else."
+7,W07-09,Mao ra.,That's all.,Thomas,Market,Learner tip: mao ra = that's it.
+7,W07-10,"Ayaw palit diri, mahal.","Don't buy here, it's expensive.",Nanay,Market,Learner tip: ayaw = don't. Foreigners often get a higher price.
+7,W07-11,Ako na lang ang mohangyo.,Let me do the bargaining.,Nanay,Market,Learner tip: Let her - she'll get a better price.
+7,W07-12,Asa ta mamalit?,Where are we going shopping?,Thomas,Living room,Learner tip: mamalit = go shopping.
+7,W07-13,Moadto ta sa merkado.,We're going to the market.,Jiana,Living room,Learner tip: merkado = market. Also: mall.
+7,W07-14,Barato!,That's cheap!,Thomas,Market,Learner tip: barato = cheap.
+7,W07-15,"Presko ni, bag-o lang nakuha.","This is fresh, just caught.",Tindera,Market,Learner tip: presko = fresh. You'll hear it at every fish stall. | QUESTION FOR REVIEWER: Natural for fish?
+7,W07-16,Pila ang usa ka kilo?,How much for one kilo?,Thomas,Market,"Learner tip: Fish, fruit and rice are sold by the kilo."
+7,W07-17,Usa ka gatos ang kilo.,One hundred a kilo.,Tindera,Market,Learner tip: gatos = hundred. You may also hear 'one hundred'.
+7,W07-18,Naa moy sukli?,Do you have change?,Thomas,Market,Learner tip: sukli = change (money). Small stalls often don't.
+7,W07-19,Wala koy sukli.,I don't have change.,Tindera,Market,"Learner tip: Carry small bills: 20, 50, 100 pesos."
+7,W07-20,Ako na'y mobayad.,I'll pay.,Kuya,Market,Learner tip: bayad = pay.
+7,W07-21,"Dili, ako na.","No, I've got it.",Thomas,Market,Learner tip: Expect a friendly fight over the bill.
+7,W07-22,Palit ta og pasalubong!,Let's buy pasalubong!,Inday,Market,Learner tip: pasalubong = gifts you bring back from a trip.
+7,W07-23,Para kang Nanay.,It's for Mom.,Thomas,Market,"Learner tip: para = for. kang = to, for (before a name)."
+7,W07-24,Asa ang CR?,Where's the restroom?,Thomas,Market,Learner tip: CR = comfort room. Everyone says CR.
+7,W07-25,Bitbita ni.,Carry this.,Nanay,Market,Learner tip: bitbit = carry by hand.
+7,W07-D1-05,"Sige, nobenta na lang.","Okay, just ninety.",Tindera,Market,Learner tip: Dialogue: At the fish stall
+7,W07-D1-06,"Sige, usa ka kilo.","Okay, one kilo.",Thomas,Market,Learner tip: Dialogue: At the fish stall
+7,W07-D2-02,"Ngano, Nay?","Why, Mom?",Thomas,Market,Learner tip: Dialogue: Nanay bargains
+7,W07-D2-04,"Sige, Nay.","Okay, Mom.",Thomas,Market,Learner tip: Dialogue: Nanay bargains
+7,W07-D2-06,"Sige, ako na'y magbitbit.","Okay, I'll carry it.",Thomas,Market,Learner tip: Dialogue: Nanay bargains
+7,W07-D3-02,Para kang kinsa ni?,Who's this for?,Inday,Market,Learner tip: Dialogue: Pasalubong
+7,W07-D3-04,"Ay, sweet kaayo ka!","Aw, you're so sweet!",Inday,Market,Learner tip: Dialogue: Pasalubong
+7,W07-D3-06,Didto sa likod.,"Over there, in the back.",Inday,Market,Learner tip: Dialogue: Pasalubong
+7,W07-07-ALT2,"Palihug,, duha ka buok.","Two pieces, please.",Thomas,Market,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 3 word-order exercise. Is it natural? (punctuation is ignored)
+7,W07-X1,| Pila pa-adto sa merkado?,How much to the market?,"(text only, no audio)",Day 7 culture note,QUESTION FOR REVIEWER: Natural for asking a tricycle fare?
+7,W07-X2,| tabo,Market (day market),"(text only, no audio)",Day 4 culture note,
+7,W07-X3,| calamay,Sweet sticky treat,"(text only, no audio)",Day 6 culture note,
+8,W08-01,Mosimba ta karong Domingo.,We'll go to Mass this Sunday.,Nanay,Living room,Learner tip: simba = go to church / Mass. karong = this (coming).
+8,W08-02,"Sige, mouban ko.","Okay, I'll come along.",Thomas,Living room,Learner tip: uban = go with someone.
+8,W08-03,Hilom lang sa simbahan.,Stay quiet in church.,Jiana,Church,Learner tip: hilom = quiet. simbahan = church.
+8,W08-04,Fiesta na sunod semana!,The fiesta is next week!,Tatay,Living room,Learner tip: sunod = next. Every town has a yearly fiesta for its patron saint.
+8,W08-05,Unsa'y naa sa fiesta?,What happens at the fiesta?,Thomas,Living room,Learner tip: naa = there is.
+8,W08-06,Daghang pagkaon ug sayaw.,Lots of food and dancing.,Kuya,Living room,Learner tip: pagkaon = food. sayaw = dance.
+8,W08-07,Mosayaw ka?,Will you dance?,Inday,Fiesta,Learner tip: mo- = will.
+8,W08-08,Dili ko kahibalo mosayaw!,I don't know how to dance!,Thomas,Fiesta,Learner tip: kahibalo = know how.
+8,W08-09,Tudloan tika!,I'll teach you!,Inday,Fiesta,Learner tip: tika = I (do it to) you.
+8,W08-10,Birthday ni Lola ugma.,Tomorrow is Grandma's birthday.,Nanay,Living room,"Learner tip: Lola = grandma, Lolo = grandpa. Birthday stays in English."
+8,W08-11,"Malipayong adlawng natawhan, Lola!","Happy birthday, Grandma!",Thomas,Family gathering,Learner tip: adlawng natawhan = birthday. Many people just say Happy birthday. | QUESTION FOR REVIEWER: Natural to say to an elder?
+8,W08-12,Kanta ta!,Let's sing!,Tatay,Family gathering,Learner tip: kanta = sing. Karaoke (videoke) is at every party.
+8,W08-13,Dili ko maayo mokanta.,I'm not good at singing.,Thomas,Family gathering,Learner tip: Nobody accepts this excuse.
+8,W08-14,"Okay ra, sige na!","It's fine, come on!",Kuya,Family gathering,"Learner tip: sige na = come on, go ahead."
+8,W08-15,"Sige, usa lang ka kanta.","Okay, just one song.",Thomas,Family gathering,Learner tip: Pick an old American classic - they'll know it.
+8,W08-16,Daghang bisita.,There are lots of guests.,Nanay,Family gathering,"Learner tip: bisita = guest, visitor."
+8,W08-17,Kinsa siya?,Who is he? / Who is she?,Thomas,Family gathering,Learner tip: kinsa = who. siya = he or she.
+8,W08-18,Akong ig-agaw.,My cousin.,Jiana,Family gathering,Learner tip: ig-agaw = cousin. There will be many.
+8,W08-19,Nalipay ko nga nakaila nimo.,Nice to meet you.,Thomas,Family gathering,Learner tip: nakaila = got to know. | QUESTION FOR REVIEWER: Natural for 'nice to meet you'?
+8,W08-20,Salamat sa pag-anhi.,Thank you for coming.,Nanay,Family gathering,Learner tip: What hosts say to guests.
+8,W08-21,Salamat sa pag-imbita.,Thank you for inviting me.,Thomas,Family gathering,Learner tip: imbita = invite.
+8,W08-22,Pila na ka tuig si Lola?,How old is Grandma?,Thomas,Family gathering,Learner tip: tuig = year.
+8,W08-23,Otsenta na siya.,She's eighty.,Nanay,Family gathering,Learner tip: otsenta = eighty (Spanish).
+8,W08-24,Nindot kaayo ang simbahan.,The church is very beautiful.,Thomas,Church,"Learner tip: nindot = beautiful, nice. Bohol has famous old stone churches."
+8,W08-25,Lingaw kaayo!,This is so much fun!,Thomas,Fiesta,Learner tip: lingaw = fun.
+8,W08-D1-03,Alas siyete ang misa.,Mass is at seven.,Nanay,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D1-04,Sayo kaayo!,That's so early!,Thomas,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D1-05,Ha ha. Mobangon ta og sayo.,Ha ha. We'll get up early.,Nanay,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D1-06,"Sige, Nay.","Okay, Mom.",Thomas,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D2-04,Sige! Hinay-hinay lang.,"Okay! Slowly, though.",Thomas,Fiesta,Learner tip: Dialogue: Dancing at the fiesta
+8,W08-D2-05,"Lingaw kaayo, no?","So much fun, right?",Inday,Fiesta,Learner tip: Dialogue: Dancing at the fiesta
+8,W08-D3-04,Ug kana si Lola.,And that's Grandma.,Jiana,Family gathering,Learner tip: Dialogue: Who's that?
+8,W08-D3-06,Otsenta na siya.,She's eighty.,Jiana,Family gathering,Learner tip: Dialogue: Who's that?
+8,W08-24-ALT2,"Ang simbahan, nindot kaayo.",The church is very beautiful.,Thomas,Church,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+8,W08-X1,| Kanus-a ang fiesta?,When is the fiesta?,"(text only, no audio)",Mission,
+8,W08-X2,"| Tito, Tita","Uncle, Aunt (titles)","(text only, no audio)",Day 5 culture note,
+8,W08-X3,| Lolo,Grandpa,"(text only, no audio)",Day 6 culture note,
+9,W09-01,Maligo na ka.,Go take your shower.,Nanay,Home - morning,"Learner tip: ligo = bathe, shower."
+9,W09-02,Naa bay init nga tubig?,Is there hot water?,Thomas,Home - morning,Learner tip: init nga tubig = hot water. Many homes don't have it.
+9,W09-03,Walay init nga tubig.,There's no hot water.,Inday,Home - morning,Learner tip: walay = there is no.
+9,W09-04,Okay ra. Maligo na ko.,That's okay. I'll shower now.,Thomas,Home - morning,Learner tip: A cold shower in Bohol heat feels great.
+9,W09-05,Unsa'y akong matabang?,What can I help with?,Thomas,Kitchen,Learner tip: tabang = help.
+9,W09-06,"Ayaw na, bisita man ka.","No need, you're a guest.",Nanay,Kitchen,Learner tip: bisita = guest. She'll say this at first.
+9,W09-07,Gusto ko motabang.,I want to help.,Thomas,Kitchen,Learner tip: Insist gently.
+9,W09-08,"Sige, hugasi ang mga plato.","Okay, wash the dishes.",Nanay,Kitchen,Learner tip: hugas = wash. plato = plate. mga = plural.
+9,W09-09,Lingkod sa.,Sit down for a while.,Tatay,Living room,Learner tip: lingkod = sit.
+9,W09-10,"Relax lang, Thomas.","Just relax, Thomas.",Tatay,Living room,Learner tip: English words mix right in.
+9,W09-11,Nakatulog ka og maayo?,Did you sleep well?,Nanay,Home - morning,Learner tip: tulog = sleep. maayo = well.
+9,W09-12,"Oo, nakatulog ko og maayo.","Yes, I slept well.",Thomas,Home - morning,Learner tip: Swap Oo for Dili kaayo if you didn't.
+9,W09-13,Gipaak ko sa lamok.,I got bitten by mosquitoes.,Thomas,Home - morning,Learner tip: lamok = mosquito. paak = bite.
+9,W09-14,"Isira ang pultahan, daghang lamok.","Close the door, there are lots of mosquitoes.",Nanay,Home - evening,Learner tip: isira = close. pultahan = door.
+9,W09-15,Unsa'y atong buhaton karon?,What are we doing today?,Thomas,Living room,Learner tip: buhat = do. atong = our (including you).
+9,W09-16,Pahulay lang ta sa balay.,We'll just relax at home.,Jiana,Living room,"Learner tip: balay = house, home."
+9,W09-17,Tan-aw ta og TV.,Let's watch TV.,Kuya,Living room,"Learner tip: tan-aw = watch, look."
+9,W09-18,Unsa'y atong tan-awon?,What are we going to watch?,Thomas,Living room,Learner tip: Filipino families love teleseryes (drama series) and basketball.
+9,W09-19,Molaba ko karon.,I'm doing the laundry now.,Nanay,Outside the house,Learner tip: laba = wash clothes. Often by hand.
+9,W09-20,"Tabangan tika, Nay.","I'll help you, Mom.",Thomas,Outside the house,Learner tip: tika = I (do it for) you.
+9,W09-21,Asa nako ibutang ni?,Where should I put this?,Thomas,Kitchen,"Learner tip: butang = put, place."
+9,W09-22,Diha lang sa lamesa.,Just there on the table.,Inday,Kitchen,Learner tip: lamesa = table.
+9,W09-23,Brownout na pud!,The power's out again!,Dodong,Home - evening,Learner tip: brownout = power outage. They happen; nobody panics.
+9,W09-24,Naa moy flashlight?,Do you have a flashlight?,Thomas,Home - evening,Learner tip: Phones work too.
+9,W09-25,Matulog na ko. Good night!,I'm going to sleep. Good night!,Thomas,Bedroom,Learner tip: Good night in English is completely normal.
+9,W09-D1-05,"Wala, pasensya. Bugnaw ra.","No, sorry. Only cold.",Nanay,Home - morning,Learner tip: Dialogue: Morning routine
+9,W09-D1-06,"Okay ra, Nay. Presko!","That's fine, Mom. Refreshing!",Thomas,Home - morning,Learner tip: Dialogue: Morning routine
+9,W09-D2-05,Sige! Asa ang sabon?,Sure! Where's the soap?,Thomas,Kitchen,Learner tip: Dialogue: Can I help?
+9,W09-D2-06,Diha sa lababo.,There at the sink.,Nanay,Kitchen,Learner tip: Dialogue: Can I help?
+9,W09-D3-01,Brownout na pud!,The power's out again!,Inday,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-03,"Naa, hulat kadiyot.","Yes, wait a moment.",Inday,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-04,Init kaayo!,It's so hot!,Thomas,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-05,Abrihan nato ang bintana.,Let's open the window.,Inday,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-06,"Sige, Inday. Salamat.","Okay, Inday. Thanks.",Thomas,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-20-ALT2,"Nay,, tabangan tika.","I'll help you, Mom.",Thomas,Outside the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+9,W09-X1,| Unsa'y imong buhaton karon?,What are you doing today?,"(text only, no audio)",Mission,
+9,W09-X2,"| tabo, timba","dipper, bucket","(text only, no audio)",Day 1 culture note,
+9,W09-X3,| teleserye,TV drama series,"(text only, no audio)",Day 6 chunk tip,
+10,W10-01,Molakaw ta karon.,We're heading out now.,Jiana,Outside the house,"Learner tip: lakaw = go out, walk."
+10,W10-02,Asa ta padulong?,Where are we going?,Thomas,Outside the house,Learner tip: padulong = heading to.
+10,W10-03,Sa Chocolate Hills.,To the Chocolate Hills.,Jiana,Outside the house,Learner tip: Bohol's most famous sight: over a thousand round hills that turn brown in the dry season.
+10,W10-04,Unsaon nato pag-adto?,How do we get there?,Thomas,Outside the house,Learner tip: unsaon = how.
+10,W10-05,Mosakay ta og motor.,We'll ride the motorbike.,Kuya,Outside the house,Learner tip: sakay = ride. motor = motorbike.
+10,W10-06,"Hinay-hinay lang og dagan, Kuya!","Drive slowly, Kuya!",Thomas,On the road,"Learner tip: dagan = speed, run. Your old friend hinay-hinay again."
+10,W10-07,Kapit og maayo!,Hold on tight!,Kuya,On the road,Learner tip: kapit = hold on.
+10,W10-08,Layo pa?,Is it still far?,Thomas,On the road,Learner tip: layo = far.
+10,W10-09,Duol na lang.,It's close now.,Kuya,On the road,Learner tip: duol = near.
+10,W10-10,"Hunong sa diri, palihug.","Stop here for a moment, please.",Thomas,On the road,Learner tip: hunong = stop.
+10,W10-11,Pwede ko mag-picture?,Can I take a picture?,Thomas,Tourist spot,Learner tip: English picture becomes a Bisaya verb.
+10,W10-12,Picture ta!,Let's take a picture!,Inday,Tourist spot,Learner tip: Group photos are a must. Expect many.
+10,W10-13,Nindot kaayo ang dagat!,The sea is beautiful!,Thomas,Beach,Learner tip: dagat = sea.
+10,W10-14,Molangoy ta?,Shall we swim?,Jiana,Beach,Learner tip: langoy = swim.
+10,W10-15,"Sige, molangoy ko!","Sure, I'll swim!",Thomas,Beach,Learner tip: Watch out for sea urchins near rocks.
+10,W10-16,Asa ta mosakay?,Where do we catch a ride?,Thomas,On the road,"Learner tip: Jeepneys, buses and tricycles all stop on the roadside."
+10,W10-17,Pag-amping sa dalan.,Be careful on the road.,Nanay,Outside the house,Learner tip: dalan = road. amping = care.
+10,W10-18,"Oo, Nay. Mag-amping mi.","Yes, Mom. We'll be careful.",Thomas,Outside the house,Learner tip: mi = we (not including the listener).
+10,W10-19,Wala nay gasolina!,We're out of gas!,Kuya,On the road,Learner tip: gasolina = gasoline.
+10,W10-20,Naa bay gasolinahan duol diri?,Is there a gas station near here?,Thomas,On the road,Learner tip: gasolinahan = gas station. Small shops sell gas in glass bottles.
+10,W10-21,Liko sa wala.,Turn left.,Jiana,On the road,Learner tip: liko = turn. wala = left (it also means 'none').
+10,W10-22,Diretso lang.,Just go straight.,Jiana,On the road,Learner tip: diretso = straight.
+10,W10-23,Liko sa tuo?,Turn right?,Thomas,On the road,Learner tip: tuo = right.
+10,W10-24,Unsang orasa mo mouli?,What time will you be back?,Nanay,Outside the house,Learner tip: mo = you (plural).
+10,W10-25,Mouli mi sa gabii.,We'll be back in the evening.,Thomas,Outside the house,Learner tip: sa hapon = in the afternoon.
+10,W10-D1-05,Mosakay ta og motor uban ni Kuya.,We'll ride the motorbike with Kuya.,Jiana,Outside the house,Learner tip: Dialogue: A day trip
+10,W10-D1-06,Sige! Lingaw!,Okay! Fun!,Thomas,Outside the house,Learner tip: Dialogue: A day trip
+10,W10-D2-05,Pagdala og tubig.,Bring water.,Nanay,Outside the house,Learner tip: Dialogue: Before you leave
+10,W10-D2-06,"Sige, Nay. Salamat.","Okay, Mom. Thanks.",Thomas,Outside the house,Learner tip: Dialogue: Before you leave
+10,W10-D3-01,Asa ta moliko?,Where do we turn?,Thomas,On the road,Learner tip: Dialogue: Which way?
+10,W10-D3-04,"Dili, sa wala! Ha ha!","No, left! Ha ha!",Jiana,On the road,Learner tip: Dialogue: Which way?
+10,W10-D3-06,Duol na lang.,It's close now.,Jiana,On the road,Learner tip: Dialogue: Which way?
+10,W10-10-ALT2,"Palihug,, hunong sa diri.","Stop here for a moment, please.",Thomas,On the road,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 3 word-order exercise. Is it natural? (punctuation is ignored)
+10,W10-13-ALT2,"Ang dagat, nindot kaayo!",The sea is beautiful!,Thomas,Beach,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+10,W10-X1,| Lugar lang!,Stop here! (on a jeepney),"(text only, no audio)",Day 7 culture note,QUESTION FOR REVIEWER: Still common in Bohol?
+10,W10-X2,| habal-habal,Motorbike taxi,"(text only, no audio)",Day 2 culture note,
+10,W10-X3,| Asa ta molakaw?,Where shall we go?,"(text only, no audio)",Mission,
+11,W11-01,Madungog ko nimo?,Can you hear me?,Jiana,Video call,Learner tip: dungog = hear.
+11,W11-02,"Oo, madungog tika.","Yes, I can hear you.",Thomas,Video call,Learner tip: tika = I ... you.
+11,W11-03,Wala ko kadungog.,I can't hear you.,Thomas,Video call,Learner tip: Same pattern as Wala ko kasabot.
+11,W11-04,Hinay ang signal.,The signal is weak.,Jiana,Video call,"Learner tip: hinay = slow, weak."
+11,W11-05,Nag-freeze ang video.,The video froze.,Thomas,Video call,Learner tip: English tech words get Bisaya endings.
+11,W11-06,Tawag ko balik.,I'll call back.,Jiana,Video call,"Learner tip: tawag = call. balik = again, back."
+11,W11-07,Nalipay ko nga makita tika.,I'm happy to see you.,Thomas,Video call,Learner tip: makita = see.
+11,W11-08,Mingaw na ko nimo.,I miss you.,Jiana,Video call,"Learner tip: mingaw = miss (someone), also 'lonely'."
+11,W11-09,Mingaw pud ko nimo.,I miss you too.,Thomas,Video call,Learner tip: pud = too.
+11,W11-10,Unsa'y imong gibuhat karon?,What are you doing now?,Jiana,Video call,Learner tip: You heard this fast in Week 1. Now it's yours.
+11,W11-11,Nagtrabaho ko.,I'm working.,Thomas,Video call,Learner tip: nag- = doing right now.
+11,W11-12,Nagluto ko.,I'm cooking.,Thomas,Video call,Learner tip: luto = cook.
+11,W11-13,Unsa'y imong gikaon?,What did you eat?,Jiana,Video call,Learner tip: gi- = what was (done).
+11,W11-14,Unsa'y balita?,What's new?,Thomas,Video call,Learner tip: balita = news.
+11,W11-15,Wala ra man. Ingon gihapon.,Nothing much. Same as usual.,Jiana,Video call,Learner tip: ingon gihapon = still the same.
+11,W11-16,Kumusta si Nanay?,How's Mom?,Thomas,Video call,Learner tip: Ask about each family member by title.
+11,W11-17,Maayo ra sila. Nangumusta sila nimo.,They're fine. They say hi to you.,Jiana,Video call,Learner tip: sila = they. nangumusta = sent greetings.
+11,W11-18,Ikumusta ko nila.,Say hi to them for me.,Thomas,Video call,Learner tip: Use it at the end of every call.
+11,W11-19,"Nanay, si Thomas!","Mom, it's Thomas!",Jiana,Video call,Learner tip: Jiana calls her mother to the phone.
+11,W11-20,"Hello, Nay! Kumusta ka?","Hello, Mom! How are you?",Thomas,Video call,Learner tip: Short and warm. Nanay will be delighted.
+11,W11-21,Ugma na lang ta mag-istorya.,Let's talk tomorrow.,Jiana,Video call,"Learner tip: istorya = chat, story."
+11,W11-22,"Sige, ugma. Ayo-ayo.","Okay, tomorrow. Take care.",Thomas,Video call,Learner tip: ayo-ayo = take care. | QUESTION FOR REVIEWER: Natural goodbye?
+11,W11-23,Gihigugma tika.,I love you.,Jiana,Video call,Learner tip: Often said in English too - but Bisaya means more.
+11,W11-24,Gihigugma pud tika.,I love you too.,Thomas,Video call,Learner tip: Practice it until it's smooth.
+11,W11-25,Kita ka nako?,Can you see me?,Thomas,Video call,Learner tip: kita = see.
+11,W11-D1-06,"Sige, maghulat ko.","Okay, I'll wait.",Thomas,Video call,Learner tip: Dialogue: Bad connection
+11,W11-D2-01,"Hi, love! Kumusta ang imong adlaw?","Hi, love! How was your day?",Jiana,Video call,Learner tip: Dialogue: How was your day?
+11,W11-D2-02,Okay ra. Kapoy gamay.,Okay. A little tired.,Thomas,Video call,Learner tip: Dialogue: How was your day?
+11,W11-D2-04,Nagluto ko og adobo!,I cooked adobo!,Thomas,Video call,Learner tip: Dialogue: How was your day?
+11,W11-D2-05,Wow! Lami?,Wow! Was it good?,Jiana,Video call,Learner tip: Dialogue: How was your day?
+11,W11-D2-06,Dili pareha sa luto ni Nanay.,Not like Mom's cooking.,Thomas,Video call,Learner tip: Dialogue: How was your day?
+11,W11-X1,| Amping!,Take care!,"(text only, no audio)",Day 6 culture note,
+11,W11-X2,| Kumusta ang imong adlaw?,How was your day?,"(text only, no audio)",Dialogue 2,
+12,W12-01,Salamat sa tanan.,Thank you for everything.,Thomas,Dinner table,"Learner tip: tanan = everything, everyone."
+12,W12-02,"Balik ka, ha?","Come back, okay?",Nanay,Dinner table,"Learner tip: ha? at the end = okay?, right?"
+12,W12-03,Mobalik gyud ko.,I'll definitely come back.,Thomas,Dinner table,"Learner tip: gyud = really, definitely."
+12,W12-04,Nalipay kaayo ko diri.,I was very happy here.,Thomas,Living room,Learner tip: nalipay = was happy.
+12,W12-05,Mingawon ko ninyo.,I'll miss you all.,Thomas,Living room,Learner tip: ninyo = you all. mingawon = will miss.
+12,W12-06,Mingawon pud mi nimo.,We'll miss you too.,Nanay,Living room,Learner tip: mi = we (not including you).
+12,W12-07,Amping sa biyahe.,Have a safe trip.,Tatay,Outside the house,Learner tip: biyahe = trip. amping = take care.
+12,W12-08,"Salamat, Tay. Amping pud mo.","Thanks, Dad. You all take care too.",Thomas,Outside the house,Learner tip: mo = you (plural).
+12,W12-09,Ayaw kalimti mi.,Don't forget us.,Inday,Outside the house,Learner tip: kalimot = forget.
+12,W12-10,Dili gyud ko mokalimot ninyo.,I'll never forget you all.,Thomas,Outside the house,"Learner tip: dili gyud = never, definitely not. | QUESTION FOR REVIEWER: Natural?"
+12,W12-11,Malipayon kaayo ko.,I'm very happy.,Thomas,Any conversation,Learner tip: malipayon = happy.
+12,W12-12,Masulub-on ko.,I'm sad.,Thomas,Any conversation,Learner tip: masulub-on = sad.
+12,W12-13,Nganong masulub-on ka?,Why are you sad?,Jiana,Video call,Learner tip: ngano = why.
+12,W12-14,Kay mobiya na ko ugma.,Because I'm leaving tomorrow.,Thomas,Video call,Learner tip: kay = because.
+12,W12-15,Ayaw paghilak.,Don't cry.,Nanay,Outside the house,Learner tip: hilak = cry. Goodbyes get emotional - for everyone.
+12,W12-16,Daghang salamat sa inyong kaayo.,Thank you so much for your kindness.,Thomas,Dinner table,Learner tip: kaayo = kindness here (also 'very'). inyong = your (plural).
+12,W12-17,Text-text lang ta.,Let's keep in touch by text.,Kuya,Outside the house,Learner tip: Doubling = doing it often.
+12,W12-18,"Sige, mag-chat ta.","Sure, let's chat.",Thomas,Outside the house,Learner tip: chat on Messenger is how most families stay in touch.
+12,W12-19,Hatdan tika sa airport.,I'll take you to the airport.,Jiana,Living room,Learner tip: hatod = take someone somewhere.
+12,W12-20,Ikaw ang akong kalipay.,You are my happiness.,Thomas,Living room,"Learner tip: kalipay = happiness, joy. | QUESTION FOR REVIEWER: Natural romantic phrase?"
+12,W12-21,"Kini, para nimo.",This is for you.,Nanay,Dinner table,Learner tip: Expect a farewell gift or food for the trip.
+12,W12-22,"Wow, salamat kaayo! Nindot kaayo.","Wow, thank you so much! It's beautiful.",Thomas,Dinner table,Learner tip: Receive gifts with both hands.
+12,W12-23,Welcome ka diri bisan kanus-a.,You're welcome here anytime.,Tatay,Outside the house,Learner tip: bisan kanus-a = anytime.
+12,W12-24,Hangtod sa sunod!,Until next time!,Thomas,Outside the house,Learner tip: hangtod = until. sunod = next.
+12,W12-25,Babay! Amping mo tanan!,"Bye! Take care, everyone!",Thomas,Outside the house,Learner tip: babay = bye-bye.
+12,W12-D1-02,Walay sapayan. Pamilya man ta.,You're welcome. We're family.,Nanay,Dinner table,Learner tip: Dialogue: The last dinner
+12,W12-D2-03,Mingawon ko nimo pag-ayo.,I'll miss you so much.,Jiana,Video call,Learner tip: Dialogue: The last night
+12,W12-D2-04,Mingawon pud ko nimo. Mobalik gyud ko.,I'll miss you too. I'll definitely come back.,Thomas,Video call,Learner tip: Dialogue: The last night
+12,W12-D3-03,"Babay, Thomas! Amping!","Bye, Thomas! Take care!",Inday,Outside the house,Learner tip: Dialogue: At the door
+12,W12-D3-05,Hangtod sa sunod!,Until next time!,Inday,Outside the house,Learner tip: Dialogue: At the door
+12,W12-D3-06,"Hangtod sa sunod, Inday!","Until next time, Inday!",Thomas,Outside the house,Learner tip: Dialogue: At the door
+12,W12-D2-04-ALT2,Mobalik gyud ko. Mingawon pud ko nimo.,I'll miss you too. I'll definitely come back.,Thomas,Video call,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+12,W12-X1,| utang kabubut-on,debt of gratitude,"(text only, no audio)",Day 1 culture note,
+12,W12-X2,| Salamat sa...,Thank you for...,"(text only, no audio)",Mission,
+13,W13-01,Thomas! Dinhi!,Thomas! Over here!,Jiana,Airport arrival,Learner tip: dinhi = here (where I am).
+13,W13-02,Jiana! Mingaw kaayo ko nimo!,Jiana! I missed you so much!,Thomas,Airport arrival,"Learner tip: Week 11's mingaw, now in person."
+13,W13-03,Maayong pag-abot! Kumusta ang biyahe?,Welcome! How was the trip?,Tatay,Airport arrival,Learner tip: Two things from Weeks 1 and 5.
+13,W13-04,"Taas kaayo, pero okay ra.","Very long, but okay.",Thomas,Airport arrival,Learner tip: taas = long. pero = but.
+13,W13-05,Ako na'y magdala sa imong bag.,I'll carry your bag.,Kuya,Airport arrival,"Learner tip: dala = carry, bring."
+13,W13-06,"Salamat, Kuya. Bug-at kaayo!","Thanks, Kuya. It's very heavy!",Thomas,Airport arrival,Learner tip: bug-at = heavy. Probably full of pasalubong.
+13,W13-07,"Sulod, Thomas. Feel at home.","Come in, Thomas. Make yourself at home.",Nanay,Arriving at the house,Learner tip: English phrases like 'feel at home' are common.
+13,W13-08,"Mano, Nay. Mano, Tay.","(Asking for the blessing) Mom, Dad.",Thomas,Arriving at the house,Learner tip: From Week 1 - now with both parents.
+13,W13-09,Naa koy pasalubong para ninyo.,I have gifts for you all.,Thomas,Arriving at the house,Learner tip: koy = I have. ninyo = you all.
+13,W13-10,"Wow! Salamat, Thomas!","Wow! Thanks, Thomas!",Inday,Arriving at the house,"Learner tip: Gifts are often opened later, not in front of you."
+13,W13-11,Kaon na ta. Gigutom na siguro ka.,Let's eat. You must be hungry.,Nanay,Dinner table,"Learner tip: siguro = probably, maybe."
+13,W13-12,"Oo, gigutom kaayo ko. Lami kaayo ni!","Yes, I'm very hungry. This is delicious!",Thomas,Dinner table,Learner tip: Two Week 2 phrases joined.
+13,W13-13,Kabalo na ka mag-Bisaya?,Can you speak Bisaya now?,Dodong,Living room,Learner tip: The same question as Week 1 - with a different answer.
+13,W13-14,Gamay pa. Pero nagtuon ko matag adlaw.,Still a little. But I study every day.,Thomas,Living room,Learner tip: matag adlaw = every day.
+13,W13-15,Maayo kaayo imong Bisaya!,Your Bisaya is very good!,Nanay,Living room,Learner tip: You've earned this.
+13,W13-16,Salamat! Si Jiana ang akong maestra.,Thanks! Jiana is my teacher.,Thomas,Living room,Learner tip: maestra = teacher (woman).
+13,W13-17,Unsa'y gusto nimong buhaton ugma?,What do you want to do tomorrow?,Jiana,Living room,Learner tip: gusto = want. buhaton = to do.
+13,W13-18,Gusto ko moadto sa dagat.,I want to go to the sea.,Thomas,Living room,"Learner tip: Swap the place: sa merkado, sa simbahan, sa Chocolate Hills."
+13,W13-19,Kanus-a ka mobalik?,When will you come back?,Tatay,Outside the house,Learner tip: mobalik = come back.
+13,W13-20,"Sa sunod tuig, kung itugot sa Ginoo.","Next year, God willing.",Thomas,Outside the house,Learner tip: kung itugot sa Ginoo = God willing. Very much appreciated in a religious family.
+13,W13-21,Text dayon pag-abot nimo.,Text right away when you arrive.,Nanay,Airport departure,Learner tip: dayon = right away.
+13,W13-22,"Oo, Nay. Mo-text dayon ko.","Yes, Mom. I'll text right away.",Thomas,Airport departure,Learner tip: And do it.
+13,W13-D1-03,Kumusta ang biyahe?,How was the trip?,Jiana,Airport arrival,Learner tip: Dialogue: Arrival
+13,W13-D1-05,Kapoy ka?,Are you tired?,Jiana,Airport arrival,Learner tip: Dialogue: Arrival
+13,W13-D1-06,Gamay. Pero nalipay kaayo ko.,A little. But I'm very happy.,Thomas,Airport arrival,Learner tip: Dialogue: Arrival
+13,W13-D2-03,Kaloy-an ka sa Ginoo. Kumusta ka?,God bless you. How are you?,Nanay,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D2-04,"Maayo man ko, Nay. Naa koy pasalubong para ninyo.","I'm good, Mom. I have gifts for you all.",Thomas,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D2-05,"Ay, salamat kaayo!","Oh, thank you so much!",Nanay,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D2-06,"Walay sapayan, Nay.","You're welcome, Mom.",Thomas,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D3-01,Kabalo na ka mag-Bisaya?,Can you speak Bisaya now?,Inday,Living room,Learner tip: Dialogue: Your Bisaya
+13,W13-D3-03,Maayo kaayo imong Bisaya!,Your Bisaya is very good!,Inday,Living room,Learner tip: Dialogue: Your Bisaya
+13,W13-D3-05,Unsa'y gusto nimong buhaton ugma?,What do you want to do tomorrow?,Inday,Living room,Learner tip: Dialogue: Your Bisaya
+13,W13-D4-03,"Kaon pa, Thomas!","Eat more, Thomas!",Nanay,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D4-04,"Busog na gyud ko, Nay. Salamat.","I'm really full, Mom. Thank you.",Thomas,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D4-05,Lami?,Was it good?,Nanay,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D4-06,"Lami kaayo ang imong luto, Nay!","Your cooking is delicious, Mom!",Thomas,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D5-01,Ugma na ka mouli.,You're going home tomorrow.,Jiana,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-02,Oo. Masulub-on ko.,Yes. I'm sad.,Thomas,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-03,Kanus-a ka mobalik?,When will you come back?,Jiana,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-04,"Sa sunod tuig, kung itugot sa Ginoo.","Next year, God willing.",Thomas,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-05,Mingawon ko nimo.,I'll miss you.,Jiana,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-06,"Gihigugma tika, Jiana.","I love you, Jiana.",Thomas,Living room,Learner tip: Dialogue: The last day
+13,W13-D6-03,"Amping sa biyahe, Thomas.","Have a safe trip, Thomas.",Nanay,Airport departure,Learner tip: Dialogue: Departure
+13,W13-D6-04,"Salamat sa tanan, Nay.","Thank you for everything, Mom.",Thomas,Airport departure,Learner tip: Dialogue: Departure
+13,W13-D6-05,"Balik ka, ha?","Come back, okay?",Nanay,Airport departure,Learner tip: Dialogue: Departure
+13,W13-D6-06,Mobalik gyud ko. Babay!,I'll definitely come back. Bye!,Thomas,Airport departure,Learner tip: Dialogue: Departure
+13,W13-08-ALT2,"Mano, Tay. Mano, Nay.","(Asking for the blessing) Mom, Dad.",Thomas,Arriving at the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 2 word-order exercise. Is it natural? (punctuation is ignored)
+13,W13-20-ALT2,"Kung itugot sa Ginoo,, sa sunod tuig.","Next year, God willing.",Thomas,Outside the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+13,W13-D5-06-ALT2,"Jiana,, gihigugma tika.","I love you, Jiana.",Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+13,W13-X1,| Ang pagtuon walay katapusan.,Learning never ends.,"(text only, no audio)",Day 7 culture note,QUESTION FOR REVIEWER: Natural saying?

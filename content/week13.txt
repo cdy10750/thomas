@@ -1,0 +1,152 @@
+TITLE The Whole Trip
+SUBTITLE Full review: arrival to departure
+GOAL Put 12 weeks together and walk through a whole visit in Bisaya, from the airport to the goodbye.
+
+C 01 | Jiana | Airport arrival | Thomas! Dinhi! | Thomas! Over here! | dinhi = here (where I am).
+C 02 | Thomas | Airport arrival | Jiana! Mingaw kaayo ko nimo! | Jiana! I missed you so much! | Week 11's mingaw, now in person.
+C 03 | Tatay | Airport arrival | Maayong pag-abot! Kumusta ang biyahe? | Welcome! How was the trip? | Two things from Weeks 1 and 5.
+C 04 | Thomas | Airport arrival | Taas kaayo, pero okay ra. | Very long, but okay. | taas = long. pero = but.
+C 05 | Kuya | Airport arrival | Ako na'y magdala sa imong bag. | I'll carry your bag. | dala = carry, bring.
+C 06 | Thomas | Airport arrival | Salamat, Kuya. Bug-at kaayo! | Thanks, Kuya. It's very heavy! | bug-at = heavy. Probably full of pasalubong.
+C 07 | Nanay | Arriving at the house | Sulod, Thomas. Feel at home. | Come in, Thomas. Make yourself at home. | English phrases like 'feel at home' are common.
+C 08 | Thomas | Arriving at the house | Mano, Nay. Mano, Tay. | (Asking for the blessing) Mom, Dad. | From Week 1 - now with both parents.
+C 09 | Thomas | Arriving at the house | Naa koy pasalubong para ninyo. | I have gifts for you all. | koy = I have. ninyo = you all.
+C 10 | Inday | Arriving at the house | Wow! Salamat, Thomas! | Wow! Thanks, Thomas! | Gifts are often opened later, not in front of you.
+C 11 | Nanay | Dinner table | Kaon na ta. Gigutom na siguro ka. | Let's eat. You must be hungry. | siguro = probably, maybe.
+C 12 | Thomas | Dinner table | Oo, gigutom kaayo ko. Lami kaayo ni! | Yes, I'm very hungry. This is delicious! | Two Week 2 phrases joined.
+C 13 | Dodong | Living room | Kabalo na ka mag-Bisaya? | Can you speak Bisaya now? | The same question as Week 1 - with a different answer.
+C 14 | Thomas | Living room | Gamay pa. Pero nagtuon ko matag adlaw. | Still a little. But I study every day. | matag adlaw = every day.
+C 15 | Nanay | Living room | Maayo kaayo imong Bisaya! | Your Bisaya is very good! | You've earned this.
+C 16 | Thomas | Living room | Salamat! Si Jiana ang akong maestra. | Thanks! Jiana is my teacher. | maestra = teacher (woman).
+C 17 | Jiana | Living room | Unsa'y gusto nimong buhaton ugma? | What do you want to do tomorrow? | gusto = want. buhaton = to do.
+C 18 | Thomas | Living room | Gusto ko moadto sa dagat. | I want to go to the sea. | Swap the place: sa merkado, sa simbahan, sa Chocolate Hills.
+C 19 | Tatay | Outside the house | Kanus-a ka mobalik? | When will you come back? | mobalik = come back.
+C 20 | Thomas | Outside the house | Sa sunod tuig, kung itugot sa Ginoo. | Next year, God willing. | kung itugot sa Ginoo = God willing. Very much appreciated in a religious family.
+C 21 | Nanay | Airport departure | Text dayon pag-abot nimo. | Text right away when you arrive. | dayon = right away.
+C 22 | Thomas | Airport departure | Oo, Nay. Mo-text dayon ko. | Yes, Mom. I'll text right away. | And do it.
+
+D 1 | Arrival | Airport arrival
+L 01
+L 02
+L Jiana | Kumusta ang biyahe? | How was the trip?
+L 04
+L Jiana | Kapoy ka? | Are you tired?
+L Thomas | Gamay. Pero nalipay kaayo ko. | A little. But I'm very happy.
+D 2 | Arriving home | Arriving at the house
+L 07
+L 08
+L Nanay | Kaloy-an ka sa Ginoo. Kumusta ka? | God bless you. How are you?
+L Thomas | Maayo man ko, Nay. Naa koy pasalubong para ninyo. | I'm good, Mom. I have gifts for you all.
+L Nanay | Ay, salamat kaayo! | Oh, thank you so much!
+L Thomas | Walay sapayan, Nay. | You're welcome, Mom.
+D 3 | Your Bisaya | Living room
+L Inday | Kabalo na ka mag-Bisaya? | Can you speak Bisaya now?
+L 14
+L Inday | Maayo kaayo imong Bisaya! | Your Bisaya is very good!
+L 16
+L Inday | Unsa'y gusto nimong buhaton ugma? | What do you want to do tomorrow?
+L 18
+D 4 | Dinner | Dinner table
+L 11
+L 12
+L Nanay | Kaon pa, Thomas! | Eat more, Thomas!
+L Thomas | Busog na gyud ko, Nay. Salamat. | I'm really full, Mom. Thank you.
+L Nanay | Lami? | Was it good?
+L Thomas | Lami kaayo ang imong luto, Nay! | Your cooking is delicious, Mom!
+D 5 | The last day | Living room
+L Jiana | Ugma na ka mouli. | You're going home tomorrow.
+L Thomas | Oo. Masulub-on ko. | Yes. I'm sad.
+L Jiana | Kanus-a ka mobalik? | When will you come back?
+L Thomas | Sa sunod tuig, kung itugot sa Ginoo. | Next year, God willing.
+L Jiana | Mingawon ko nimo. | I'll miss you.
+L Thomas | Gihigugma tika, Jiana. | I love you, Jiana.
+D 6 | Departure | Airport departure
+L 21
+L 22
+L Nanay | Amping sa biyahe, Thomas. | Have a safe trip, Thomas.
+L Thomas | Salamat sa tanan, Nay. | Thank you for everything, Mom.
+L Nanay | Balik ka, ha? | Come back, okay?
+L Thomas | Mobalik gyud ko. Babay! | I'll definitely come back. Bye!
+
+DAY 1 | At the airport | The trip begins: meeting Jiana and the family at arrivals.
+CULTURE The welcome party | Don't be surprised if half the family comes to the airport, sometimes with a sign. Greet the elders first, let Kuya take your bag, and be ready for photos.
+NEW 01 02 03 04 05 06
+SCENE 03 | Airport arrival | Church | Bedroom
+RESP 01 > 02 | 04 06
+RESP 03 > 04 | 02 06
+RESP 05 > 06 | 04 W01-11
+FILL 04 | pero | ug; o
+FILL 06 | Bug-at | Init; Lami
+ORDER 04 | Taas kaayo, / pero okay ra. | extra: kapoy
+ORDER 02 | Jiana! / Mingaw kaayo ko nimo! | extra: Salamat
+
+DAY 2 | Arriving at the house | Mano, gifts, and making yourself at home.
+CULTURE First things first | At the house: greet each elder with a mano, accept the drink or snack you're offered, and give your pasalubong. Then rest - the family knows you're tired.
+NEW 07 08 09 10
+RESP 07 > 08 | 09 04
+RESP 10 > W01-25 | 08 02
+RESPC You open your suitcase full of presents for the family. > 09 | 08 06
+FILL 09 | pasalubong | tambal; kan-on
+FILL 08 | Mano | Kumusta; Salamat
+ORDER 09 | Naa koy pasalubong / para ninyo. | extra: Mano
+ORDER 08 | Mano, Nay. / Mano, Tay. | alt: Mano, Tay. / Mano, Nay.
+
+DAY 3 | Dinner and compliments | The first family meal of the trip.
+CULTURE Show what you learned | Use your Bisaya at the table, even if it's only a few words. Families talk for weeks about the foreign boyfriend who said Lami kaayo! and Busog na ko in Bisaya.
+NEW 11 12 15 16
+RESP 11 > 12 | 16 04
+RESP 15 > 16 | 12 06
+FILL 12 | gigutom | busog; kapoy
+FILL 16 | maestra | uyab; manghod
+ORDER 12 | Oo, gigutom kaayo ko. / Lami kaayo ni! | extra: Busog
+ORDER 16 | Salamat! / Si Jiana / ang akong maestra. | extra: Kuya
+
+DAY 4 | Your Bisaya, and plans | Answer the language question with pride, and say what you want to do.
+CULTURE Thirteen weeks | Week 1 you answered Kabalo ka mag-Bisaya? with 'just a little'. You still might - but now you can hold a short conversation, ask for repeats, and understand much more than you can say. That's exactly how it should be.
+NEW 13 14 17 18
+RESP 13 > 14 | 18 12
+RESP 17 > 18 | 14 04
+FILL 14 | matag | sunod; ugma
+FILL 18 | dagat | balay; tubig
+ORDER 14 | Gamay pa. / Pero nagtuon ko / matag adlaw. | extra: Wala
+ORDER 18 | Gusto ko moadto / sa dagat. | extra: Asa
+
+DAY 5 | Leaving | Promise to return, and promise to text.
+CULTURE Kung itugot sa Ginoo | Many Filipinos add 'God willing' to future plans. Using it yourself shows respect for the family's faith, and it sounds natural.
+NEW 19 20 21 22
+RESP 19 > 20 | 22 14
+RESP 21 > 22 | 20 06
+FILL 20 | tuig | adlaw; semana
+FILL 22 | dayon | ugma; unya
+ORDER 20 | Sa sunod tuig, / kung itugot sa Ginoo. | alt: Kung itugot sa Ginoo, / sa sunod tuig.
+ORDER 22 | Oo, Nay. / Mo-text dayon ko. | extra: Unya
+
+DAY 6 | Mock trip, part 1 | Arrival, coming home, and your Bisaya: three conversations from the start of the trip.
+DIALOGUES 1 2 3
+CULTURE Answer as Thomas | Play each conversation once with the text. Then play it again, pause after each family line, and say Thomas's line before he does.
+RESP D1-03 > 04 | 06 02
+RESP D1-05 > D1-06 | 04 06
+RESP D2-03 > D2-04 | 08 14
+RESP D2-05 > D2-06 | 06 12
+RESP D3-01 > 14 | 18 12
+RESP D3-05 > 18 | 14 16
+
+DAY 7 | Mock trip, part 2 | Dinner, the last day, and the goodbye: the end of the trip.
+DIALOGUES 4 5 6
+CULTURE Maayo kaayo! | You've finished the course. Keep going: one review session a day, one video call a week in Bisaya, and every new phrase Jiana teaches you. Ang pagtuon walay katapusan - learning never ends.
+RESP D4-03 > D4-04 | 12 02
+RESP D4-05 > D4-06 | 12 04
+RESP D5-01 > D5-02 | 20 22
+RESP D5-03 > D5-04 | 22 02
+RESP D6-03 > D6-04 | 22 06
+RESP D6-05 > D6-06 | 20 22
+ORDER D5-06 | Gihigugma tika, / Jiana. | alt: Jiana, / gihigugma tika.
+
+MISSION Final mission: the whole trip on video
+STEP Ask Jiana to play the family: she says their lines, you answer in Bisaya.
+STEP Run the arrival: Mingaw kaayo ko nimo! - Taas kaayo, pero okay ra. - Mano, Nay. Mano, Tay.
+STEP Run dinner: Lami kaayo! - Busog na gyud ko. Salamat.
+STEP Run the goodbye: Salamat sa tanan. - Mobalik gyud ko, kung itugot sa Ginoo.
+STEP Ask her to grade you, then plan your next real visit.
+
+X | Ang pagtuon walay katapusan. | Learning never ends. | Day 7 culture note | check: Natural saying?

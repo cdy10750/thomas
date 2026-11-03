@@ -1,0 +1,996 @@
+{
+  "week": 6,
+  "title": "Lami!",
+  "subtitle": "Likes, dislikes, and food reactions",
+  "goal": "Say what you like and don't like, describe tastes, and name your favorites.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W06-01",
+      "ceb": "Ganahan ka og isda?",
+      "en": "Do you like fish?",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "ganahan = like. isda = fish. Bohol is an island - fish is everywhere.",
+      "check": ""
+    },
+    {
+      "id": "W06-02",
+      "ceb": "Oo, ganahan kaayo ko.",
+      "en": "Yes, I like it a lot.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "kaayo = very.",
+      "check": ""
+    },
+    {
+      "id": "W06-03",
+      "ceb": "Dili kaayo ko ganahan.",
+      "en": "I don't really like it.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "dili kaayo = not really. A soft, polite no.",
+      "check": ""
+    },
+    {
+      "id": "W06-04",
+      "ceb": "Gusto ka mosulay og balut?",
+      "en": "Do you want to try balut?",
+      "speaker": "Kuya",
+      "scene": "Family gathering",
+      "tip": "balut = a boiled duck egg with a developing chick inside. A classic test for visitors.",
+      "check": ""
+    },
+    {
+      "id": "W06-05",
+      "ceb": "Sige, gamay lang.",
+      "en": "Okay, just a little.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "A brave but careful answer.",
+      "check": ""
+    },
+    {
+      "id": "W06-06",
+      "ceb": "Halang!",
+      "en": "Spicy!",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "halang = spicy. Say it while fanning your mouth.",
+      "check": ""
+    },
+    {
+      "id": "W06-07",
+      "ceb": "Halang ba?",
+      "en": "Is it spicy?",
+      "speaker": "Inday",
+      "scene": "Dinner table",
+      "tip": "ba turns a sentence into a yes/no question.",
+      "check": ""
+    },
+    {
+      "id": "W06-08",
+      "ceb": "Tam-is kaayo.",
+      "en": "It's very sweet.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "tam-is = sweet.",
+      "check": ""
+    },
+    {
+      "id": "W06-09",
+      "ceb": "Parat gamay.",
+      "en": "It's a little salty.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "parat = salty. Use gamay (a little) to keep it gentle.",
+      "check": "Natural word order?"
+    },
+    {
+      "id": "W06-10",
+      "ceb": "Unsa'y imong paborito?",
+      "en": "What's your favorite?",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "paborito = favorite (from Spanish).",
+      "check": ""
+    },
+    {
+      "id": "W06-11",
+      "ceb": "Paborito nako ang lechon.",
+      "en": "My favorite is lechon.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "lechon = whole roast pig, the star of every fiesta.",
+      "check": ""
+    },
+    {
+      "id": "W06-12",
+      "ceb": "Unsa'y imong gusto, kape o tsaa?",
+      "en": "What do you want, coffee or tea?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "o = or.",
+      "check": ""
+    },
+    {
+      "id": "W06-13",
+      "ceb": "Kape, palihug.",
+      "en": "Coffee, please.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "kape = coffee, tsaa = tea.",
+      "check": ""
+    },
+    {
+      "id": "W06-14",
+      "ceb": "Ganahan ka diri sa Bohol?",
+      "en": "Do you like it here in Bohol?",
+      "speaker": "Tatay",
+      "scene": "Living room",
+      "tip": "diri = here.",
+      "check": ""
+    },
+    {
+      "id": "W06-15",
+      "ceb": "Ganahan kaayo ko diri.",
+      "en": "I really like it here.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "The answer Tatay hopes for.",
+      "check": ""
+    },
+    {
+      "id": "W06-16",
+      "ceb": "Unsa'y mas lami, kini o kana?",
+      "en": "Which is tastier, this or that?",
+      "speaker": "Dodong",
+      "scene": "Dinner table",
+      "tip": "mas = more. kana = that.",
+      "check": ""
+    },
+    {
+      "id": "W06-17",
+      "ceb": "Mas lami kini.",
+      "en": "This one is tastier.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "Point at it as you say it.",
+      "check": ""
+    },
+    {
+      "id": "W06-18",
+      "ceb": "Pareha ra.",
+      "en": "They're the same.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "pareha = same. A diplomatic answer.",
+      "check": ""
+    },
+    {
+      "id": "W06-19",
+      "ceb": "Ayaw kabalaka, dili halang.",
+      "en": "Don't worry, it's not spicy.",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "ayaw = don't. kabalaka = worry.",
+      "check": ""
+    },
+    {
+      "id": "W06-20",
+      "ceb": "Unsa'y tawag ani?",
+      "en": "What's this called?",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "tawag = name, what it's called. ani = this.",
+      "check": ""
+    },
+    {
+      "id": "W06-21",
+      "ceb": "Adobo kana.",
+      "en": "That's adobo.",
+      "speaker": "Inday",
+      "scene": "Dinner table",
+      "tip": "adobo = meat stewed in vinegar, soy sauce and garlic.",
+      "check": ""
+    },
+    {
+      "id": "W06-22",
+      "ceb": "Mangga! Akong paborito.",
+      "en": "Mangoes! My favorite.",
+      "speaker": "Thomas",
+      "scene": "Market",
+      "tip": "Philippine mangoes are famous for being very sweet.",
+      "check": ""
+    },
+    {
+      "id": "W06-23",
+      "ceb": "Ganahan ka og tuba?",
+      "en": "Do you like tuba?",
+      "speaker": "Kuya",
+      "scene": "Family gathering",
+      "tip": "tuba = coconut wine, popular in Bohol. Offered at gatherings.",
+      "check": ""
+    },
+    {
+      "id": "W06-24",
+      "ceb": "Dili ko moinom, salamat.",
+      "en": "I don't drink, thanks.",
+      "speaker": "Thomas",
+      "scene": "Family gathering",
+      "tip": "Only if true. Otherwise: Sige, gamay lang. Either answer is respected.",
+      "check": ""
+    },
+    {
+      "id": "W06-25",
+      "ceb": "Lami kaayo ang imong luto, Nay!",
+      "en": "Your cooking is delicious, Mom!",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "luto = cooking. The compliment that matters most.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W06-D1",
+      "title": "Nanay's cooking",
+      "scene": "Dinner table",
+      "lines": [
+        {
+          "chunk": "W06-01"
+        },
+        {
+          "chunk": "W06-02"
+        },
+        {
+          "id": "W06-D1-03",
+          "speaker": "Nanay",
+          "ceb": "Sulayi ang adobo. Dili halang.",
+          "en": "Try the adobo. It's not spicy.",
+          "check": ""
+        },
+        {
+          "chunk": "W06-25"
+        },
+        {
+          "chunk": "W06-10"
+        },
+        {
+          "chunk": "W06-11"
+        }
+      ]
+    },
+    {
+      "id": "W06-D2",
+      "title": "Coffee or tea?",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W06-12"
+        },
+        {
+          "chunk": "W06-13"
+        },
+        {
+          "id": "W06-D2-03",
+          "speaker": "Jiana",
+          "ceb": "Ganahan ka og tam-is?",
+          "en": "Do you like sweets?",
+          "check": ""
+        },
+        {
+          "id": "W06-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Oo, ganahan kaayo ko og mangga.",
+          "en": "Yes, I really like mangoes.",
+          "check": ""
+        },
+        {
+          "id": "W06-D2-05",
+          "speaker": "Jiana",
+          "ceb": "Daghan og mangga diri sa Bohol!",
+          "en": "There are lots of mangoes here in Bohol!",
+          "check": ""
+        },
+        {
+          "id": "W06-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Lami!",
+          "en": "Yum!",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W06-D3",
+      "title": "Too spicy",
+      "scene": "Dinner table",
+      "lines": [
+        {
+          "chunk": "W06-07"
+        },
+        {
+          "chunk": "W06-06"
+        },
+        {
+          "id": "W06-D3-03",
+          "speaker": "Inday",
+          "ceb": "Inom og tubig! Ha ha!",
+          "en": "Drink some water! Ha ha!",
+          "check": ""
+        },
+        {
+          "id": "W06-D3-04",
+          "speaker": "Thomas",
+          "ceb": "Halang kaayo, Inday!",
+          "en": "It's really spicy, Inday!",
+          "check": ""
+        },
+        {
+          "id": "W06-D3-05",
+          "speaker": "Inday",
+          "ceb": "Unsa'y mas lami, kini o kana?",
+          "en": "Which is tastier, this or that?",
+          "check": ""
+        },
+        {
+          "chunk": "W06-17"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Like and don't like",
+      "intro": "Say yes and no to food - politely.",
+      "new": [
+        "W06-01",
+        "W06-02",
+        "W06-03",
+        "W06-14",
+        "W06-15"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-02",
+          "distractors": [
+            "W06-15",
+            "W02-13"
+          ],
+          "prompt": "W06-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-15",
+          "distractors": [
+            "W06-03",
+            "W05-06"
+          ],
+          "prompt": "W06-14"
+        },
+        {
+          "type": "fill",
+          "ref": "W06-01",
+          "text": "Ganahan ka og ___?",
+          "answer": "isda",
+          "options": [
+            "isda",
+            "kan-on",
+            "tubig"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W06-03",
+          "text": "Dili ___ ko ganahan.",
+          "answer": "kaayo",
+          "options": [
+            "kaayo",
+            "ra",
+            "pa"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-02",
+          "tiles": [
+            "Oo,",
+            "ganahan",
+            "kaayo ko.",
+            "dili"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "ganahan",
+              "kaayo ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-15",
+          "tiles": [
+            "Ganahan kaayo ko",
+            "diri."
+          ],
+          "answers": [
+            [
+              "Ganahan kaayo ko",
+              "diri."
+            ],
+            [
+              "Diri",
+              "ganahan kaayo ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "A soft no",
+        "text": "Saying a flat 'no' to food can feel harsh. Dili kaayo ko ganahan (I don't really like it) plus a smile is much softer. Taking a small taste first is even better."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Trying new things",
+      "intro": "Balut, adobo, and asking what something is called.",
+      "new": [
+        "W06-04",
+        "W06-05",
+        "W06-20",
+        "W06-21"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-05",
+          "distractors": [
+            "W06-03",
+            "W02-04"
+          ],
+          "prompt": "W06-04"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-19",
+          "distractors": [
+            "W06-05",
+            "W06-03"
+          ],
+          "prompt": "W06-21"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-20",
+          "distractors": [
+            "W06-05",
+            "W06-15"
+          ],
+          "context": "A new dish is on the table and you want to know its name."
+        },
+        {
+          "type": "fill",
+          "ref": "W06-20",
+          "text": "Unsa'y ___ ani?",
+          "answer": "tawag",
+          "options": [
+            "tawag",
+            "lami",
+            "halang"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W06-05",
+          "text": "Sige, ___ lang.",
+          "answer": "gamay",
+          "options": [
+            "gamay",
+            "daghan",
+            "kaayo"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-20",
+          "tiles": [
+            "Unsa'y tawag",
+            "ani?",
+            "kana"
+          ],
+          "answers": [
+            [
+              "Unsa'y tawag",
+              "ani?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-04",
+          "tiles": [
+            "Gusto ka mosulay",
+            "og balut?",
+            "Busog"
+          ],
+          "answers": [
+            [
+              "Gusto ka mosulay",
+              "og balut?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Balut",
+        "text": "Balut is sold by street vendors in the evening, often with salt and vinegar. Relatives may offer it as a playful test. Trying a little - or laughing and declining - are both fine."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Spicy, sweet, salty",
+      "intro": "Describe tastes so the cook knows what you like.",
+      "new": [
+        "W06-06",
+        "W06-07",
+        "W06-08",
+        "W06-09",
+        "W06-19"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-06",
+          "distractors": [
+            "W06-08",
+            "W02-08"
+          ],
+          "prompt": "W06-07"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-19",
+          "distractors": [
+            "W06-06",
+            "W06-09"
+          ],
+          "prompt": "W06-19"
+        },
+        {
+          "type": "fill",
+          "ref": "W06-08",
+          "text": "___ kaayo.",
+          "answer": "Tam-is",
+          "options": [
+            "Tam-is",
+            "Parat",
+            "Halang"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W06-19",
+          "text": "Ayaw kabalaka, dili ___.",
+          "answer": "halang",
+          "options": [
+            "halang",
+            "tam-is",
+            "lami"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-09",
+          "tiles": [
+            "Parat",
+            "gamay.",
+            "kaayo"
+          ],
+          "answers": [
+            [
+              "Parat",
+              "gamay."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-19",
+          "tiles": [
+            "Ayaw kabalaka,",
+            "dili halang.",
+            "Lami"
+          ],
+          "answers": [
+            [
+              "Ayaw kabalaka,",
+              "dili halang."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Not very spicy",
+        "text": "Boholano food is usually not very spicy - chili is often on the side as sili. Desserts and snacks, on the other hand, are often very sweet."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Favorites",
+      "intro": "Name your favorites and praise the cook.",
+      "new": [
+        "W06-10",
+        "W06-11",
+        "W06-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-11",
+          "distractors": [
+            "W06-15",
+            "W06-05"
+          ],
+          "prompt": "W06-10"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-22",
+          "distractors": [
+            "W06-06",
+            "W06-09"
+          ],
+          "context": "You see a pile of ripe mangoes at the market."
+        },
+        {
+          "type": "fill",
+          "ref": "W06-11",
+          "text": "Paborito nako ang ___.",
+          "answer": "lechon",
+          "options": [
+            "lechon",
+            "mangga",
+            "isda"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W06-22",
+          "text": "Mangga! Akong ___.",
+          "answer": "paborito",
+          "options": [
+            "paborito",
+            "lami",
+            "tubig"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-11",
+          "tiles": [
+            "Paborito nako",
+            "ang lechon."
+          ],
+          "answers": [
+            [
+              "Paborito nako",
+              "ang lechon."
+            ],
+            [
+              "Ang lechon",
+              "paborito nako."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Lechon",
+        "text": "Bohol and neighboring Cebu are famous for lechon - a whole roast pig with crispy skin. It appears at fiestas, birthdays and big family events. Saying it's your favorite will make you very popular."
+      }
+    },
+    {
+      "day": 5,
+      "title": "This or that?",
+      "intro": "Choose between two things, and compare.",
+      "new": [
+        "W06-12",
+        "W06-13",
+        "W06-16",
+        "W06-17",
+        "W06-18"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-13",
+          "distractors": [
+            "W06-17",
+            "W06-05"
+          ],
+          "prompt": "W06-12"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-17",
+          "distractors": [
+            "W06-13",
+            "W06-02"
+          ],
+          "prompt": "W06-16"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-18",
+          "distractors": [
+            "W06-06",
+            "W06-13"
+          ],
+          "context": "Inday asks which of two desserts you like more. You like both equally."
+        },
+        {
+          "type": "fill",
+          "ref": "W06-13",
+          "text": "___, palihug.",
+          "answer": "Kape",
+          "options": [
+            "Kape",
+            "Tubig",
+            "Kini"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W06-17",
+          "text": "___ lami kini.",
+          "answer": "Mas",
+          "options": [
+            "Mas",
+            "Pareha",
+            "Kini"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-12",
+          "tiles": [
+            "Unsa'y imong gusto,",
+            "kape o tsaa?",
+            "kini"
+          ],
+          "answers": [
+            [
+              "Unsa'y imong gusto,",
+              "kape o tsaa?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-17",
+          "tiles": [
+            "Mas lami",
+            "kini.",
+            "kana"
+          ],
+          "answers": [
+            [
+              "Mas lami",
+              "kini."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Kini, kana",
+        "text": "kini = this (near me), kana = that (near you). With these two words and a finger to point, you can order anything."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Drinks and compliments",
+      "intro": "Handle the tuba offer and give the best compliment of the trip.",
+      "new": [
+        "W06-23",
+        "W06-24",
+        "W06-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-24",
+          "distractors": [
+            "W06-02",
+            "W06-13"
+          ],
+          "prompt": "W06-23"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-25",
+          "distractors": [
+            "W06-18",
+            "W06-06"
+          ],
+          "context": "Nanay cooked a big dinner for you."
+        },
+        {
+          "type": "fill",
+          "ref": "W06-25",
+          "text": "Lami kaayo ang imong ___, Nay!",
+          "answer": "luto",
+          "options": [
+            "luto",
+            "kape",
+            "isda"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W06-24",
+          "text": "Dili ko ___, salamat.",
+          "answer": "moinom",
+          "options": [
+            "moinom",
+            "mokaon",
+            "ganahan"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-25",
+          "tiles": [
+            "Lami kaayo",
+            "ang imong luto,",
+            "Nay!",
+            "halang"
+          ],
+          "answers": [
+            [
+              "Lami kaayo",
+              "ang imong luto,",
+              "Nay!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W06-24",
+          "tiles": [
+            "Dili ko moinom,",
+            "salamat.",
+            "Sige"
+          ],
+          "answers": [
+            [
+              "Dili ko moinom,",
+              "salamat."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Tuba and toasts",
+        "text": "At gatherings, men may pass around tuba or beer in one shared glass (tagay). You can join with a little, or say you don't drink - just say it with a smile."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three food conversations, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W06-25",
+          "distractors": [
+            "W06-03",
+            "W06-06"
+          ],
+          "prompt": "W06-D1-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-D2-04",
+          "distractors": [
+            "W06-13",
+            "W06-18"
+          ],
+          "prompt": "W06-D2-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-D2-06",
+          "distractors": [
+            "W06-03",
+            "W06-08"
+          ],
+          "prompt": "W06-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W06-D3-04",
+          "distractors": [
+            "W06-15",
+            "W06-08"
+          ],
+          "prompt": "W06-D3-03"
+        },
+        {
+          "type": "order",
+          "ref": "W06-D2-04",
+          "tiles": [
+            "Oo,",
+            "ganahan kaayo ko",
+            "og mangga.",
+            "dili"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "ganahan kaayo ko",
+              "og mangga."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W06-D1",
+        "W06-D2",
+        "W06-D3"
+      ],
+      "culture": {
+        "title": "Ask for the recipe",
+        "text": "Asking Nanay how she cooked something - even in English - is a huge compliment. She may offer to teach you or Jiana."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 6",
+    "steps": [
+      "Ask Jiana: Unsa'y imong paborito? (food) and tell her yours.",
+      "Show her something you're eating and describe the taste: tam-is, parat, or halang.",
+      "Ask her: Ganahan ka og kape o tsaa?",
+      "Ask her what Nanay's best dish is, then say: Lami kaayo ang luto ni Nanay!",
+      "Ask her to name three Bohol foods you should try, and repeat each name."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W06-X1",
+      "ceb": "| Lami kaayo ang luto ni Nanay!",
+      "en": "Mom's cooking is delicious!",
+      "where": "Mission",
+      "check": ""
+    },
+    {
+      "id": "W06-X2",
+      "ceb": "| sili",
+      "en": "chili pepper",
+      "where": "Day 3 culture note",
+      "check": ""
+    },
+    {
+      "id": "W06-X3",
+      "ceb": "| tagay",
+      "en": "shared drinking round",
+      "where": "Day 6 culture note",
+      "check": ""
+    }
+  ]
+}

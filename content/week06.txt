@@ -1,0 +1,132 @@
+TITLE Lami!
+SUBTITLE Likes, dislikes, and food reactions
+GOAL Say what you like and don't like, describe tastes, and name your favorites.
+
+C 01 | Nanay | Dinner table | Ganahan ka og isda? | Do you like fish? | ganahan = like. isda = fish. Bohol is an island - fish is everywhere.
+C 02 | Thomas | Dinner table | Oo, ganahan kaayo ko. | Yes, I like it a lot. | kaayo = very.
+C 03 | Thomas | Dinner table | Dili kaayo ko ganahan. | I don't really like it. | dili kaayo = not really. A soft, polite no.
+C 04 | Kuya | Family gathering | Gusto ka mosulay og balut? | Do you want to try balut? | balut = a boiled duck egg with a developing chick inside. A classic test for visitors.
+C 05 | Thomas | Family gathering | Sige, gamay lang. | Okay, just a little. | A brave but careful answer.
+C 06 | Thomas | Dinner table | Halang! | Spicy! | halang = spicy. Say it while fanning your mouth.
+C 07 | Inday | Dinner table | Halang ba? | Is it spicy? | ba turns a sentence into a yes/no question.
+C 08 | Thomas | Dinner table | Tam-is kaayo. | It's very sweet. | tam-is = sweet.
+C 09 | Thomas | Dinner table | Parat gamay. | It's a little salty. | parat = salty. Use gamay (a little) to keep it gentle. | check: Natural word order?
+C 10 | Nanay | Dinner table | Unsa'y imong paborito? | What's your favorite? | paborito = favorite (from Spanish).
+C 11 | Thomas | Dinner table | Paborito nako ang lechon. | My favorite is lechon. | lechon = whole roast pig, the star of every fiesta.
+C 12 | Jiana | Video call | Unsa'y imong gusto, kape o tsaa? | What do you want, coffee or tea? | o = or.
+C 13 | Thomas | Video call | Kape, palihug. | Coffee, please. | kape = coffee, tsaa = tea.
+C 14 | Tatay | Living room | Ganahan ka diri sa Bohol? | Do you like it here in Bohol? | diri = here.
+C 15 | Thomas | Living room | Ganahan kaayo ko diri. | I really like it here. | The answer Tatay hopes for.
+C 16 | Dodong | Dinner table | Unsa'y mas lami, kini o kana? | Which is tastier, this or that? | mas = more. kana = that.
+C 17 | Thomas | Dinner table | Mas lami kini. | This one is tastier. | Point at it as you say it.
+C 18 | Thomas | Dinner table | Pareha ra. | They're the same. | pareha = same. A diplomatic answer.
+C 19 | Nanay | Dinner table | Ayaw kabalaka, dili halang. | Don't worry, it's not spicy. | ayaw = don't. kabalaka = worry.
+C 20 | Thomas | Dinner table | Unsa'y tawag ani? | What's this called? | tawag = name, what it's called. ani = this.
+C 21 | Inday | Dinner table | Adobo kana. | That's adobo. | adobo = meat stewed in vinegar, soy sauce and garlic.
+C 22 | Thomas | Market | Mangga! Akong paborito. | Mangoes! My favorite. | Philippine mangoes are famous for being very sweet.
+C 23 | Kuya | Family gathering | Ganahan ka og tuba? | Do you like tuba? | tuba = coconut wine, popular in Bohol. Offered at gatherings.
+C 24 | Thomas | Family gathering | Dili ko moinom, salamat. | I don't drink, thanks. | Only if true. Otherwise: Sige, gamay lang. Either answer is respected.
+C 25 | Thomas | Dinner table | Lami kaayo ang imong luto, Nay! | Your cooking is delicious, Mom! | luto = cooking. The compliment that matters most.
+
+D 1 | Nanay's cooking | Dinner table
+L 01
+L 02
+L Nanay | Sulayi ang adobo. Dili halang. | Try the adobo. It's not spicy.
+L 25
+L 10
+L 11
+D 2 | Coffee or tea? | Video call
+L 12
+L 13
+L Jiana | Ganahan ka og tam-is? | Do you like sweets?
+L Thomas | Oo, ganahan kaayo ko og mangga. | Yes, I really like mangoes.
+L Jiana | Daghan og mangga diri sa Bohol! | There are lots of mangoes here in Bohol!
+L Thomas | Lami! | Yum!
+D 3 | Too spicy | Dinner table
+L 07
+L 06
+L Inday | Inom og tubig! Ha ha! | Drink some water! Ha ha!
+L Thomas | Halang kaayo, Inday! | It's really spicy, Inday!
+L Inday | Unsa'y mas lami, kini o kana? | Which is tastier, this or that?
+L 17
+
+DAY 1 | Like and don't like | Say yes and no to food - politely.
+CULTURE A soft no | Saying a flat 'no' to food can feel harsh. Dili kaayo ko ganahan (I don't really like it) plus a smile is much softer. Taking a small taste first is even better.
+NEW 01 02 03 14 15
+RESP 01 > 02 | 15 W02-13
+RESP 14 > 15 | 03 W05-06
+FILL 01 | isda | kan-on; tubig
+FILL 03 | kaayo | ra; pa
+ORDER 02 | Oo, / ganahan / kaayo ko. | extra: dili
+ORDER 15 | Ganahan kaayo ko / diri. | alt: Diri / ganahan kaayo ko.
+
+DAY 2 | Trying new things | Balut, adobo, and asking what something is called.
+CULTURE Balut | Balut is sold by street vendors in the evening, often with salt and vinegar. Relatives may offer it as a playful test. Trying a little - or laughing and declining - are both fine.
+NEW 04 05 20 21
+RESP 04 > 05 | 03 W02-04
+RESP 21 > W02-19 | 05 03
+RESPC A new dish is on the table and you want to know its name. > 20 | 05 15
+FILL 20 | tawag | lami; halang
+FILL 05 | gamay | daghan; kaayo
+ORDER 20 | Unsa'y tawag / ani? | extra: kana
+ORDER 04 | Gusto ka mosulay / og balut? | extra: Busog
+
+DAY 3 | Spicy, sweet, salty | Describe tastes so the cook knows what you like.
+CULTURE Not very spicy | Boholano food is usually not very spicy - chili is often on the side as sili. Desserts and snacks, on the other hand, are often very sweet.
+NEW 06 07 08 09 19
+RESP 07 > 06 | 08 W02-08
+RESP 19 > W02-19 | 06 09
+FILL 08 | Tam-is | Parat; Halang
+FILL 19 | halang | tam-is; lami
+ORDER 09 | Parat / gamay. | extra: kaayo
+ORDER 19 | Ayaw kabalaka, / dili halang. | extra: Lami
+
+DAY 4 | Favorites | Name your favorites and praise the cook.
+CULTURE Lechon | Bohol and neighboring Cebu are famous for lechon - a whole roast pig with crispy skin. It appears at fiestas, birthdays and big family events. Saying it's your favorite will make you very popular.
+NEW 10 11 22
+RESP 10 > 11 | 15 05
+RESPC You see a pile of ripe mangoes at the market. > 22 | 06 09
+FILL 11 | lechon | mangga; isda
+FILL 22 | paborito | lami; tubig
+ORDER 11 | Paborito nako / ang lechon. | alt: Ang lechon / paborito nako.
+
+DAY 5 | This or that? | Choose between two things, and compare.
+CULTURE Kini, kana | kini = this (near me), kana = that (near you). With these two words and a finger to point, you can order anything.
+NEW 12 13 16 17 18
+RESP 12 > 13 | 17 05
+RESP 16 > 17 | 13 02
+RESPC Inday asks which of two desserts you like more. You like both equally. > 18 | 06 13
+FILL 13 | Kape | Tubig; Kini
+FILL 17 | Mas | Pareha; Kini
+ORDER 12 | Unsa'y imong gusto, / kape o tsaa? | extra: kini
+ORDER 17 | Mas lami / kini. | extra: kana
+
+DAY 6 | Drinks and compliments | Handle the tuba offer and give the best compliment of the trip.
+CULTURE Tuba and toasts | At gatherings, men may pass around tuba or beer in one shared glass (tagay). You can join with a little, or say you don't drink - just say it with a smile.
+NEW 23 24 25
+RESP 23 > 24 | 02 13
+RESPC Nanay cooked a big dinner for you. > 25 | 18 06
+FILL 25 | luto | kape; isda
+FILL 24 | moinom | mokaon; ganahan
+ORDER 25 | Lami kaayo / ang imong luto, / Nay! | extra: halang
+ORDER 24 | Dili ko moinom, / salamat. | extra: Sige
+
+DAY 7 | Putting it together | No new phrases. Three food conversations, then your mission.
+DIALOGUES 1 2 3
+CULTURE Ask for the recipe | Asking Nanay how she cooked something - even in English - is a huge compliment. She may offer to teach you or Jiana.
+RESP D1-03 > 25 | 03 06
+RESP D2-03 > D2-04 | 13 18
+RESP D2-05 > D2-06 | 03 08
+RESP D3-03 > D3-04 | 15 08
+ORDER D2-04 | Oo, / ganahan kaayo ko / og mangga. | extra: dili
+
+MISSION Video-call mission: Week 6
+STEP Ask Jiana: Unsa'y imong paborito? (food) and tell her yours.
+STEP Show her something you're eating and describe the taste: tam-is, parat, or halang.
+STEP Ask her: Ganahan ka og kape o tsaa?
+STEP Ask her what Nanay's best dish is, then say: Lami kaayo ang luto ni Nanay!
+STEP Ask her to name three Bohol foods you should try, and repeat each name.
+
+X | Lami kaayo ang luto ni Nanay! | Mom's cooking is delicious! | Mission
+X | sili | chili pepper | Day 3 culture note
+X | tagay | shared drinking round | Day 6 culture note

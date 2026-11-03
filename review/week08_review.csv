@@ -1,0 +1,38 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+8,W08-01,Mosimba ta karong Domingo.,We'll go to Mass this Sunday.,Nanay,Living room,Learner tip: simba = go to church / Mass. karong = this (coming).
+8,W08-02,"Sige, mouban ko.","Okay, I'll come along.",Thomas,Living room,Learner tip: uban = go with someone.
+8,W08-03,Hilom lang sa simbahan.,Stay quiet in church.,Jiana,Church,Learner tip: hilom = quiet. simbahan = church.
+8,W08-04,Fiesta na sunod semana!,The fiesta is next week!,Tatay,Living room,Learner tip: sunod = next. Every town has a yearly fiesta for its patron saint.
+8,W08-05,Unsa'y naa sa fiesta?,What happens at the fiesta?,Thomas,Living room,Learner tip: naa = there is.
+8,W08-06,Daghang pagkaon ug sayaw.,Lots of food and dancing.,Kuya,Living room,Learner tip: pagkaon = food. sayaw = dance.
+8,W08-07,Mosayaw ka?,Will you dance?,Inday,Fiesta,Learner tip: mo- = will.
+8,W08-08,Dili ko kahibalo mosayaw!,I don't know how to dance!,Thomas,Fiesta,Learner tip: kahibalo = know how.
+8,W08-09,Tudloan tika!,I'll teach you!,Inday,Fiesta,Learner tip: tika = I (do it to) you.
+8,W08-10,Birthday ni Lola ugma.,Tomorrow is Grandma's birthday.,Nanay,Living room,"Learner tip: Lola = grandma, Lolo = grandpa. Birthday stays in English."
+8,W08-11,"Malipayong adlawng natawhan, Lola!","Happy birthday, Grandma!",Thomas,Family gathering,Learner tip: adlawng natawhan = birthday. Many people just say Happy birthday. | QUESTION FOR REVIEWER: Natural to say to an elder?
+8,W08-12,Kanta ta!,Let's sing!,Tatay,Family gathering,Learner tip: kanta = sing. Karaoke (videoke) is at every party.
+8,W08-13,Dili ko maayo mokanta.,I'm not good at singing.,Thomas,Family gathering,Learner tip: Nobody accepts this excuse.
+8,W08-14,"Okay ra, sige na!","It's fine, come on!",Kuya,Family gathering,"Learner tip: sige na = come on, go ahead."
+8,W08-15,"Sige, usa lang ka kanta.","Okay, just one song.",Thomas,Family gathering,Learner tip: Pick an old American classic - they'll know it.
+8,W08-16,Daghang bisita.,There are lots of guests.,Nanay,Family gathering,"Learner tip: bisita = guest, visitor."
+8,W08-17,Kinsa siya?,Who is he? / Who is she?,Thomas,Family gathering,Learner tip: kinsa = who. siya = he or she.
+8,W08-18,Akong ig-agaw.,My cousin.,Jiana,Family gathering,Learner tip: ig-agaw = cousin. There will be many.
+8,W08-19,Nalipay ko nga nakaila nimo.,Nice to meet you.,Thomas,Family gathering,Learner tip: nakaila = got to know. | QUESTION FOR REVIEWER: Natural for 'nice to meet you'?
+8,W08-20,Salamat sa pag-anhi.,Thank you for coming.,Nanay,Family gathering,Learner tip: What hosts say to guests.
+8,W08-21,Salamat sa pag-imbita.,Thank you for inviting me.,Thomas,Family gathering,Learner tip: imbita = invite.
+8,W08-22,Pila na ka tuig si Lola?,How old is Grandma?,Thomas,Family gathering,Learner tip: tuig = year.
+8,W08-23,Otsenta na siya.,She's eighty.,Nanay,Family gathering,Learner tip: otsenta = eighty (Spanish).
+8,W08-24,Nindot kaayo ang simbahan.,The church is very beautiful.,Thomas,Church,"Learner tip: nindot = beautiful, nice. Bohol has famous old stone churches."
+8,W08-25,Lingaw kaayo!,This is so much fun!,Thomas,Fiesta,Learner tip: lingaw = fun.
+8,W08-D1-03,Alas siyete ang misa.,Mass is at seven.,Nanay,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D1-04,Sayo kaayo!,That's so early!,Thomas,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D1-05,Ha ha. Mobangon ta og sayo.,Ha ha. We'll get up early.,Nanay,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D1-06,"Sige, Nay.","Okay, Mom.",Thomas,Living room,Learner tip: Dialogue: Sunday Mass
+8,W08-D2-04,Sige! Hinay-hinay lang.,"Okay! Slowly, though.",Thomas,Fiesta,Learner tip: Dialogue: Dancing at the fiesta
+8,W08-D2-05,"Lingaw kaayo, no?","So much fun, right?",Inday,Fiesta,Learner tip: Dialogue: Dancing at the fiesta
+8,W08-D3-04,Ug kana si Lola.,And that's Grandma.,Jiana,Family gathering,Learner tip: Dialogue: Who's that?
+8,W08-D3-06,Otsenta na siya.,She's eighty.,Jiana,Family gathering,Learner tip: Dialogue: Who's that?
+8,W08-24-ALT2,"Ang simbahan, nindot kaayo.",The church is very beautiful.,Thomas,Church,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+8,W08-X1,| Kanus-a ang fiesta?,When is the fiesta?,"(text only, no audio)",Mission,
+8,W08-X2,"| Tito, Tita","Uncle, Aunt (titles)","(text only, no audio)",Day 5 culture note,
+8,W08-X3,| Lolo,Grandpa,"(text only, no audio)",Day 6 culture note,

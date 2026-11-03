@@ -1,0 +1,51 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+13,W13-01,Thomas! Dinhi!,Thomas! Over here!,Jiana,Airport arrival,Learner tip: dinhi = here (where I am).
+13,W13-02,Jiana! Mingaw kaayo ko nimo!,Jiana! I missed you so much!,Thomas,Airport arrival,"Learner tip: Week 11's mingaw, now in person."
+13,W13-03,Maayong pag-abot! Kumusta ang biyahe?,Welcome! How was the trip?,Tatay,Airport arrival,Learner tip: Two things from Weeks 1 and 5.
+13,W13-04,"Taas kaayo, pero okay ra.","Very long, but okay.",Thomas,Airport arrival,Learner tip: taas = long. pero = but.
+13,W13-05,Ako na'y magdala sa imong bag.,I'll carry your bag.,Kuya,Airport arrival,"Learner tip: dala = carry, bring."
+13,W13-06,"Salamat, Kuya. Bug-at kaayo!","Thanks, Kuya. It's very heavy!",Thomas,Airport arrival,Learner tip: bug-at = heavy. Probably full of pasalubong.
+13,W13-07,"Sulod, Thomas. Feel at home.","Come in, Thomas. Make yourself at home.",Nanay,Arriving at the house,Learner tip: English phrases like 'feel at home' are common.
+13,W13-08,"Mano, Nay. Mano, Tay.","(Asking for the blessing) Mom, Dad.",Thomas,Arriving at the house,Learner tip: From Week 1 - now with both parents.
+13,W13-09,Naa koy pasalubong para ninyo.,I have gifts for you all.,Thomas,Arriving at the house,Learner tip: koy = I have. ninyo = you all.
+13,W13-10,"Wow! Salamat, Thomas!","Wow! Thanks, Thomas!",Inday,Arriving at the house,"Learner tip: Gifts are often opened later, not in front of you."
+13,W13-11,Kaon na ta. Gigutom na siguro ka.,Let's eat. You must be hungry.,Nanay,Dinner table,"Learner tip: siguro = probably, maybe."
+13,W13-12,"Oo, gigutom kaayo ko. Lami kaayo ni!","Yes, I'm very hungry. This is delicious!",Thomas,Dinner table,Learner tip: Two Week 2 phrases joined.
+13,W13-13,Kabalo na ka mag-Bisaya?,Can you speak Bisaya now?,Dodong,Living room,Learner tip: The same question as Week 1 - with a different answer.
+13,W13-14,Gamay pa. Pero nagtuon ko matag adlaw.,Still a little. But I study every day.,Thomas,Living room,Learner tip: matag adlaw = every day.
+13,W13-15,Maayo kaayo imong Bisaya!,Your Bisaya is very good!,Nanay,Living room,Learner tip: You've earned this.
+13,W13-16,Salamat! Si Jiana ang akong maestra.,Thanks! Jiana is my teacher.,Thomas,Living room,Learner tip: maestra = teacher (woman).
+13,W13-17,Unsa'y gusto nimong buhaton ugma?,What do you want to do tomorrow?,Jiana,Living room,Learner tip: gusto = want. buhaton = to do.
+13,W13-18,Gusto ko moadto sa dagat.,I want to go to the sea.,Thomas,Living room,"Learner tip: Swap the place: sa merkado, sa simbahan, sa Chocolate Hills."
+13,W13-19,Kanus-a ka mobalik?,When will you come back?,Tatay,Outside the house,Learner tip: mobalik = come back.
+13,W13-20,"Sa sunod tuig, kung itugot sa Ginoo.","Next year, God willing.",Thomas,Outside the house,Learner tip: kung itugot sa Ginoo = God willing. Very much appreciated in a religious family.
+13,W13-21,Text dayon pag-abot nimo.,Text right away when you arrive.,Nanay,Airport departure,Learner tip: dayon = right away.
+13,W13-22,"Oo, Nay. Mo-text dayon ko.","Yes, Mom. I'll text right away.",Thomas,Airport departure,Learner tip: And do it.
+13,W13-D1-03,Kumusta ang biyahe?,How was the trip?,Jiana,Airport arrival,Learner tip: Dialogue: Arrival
+13,W13-D1-05,Kapoy ka?,Are you tired?,Jiana,Airport arrival,Learner tip: Dialogue: Arrival
+13,W13-D1-06,Gamay. Pero nalipay kaayo ko.,A little. But I'm very happy.,Thomas,Airport arrival,Learner tip: Dialogue: Arrival
+13,W13-D2-03,Kaloy-an ka sa Ginoo. Kumusta ka?,God bless you. How are you?,Nanay,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D2-04,"Maayo man ko, Nay. Naa koy pasalubong para ninyo.","I'm good, Mom. I have gifts for you all.",Thomas,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D2-05,"Ay, salamat kaayo!","Oh, thank you so much!",Nanay,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D2-06,"Walay sapayan, Nay.","You're welcome, Mom.",Thomas,Arriving at the house,Learner tip: Dialogue: Arriving home
+13,W13-D3-01,Kabalo na ka mag-Bisaya?,Can you speak Bisaya now?,Inday,Living room,Learner tip: Dialogue: Your Bisaya
+13,W13-D3-03,Maayo kaayo imong Bisaya!,Your Bisaya is very good!,Inday,Living room,Learner tip: Dialogue: Your Bisaya
+13,W13-D3-05,Unsa'y gusto nimong buhaton ugma?,What do you want to do tomorrow?,Inday,Living room,Learner tip: Dialogue: Your Bisaya
+13,W13-D4-03,"Kaon pa, Thomas!","Eat more, Thomas!",Nanay,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D4-04,"Busog na gyud ko, Nay. Salamat.","I'm really full, Mom. Thank you.",Thomas,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D4-05,Lami?,Was it good?,Nanay,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D4-06,"Lami kaayo ang imong luto, Nay!","Your cooking is delicious, Mom!",Thomas,Dinner table,Learner tip: Dialogue: Dinner
+13,W13-D5-01,Ugma na ka mouli.,You're going home tomorrow.,Jiana,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-02,Oo. Masulub-on ko.,Yes. I'm sad.,Thomas,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-03,Kanus-a ka mobalik?,When will you come back?,Jiana,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-04,"Sa sunod tuig, kung itugot sa Ginoo.","Next year, God willing.",Thomas,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-05,Mingawon ko nimo.,I'll miss you.,Jiana,Living room,Learner tip: Dialogue: The last day
+13,W13-D5-06,"Gihigugma tika, Jiana.","I love you, Jiana.",Thomas,Living room,Learner tip: Dialogue: The last day
+13,W13-D6-03,"Amping sa biyahe, Thomas.","Have a safe trip, Thomas.",Nanay,Airport departure,Learner tip: Dialogue: Departure
+13,W13-D6-04,"Salamat sa tanan, Nay.","Thank you for everything, Mom.",Thomas,Airport departure,Learner tip: Dialogue: Departure
+13,W13-D6-05,"Balik ka, ha?","Come back, okay?",Nanay,Airport departure,Learner tip: Dialogue: Departure
+13,W13-D6-06,Mobalik gyud ko. Babay!,I'll definitely come back. Bye!,Thomas,Airport departure,Learner tip: Dialogue: Departure
+13,W13-08-ALT2,"Mano, Tay. Mano, Nay.","(Asking for the blessing) Mom, Dad.",Thomas,Arriving at the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 2 word-order exercise. Is it natural? (punctuation is ignored)
+13,W13-20-ALT2,"Kung itugot sa Ginoo,, sa sunod tuig.","Next year, God willing.",Thomas,Outside the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+13,W13-D5-06-ALT2,"Jiana,, gihigugma tika.","I love you, Jiana.",Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+13,W13-X1,| Ang pagtuon walay katapusan.,Learning never ends.,"(text only, no audio)",Day 7 culture note,QUESTION FOR REVIEWER: Natural saying?

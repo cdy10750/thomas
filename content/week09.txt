@@ -1,0 +1,136 @@
+TITLE Life at Home
+SUBTITLE Showering, sleeping, helping, relaxing
+GOAL Get through a normal day in the family's house: mornings, showers, chores, downtime and bedtime.
+
+C 01 | Nanay | Home - morning | Maligo na ka. | Go take your shower. | ligo = bathe, shower.
+C 02 | Thomas | Home - morning | Naa bay init nga tubig? | Is there hot water? | init nga tubig = hot water. Many homes don't have it.
+C 03 | Inday | Home - morning | Walay init nga tubig. | There's no hot water. | walay = there is no.
+C 04 | Thomas | Home - morning | Okay ra. Maligo na ko. | That's okay. I'll shower now. | A cold shower in Bohol heat feels great.
+C 05 | Thomas | Kitchen | Unsa'y akong matabang? | What can I help with? | tabang = help.
+C 06 | Nanay | Kitchen | Ayaw na, bisita man ka. | No need, you're a guest. | bisita = guest. She'll say this at first.
+C 07 | Thomas | Kitchen | Gusto ko motabang. | I want to help. | Insist gently.
+C 08 | Nanay | Kitchen | Sige, hugasi ang mga plato. | Okay, wash the dishes. | hugas = wash. plato = plate. mga = plural.
+C 09 | Tatay | Living room | Lingkod sa. | Sit down for a while. | lingkod = sit.
+C 10 | Tatay | Living room | Relax lang, Thomas. | Just relax, Thomas. | English words mix right in.
+C 11 | Nanay | Home - morning | Nakatulog ka og maayo? | Did you sleep well? | tulog = sleep. maayo = well.
+C 12 | Thomas | Home - morning | Oo, nakatulog ko og maayo. | Yes, I slept well. | Swap Oo for Dili kaayo if you didn't.
+C 13 | Thomas | Home - morning | Gipaak ko sa lamok. | I got bitten by mosquitoes. | lamok = mosquito. paak = bite.
+C 14 | Nanay | Home - evening | Isira ang pultahan, daghang lamok. | Close the door, there are lots of mosquitoes. | isira = close. pultahan = door.
+C 15 | Thomas | Living room | Unsa'y atong buhaton karon? | What are we doing today? | buhat = do. atong = our (including you).
+C 16 | Jiana | Living room | Pahulay lang ta sa balay. | We'll just relax at home. | balay = house, home.
+C 17 | Kuya | Living room | Tan-aw ta og TV. | Let's watch TV. | tan-aw = watch, look.
+C 18 | Thomas | Living room | Unsa'y atong tan-awon? | What are we going to watch? | Filipino families love teleseryes (drama series) and basketball.
+C 19 | Nanay | Outside the house | Molaba ko karon. | I'm doing the laundry now. | laba = wash clothes. Often by hand.
+C 20 | Thomas | Outside the house | Tabangan tika, Nay. | I'll help you, Mom. | tika = I (do it for) you.
+C 21 | Thomas | Kitchen | Asa nako ibutang ni? | Where should I put this? | butang = put, place.
+C 22 | Inday | Kitchen | Diha lang sa lamesa. | Just there on the table. | lamesa = table.
+C 23 | Dodong | Home - evening | Brownout na pud! | The power's out again! | brownout = power outage. They happen; nobody panics.
+C 24 | Thomas | Home - evening | Naa moy flashlight? | Do you have a flashlight? | Phones work too.
+C 25 | Thomas | Bedroom | Matulog na ko. Good night! | I'm going to sleep. Good night! | Good night in English is completely normal.
+
+D 1 | Morning routine | Home - morning
+L 11
+L 12
+L 01
+L 02
+L Nanay | Wala, pasensya. Bugnaw ra. | No, sorry. Only cold.
+L Thomas | Okay ra, Nay. Presko! | That's fine, Mom. Refreshing!
+D 2 | Can I help? | Kitchen
+L 05
+L 06
+L 07
+L 08
+L Thomas | Sige! Asa ang sabon? | Sure! Where's the soap?
+L Nanay | Diha sa lababo. | There at the sink.
+D 3 | Brownout | Home - evening
+L Inday | Brownout na pud! | The power's out again!
+L 24
+L Inday | Naa, hulat kadiyot. | Yes, wait a moment.
+L Thomas | Init kaayo! | It's so hot!
+L Inday | Abrihan nato ang bintana. | Let's open the window.
+L Thomas | Sige, Inday. Salamat. | Okay, Inday. Thanks.
+
+DAY 1 | Shower time | The morning shower - and what to say when there's no hot water.
+CULTURE Tabo and timba | Many homes shower with a bucket (timba) and a dipper (tabo) instead of a showerhead, and water is usually cold. It's refreshing in the heat. Ask Jiana to show you how it's done.
+NEW 01 02 03 04
+SCENE 01 | Home - morning | Church | Market
+RESP 01 > 02 | W04-22 W05-24
+RESP 03 > 04 | 02 W04-20
+FILL 02 | init | bugnaw; lami
+FILL 01 | Maligo | Matulog; Kaon
+ORDER 04 | Okay ra. / Maligo na ko. | extra: Wala
+ORDER 02 | Naa bay / init nga tubig? | extra: Wala
+
+DAY 2 | Offering help | Offer to help, get refused, and offer again.
+CULTURE The guest dance | As a guest you'll first be told to sit down. Offering again shows good manners. Small jobs - washing dishes, carrying things, sweeping - make you part of the family.
+NEW 05 06 07 08
+RESP 06 > 07 | 05 04
+RESP 08 > W01-23 | 07 02
+RESPC Nanay is cooking a big meal and you want to be useful. > 05 | 07 04
+FILL 07 | motabang | mokaon; maligo
+FILL 08 | plato | lamesa; tubig
+ORDER 07 | Gusto ko / motabang. | extra: Ayaw
+ORDER 05 | Unsa'y akong / matabang? | extra: Asa
+
+DAY 3 | Taking it easy | Sit down, relax, and ask what the plan is.
+CULTURE Nothing planned is a plan | Many days in Bohol are slow: sitting, chatting, eating, napping. It's quality time. You don't need to fill every day with sightseeing.
+NEW 09 10 15 16
+RESP 09 > W01-23 | 07 05
+RESP 16 > W01-23 | 15 07
+RESPC It's morning and you wonder what the family is planning. > 15 | 05 02
+FILL 16 | balay | merkado; simbahan
+FILL 15 | buhaton | kaonon; tan-awon
+ORDER 15 | Unsa'y atong / buhaton karon? | extra: Asa
+ORDER 16 | Pahulay lang ta / sa balay. | extra: merkado
+
+DAY 4 | Sleeping and mosquitoes | Mornings after the night, mosquitoes, and saying good night.
+CULTURE Mosquitoes | Mosquitoes are worst at dusk. Close doors and windows in the evening, use repellent, and sleep under a fan or net. Telling the family Gipaak ko sa lamok gets you help quickly.
+NEW 11 12 13 14 25
+RESP 11 > 12 | 13 25
+RESP 14 > W01-23 | 13 12
+RESPC It's late and you're heading to bed. > 25 | 12 13
+FILL 13 | lamok | lamesa; balay
+FILL 12 | maayo | init; gamay
+ORDER 12 | Oo, / nakatulog ko / og maayo. | extra: Dili
+ORDER 25 | Matulog na ko. / Good night! | extra: Maligo
+
+DAY 5 | Chores together | Laundry, putting things away, and following simple directions.
+CULTURE Laundry day | Laundry is often washed by hand and hung outside. Helping hang clothes or carry the basket is a simple way to spend time with Nanay - even without many words.
+NEW 19 20 21 22
+RESP 19 > 20 | 21 07
+RESP 22 > W01-23 | 21 05
+RESPC You're holding a bowl and don't know where it goes. > 21 | 20 05
+FILL 20 | Tabangan | Hugasi; Isira
+FILL 22 | lamesa | lamok; balay
+ORDER 20 | Tabangan tika, / Nay. | alt: Nay, / tabangan tika.
+ORDER 21 | Asa nako / ibutang ni? | extra: Unsa'y
+
+DAY 6 | Evenings: TV and brownouts | Watch TV with the family and stay calm when the power goes out.
+CULTURE Brownouts | Power outages still happen in parts of Bohol, especially in storms. Families keep candles, flashlights and fans with batteries. Charge your phone when you can.
+NEW 17 18 23 24
+RESP 17 > 18 | 24 15
+RESP 23 > 24 | 18 04
+FILL 17 | TV | balay; lamesa
+FILL 24 | flashlight | tubig; TV
+ORDER 18 | Unsa'y atong / tan-awon? | extra: Asa
+ORDER 24 | Naa moy / flashlight? | extra: Wala
+
+DAY 7 | Putting it together | No new phrases. Three everyday home conversations, then your mission.
+DIALOGUES 1 2 3
+CULTURE Small words, big effect | The family won't remember perfect grammar. They'll remember that you said Maayong buntag every morning, offered to help, and said Good night to everyone.
+RESP D1-05 > D1-06 | 02 13
+RESP D2-06 > W01-23 | 05 21
+RESP D3-03 > D3-04 | 24 25
+RESP D3-05 > D3-06 | 04 13
+ORDER D1-06 | Okay ra, Nay. / Presko! | extra: Init
+
+MISSION Video-call mission: Week 9
+STEP In the morning (her time), ask: Nakatulog ka og maayo?
+STEP Ask her: Unsa'y imong buhaton karon? and listen for the plan.
+STEP Tell her something about your day using maligo, mokaon, or matulog.
+STEP Ask her what you could help with at her family's house next visit.
+STEP End the call with: Matulog na ko. Good night!
+
+X | Unsa'y imong buhaton karon? | What are you doing today? | Mission
+X | tabo, timba | dipper, bucket | Day 1 culture note
+X | teleserye | TV drama series | Day 6 chunk tip

@@ -46,9 +46,21 @@ python3 tools/generate_audio.py 1
 
 ## Edit lessons
 
-1. Edit `data/weekNN.json`.
+Weeks 2-13 are written in a compact source format in `content/weekNN.txt` (format described at the top of
+`tools/compile_week.py`). Week 1 was written directly as JSON.
+
+1. Edit `content/weekNN.txt` and run `python3 tools/compile_week.py NN` (or edit `data/week01.json` directly).
 2. Run `python3 tools/export_csv.py NN` - it checks every reference, fill-in answer and word-order answer, then rewrites the review CSV.
-3. Regenerate audio for changed lines with `--only`.
+   `review/all_weeks_review.csv` has every week in one sheet.
+3. Regenerate audio for changed lines with `tools/generate_audio.py NN --only ID ...`.
+
+`tools/batch_audio.py` is how Weeks 2-13 were voiced: one take per week and voice with `[long pause]` between
+lines, then split into one mp3 per line at the longest pauses (needs ffmpeg).
+
+## Use it inside Claude
+
+`python3 tools/build_artifact.py OUT_DIR` builds a single-page version (CSS and JS inlined) plus the data and audio
+folders, which is what is published as a Claude Artifact.
 
 ## Review schedule
 

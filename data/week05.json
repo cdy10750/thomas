@@ -1,0 +1,1013 @@
+{
+  "week": 5,
+  "title": "When?",
+  "subtitle": "Numbers, time, arriving and leaving",
+  "goal": "Answer 'When did you arrive?' and 'When are you leaving?', tell the time, and count to ten.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W05-01",
+      "ceb": "Kanus-a ka niabot?",
+      "en": "When did you arrive?",
+      "speaker": "Tatay",
+      "scene": "Airport arrival",
+      "tip": "kanus-a = when. niabot = arrived.",
+      "check": ""
+    },
+    {
+      "id": "W05-02",
+      "ceb": "Niabot ko gahapon.",
+      "en": "I arrived yesterday.",
+      "speaker": "Thomas",
+      "scene": "Airport arrival",
+      "tip": "gahapon = yesterday. karon = today, now.",
+      "check": ""
+    },
+    {
+      "id": "W05-03",
+      "ceb": "Kanus-a ka mouli?",
+      "en": "When are you going home?",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "mouli = go home. Expect a sad face when you answer.",
+      "check": ""
+    },
+    {
+      "id": "W05-04",
+      "ceb": "Mouli ko sa Domingo.",
+      "en": "I'm going home on Sunday.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "Days come from Spanish: Lunes, Martes, Miyerkoles, Huwebes, Biyernes, Sabado, Domingo.",
+      "check": ""
+    },
+    {
+      "id": "W05-05",
+      "ceb": "Pila ka adlaw ka diri?",
+      "en": "How many days are you here?",
+      "speaker": "Inday",
+      "scene": "Living room",
+      "tip": "adlaw = day. diri = here.",
+      "check": ""
+    },
+    {
+      "id": "W05-06",
+      "ceb": "Duha ka semana.",
+      "en": "Two weeks.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "semana = week. ka links a number to a noun.",
+      "check": ""
+    },
+    {
+      "id": "W05-07",
+      "ceb": "Unsa'y oras na?",
+      "en": "What time is it?",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "oras = hour, time.",
+      "check": ""
+    },
+    {
+      "id": "W05-08",
+      "ceb": "Alas tres na.",
+      "en": "It's three o'clock.",
+      "speaker": "Kuya",
+      "scene": "Any conversation",
+      "tip": "Clock times use Spanish numbers: alas una (1), alas dos (2), alas tres (3)...",
+      "check": ""
+    },
+    {
+      "id": "W05-09",
+      "ceb": "Unsa'y oras diha?",
+      "en": "What time is it there?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "diha = there (where you are).",
+      "check": ""
+    },
+    {
+      "id": "W05-10",
+      "ceb": "Alas nuwebe sa gabii diri.",
+      "en": "It's nine at night here.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "sa buntag = in the morning, sa hapon = in the afternoon, sa gabii = at night.",
+      "check": ""
+    },
+    {
+      "id": "W05-11",
+      "ceb": "Ugma ta molakaw.",
+      "en": "We'll go out tomorrow.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "ugma = tomorrow. molakaw = go out, leave.",
+      "check": "Natural?"
+    },
+    {
+      "id": "W05-12",
+      "ceb": "Unsang orasa?",
+      "en": "What time?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "Short and useful whenever a plan is mentioned.",
+      "check": ""
+    },
+    {
+      "id": "W05-13",
+      "ceb": "Sayo ta mobiya.",
+      "en": "We'll leave early.",
+      "speaker": "Tatay",
+      "scene": "Living room",
+      "tip": "sayo = early. mobiya = leave.",
+      "check": ""
+    },
+    {
+      "id": "W05-14",
+      "ceb": "Sige, mobangon ko og sayo.",
+      "en": "Okay, I'll get up early.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "bangon = get up.",
+      "check": ""
+    },
+    {
+      "id": "W05-15",
+      "ceb": "Hulat lang kadiyot.",
+      "en": "Just wait a moment.",
+      "speaker": "Jiana",
+      "scene": "Any conversation",
+      "tip": "hulat = wait. kadiyot = a moment.",
+      "check": ""
+    },
+    {
+      "id": "W05-16",
+      "ceb": "Sige, maghulat ko.",
+      "en": "Okay, I'll wait.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "mag- = will (doing something).",
+      "check": ""
+    },
+    {
+      "id": "W05-17",
+      "ceb": "Usa, duha, tulo, upat, lima.",
+      "en": "One, two, three, four, five.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "Bisaya numbers, used for counting things and people.",
+      "check": ""
+    },
+    {
+      "id": "W05-18",
+      "ceb": "Unom, pito, walo, siyam, napulo.",
+      "en": "Six, seven, eight, nine, ten.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "For prices and times people usually switch to Spanish or English numbers.",
+      "check": ""
+    },
+    {
+      "id": "W05-19",
+      "ceb": "Pila ka oras ang biyahe?",
+      "en": "How many hours is the trip?",
+      "speaker": "Dodong",
+      "scene": "Living room",
+      "tip": "biyahe = trip, journey.",
+      "check": ""
+    },
+    {
+      "id": "W05-20",
+      "ceb": "Mga baynte ka oras.",
+      "en": "About twenty hours.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "mga = about. baynte = twenty (Spanish).",
+      "check": "Natural?"
+    },
+    {
+      "id": "W05-21",
+      "ceb": "Pila na lang ka adlaw?",
+      "en": "How many days left?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "na lang = only ... left. The countdown before your visit.",
+      "check": ""
+    },
+    {
+      "id": "W05-22",
+      "ceb": "Tulo na lang ka adlaw!",
+      "en": "Only three days left!",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "Change tulo to the real number.",
+      "check": ""
+    },
+    {
+      "id": "W05-23",
+      "ceb": "Unya na lang.",
+      "en": "Later.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "unya = later. Plans often move. Relax.",
+      "check": ""
+    },
+    {
+      "id": "W05-24",
+      "ceb": "Karon na?",
+      "en": "Now?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "karon = now, today.",
+      "check": ""
+    },
+    {
+      "id": "W05-25",
+      "ceb": "Late na ta!",
+      "en": "We're late!",
+      "speaker": "Kuya",
+      "scene": "Outside the house",
+      "tip": "English words like late mix in naturally.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W05-D1",
+      "title": "How long are you staying?",
+      "scene": "Living room",
+      "lines": [
+        {
+          "id": "W05-D1-01",
+          "speaker": "Nanay",
+          "ceb": "Kanus-a ka niabot?",
+          "en": "When did you arrive?",
+          "check": ""
+        },
+        {
+          "chunk": "W05-02"
+        },
+        {
+          "chunk": "W05-03"
+        },
+        {
+          "chunk": "W05-04"
+        },
+        {
+          "id": "W05-D1-05",
+          "speaker": "Nanay",
+          "ceb": "Mubo ra kaayo!",
+          "en": "That's so short!",
+          "check": ""
+        },
+        {
+          "id": "W05-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Mobalik ko dayon, Nay.",
+          "en": "I'll come back soon, Mom.",
+          "check": "dayon = soon here?"
+        }
+      ]
+    },
+    {
+      "id": "W05-D2",
+      "title": "The countdown",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W05-21"
+        },
+        {
+          "chunk": "W05-22"
+        },
+        {
+          "chunk": "W05-09"
+        },
+        {
+          "chunk": "W05-10"
+        },
+        {
+          "id": "W05-D2-05",
+          "speaker": "Jiana",
+          "ceb": "Diri, alas nuwebe sa buntag.",
+          "en": "Here, it's nine in the morning.",
+          "check": ""
+        },
+        {
+          "id": "W05-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Maayong buntag diha!",
+          "en": "Good morning over there!",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W05-D3",
+      "title": "Waiting for Inday",
+      "scene": "Living room",
+      "lines": [
+        {
+          "id": "W05-D3-01",
+          "speaker": "Inday",
+          "ceb": "Hulat lang kadiyot, Thomas.",
+          "en": "Just wait a moment, Thomas.",
+          "check": ""
+        },
+        {
+          "chunk": "W05-16"
+        },
+        {
+          "id": "W05-D3-03",
+          "speaker": "Inday",
+          "ceb": "Unya na lang ta mokaon.",
+          "en": "We'll eat later.",
+          "check": ""
+        },
+        {
+          "chunk": "W05-24"
+        },
+        {
+          "id": "W05-D3-05",
+          "speaker": "Inday",
+          "ceb": "Dili, unya na.",
+          "en": "No, later.",
+          "check": ""
+        },
+        {
+          "id": "W05-D3-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, Inday.",
+          "en": "Okay, Inday.",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arriving and leaving",
+      "intro": "The two questions you'll hear on every trip: when did you come, and when do you go?",
+      "new": [
+        "W05-01",
+        "W05-02",
+        "W05-03",
+        "W05-04"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W05-01",
+          "answer": "Airport arrival",
+          "options": [
+            "Airport arrival",
+            "Dinner table",
+            "Church"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W05-02",
+          "distractors": [
+            "W05-04",
+            "W04-02"
+          ],
+          "prompt": "W05-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-04",
+          "distractors": [
+            "W05-02",
+            "W03-20"
+          ],
+          "prompt": "W05-03"
+        },
+        {
+          "type": "fill",
+          "ref": "W05-02",
+          "text": "Niabot ko ___.",
+          "answer": "gahapon",
+          "options": [
+            "gahapon",
+            "ugma",
+            "karon"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W05-04",
+          "text": "Mouli ko sa ___.",
+          "answer": "Domingo",
+          "options": [
+            "Domingo",
+            "gahapon",
+            "adlaw"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-02",
+          "tiles": [
+            "Niabot ko",
+            "gahapon."
+          ],
+          "answers": [
+            [
+              "Niabot ko",
+              "gahapon."
+            ],
+            [
+              "Gahapon",
+              "niabot ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-04",
+          "tiles": [
+            "Mouli ko",
+            "sa Domingo."
+          ],
+          "answers": [
+            [
+              "Mouli ko",
+              "sa Domingo."
+            ],
+            [
+              "Sa Domingo",
+              "mouli ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Mouli",
+        "text": "Mouli means going home. When you tell the family when you're leaving, expect them to say it's too short and ask when you'll come back. It's their way of saying they like having you."
+      }
+    },
+    {
+      "day": 2,
+      "title": "How long?",
+      "intro": "Answer how long you're staying and how long the trip takes.",
+      "new": [
+        "W05-05",
+        "W05-06",
+        "W05-19",
+        "W05-20"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W05-06",
+          "distractors": [
+            "W05-20",
+            "W05-02"
+          ],
+          "prompt": "W05-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-20",
+          "distractors": [
+            "W05-06",
+            "W05-04"
+          ],
+          "prompt": "W05-19"
+        },
+        {
+          "type": "fill",
+          "ref": "W05-06",
+          "text": "Duha ka ___.",
+          "answer": "semana",
+          "options": [
+            "semana",
+            "adlaw",
+            "oras"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W05-05",
+          "text": "Pila ka ___ ka diri?",
+          "answer": "adlaw",
+          "options": [
+            "adlaw",
+            "oras",
+            "semana"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-06",
+          "tiles": [
+            "Duha ka",
+            "semana.",
+            "adlaw"
+          ],
+          "answers": [
+            [
+              "Duha ka",
+              "semana."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-19",
+          "tiles": [
+            "Pila ka oras",
+            "ang biyahe?",
+            "Kanus-a"
+          ],
+          "answers": [
+            [
+              "Pila ka oras",
+              "ang biyahe?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Ka links numbers",
+        "text": "In Bisaya you join a number and a noun with ka: duha ka semana (two weeks), tulo ka adlaw (three days), baynte ka oras (twenty hours)."
+      }
+    },
+    {
+      "day": 3,
+      "title": "What time is it?",
+      "intro": "Ask and tell the time, here and in Bohol.",
+      "new": [
+        "W05-07",
+        "W05-08",
+        "W05-09",
+        "W05-10"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W05-10",
+          "distractors": [
+            "W05-08",
+            "W05-02"
+          ],
+          "prompt": "W05-09"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-07",
+          "distractors": [
+            "W05-12",
+            "W05-24"
+          ],
+          "context": "You want to know what time it is."
+        },
+        {
+          "type": "fill",
+          "ref": "W05-08",
+          "text": "Alas ___ na.",
+          "answer": "tres",
+          "options": [
+            "tres",
+            "dos",
+            "Domingo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W05-10",
+          "text": "Alas nuwebe sa ___ diri.",
+          "answer": "gabii",
+          "options": [
+            "gabii",
+            "buntag",
+            "hapon"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-07",
+          "tiles": [
+            "Unsa'y oras",
+            "na?",
+            "Pila"
+          ],
+          "answers": [
+            [
+              "Unsa'y oras",
+              "na?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-10",
+          "tiles": [
+            "Alas nuwebe",
+            "sa gabii",
+            "diri.",
+            "diha"
+          ],
+          "answers": [
+            [
+              "Alas nuwebe",
+              "sa gabii",
+              "diri."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Spanish clock",
+        "text": "Time is told with Spanish numbers: alas siyete (7), alas otso (8), alas nuwebe (9), alas diyes (10), alas onse (11), alas dose (12). You'll also hear English: 'seven o'clock'."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Counting",
+      "intro": "Count to ten, and count down the days until you see Jiana.",
+      "new": [
+        "W05-17",
+        "W05-18",
+        "W05-21",
+        "W05-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W05-22",
+          "distractors": [
+            "W05-06",
+            "W05-10"
+          ],
+          "prompt": "W05-21"
+        },
+        {
+          "type": "fill",
+          "ref": "W05-17",
+          "text": "Usa, duha, ___, upat, lima.",
+          "answer": "tulo",
+          "options": [
+            "tulo",
+            "pito",
+            "napulo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W05-18",
+          "text": "Unom, pito, walo, siyam, ___.",
+          "answer": "napulo",
+          "options": [
+            "napulo",
+            "lima",
+            "usa"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-17",
+          "tiles": [
+            "Usa,",
+            "duha,",
+            "tulo,",
+            "upat,",
+            "lima.",
+            "unom"
+          ],
+          "answers": [
+            [
+              "Usa,",
+              "duha,",
+              "tulo,",
+              "upat,",
+              "lima."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-22",
+          "tiles": [
+            "Tulo na lang",
+            "ka adlaw!",
+            "semana"
+          ],
+          "answers": [
+            [
+              "Tulo na lang",
+              "ka adlaw!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Three number systems",
+        "text": "Bisaya numbers (usa, duha, tulo) for counting things; Spanish numbers (uno, dos, tres) for time, age and often prices; English numbers everywhere else. Recognizing all three is enough."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Making plans",
+      "intro": "Tomorrow, what time, early start.",
+      "new": [
+        "W05-11",
+        "W05-12",
+        "W05-13",
+        "W05-14"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W05-12",
+          "distractors": [
+            "W05-14",
+            "W05-06"
+          ],
+          "prompt": "W05-11"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-14",
+          "distractors": [
+            "W05-12",
+            "W05-16"
+          ],
+          "prompt": "W05-13"
+        },
+        {
+          "type": "fill",
+          "ref": "W05-11",
+          "text": "___ ta molakaw.",
+          "answer": "Ugma",
+          "options": [
+            "Ugma",
+            "Gahapon",
+            "Karon"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W05-13",
+          "text": "___ ta mobiya.",
+          "answer": "Sayo",
+          "options": [
+            "Sayo",
+            "Late",
+            "Unya"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-14",
+          "tiles": [
+            "Sige,",
+            "mobangon ko",
+            "og sayo.",
+            "ugma"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "mobangon ko",
+              "og sayo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-11",
+          "tiles": [
+            "Ugma",
+            "ta molakaw.",
+            "gahapon"
+          ],
+          "answers": [
+            [
+              "Ugma",
+              "ta molakaw."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Filipino time",
+        "text": "Start times are often flexible: a plan for 8 might start at 9. But for trips to the airport or the ferry, people do leave early. Ask Unsang orasa? and plan to be ready."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Waiting, later, and late",
+      "intro": "The words for flexible plans: wait a moment, later, now, and we're late.",
+      "new": [
+        "W05-15",
+        "W05-16",
+        "W05-23",
+        "W05-24",
+        "W05-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W05-16",
+          "distractors": [
+            "W05-24",
+            "W05-12"
+          ],
+          "prompt": "W05-15"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-24",
+          "distractors": [
+            "W05-16",
+            "W05-14"
+          ],
+          "prompt": "W05-23"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W05-24",
+            "W05-06"
+          ],
+          "prompt": "W05-25"
+        },
+        {
+          "type": "fill",
+          "ref": "W05-15",
+          "text": "Hulat lang ___.",
+          "answer": "kadiyot",
+          "options": [
+            "kadiyot",
+            "ugma",
+            "sayo"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W05-23",
+          "text": "___ na lang.",
+          "answer": "Unya",
+          "options": [
+            "Unya",
+            "Karon",
+            "Ugma"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-16",
+          "tiles": [
+            "Sige,",
+            "maghulat ko.",
+            "unya"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "maghulat ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W05-25",
+          "tiles": [
+            "Late",
+            "na ta!",
+            "pa"
+          ],
+          "answers": [
+            [
+              "Late",
+              "na ta!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Kadiyot",
+        "text": "'Kadiyot lang' (just a moment) can mean one minute or thirty. Bring patience, and maybe a snack."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three conversations about time and plans, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W05-02",
+          "distractors": [
+            "W05-04",
+            "W05-06"
+          ],
+          "prompt": "W05-D1-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-D1-06",
+          "distractors": [
+            "W05-02",
+            "W05-22"
+          ],
+          "prompt": "W05-D1-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-D2-06",
+          "distractors": [
+            "W05-10",
+            "W05-22"
+          ],
+          "prompt": "W05-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-16",
+          "distractors": [
+            "W05-24",
+            "W05-07"
+          ],
+          "prompt": "W05-D3-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W05-D3-06",
+          "distractors": [
+            "W05-07",
+            "W05-02"
+          ],
+          "prompt": "W05-D3-05"
+        },
+        {
+          "type": "order",
+          "ref": "W05-D1-06",
+          "tiles": [
+            "Mobalik ko",
+            "dayon, Nay.",
+            "Mouli"
+          ],
+          "answers": [
+            [
+              "Mobalik ko",
+              "dayon, Nay."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W05-D1",
+        "W05-D2",
+        "W05-D3"
+      ],
+      "culture": {
+        "title": "The goodbye question",
+        "text": "When you say your leaving date, the family may say Mubo ra kaayo! (So short!). Mobalik ko dayon (I'll come back soon) is the answer they want to hear."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 5",
+    "steps": [
+      "Ask Jiana: Unsa'y oras diha? and tell her the time where you are.",
+      "Count to ten in Bisaya for her - ask her to correct you.",
+      "Tell her when you'll arrive next time, using a day name: Moabot ko sa Biyernes.",
+      "Ask Pila na lang ka adlaw? and let her answer.",
+      "When she says Hulat lang kadiyot, answer Sige, maghulat ko."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W05-X1",
+      "ceb": "| Moabot ko sa Biyernes.",
+      "en": "I'll arrive on Friday.",
+      "where": "Mission",
+      "check": "Natural?"
+    },
+    {
+      "id": "W05-X2",
+      "ceb": "| alas siyete, alas otso, alas diyes, alas onse, alas dose",
+      "en": "7, 8, 10, 11, 12 o'clock",
+      "where": "Day 3 culture note",
+      "check": ""
+    }
+  ]
+}

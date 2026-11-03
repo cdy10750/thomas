@@ -1,0 +1,132 @@
+TITLE When?
+SUBTITLE Numbers, time, arriving and leaving
+GOAL Answer 'When did you arrive?' and 'When are you leaving?', tell the time, and count to ten.
+
+C 01 | Tatay | Airport arrival | Kanus-a ka niabot? | When did you arrive? | kanus-a = when. niabot = arrived.
+C 02 | Thomas | Airport arrival | Niabot ko gahapon. | I arrived yesterday. | gahapon = yesterday. karon = today, now.
+C 03 | Nanay | Living room | Kanus-a ka mouli? | When are you going home? | mouli = go home. Expect a sad face when you answer.
+C 04 | Thomas | Living room | Mouli ko sa Domingo. | I'm going home on Sunday. | Days come from Spanish: Lunes, Martes, Miyerkoles, Huwebes, Biyernes, Sabado, Domingo.
+C 05 | Inday | Living room | Pila ka adlaw ka diri? | How many days are you here? | adlaw = day. diri = here.
+C 06 | Thomas | Living room | Duha ka semana. | Two weeks. | semana = week. ka links a number to a noun.
+C 07 | Thomas | Any conversation | Unsa'y oras na? | What time is it? | oras = hour, time.
+C 08 | Kuya | Any conversation | Alas tres na. | It's three o'clock. | Clock times use Spanish numbers: alas una (1), alas dos (2), alas tres (3)...
+C 09 | Jiana | Video call | Unsa'y oras diha? | What time is it there? | diha = there (where you are).
+C 10 | Thomas | Video call | Alas nuwebe sa gabii diri. | It's nine at night here. | sa buntag = in the morning, sa hapon = in the afternoon, sa gabii = at night.
+C 11 | Nanay | Living room | Ugma ta molakaw. | We'll go out tomorrow. | ugma = tomorrow. molakaw = go out, leave. | check: Natural?
+C 12 | Thomas | Living room | Unsang orasa? | What time? | Short and useful whenever a plan is mentioned.
+C 13 | Tatay | Living room | Sayo ta mobiya. | We'll leave early. | sayo = early. mobiya = leave.
+C 14 | Thomas | Living room | Sige, mobangon ko og sayo. | Okay, I'll get up early. | bangon = get up.
+C 15 | Jiana | Any conversation | Hulat lang kadiyot. | Just wait a moment. | hulat = wait. kadiyot = a moment.
+C 16 | Thomas | Any conversation | Sige, maghulat ko. | Okay, I'll wait. | mag- = will (doing something).
+C 17 | Thomas | Any conversation | Usa, duha, tulo, upat, lima. | One, two, three, four, five. | Bisaya numbers, used for counting things and people.
+C 18 | Thomas | Any conversation | Unom, pito, walo, siyam, napulo. | Six, seven, eight, nine, ten. | For prices and times people usually switch to Spanish or English numbers.
+C 19 | Dodong | Living room | Pila ka oras ang biyahe? | How many hours is the trip? | biyahe = trip, journey.
+C 20 | Thomas | Living room | Mga baynte ka oras. | About twenty hours. | mga = about. baynte = twenty (Spanish). | check: Natural?
+C 21 | Jiana | Video call | Pila na lang ka adlaw? | How many days left? | na lang = only ... left. The countdown before your visit.
+C 22 | Thomas | Video call | Tulo na lang ka adlaw! | Only three days left! | Change tulo to the real number.
+C 23 | Nanay | Living room | Unya na lang. | Later. | unya = later. Plans often move. Relax.
+C 24 | Thomas | Living room | Karon na? | Now? | karon = now, today.
+C 25 | Kuya | Outside the house | Late na ta! | We're late! | English words like late mix in naturally.
+
+D 1 | How long are you staying? | Living room
+L Nanay | Kanus-a ka niabot? | When did you arrive?
+L 02
+L 03
+L 04
+L Nanay | Mubo ra kaayo! | That's so short!
+L Thomas | Mobalik ko dayon, Nay. | I'll come back soon, Mom. | check: dayon = soon here?
+D 2 | The countdown | Video call
+L 21
+L 22
+L 09
+L 10
+L Jiana | Diri, alas nuwebe sa buntag. | Here, it's nine in the morning.
+L Thomas | Maayong buntag diha! | Good morning over there!
+D 3 | Waiting for Inday | Living room
+L Inday | Hulat lang kadiyot, Thomas. | Just wait a moment, Thomas.
+L 16
+L Inday | Unya na lang ta mokaon. | We'll eat later.
+L 24
+L Inday | Dili, unya na. | No, later.
+L Thomas | Sige, Inday. | Okay, Inday.
+
+DAY 1 | Arriving and leaving | The two questions you'll hear on every trip: when did you come, and when do you go?
+CULTURE Mouli | Mouli means going home. When you tell the family when you're leaving, expect them to say it's too short and ask when you'll come back. It's their way of saying they like having you.
+NEW 01 02 03 04
+SCENE 01 | Airport arrival | Dinner table | Church
+RESP 01 > 02 | 04 W04-02
+RESP 03 > 04 | 02 W03-20
+FILL 02 | gahapon | ugma; karon
+FILL 04 | Domingo | gahapon; adlaw
+ORDER 02 | Niabot ko / gahapon. | alt: Gahapon / niabot ko.
+ORDER 04 | Mouli ko / sa Domingo. | alt: Sa Domingo / mouli ko.
+
+DAY 2 | How long? | Answer how long you're staying and how long the trip takes.
+CULTURE Ka links numbers | In Bisaya you join a number and a noun with ka: duha ka semana (two weeks), tulo ka adlaw (three days), baynte ka oras (twenty hours).
+NEW 05 06 19 20
+RESP 05 > 06 | 20 02
+RESP 19 > 20 | 06 04
+FILL 06 | semana | adlaw; oras
+FILL 05 | adlaw | oras; semana
+ORDER 06 | Duha ka / semana. | extra: adlaw
+ORDER 19 | Pila ka oras / ang biyahe? | extra: Kanus-a
+
+DAY 3 | What time is it? | Ask and tell the time, here and in Bohol.
+CULTURE Spanish clock | Time is told with Spanish numbers: alas siyete (7), alas otso (8), alas nuwebe (9), alas diyes (10), alas onse (11), alas dose (12). You'll also hear English: 'seven o'clock'.
+NEW 07 08 09 10
+RESP 09 > 10 | 08 02
+RESPC You want to know what time it is. > 07 | 12 24
+FILL 08 | tres | dos; Domingo
+FILL 10 | gabii | buntag; hapon
+ORDER 07 | Unsa'y oras / na? | extra: Pila
+ORDER 10 | Alas nuwebe / sa gabii / diri. | extra: diha
+
+DAY 4 | Counting | Count to ten, and count down the days until you see Jiana.
+CULTURE Three number systems | Bisaya numbers (usa, duha, tulo) for counting things; Spanish numbers (uno, dos, tres) for time, age and often prices; English numbers everywhere else. Recognizing all three is enough.
+NEW 17 18 21 22
+RESP 21 > 22 | 06 10
+FILL 17 | tulo | pito; napulo
+FILL 18 | napulo | lima; usa
+ORDER 17 | Usa, / duha, / tulo, / upat, / lima. | extra: unom
+ORDER 22 | Tulo na lang / ka adlaw! | extra: semana
+
+DAY 5 | Making plans | Tomorrow, what time, early start.
+CULTURE Filipino time | Start times are often flexible: a plan for 8 might start at 9. But for trips to the airport or the ferry, people do leave early. Ask Unsang orasa? and plan to be ready.
+NEW 11 12 13 14
+RESP 11 > 12 | 14 06
+RESP 13 > 14 | 12 16
+FILL 11 | Ugma | Gahapon; Karon
+FILL 13 | Sayo | Late; Unya
+ORDER 14 | Sige, / mobangon ko / og sayo. | extra: ugma
+ORDER 11 | Ugma / ta molakaw. | extra: gahapon
+
+DAY 6 | Waiting, later, and late | The words for flexible plans: wait a moment, later, now, and we're late.
+CULTURE Kadiyot | 'Kadiyot lang' (just a moment) can mean one minute or thirty. Bring patience, and maybe a snack.
+NEW 15 16 23 24 25
+RESP 15 > 16 | 24 12
+RESP 23 > 24 | 16 14
+RESP 25 > W01-23 | 24 06
+FILL 15 | kadiyot | ugma; sayo
+FILL 23 | Unya | Karon; Ugma
+ORDER 16 | Sige, / maghulat ko. | extra: unya
+ORDER 25 | Late / na ta! | extra: pa
+
+DAY 7 | Putting it together | No new phrases. Three conversations about time and plans, then your mission.
+DIALOGUES 1 2 3
+CULTURE The goodbye question | When you say your leaving date, the family may say Mubo ra kaayo! (So short!). Mobalik ko dayon (I'll come back soon) is the answer they want to hear.
+RESP D1-01 > 02 | 04 06
+RESP D1-05 > D1-06 | 02 22
+RESP D2-05 > D2-06 | 10 22
+RESP D3-01 > 16 | 24 07
+RESP D3-05 > D3-06 | 07 02
+ORDER D1-06 | Mobalik ko / dayon, Nay. | extra: Mouli
+
+MISSION Video-call mission: Week 5
+STEP Ask Jiana: Unsa'y oras diha? and tell her the time where you are.
+STEP Count to ten in Bisaya for her - ask her to correct you.
+STEP Tell her when you'll arrive next time, using a day name: Moabot ko sa Biyernes.
+STEP Ask Pila na lang ka adlaw? and let her answer.
+STEP When she says Hulat lang kadiyot, answer Sige, maghulat ko.
+
+X | Moabot ko sa Biyernes. | I'll arrive on Friday. | Mission | check: Natural?
+X | alas siyete, alas otso, alas diyes, alas onse, alas dose | 7, 8, 10, 11, 12 o'clock | Day 3 culture note

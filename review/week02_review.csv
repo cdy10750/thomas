@@ -1,0 +1,40 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+2,W02-01,"Kaon na, Thomas!","Come and eat, Thomas!",Nanay,Dinner table,Learner tip: Kaon = eat. na = now. You will hear this at every single meal.
+2,W02-02,"Sige, Nay. Moadto na ko.","Okay, Mom. I'm coming.",Thomas,Dinner table,Learner tip: moadto = go (there). na ko = now I... | QUESTION FOR REVIEWER: Natural reply when called to the table?
+2,W02-03,Kaon pa!,Eat some more!,Tatay,Dinner table,Learner tip: pa = more / still. Hosts keep offering. It's how they show love.
+2,W02-04,Busog na ko.,I'm full now.,Thomas,Dinner table,Learner tip: busog = full (after eating).
+2,W02-05,Gamay ra imong gikaon!,You only ate a little!,Nanay,Dinner table,Learner tip: gamay ra = only a little. gikaon = what was eaten. | QUESTION FOR REVIEWER: Natural for 'you ate so little'?
+2,W02-06,"Busog na gyud ko, Nay. Salamat.","I'm really full, Mom. Thank you.",Thomas,Dinner table,Learner tip: gyud = really. Add it to sound sincere.
+2,W02-07,Lami?,Is it good?,Nanay,Dinner table,Learner tip: lami = delicious. The cook will ask this - watch her face.
+2,W02-08,Lami kaayo!,It's very delicious!,Thomas,Dinner table,Learner tip: kaayo = very. The best compliment you can give the cook.
+2,W02-09,Unsa'y gusto nimo?,What would you like?,Inday,Dinner table,Learner tip: gusto = want / like. nimo = you (your).
+2,W02-10,"Kini, palihug.","This one, please.",Thomas,Dinner table,Learner tip: kini = this. Point at the dish as you say it.
+2,W02-11,"Kaon og daghan, Thomas!","Eat a lot, Thomas!",Kuya,Dinner table,Learner tip: daghan = a lot. og = some / of.
+2,W02-12,Kuha pa og kan-on.,Take more rice.,Nanay,Dinner table,"Learner tip: kan-on = cooked rice. Rice comes with every meal, even breakfast."
+2,W02-13,"Tama na, salamat.","That's enough, thank you.",Thomas,Dinner table,Learner tip: tama na = that's enough. Smile and pat your stomach.
+2,W02-14,Gigutom ka?,Are you hungry?,Jiana,Dinner table,Learner tip: gutom = hungry.
+2,W02-15,"Oo, gigutom na ko.","Yes, I'm hungry now.",Thomas,Dinner table,Learner tip: Swap Oo for Dili (no) if you're not.
+2,W02-16,Inom og tubig.,Drink some water.,Nanay,Dinner table,Learner tip: inom = drink. tubig = water.
+2,W02-17,Pwede ko mangayo og tubig?,Can I have some water?,Thomas,Dinner table,Learner tip: pwede = can / may (from Spanish puede). mangayo = ask for.
+2,W02-18,Kamot o kutsara?,Hands or spoon?,Dodong,Dinner table,Learner tip: kamot = hand. kutsara = spoon. Eating with your hands is called kinamot.
+2,W02-19,Sulayan nako!,I'll try it!,Thomas,Dinner table,Learner tip: Use this whenever someone offers you something new. They will love it.
+2,W02-20,Mag-ampo sa ta.,Let's pray first.,Tatay,Dinner table,Learner tip: ampo = pray. sa = first. Many families say grace before eating. | QUESTION FOR REVIEWER: Natural for leading grace at the table?
+2,W02-21,Kaon na ta!,Let's eat!,Nanay,Dinner table,Learner tip: ta = we (you and me together).
+2,W02-22,Human na ko.,I'm finished.,Thomas,Dinner table,Learner tip: human = finished / done.
+2,W02-23,Nikaon na ka?,Have you eaten?,Jiana,Video call,Learner tip: Filipinos ask this the way Americans ask 'How are you?'. It shows care.
+2,W02-24,"Oo, nikaon na ko.","Yes, I've eaten.",Thomas,Video call,Learner tip: nikaon = ate (completed).
+2,W02-25,Unsa ni?,What is this?,Thomas,Dinner table,Learner tip: ni = this (short for kini). Ask about every new dish.
+2,W02-D1-03,"Kaon pa, Thomas! Kuha pa og kan-on.","Eat more, Thomas! Take more rice.",Nanay,Dinner table,Learner tip: Dialogue: Dinner is ready
+2,W02-D2-02,Wala pa. Gigutom na ko.,Not yet. I'm getting hungry.,Thomas,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D2-03,Kaon na! Unsa'y imong kaonon?,Go eat! What are you going to eat?,Jiana,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D2-04,Pizza.,Pizza.,Thomas,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D2-05,Pizza na pud? Mas lami ang kan-on!,Pizza again? Rice is tastier!,Jiana,Video call,Learner tip: Dialogue: Did you eat? | QUESTION FOR REVIEWER: Natural teasing?
+2,W02-D2-06,"Sige, sulayan nako ang kan-on.","Okay, I'll try rice.",Thomas,Video call,Learner tip: Dialogue: Did you eat?
+2,W02-D3-01,"Thomas, kaon pa!","Thomas, eat more!",Inday,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D3-03,Gamay ra imong gikaon!,You only ate a little!,Inday,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D3-05,Inom og tubig?,Some water?,Inday,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D3-06,"Oo, salamat, Inday.","Yes, thanks, Inday.",Thomas,Dinner table,Learner tip: Dialogue: More food from Inday
+2,W02-D1-03-ALT2,"Kuha pa og kan-on. Kaon pa, Thomas.","Eat more, Thomas! Take more rice.",Nanay,Dinner table,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+2,W02-X1,| Baon,Food packed to take with you,"(text only, no audio)",Day 7 culture note,
+2,W02-X2,| Kinamot,Eating with your hands,"(text only, no audio)",Day 6 culture note,
+2,W02-X3,| Wala pa.,Not yet.,"(text only, no audio)",Dialogue 2,

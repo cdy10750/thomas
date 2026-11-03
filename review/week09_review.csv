@@ -1,0 +1,39 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+9,W09-01,Maligo na ka.,Go take your shower.,Nanay,Home - morning,"Learner tip: ligo = bathe, shower."
+9,W09-02,Naa bay init nga tubig?,Is there hot water?,Thomas,Home - morning,Learner tip: init nga tubig = hot water. Many homes don't have it.
+9,W09-03,Walay init nga tubig.,There's no hot water.,Inday,Home - morning,Learner tip: walay = there is no.
+9,W09-04,Okay ra. Maligo na ko.,That's okay. I'll shower now.,Thomas,Home - morning,Learner tip: A cold shower in Bohol heat feels great.
+9,W09-05,Unsa'y akong matabang?,What can I help with?,Thomas,Kitchen,Learner tip: tabang = help.
+9,W09-06,"Ayaw na, bisita man ka.","No need, you're a guest.",Nanay,Kitchen,Learner tip: bisita = guest. She'll say this at first.
+9,W09-07,Gusto ko motabang.,I want to help.,Thomas,Kitchen,Learner tip: Insist gently.
+9,W09-08,"Sige, hugasi ang mga plato.","Okay, wash the dishes.",Nanay,Kitchen,Learner tip: hugas = wash. plato = plate. mga = plural.
+9,W09-09,Lingkod sa.,Sit down for a while.,Tatay,Living room,Learner tip: lingkod = sit.
+9,W09-10,"Relax lang, Thomas.","Just relax, Thomas.",Tatay,Living room,Learner tip: English words mix right in.
+9,W09-11,Nakatulog ka og maayo?,Did you sleep well?,Nanay,Home - morning,Learner tip: tulog = sleep. maayo = well.
+9,W09-12,"Oo, nakatulog ko og maayo.","Yes, I slept well.",Thomas,Home - morning,Learner tip: Swap Oo for Dili kaayo if you didn't.
+9,W09-13,Gipaak ko sa lamok.,I got bitten by mosquitoes.,Thomas,Home - morning,Learner tip: lamok = mosquito. paak = bite.
+9,W09-14,"Isira ang pultahan, daghang lamok.","Close the door, there are lots of mosquitoes.",Nanay,Home - evening,Learner tip: isira = close. pultahan = door.
+9,W09-15,Unsa'y atong buhaton karon?,What are we doing today?,Thomas,Living room,Learner tip: buhat = do. atong = our (including you).
+9,W09-16,Pahulay lang ta sa balay.,We'll just relax at home.,Jiana,Living room,"Learner tip: balay = house, home."
+9,W09-17,Tan-aw ta og TV.,Let's watch TV.,Kuya,Living room,"Learner tip: tan-aw = watch, look."
+9,W09-18,Unsa'y atong tan-awon?,What are we going to watch?,Thomas,Living room,Learner tip: Filipino families love teleseryes (drama series) and basketball.
+9,W09-19,Molaba ko karon.,I'm doing the laundry now.,Nanay,Outside the house,Learner tip: laba = wash clothes. Often by hand.
+9,W09-20,"Tabangan tika, Nay.","I'll help you, Mom.",Thomas,Outside the house,Learner tip: tika = I (do it for) you.
+9,W09-21,Asa nako ibutang ni?,Where should I put this?,Thomas,Kitchen,"Learner tip: butang = put, place."
+9,W09-22,Diha lang sa lamesa.,Just there on the table.,Inday,Kitchen,Learner tip: lamesa = table.
+9,W09-23,Brownout na pud!,The power's out again!,Dodong,Home - evening,Learner tip: brownout = power outage. They happen; nobody panics.
+9,W09-24,Naa moy flashlight?,Do you have a flashlight?,Thomas,Home - evening,Learner tip: Phones work too.
+9,W09-25,Matulog na ko. Good night!,I'm going to sleep. Good night!,Thomas,Bedroom,Learner tip: Good night in English is completely normal.
+9,W09-D1-05,"Wala, pasensya. Bugnaw ra.","No, sorry. Only cold.",Nanay,Home - morning,Learner tip: Dialogue: Morning routine
+9,W09-D1-06,"Okay ra, Nay. Presko!","That's fine, Mom. Refreshing!",Thomas,Home - morning,Learner tip: Dialogue: Morning routine
+9,W09-D2-05,Sige! Asa ang sabon?,Sure! Where's the soap?,Thomas,Kitchen,Learner tip: Dialogue: Can I help?
+9,W09-D2-06,Diha sa lababo.,There at the sink.,Nanay,Kitchen,Learner tip: Dialogue: Can I help?
+9,W09-D3-01,Brownout na pud!,The power's out again!,Inday,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-03,"Naa, hulat kadiyot.","Yes, wait a moment.",Inday,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-04,Init kaayo!,It's so hot!,Thomas,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-05,Abrihan nato ang bintana.,Let's open the window.,Inday,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-D3-06,"Sige, Inday. Salamat.","Okay, Inday. Thanks.",Thomas,Home - evening,Learner tip: Dialogue: Brownout
+9,W09-20-ALT2,"Nay,, tabangan tika.","I'll help you, Mom.",Thomas,Outside the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 5 word-order exercise. Is it natural? (punctuation is ignored)
+9,W09-X1,| Unsa'y imong buhaton karon?,What are you doing today?,"(text only, no audio)",Mission,
+9,W09-X2,"| tabo, timba","dipper, bucket","(text only, no audio)",Day 1 culture note,
+9,W09-X3,| teleserye,TV drama series,"(text only, no audio)",Day 6 chunk tip,

@@ -1,0 +1,1034 @@
+{
+  "week": 10,
+  "title": "Around Bohol",
+  "subtitle": "Going out and getting around",
+  "goal": "Understand trip plans, ride along safely, follow simple directions, and enjoy the sights.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W10-01",
+      "ceb": "Molakaw ta karon.",
+      "en": "We're heading out now.",
+      "speaker": "Jiana",
+      "scene": "Outside the house",
+      "tip": "lakaw = go out, walk.",
+      "check": ""
+    },
+    {
+      "id": "W10-02",
+      "ceb": "Asa ta padulong?",
+      "en": "Where are we going?",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "padulong = heading to.",
+      "check": ""
+    },
+    {
+      "id": "W10-03",
+      "ceb": "Sa Chocolate Hills.",
+      "en": "To the Chocolate Hills.",
+      "speaker": "Jiana",
+      "scene": "Outside the house",
+      "tip": "Bohol's most famous sight: over a thousand round hills that turn brown in the dry season.",
+      "check": ""
+    },
+    {
+      "id": "W10-04",
+      "ceb": "Unsaon nato pag-adto?",
+      "en": "How do we get there?",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "unsaon = how.",
+      "check": ""
+    },
+    {
+      "id": "W10-05",
+      "ceb": "Mosakay ta og motor.",
+      "en": "We'll ride the motorbike.",
+      "speaker": "Kuya",
+      "scene": "Outside the house",
+      "tip": "sakay = ride. motor = motorbike.",
+      "check": ""
+    },
+    {
+      "id": "W10-06",
+      "ceb": "Hinay-hinay lang og dagan, Kuya!",
+      "en": "Drive slowly, Kuya!",
+      "speaker": "Thomas",
+      "scene": "On the road",
+      "tip": "dagan = speed, run. Your old friend hinay-hinay again.",
+      "check": ""
+    },
+    {
+      "id": "W10-07",
+      "ceb": "Kapit og maayo!",
+      "en": "Hold on tight!",
+      "speaker": "Kuya",
+      "scene": "On the road",
+      "tip": "kapit = hold on.",
+      "check": ""
+    },
+    {
+      "id": "W10-08",
+      "ceb": "Layo pa?",
+      "en": "Is it still far?",
+      "speaker": "Thomas",
+      "scene": "On the road",
+      "tip": "layo = far.",
+      "check": ""
+    },
+    {
+      "id": "W10-09",
+      "ceb": "Duol na lang.",
+      "en": "It's close now.",
+      "speaker": "Kuya",
+      "scene": "On the road",
+      "tip": "duol = near.",
+      "check": ""
+    },
+    {
+      "id": "W10-10",
+      "ceb": "Hunong sa diri, palihug.",
+      "en": "Stop here for a moment, please.",
+      "speaker": "Thomas",
+      "scene": "On the road",
+      "tip": "hunong = stop.",
+      "check": ""
+    },
+    {
+      "id": "W10-11",
+      "ceb": "Pwede ko mag-picture?",
+      "en": "Can I take a picture?",
+      "speaker": "Thomas",
+      "scene": "Tourist spot",
+      "tip": "English picture becomes a Bisaya verb.",
+      "check": ""
+    },
+    {
+      "id": "W10-12",
+      "ceb": "Picture ta!",
+      "en": "Let's take a picture!",
+      "speaker": "Inday",
+      "scene": "Tourist spot",
+      "tip": "Group photos are a must. Expect many.",
+      "check": ""
+    },
+    {
+      "id": "W10-13",
+      "ceb": "Nindot kaayo ang dagat!",
+      "en": "The sea is beautiful!",
+      "speaker": "Thomas",
+      "scene": "Beach",
+      "tip": "dagat = sea.",
+      "check": ""
+    },
+    {
+      "id": "W10-14",
+      "ceb": "Molangoy ta?",
+      "en": "Shall we swim?",
+      "speaker": "Jiana",
+      "scene": "Beach",
+      "tip": "langoy = swim.",
+      "check": ""
+    },
+    {
+      "id": "W10-15",
+      "ceb": "Sige, molangoy ko!",
+      "en": "Sure, I'll swim!",
+      "speaker": "Thomas",
+      "scene": "Beach",
+      "tip": "Watch out for sea urchins near rocks.",
+      "check": ""
+    },
+    {
+      "id": "W10-16",
+      "ceb": "Asa ta mosakay?",
+      "en": "Where do we catch a ride?",
+      "speaker": "Thomas",
+      "scene": "On the road",
+      "tip": "Jeepneys, buses and tricycles all stop on the roadside.",
+      "check": ""
+    },
+    {
+      "id": "W10-17",
+      "ceb": "Pag-amping sa dalan.",
+      "en": "Be careful on the road.",
+      "speaker": "Nanay",
+      "scene": "Outside the house",
+      "tip": "dalan = road. amping = care.",
+      "check": ""
+    },
+    {
+      "id": "W10-18",
+      "ceb": "Oo, Nay. Mag-amping mi.",
+      "en": "Yes, Mom. We'll be careful.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "mi = we (not including the listener).",
+      "check": ""
+    },
+    {
+      "id": "W10-19",
+      "ceb": "Wala nay gasolina!",
+      "en": "We're out of gas!",
+      "speaker": "Kuya",
+      "scene": "On the road",
+      "tip": "gasolina = gasoline.",
+      "check": ""
+    },
+    {
+      "id": "W10-20",
+      "ceb": "Naa bay gasolinahan duol diri?",
+      "en": "Is there a gas station near here?",
+      "speaker": "Thomas",
+      "scene": "On the road",
+      "tip": "gasolinahan = gas station. Small shops sell gas in glass bottles.",
+      "check": ""
+    },
+    {
+      "id": "W10-21",
+      "ceb": "Liko sa wala.",
+      "en": "Turn left.",
+      "speaker": "Jiana",
+      "scene": "On the road",
+      "tip": "liko = turn. wala = left (it also means 'none').",
+      "check": ""
+    },
+    {
+      "id": "W10-22",
+      "ceb": "Diretso lang.",
+      "en": "Just go straight.",
+      "speaker": "Jiana",
+      "scene": "On the road",
+      "tip": "diretso = straight.",
+      "check": ""
+    },
+    {
+      "id": "W10-23",
+      "ceb": "Liko sa tuo?",
+      "en": "Turn right?",
+      "speaker": "Thomas",
+      "scene": "On the road",
+      "tip": "tuo = right.",
+      "check": ""
+    },
+    {
+      "id": "W10-24",
+      "ceb": "Unsang orasa mo mouli?",
+      "en": "What time will you be back?",
+      "speaker": "Nanay",
+      "scene": "Outside the house",
+      "tip": "mo = you (plural).",
+      "check": ""
+    },
+    {
+      "id": "W10-25",
+      "ceb": "Mouli mi sa gabii.",
+      "en": "We'll be back in the evening.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "sa hapon = in the afternoon.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W10-D1",
+      "title": "A day trip",
+      "scene": "Outside the house",
+      "lines": [
+        {
+          "chunk": "W10-01"
+        },
+        {
+          "chunk": "W10-02"
+        },
+        {
+          "chunk": "W10-03"
+        },
+        {
+          "chunk": "W10-04"
+        },
+        {
+          "id": "W10-D1-05",
+          "speaker": "Jiana",
+          "ceb": "Mosakay ta og motor uban ni Kuya.",
+          "en": "We'll ride the motorbike with Kuya.",
+          "check": ""
+        },
+        {
+          "id": "W10-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Sige! Lingaw!",
+          "en": "Okay! Fun!",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W10-D2",
+      "title": "Before you leave",
+      "scene": "Outside the house",
+      "lines": [
+        {
+          "chunk": "W10-17"
+        },
+        {
+          "chunk": "W10-18"
+        },
+        {
+          "chunk": "W10-24"
+        },
+        {
+          "chunk": "W10-25"
+        },
+        {
+          "id": "W10-D2-05",
+          "speaker": "Nanay",
+          "ceb": "Pagdala og tubig.",
+          "en": "Bring water.",
+          "check": ""
+        },
+        {
+          "id": "W10-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, Nay. Salamat.",
+          "en": "Okay, Mom. Thanks.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W10-D3",
+      "title": "Which way?",
+      "scene": "On the road",
+      "lines": [
+        {
+          "id": "W10-D3-01",
+          "speaker": "Thomas",
+          "ceb": "Asa ta moliko?",
+          "en": "Where do we turn?",
+          "check": ""
+        },
+        {
+          "chunk": "W10-21"
+        },
+        {
+          "chunk": "W10-23"
+        },
+        {
+          "id": "W10-D3-04",
+          "speaker": "Jiana",
+          "ceb": "Dili, sa wala! Ha ha!",
+          "en": "No, left! Ha ha!",
+          "check": ""
+        },
+        {
+          "chunk": "W10-08"
+        },
+        {
+          "id": "W10-D3-06",
+          "speaker": "Jiana",
+          "ceb": "Duol na lang.",
+          "en": "It's close now.",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Heading out",
+      "intro": "Find out where you're going and how.",
+      "new": [
+        "W10-01",
+        "W10-02",
+        "W10-03",
+        "W10-04"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W10-03",
+          "answer": "Outside the house",
+          "options": [
+            "Outside the house",
+            "Dinner table",
+            "Bedroom"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W10-02",
+          "distractors": [
+            "W10-04",
+            "W09-15"
+          ],
+          "prompt": "W10-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-04",
+          "distractors": [
+            "W10-02",
+            "W01-16"
+          ],
+          "prompt": "W10-03"
+        },
+        {
+          "type": "fill",
+          "ref": "W10-02",
+          "text": "Asa ta ___?",
+          "answer": "padulong",
+          "options": [
+            "padulong",
+            "mosakay",
+            "molangoy"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W10-04",
+          "text": "___ nato pag-adto?",
+          "answer": "Unsaon",
+          "options": [
+            "Unsaon",
+            "Asa",
+            "Pila"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-02",
+          "tiles": [
+            "Asa ta",
+            "padulong?",
+            "Unsa"
+          ],
+          "answers": [
+            [
+              "Asa ta",
+              "padulong?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-04",
+          "tiles": [
+            "Unsaon nato",
+            "pag-adto?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Unsaon nato",
+              "pag-adto?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Bohol's sights",
+        "text": "Favorites for visitors: the Chocolate Hills, the tiny tarsiers (one of the smallest primates in the world) in Corella, the Loboc River cruise, and white-sand beaches on Panglao. Families love to show them off."
+      }
+    },
+    {
+      "day": 2,
+      "title": "On the motorbike",
+      "intro": "Rides in Bohol are often on a motorbike or tricycle.",
+      "new": [
+        "W10-05",
+        "W10-06",
+        "W10-07"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W10-07",
+          "answer": "On the road",
+          "options": [
+            "On the road",
+            "Church",
+            "Kitchen"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W10-06",
+          "distractors": [
+            "W10-04",
+            "W10-08"
+          ],
+          "prompt": "W10-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W10-06",
+            "W10-08"
+          ],
+          "prompt": "W10-07"
+        },
+        {
+          "type": "fill",
+          "ref": "W10-06",
+          "text": "Hinay-hinay lang og ___, Kuya!",
+          "answer": "dagan",
+          "options": [
+            "dagan",
+            "sakay",
+            "kapit"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W10-05",
+          "text": "Mosakay ta og ___.",
+          "answer": "motor",
+          "options": [
+            "motor",
+            "dagat",
+            "balay"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-06",
+          "tiles": [
+            "Hinay-hinay lang",
+            "og dagan,",
+            "Kuya!",
+            "Kapit"
+          ],
+          "answers": [
+            [
+              "Hinay-hinay lang",
+              "og dagan,",
+              "Kuya!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-05",
+          "tiles": [
+            "Mosakay ta",
+            "og motor.",
+            "dagat"
+          ],
+          "answers": [
+            [
+              "Mosakay ta",
+              "og motor."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Habal-habal",
+        "text": "Motorbikes carry whole families in Bohol, and motorbike taxis (habal-habal) go where cars can't. Wear a helmet when you can, and don't be shy about asking the driver to slow down."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Far, near, stop",
+      "intro": "Ask how far, and ask to stop.",
+      "new": [
+        "W10-08",
+        "W10-09",
+        "W10-10"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W10-08",
+            "W10-10"
+          ],
+          "prompt": "W10-09"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-10",
+          "distractors": [
+            "W10-08",
+            "W10-06"
+          ],
+          "context": "You see a beautiful view and want the driver to stop."
+        },
+        {
+          "type": "fill",
+          "ref": "W10-08",
+          "text": "___ pa?",
+          "answer": "Layo",
+          "options": [
+            "Layo",
+            "Duol",
+            "Init"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W10-10",
+          "text": "___ sa diri, palihug.",
+          "answer": "Hunong",
+          "options": [
+            "Hunong",
+            "Liko",
+            "Kapit"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-10",
+          "tiles": [
+            "Hunong sa diri,",
+            "palihug."
+          ],
+          "answers": [
+            [
+              "Hunong sa diri,",
+              "palihug."
+            ],
+            [
+              "Palihug,",
+              "hunong sa diri."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-09",
+          "tiles": [
+            "Duol",
+            "na lang.",
+            "layo"
+          ],
+          "answers": [
+            [
+              "Duol",
+              "na lang."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Kilometers and minutes",
+        "text": "Distances are given in kilometers or in time, and 'near' can be generous. If you need a break - a restroom, a drink, a photo - just ask to stop. Families are happy to."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Directions and gas",
+      "intro": "Left, right, straight - and the gas station.",
+      "new": [
+        "W10-21",
+        "W10-22",
+        "W10-23",
+        "W10-19",
+        "W10-20"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W10-23",
+          "distractors": [
+            "W10-22",
+            "W10-08"
+          ],
+          "prompt": "W10-21"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-20",
+          "distractors": [
+            "W10-08",
+            "W10-10"
+          ],
+          "prompt": "W10-19"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W10-23",
+            "W10-08"
+          ],
+          "prompt": "W10-22"
+        },
+        {
+          "type": "fill",
+          "ref": "W10-21",
+          "text": "Liko sa ___.",
+          "answer": "wala",
+          "options": [
+            "wala",
+            "tuo",
+            "dalan"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W10-23",
+          "text": "Liko sa ___?",
+          "answer": "tuo",
+          "options": [
+            "tuo",
+            "wala",
+            "layo"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-20",
+          "tiles": [
+            "Naa bay gasolinahan",
+            "duol diri?",
+            "layo"
+          ],
+          "answers": [
+            [
+              "Naa bay gasolinahan",
+              "duol diri?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-21",
+          "tiles": [
+            "Liko",
+            "sa wala.",
+            "tuo"
+          ],
+          "answers": [
+            [
+              "Liko",
+              "sa wala."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Wala, two meanings",
+        "text": "wala means 'left' in directions and 'none / not' everywhere else. Context makes it clear: Liko sa wala = turn left; Wala koy sukli = I have no change."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Photos and the beach",
+      "intro": "Pictures, the sea, and swimming.",
+      "new": [
+        "W10-11",
+        "W10-12",
+        "W10-13",
+        "W10-14",
+        "W10-15"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W10-13",
+          "answer": "Beach",
+          "options": [
+            "Beach",
+            "Market",
+            "Church"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W10-15",
+            "W10-08"
+          ],
+          "prompt": "W10-12"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-15",
+          "distractors": [
+            "W10-11",
+            "W10-08"
+          ],
+          "prompt": "W10-14"
+        },
+        {
+          "type": "fill",
+          "ref": "W10-13",
+          "text": "Nindot kaayo ang ___!",
+          "answer": "dagat",
+          "options": [
+            "dagat",
+            "balay",
+            "dalan"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W10-15",
+          "text": "Sige, ___ ko!",
+          "answer": "molangoy",
+          "options": [
+            "molangoy",
+            "mosakay",
+            "molakaw"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-13",
+          "tiles": [
+            "Nindot kaayo",
+            "ang dagat!"
+          ],
+          "answers": [
+            [
+              "Nindot kaayo",
+              "ang dagat!"
+            ],
+            [
+              "Ang dagat",
+              "nindot kaayo!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-11",
+          "tiles": [
+            "Pwede ko",
+            "mag-picture?",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Pwede ko",
+              "mag-picture?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Picture, picture",
+        "text": "Filipinos love photos - group photos, selfies, photos with you. Say yes to them; they'll be shared with the whole family by evening."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Leaving and coming back",
+      "intro": "Promise Nanay you'll be careful, and tell her when you'll be home.",
+      "new": [
+        "W10-16",
+        "W10-17",
+        "W10-18",
+        "W10-24",
+        "W10-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W10-18",
+          "distractors": [
+            "W10-25",
+            "W10-15"
+          ],
+          "prompt": "W10-17"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-25",
+          "distractors": [
+            "W10-18",
+            "W10-08"
+          ],
+          "prompt": "W10-24"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-16",
+          "distractors": [
+            "W10-02",
+            "W10-10"
+          ],
+          "context": "You're at the roadside and need to know where the jeepney stops."
+        },
+        {
+          "type": "fill",
+          "ref": "W10-17",
+          "text": "Pag-amping sa ___.",
+          "answer": "dalan",
+          "options": [
+            "dalan",
+            "dagat",
+            "balay"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W10-25",
+          "text": "Mouli mi sa ___.",
+          "answer": "gabii",
+          "options": [
+            "gabii",
+            "buntag",
+            "ugma"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-18",
+          "tiles": [
+            "Oo, Nay.",
+            "Mag-amping mi.",
+            "Layo"
+          ],
+          "answers": [
+            [
+              "Oo, Nay.",
+              "Mag-amping mi."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W10-25",
+          "tiles": [
+            "Mouli mi",
+            "sa gabii.",
+            "ugma"
+          ],
+          "answers": [
+            [
+              "Mouli mi",
+              "sa gabii."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Pag-amping",
+        "text": "Families worry about travelers. Telling Nanay where you're going and when you'll be back - and texting if you're late - is a sign of respect."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three conversations from a day out, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W10-D1-06",
+          "distractors": [
+            "W10-08",
+            "W10-10"
+          ],
+          "prompt": "W10-D1-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-D2-06",
+          "distractors": [
+            "W10-25",
+            "W10-08"
+          ],
+          "prompt": "W10-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-08",
+          "distractors": [
+            "W10-23",
+            "W10-10"
+          ],
+          "prompt": "W10-D3-04"
+        },
+        {
+          "type": "respond",
+          "answer": "W10-02",
+          "distractors": [
+            "W10-04",
+            "W10-16"
+          ],
+          "prompt": "W10-01"
+        },
+        {
+          "type": "order",
+          "ref": "W10-D3-01",
+          "tiles": [
+            "Asa ta",
+            "moliko?",
+            "Layo"
+          ],
+          "answers": [
+            [
+              "Asa ta",
+              "moliko?"
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W10-D1",
+        "W10-D2",
+        "W10-D3"
+      ],
+      "culture": {
+        "title": "Jeepneys and buses",
+        "text": "Long-distance rides are by bus or van, and local rides by jeepney or tricycle. Say Lugar lang! (Stop here!) to get off a jeepney."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 10",
+    "steps": [
+      "Ask Jiana which place in Bohol she wants to show you first: Asa ta molakaw?",
+      "Ask how you'd get there: Unsaon nato pag-adto?",
+      "Practice directions: have her guide you around your room with Liko sa wala / tuo / Diretso lang.",
+      "Promise her: Mag-amping ko.",
+      "Ask her to teach you how to stop a jeepney."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W10-X1",
+      "ceb": "| Lugar lang!",
+      "en": "Stop here! (on a jeepney)",
+      "where": "Day 7 culture note",
+      "check": "Still common in Bohol?"
+    },
+    {
+      "id": "W10-X2",
+      "ceb": "| habal-habal",
+      "en": "Motorbike taxi",
+      "where": "Day 2 culture note",
+      "check": ""
+    },
+    {
+      "id": "W10-X3",
+      "ceb": "| Asa ta molakaw?",
+      "en": "Where shall we go?",
+      "where": "Mission",
+      "check": ""
+    }
+  ]
+}

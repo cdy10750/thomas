@@ -1,0 +1,137 @@
+TITLE At the Market
+SUBTITLE Shopping, the market, and prices
+GOAL Ask prices, understand the answer, bargain a little, and pay - or let the family handle it.
+
+C 01 | Thomas | Market | Pila ni? | How much is this? | pila = how much. ni = this. The most useful market phrase.
+C 02 | Tindera | Market | Singkwenta pesos. | Fifty pesos. | Prices are usually said in Spanish or English numbers.
+C 03 | Thomas | Market | Mahal kaayo! | That's too expensive! | mahal = expensive. Say it with a smile - it's part of the game.
+C 04 | Thomas | Market | Pwede hangyo? | Can we bargain? | hangyo = ask for a discount. Polite at markets, not in malls.
+C 05 | Tindera | Market | Sige, kwarenta na lang. | Okay, just forty. | na lang = just, only. kwarenta = forty.
+C 06 | Thomas | Market | Paliton nako ni. | I'll buy this. | palit = buy. | check: Natural?
+C 07 | Thomas | Market | Duha ka buok, palihug. | Two pieces, please. | buok = piece.
+C 08 | Tindera | Market | Unsa pa? | What else? | pa = more, else.
+C 09 | Thomas | Market | Mao ra. | That's all. | mao ra = that's it.
+C 10 | Nanay | Market | Ayaw palit diri, mahal. | Don't buy here, it's expensive. | ayaw = don't. Foreigners often get a higher price.
+C 11 | Nanay | Market | Ako na lang ang mohangyo. | Let me do the bargaining. | Let her - she'll get a better price.
+C 12 | Thomas | Living room | Asa ta mamalit? | Where are we going shopping? | mamalit = go shopping.
+C 13 | Jiana | Living room | Moadto ta sa merkado. | We're going to the market. | merkado = market. Also: mall.
+C 14 | Thomas | Market | Barato! | That's cheap! | barato = cheap.
+C 15 | Tindera | Market | Presko ni, bag-o lang nakuha. | This is fresh, just caught. | presko = fresh. You'll hear it at every fish stall. | check: Natural for fish?
+C 16 | Thomas | Market | Pila ang usa ka kilo? | How much for one kilo? | Fish, fruit and rice are sold by the kilo.
+C 17 | Tindera | Market | Usa ka gatos ang kilo. | One hundred a kilo. | gatos = hundred. You may also hear 'one hundred'.
+C 18 | Thomas | Market | Naa moy sukli? | Do you have change? | sukli = change (money). Small stalls often don't.
+C 19 | Tindera | Market | Wala koy sukli. | I don't have change. | Carry small bills: 20, 50, 100 pesos.
+C 20 | Kuya | Market | Ako na'y mobayad. | I'll pay. | bayad = pay.
+C 21 | Thomas | Market | Dili, ako na. | No, I've got it. | Expect a friendly fight over the bill.
+C 22 | Inday | Market | Palit ta og pasalubong! | Let's buy pasalubong! | pasalubong = gifts you bring back from a trip.
+C 23 | Thomas | Market | Para kang Nanay. | It's for Mom. | para = for. kang = to, for (before a name).
+C 24 | Thomas | Market | Asa ang CR? | Where's the restroom? | CR = comfort room. Everyone says CR.
+C 25 | Nanay | Market | Bitbita ni. | Carry this. | bitbit = carry by hand.
+
+D 1 | At the fish stall | Market
+L 15
+L 16
+L 17
+L 03
+L Tindera | Sige, nobenta na lang. | Okay, just ninety.
+L Thomas | Sige, usa ka kilo. | Okay, one kilo.
+D 2 | Nanay bargains | Market
+L 10
+L Thomas | Ngano, Nay? | Why, Mom?
+L 11
+L Thomas | Sige, Nay. | Okay, Mom.
+L 25
+L Thomas | Sige, ako na'y magbitbit. | Okay, I'll carry it.
+D 3 | Pasalubong | Market
+L 22
+L Inday | Para kang kinsa ni? | Who's this for?
+L 23
+L Inday | Ay, sweet kaayo ka! | Aw, you're so sweet!
+L 24
+L Inday | Didto sa likod. | Over there, in the back.
+
+DAY 1 | How much? | Ask the price, understand it, and react.
+CULTURE Pesos and prices | Prices are in pesos. Small markets have no price tags, so you ask Pila ni? Numbers come back in Spanish (singkwenta, kwarenta) or English. If you don't catch it, Balika, palihug works here too.
+NEW 01 02 03 14
+SCENE 01 | Market | Church | Bedroom
+RESP 02 > 03 | W02-08 W01-23
+RESPC Mangoes are only twenty pesos a kilo. > 14 | 03 W02-13
+FILL 03 | Mahal | Barato; Lami
+FILL 01 | Pila | Unsa; Asa
+ORDER 03 | Mahal / kaayo! | extra: barato
+ORDER 01 | Pila / ni? | extra: Unsa
+
+DAY 2 | Bargaining | Ask for a better price, and let Nanay take over.
+CULTURE Hangyo | Bargaining is normal at markets and with tricycle drivers, but keep it friendly and small. A foreigner's face can raise the price - Nanay or Jiana will often bargain for you. Let them.
+NEW 04 05 10 11
+RESP 05 > W01-23 | 03 14
+RESP 11 > W03-24 | 03 01
+RESPC The price seems high and you want to try for less. > 04 | 03 14
+FILL 04 | hangyo | sukli; palit
+FILL 10 | mahal | barato; lami
+ORDER 04 | Pwede / hangyo? | extra: Pila
+ORDER 11 | Ako na lang / ang mohangyo. | extra: mahal
+
+DAY 3 | Buying | Say what you want, how many, and when you're done.
+CULTURE Buok | buok means 'piece'. Usa ka buok (one piece), duha ka buok (two pieces). Vendors may also count in English - 'two pieces' - which is fine.
+NEW 06 07 08 09
+RESP 08 > 09 | 07 03
+RESPC You want two of the bananas. > 07 | 06 09
+RESPC You've decided to buy the shirt. > 06 | 09 03
+FILL 07 | buok | kilo; pesos
+FILL 09 | ra | pa; na
+ORDER 07 | Duha ka buok, / palihug. | alt: Palihug, / duha ka buok.
+ORDER 06 | Paliton nako / ni. | extra: Pila
+
+DAY 4 | At the wet market | Fresh fish and prices by the kilo.
+CULTURE The wet market | The public market (merkado or tabo) opens early. The freshest fish is gone by mid-morning. It is noisy, wet and wonderful - wear sandals you don't mind getting dirty.
+NEW 13 15 16 17
+RESP 13 > W02-19 | 16 03
+RESP 15 > 16 | 01 09
+RESP 17 > 03 | 14 07
+FILL 16 | kilo | buok; pesos
+FILL 13 | merkado | simbahan; balay
+ORDER 16 | Pila ang / usa ka kilo? | extra: buok
+ORDER 15 | Presko ni, / bag-o lang nakuha. | extra: mahal
+
+DAY 5 | Paying | Change, small bills, and the fight over who pays.
+CULTURE Who pays? | Family members may insist on paying, and you may want to pay. A friendly back-and-forth is normal. Discuss with Jiana beforehand how you'd like to handle money with the family.
+NEW 18 19 20 21
+RESP 19 > W01-23 | 21 03
+RESP 20 > 21 | 09 18
+RESPC You only have a 1000-peso bill for a small purchase. > 18 | 21 04
+FILL 18 | sukli | pesos; kilo
+FILL 20 | mobayad | mohangyo; mopalit
+ORDER 21 | Dili, / ako na. | extra: mahal
+ORDER 18 | Naa moy / sukli? | extra: Pila
+
+DAY 6 | Gifts and practical questions | Pasalubong, who it's for, the restroom, and carrying the bags.
+CULTURE Pasalubong | Bringing gifts back from a trip is expected. Bohol favorites include peanut kisses cookies and calamay (a sweet sticky treat in a coconut shell). Gifts from America for the family are also treasured.
+NEW 12 22 23 24 25
+RESP 22 > 23 | 09 21
+RESP 25 > W01-23 | 21 14
+RESPC You need a bathroom at the mall. > 24 | 12 01
+FILL 23 | Para | Ako; Pila
+FILL 24 | CR | merkado; sukli
+ORDER 12 | Asa ta / mamalit? | extra: Pila
+ORDER 23 | Para / kang Nanay. | extra: si
+
+DAY 7 | Putting it together | No new phrases. Three market conversations, then your mission.
+DIALOGUES 1 2 3
+CULTURE Tricycle fares | Short rides around town are by tricycle (a motorbike with a sidecar). Agree on the fare before you get in: Pila pa-adto sa merkado? (How much to the market?)
+RESP D1-05 > D1-06 | 03 09
+RESP 10 > D2-02 | 21 09
+RESP D3-02 > 23 | 09 06
+RESP D3-04 > 24 | 03 01
+ORDER D1-06 | Sige, / usa ka kilo. | extra: mahal
+
+MISSION Video-call mission: Week 7
+STEP Hold up three things near you and ask Jiana: Pila ni? Let her make up a price.
+STEP React to each price: Mahal kaayo! or Barato!
+STEP Try a friendly bargain: Pwede hangyo?
+STEP Ask her what pasalubong her family would love from America.
+STEP Practice: Para kang Nanay. Para kang Tatay. Para kang Inday.
+
+X | Pila pa-adto sa merkado? | How much to the market? | Day 7 culture note | check: Natural for asking a tricycle fare?
+X | tabo | Market (day market) | Day 4 culture note
+X | calamay | Sweet sticky treat | Day 6 culture note

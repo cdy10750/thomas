@@ -1,0 +1,1050 @@
+{
+  "week": 2,
+  "title": "Kaon na!",
+  "subtitle": "At the dinner table",
+  "goal": "Understand the food offers that come at every meal, accept and refuse politely, and praise the cooking.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W02-01",
+      "ceb": "Kaon na, Thomas!",
+      "en": "Come and eat, Thomas!",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "Kaon = eat. na = now. You will hear this at every single meal.",
+      "check": ""
+    },
+    {
+      "id": "W02-02",
+      "ceb": "Sige, Nay. Moadto na ko.",
+      "en": "Okay, Mom. I'm coming.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "moadto = go (there). na ko = now I...",
+      "check": "Natural reply when called to the table?"
+    },
+    {
+      "id": "W02-03",
+      "ceb": "Kaon pa!",
+      "en": "Eat some more!",
+      "speaker": "Tatay",
+      "scene": "Dinner table",
+      "tip": "pa = more / still. Hosts keep offering. It's how they show love.",
+      "check": ""
+    },
+    {
+      "id": "W02-04",
+      "ceb": "Busog na ko.",
+      "en": "I'm full now.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "busog = full (after eating).",
+      "check": ""
+    },
+    {
+      "id": "W02-05",
+      "ceb": "Gamay ra imong gikaon!",
+      "en": "You only ate a little!",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "gamay ra = only a little. gikaon = what was eaten.",
+      "check": "Natural for 'you ate so little'?"
+    },
+    {
+      "id": "W02-06",
+      "ceb": "Busog na gyud ko, Nay. Salamat.",
+      "en": "I'm really full, Mom. Thank you.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "gyud = really. Add it to sound sincere.",
+      "check": ""
+    },
+    {
+      "id": "W02-07",
+      "ceb": "Lami?",
+      "en": "Is it good?",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "lami = delicious. The cook will ask this - watch her face.",
+      "check": ""
+    },
+    {
+      "id": "W02-08",
+      "ceb": "Lami kaayo!",
+      "en": "It's very delicious!",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "kaayo = very. The best compliment you can give the cook.",
+      "check": ""
+    },
+    {
+      "id": "W02-09",
+      "ceb": "Unsa'y gusto nimo?",
+      "en": "What would you like?",
+      "speaker": "Inday",
+      "scene": "Dinner table",
+      "tip": "gusto = want / like. nimo = you (your).",
+      "check": ""
+    },
+    {
+      "id": "W02-10",
+      "ceb": "Kini, palihug.",
+      "en": "This one, please.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "kini = this. Point at the dish as you say it.",
+      "check": ""
+    },
+    {
+      "id": "W02-11",
+      "ceb": "Kaon og daghan, Thomas!",
+      "en": "Eat a lot, Thomas!",
+      "speaker": "Kuya",
+      "scene": "Dinner table",
+      "tip": "daghan = a lot. og = some / of.",
+      "check": ""
+    },
+    {
+      "id": "W02-12",
+      "ceb": "Kuha pa og kan-on.",
+      "en": "Take more rice.",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "kan-on = cooked rice. Rice comes with every meal, even breakfast.",
+      "check": ""
+    },
+    {
+      "id": "W02-13",
+      "ceb": "Tama na, salamat.",
+      "en": "That's enough, thank you.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "tama na = that's enough. Smile and pat your stomach.",
+      "check": ""
+    },
+    {
+      "id": "W02-14",
+      "ceb": "Gigutom ka?",
+      "en": "Are you hungry?",
+      "speaker": "Jiana",
+      "scene": "Dinner table",
+      "tip": "gutom = hungry.",
+      "check": ""
+    },
+    {
+      "id": "W02-15",
+      "ceb": "Oo, gigutom na ko.",
+      "en": "Yes, I'm hungry now.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "Swap Oo for Dili (no) if you're not.",
+      "check": ""
+    },
+    {
+      "id": "W02-16",
+      "ceb": "Inom og tubig.",
+      "en": "Drink some water.",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "inom = drink. tubig = water.",
+      "check": ""
+    },
+    {
+      "id": "W02-17",
+      "ceb": "Pwede ko mangayo og tubig?",
+      "en": "Can I have some water?",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "pwede = can / may (from Spanish puede). mangayo = ask for.",
+      "check": ""
+    },
+    {
+      "id": "W02-18",
+      "ceb": "Kamot o kutsara?",
+      "en": "Hands or spoon?",
+      "speaker": "Dodong",
+      "scene": "Dinner table",
+      "tip": "kamot = hand. kutsara = spoon. Eating with your hands is called kinamot.",
+      "check": ""
+    },
+    {
+      "id": "W02-19",
+      "ceb": "Sulayan nako!",
+      "en": "I'll try it!",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "Use this whenever someone offers you something new. They will love it.",
+      "check": ""
+    },
+    {
+      "id": "W02-20",
+      "ceb": "Mag-ampo sa ta.",
+      "en": "Let's pray first.",
+      "speaker": "Tatay",
+      "scene": "Dinner table",
+      "tip": "ampo = pray. sa = first. Many families say grace before eating.",
+      "check": "Natural for leading grace at the table?"
+    },
+    {
+      "id": "W02-21",
+      "ceb": "Kaon na ta!",
+      "en": "Let's eat!",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "ta = we (you and me together).",
+      "check": ""
+    },
+    {
+      "id": "W02-22",
+      "ceb": "Human na ko.",
+      "en": "I'm finished.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "human = finished / done.",
+      "check": ""
+    },
+    {
+      "id": "W02-23",
+      "ceb": "Nikaon na ka?",
+      "en": "Have you eaten?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "Filipinos ask this the way Americans ask 'How are you?'. It shows care.",
+      "check": ""
+    },
+    {
+      "id": "W02-24",
+      "ceb": "Oo, nikaon na ko.",
+      "en": "Yes, I've eaten.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "nikaon = ate (completed).",
+      "check": ""
+    },
+    {
+      "id": "W02-25",
+      "ceb": "Unsa ni?",
+      "en": "What is this?",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "ni = this (short for kini). Ask about every new dish.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W02-D1",
+      "title": "Dinner is ready",
+      "scene": "Dinner table",
+      "lines": [
+        {
+          "chunk": "W02-01"
+        },
+        {
+          "chunk": "W02-02"
+        },
+        {
+          "id": "W02-D1-03",
+          "speaker": "Nanay",
+          "ceb": "Kaon pa, Thomas! Kuha pa og kan-on.",
+          "en": "Eat more, Thomas! Take more rice.",
+          "check": ""
+        },
+        {
+          "chunk": "W02-04"
+        },
+        {
+          "chunk": "W02-05"
+        },
+        {
+          "chunk": "W02-06"
+        },
+        {
+          "chunk": "W02-07"
+        },
+        {
+          "chunk": "W02-08"
+        }
+      ]
+    },
+    {
+      "id": "W02-D2",
+      "title": "Did you eat?",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W02-23"
+        },
+        {
+          "id": "W02-D2-02",
+          "speaker": "Thomas",
+          "ceb": "Wala pa. Gigutom na ko.",
+          "en": "Not yet. I'm getting hungry.",
+          "check": ""
+        },
+        {
+          "id": "W02-D2-03",
+          "speaker": "Jiana",
+          "ceb": "Kaon na! Unsa'y imong kaonon?",
+          "en": "Go eat! What are you going to eat?",
+          "check": ""
+        },
+        {
+          "id": "W02-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Pizza.",
+          "en": "Pizza.",
+          "check": ""
+        },
+        {
+          "id": "W02-D2-05",
+          "speaker": "Jiana",
+          "ceb": "Pizza na pud? Mas lami ang kan-on!",
+          "en": "Pizza again? Rice is tastier!",
+          "check": "Natural teasing?"
+        },
+        {
+          "id": "W02-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, sulayan nako ang kan-on.",
+          "en": "Okay, I'll try rice.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W02-D3",
+      "title": "More food from Inday",
+      "scene": "Dinner table",
+      "lines": [
+        {
+          "id": "W02-D3-01",
+          "speaker": "Inday",
+          "ceb": "Thomas, kaon pa!",
+          "en": "Thomas, eat more!",
+          "check": ""
+        },
+        {
+          "chunk": "W02-04"
+        },
+        {
+          "id": "W02-D3-03",
+          "speaker": "Inday",
+          "ceb": "Gamay ra imong gikaon!",
+          "en": "You only ate a little!",
+          "check": ""
+        },
+        {
+          "chunk": "W02-06"
+        },
+        {
+          "id": "W02-D3-05",
+          "speaker": "Inday",
+          "ceb": "Inom og tubig?",
+          "en": "Some water?",
+          "check": ""
+        },
+        {
+          "id": "W02-D3-06",
+          "speaker": "Thomas",
+          "ceb": "Oo, salamat, Inday.",
+          "en": "Yes, thanks, Inday.",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Called to the table",
+      "intro": "The first words of every meal: being called to eat, and saying you're hungry.",
+      "new": [
+        "W02-01",
+        "W02-02",
+        "W02-21",
+        "W02-14",
+        "W02-15"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W02-01",
+          "answer": "Dinner table",
+          "options": [
+            "Dinner table",
+            "Church",
+            "Airport arrival"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W02-02",
+          "distractors": [
+            "W01-13",
+            "W01-19"
+          ],
+          "prompt": "W02-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-15",
+          "distractors": [
+            "W02-02",
+            "W01-11"
+          ],
+          "prompt": "W02-14"
+        },
+        {
+          "type": "fill",
+          "ref": "W02-01",
+          "text": "___ na, Thomas!",
+          "answer": "Kaon",
+          "options": [
+            "Kaon",
+            "Ako",
+            "Unsa"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W02-15",
+          "text": "Oo, ___ na ko.",
+          "answer": "gigutom",
+          "options": [
+            "gigutom",
+            "busog",
+            "kasabot"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-02",
+          "tiles": [
+            "Sige, Nay.",
+            "Moadto na ko.",
+            "Kaon pa"
+          ],
+          "answers": [
+            [
+              "Sige, Nay.",
+              "Moadto na ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-21",
+          "tiles": [
+            "Kaon",
+            "na ta!",
+            "pa"
+          ],
+          "answers": [
+            [
+              "Kaon",
+              "na ta!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Mealtimes are the center of the day",
+        "text": "Filipino families eat together and often. Being called to eat is not a question. Come to the table quickly - keeping people waiting is the rude part, not the eating."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Eat more!",
+      "intro": "The battle every guest fights: more food keeps coming. Here is how to say you're full.",
+      "new": [
+        "W02-03",
+        "W02-04",
+        "W02-05",
+        "W02-06"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W02-04",
+          "distractors": [
+            "W02-15",
+            "W01-11"
+          ],
+          "prompt": "W02-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-06",
+          "distractors": [
+            "W02-02",
+            "W01-13"
+          ],
+          "prompt": "W02-05"
+        },
+        {
+          "type": "fill",
+          "ref": "W02-04",
+          "text": "___ na ko.",
+          "answer": "Busog",
+          "options": [
+            "Busog",
+            "Gutom",
+            "Lami"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W02-06",
+          "text": "Busog na ___ ko, Nay. Salamat.",
+          "answer": "gyud",
+          "options": [
+            "gyud",
+            "pa",
+            "ra"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-06",
+          "tiles": [
+            "Busog na gyud ko, Nay.",
+            "Salamat.",
+            "Kaon pa"
+          ],
+          "answers": [
+            [
+              "Busog na gyud ko, Nay.",
+              "Salamat."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-04",
+          "tiles": [
+            "Busog",
+            "na ko.",
+            "pa"
+          ],
+          "answers": [
+            [
+              "Busog",
+              "na ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Kaon pa! is love",
+        "text": "Hosts will offer more food again and again, and say you ate too little even when you didn't. Refusing once is expected. Say you're full, smile, and say thank you - two or three times is normal."
+      }
+    },
+    {
+      "day": 3,
+      "title": "It's delicious!",
+      "intro": "Praise the food, ask what a dish is, and agree to try something new.",
+      "new": [
+        "W02-07",
+        "W02-08",
+        "W02-25",
+        "W02-19"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W02-08",
+          "distractors": [
+            "W02-04",
+            "W01-18"
+          ],
+          "prompt": "W02-07"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-25",
+          "distractors": [
+            "W02-04",
+            "W02-15"
+          ],
+          "context": "Dodong puts a strange-looking dish in front of you."
+        },
+        {
+          "type": "respond",
+          "answer": "W02-19",
+          "distractors": [
+            "W02-22",
+            "W01-13"
+          ],
+          "context": "Kuya offers you a food you've never tried."
+        },
+        {
+          "type": "fill",
+          "ref": "W02-08",
+          "text": "Lami ___!",
+          "answer": "kaayo",
+          "options": [
+            "kaayo",
+            "ra",
+            "pa"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W02-19",
+          "text": "___ nako!",
+          "answer": "Sulayan",
+          "options": [
+            "Sulayan",
+            "Busog",
+            "Kaon"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-08",
+          "tiles": [
+            "Lami",
+            "kaayo!",
+            "ka"
+          ],
+          "answers": [
+            [
+              "Lami",
+              "kaayo!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-19",
+          "tiles": [
+            "Sulayan",
+            "nako!",
+            "na"
+          ],
+          "answers": [
+            [
+              "Sulayan",
+              "nako!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Praise the cook",
+        "text": "Saying Lami kaayo! to whoever cooked is one of the fastest ways to win over a Filipino family. Trying everything at least once matters more than finishing it."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Choosing and enough",
+      "intro": "Point to what you want, take more rice, and politely stop.",
+      "new": [
+        "W02-09",
+        "W02-10",
+        "W02-12",
+        "W02-13"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W02-10",
+          "distractors": [
+            "W02-22",
+            "W02-15"
+          ],
+          "prompt": "W02-09"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-13",
+          "distractors": [
+            "W02-10",
+            "W01-11"
+          ],
+          "prompt": "W02-12"
+        },
+        {
+          "type": "fill",
+          "ref": "W02-10",
+          "text": "___, palihug.",
+          "answer": "Kini",
+          "options": [
+            "Kini",
+            "Ako",
+            "Unsa"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W02-12",
+          "text": "Kuha pa og ___.",
+          "answer": "kan-on",
+          "options": [
+            "kan-on",
+            "tubig",
+            "kutsara"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-13",
+          "tiles": [
+            "Tama na,",
+            "salamat.",
+            "Kini"
+          ],
+          "answers": [
+            [
+              "Tama na,",
+              "salamat."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-12",
+          "tiles": [
+            "Kuha pa",
+            "og kan-on.",
+            "og tubig"
+          ],
+          "answers": [
+            [
+              "Kuha pa",
+              "og kan-on."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Rice, rice, rice",
+        "text": "A meal without rice is just a snack for many Filipinos. Expect rice at breakfast, lunch and dinner. When you've had enough, Tama na, salamat with a hand over your plate is the polite stop sign."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Drinks, grace, and 'have you eaten?'",
+      "intro": "Ask for water, join in grace, and answer the most common Filipino greeting.",
+      "new": [
+        "W02-16",
+        "W02-17",
+        "W02-20",
+        "W02-23",
+        "W02-24"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W02-23",
+          "answer": "Video call",
+          "options": [
+            "Video call",
+            "Church",
+            "Airport arrival"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W02-24",
+          "distractors": [
+            "W02-04",
+            "W02-10"
+          ],
+          "prompt": "W02-23"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W02-25",
+            "W02-13"
+          ],
+          "prompt": "W02-16"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-17",
+          "distractors": [
+            "W02-13",
+            "W02-25"
+          ],
+          "context": "You're thirsty at dinner."
+        },
+        {
+          "type": "fill",
+          "ref": "W02-17",
+          "text": "Pwede ko mangayo og ___?",
+          "answer": "tubig",
+          "options": [
+            "tubig",
+            "kan-on",
+            "kamot"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W02-24",
+          "text": "Oo, ___ na ko.",
+          "answer": "nikaon",
+          "options": [
+            "nikaon",
+            "kasabot",
+            "gutom"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-17",
+          "tiles": [
+            "Pwede ko",
+            "mangayo",
+            "og tubig?",
+            "Lami"
+          ],
+          "answers": [
+            [
+              "Pwede ko",
+              "mangayo",
+              "og tubig?"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-24",
+          "tiles": [
+            "Oo,",
+            "nikaon na ko.",
+            "wala"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "nikaon na ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Nikaon na ka?",
+        "text": "'Have you eaten?' is a greeting, not a dinner invitation. Answer it like 'How are you?': Oo, nikaon na ko. Jiana may ask it on almost every video call."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Hands, a big appetite, and done",
+      "intro": "Eat the local way, take Kuya's advice, and say you're finished.",
+      "new": [
+        "W02-11",
+        "W02-18",
+        "W02-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W02-19",
+          "distractors": [
+            "W02-04",
+            "W02-24"
+          ],
+          "prompt": "W02-18"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-04",
+          "distractors": [
+            "W02-25",
+            "W02-17"
+          ],
+          "prompt": "W02-11"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-22",
+          "distractors": [
+            "W02-10",
+            "W02-17"
+          ],
+          "context": "You've finished eating and want to stand up."
+        },
+        {
+          "type": "fill",
+          "ref": "W02-18",
+          "text": "Kamot o ___?",
+          "answer": "kutsara",
+          "options": [
+            "kutsara",
+            "kan-on",
+            "tubig"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W02-22",
+          "text": "___ na ko.",
+          "answer": "Human",
+          "options": [
+            "Human",
+            "Busog",
+            "Lami"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-22",
+          "tiles": [
+            "Human",
+            "na ko.",
+            "Kini"
+          ],
+          "answers": [
+            [
+              "Human",
+              "na ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Kinamot: eating with your hands",
+        "text": "At a beach picnic or with grilled fish, many Boholanos eat with their right hand. Use your fingertips and push food with your thumb. If you try it, everyone will notice - in a good way."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three mealtime conversations, then your video-call mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W02-04",
+          "distractors": [
+            "W02-08",
+            "W02-25"
+          ],
+          "prompt": "W02-D1-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-D2-02",
+          "distractors": [
+            "W02-24",
+            "W02-13"
+          ],
+          "prompt": "W02-23"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-06",
+          "distractors": [
+            "W02-08",
+            "W02-02"
+          ],
+          "prompt": "W02-D3-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W02-D3-06",
+          "distractors": [
+            "W02-22",
+            "W02-25"
+          ],
+          "prompt": "W02-D3-05"
+        },
+        {
+          "type": "order",
+          "ref": "W02-D2-06",
+          "tiles": [
+            "Sige,",
+            "sulayan nako",
+            "ang kan-on.",
+            "Busog"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "sulayan nako",
+              "ang kan-on."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W02-D1-03",
+          "tiles": [
+            "Kaon pa, Thomas!",
+            "Kuha pa og kan-on."
+          ],
+          "answers": [
+            [
+              "Kaon pa, Thomas!",
+              "Kuha pa og kan-on."
+            ],
+            [
+              "Kuha pa og kan-on.",
+              "Kaon pa, Thomas!"
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W02-D1",
+        "W02-D2",
+        "W02-D3"
+      ],
+      "culture": {
+        "title": "Leftovers and baon",
+        "text": "When you leave, Nanay may pack food for you to take (baon). Accept it with both hands and say Salamat kaayo, Nay. Refusing food is much harder than accepting it."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 2",
+    "steps": [
+      "When Jiana answers, ask her first: Nikaon na ka?",
+      "Answer when she asks you back: Oo, nikaon na ko. (or Wala pa.)",
+      "Show her your food on camera and say: Lami kaayo!",
+      "Ask her what she is eating: Unsa ni?",
+      "Pretend she offers you more: answer Busog na gyud ko. Salamat.",
+      "Ask her to teach you one dish name from Bohol and say it back three times."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W02-X1",
+      "ceb": "| Baon",
+      "en": "Food packed to take with you",
+      "where": "Day 7 culture note",
+      "check": ""
+    },
+    {
+      "id": "W02-X2",
+      "ceb": "| Kinamot",
+      "en": "Eating with your hands",
+      "where": "Day 6 culture note",
+      "check": ""
+    },
+    {
+      "id": "W02-X3",
+      "ceb": "| Wala pa.",
+      "en": "Not yet.",
+      "where": "Dialogue 2",
+      "check": ""
+    }
+  ]
+}

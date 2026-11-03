@@ -1,0 +1,1124 @@
+{
+  "week": 13,
+  "title": "The Whole Trip",
+  "subtitle": "Full review: arrival to departure",
+  "goal": "Put 12 weeks together and walk through a whole visit in Bisaya, from the airport to the goodbye.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W13-01",
+      "ceb": "Thomas! Dinhi!",
+      "en": "Thomas! Over here!",
+      "speaker": "Jiana",
+      "scene": "Airport arrival",
+      "tip": "dinhi = here (where I am).",
+      "check": ""
+    },
+    {
+      "id": "W13-02",
+      "ceb": "Jiana! Mingaw kaayo ko nimo!",
+      "en": "Jiana! I missed you so much!",
+      "speaker": "Thomas",
+      "scene": "Airport arrival",
+      "tip": "Week 11's mingaw, now in person.",
+      "check": ""
+    },
+    {
+      "id": "W13-03",
+      "ceb": "Maayong pag-abot! Kumusta ang biyahe?",
+      "en": "Welcome! How was the trip?",
+      "speaker": "Tatay",
+      "scene": "Airport arrival",
+      "tip": "Two things from Weeks 1 and 5.",
+      "check": ""
+    },
+    {
+      "id": "W13-04",
+      "ceb": "Taas kaayo, pero okay ra.",
+      "en": "Very long, but okay.",
+      "speaker": "Thomas",
+      "scene": "Airport arrival",
+      "tip": "taas = long. pero = but.",
+      "check": ""
+    },
+    {
+      "id": "W13-05",
+      "ceb": "Ako na'y magdala sa imong bag.",
+      "en": "I'll carry your bag.",
+      "speaker": "Kuya",
+      "scene": "Airport arrival",
+      "tip": "dala = carry, bring.",
+      "check": ""
+    },
+    {
+      "id": "W13-06",
+      "ceb": "Salamat, Kuya. Bug-at kaayo!",
+      "en": "Thanks, Kuya. It's very heavy!",
+      "speaker": "Thomas",
+      "scene": "Airport arrival",
+      "tip": "bug-at = heavy. Probably full of pasalubong.",
+      "check": ""
+    },
+    {
+      "id": "W13-07",
+      "ceb": "Sulod, Thomas. Feel at home.",
+      "en": "Come in, Thomas. Make yourself at home.",
+      "speaker": "Nanay",
+      "scene": "Arriving at the house",
+      "tip": "English phrases like 'feel at home' are common.",
+      "check": ""
+    },
+    {
+      "id": "W13-08",
+      "ceb": "Mano, Nay. Mano, Tay.",
+      "en": "(Asking for the blessing) Mom, Dad.",
+      "speaker": "Thomas",
+      "scene": "Arriving at the house",
+      "tip": "From Week 1 - now with both parents.",
+      "check": ""
+    },
+    {
+      "id": "W13-09",
+      "ceb": "Naa koy pasalubong para ninyo.",
+      "en": "I have gifts for you all.",
+      "speaker": "Thomas",
+      "scene": "Arriving at the house",
+      "tip": "koy = I have. ninyo = you all.",
+      "check": ""
+    },
+    {
+      "id": "W13-10",
+      "ceb": "Wow! Salamat, Thomas!",
+      "en": "Wow! Thanks, Thomas!",
+      "speaker": "Inday",
+      "scene": "Arriving at the house",
+      "tip": "Gifts are often opened later, not in front of you.",
+      "check": ""
+    },
+    {
+      "id": "W13-11",
+      "ceb": "Kaon na ta. Gigutom na siguro ka.",
+      "en": "Let's eat. You must be hungry.",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "siguro = probably, maybe.",
+      "check": ""
+    },
+    {
+      "id": "W13-12",
+      "ceb": "Oo, gigutom kaayo ko. Lami kaayo ni!",
+      "en": "Yes, I'm very hungry. This is delicious!",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "Two Week 2 phrases joined.",
+      "check": ""
+    },
+    {
+      "id": "W13-13",
+      "ceb": "Kabalo na ka mag-Bisaya?",
+      "en": "Can you speak Bisaya now?",
+      "speaker": "Dodong",
+      "scene": "Living room",
+      "tip": "The same question as Week 1 - with a different answer.",
+      "check": ""
+    },
+    {
+      "id": "W13-14",
+      "ceb": "Gamay pa. Pero nagtuon ko matag adlaw.",
+      "en": "Still a little. But I study every day.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "matag adlaw = every day.",
+      "check": ""
+    },
+    {
+      "id": "W13-15",
+      "ceb": "Maayo kaayo imong Bisaya!",
+      "en": "Your Bisaya is very good!",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "You've earned this.",
+      "check": ""
+    },
+    {
+      "id": "W13-16",
+      "ceb": "Salamat! Si Jiana ang akong maestra.",
+      "en": "Thanks! Jiana is my teacher.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "maestra = teacher (woman).",
+      "check": ""
+    },
+    {
+      "id": "W13-17",
+      "ceb": "Unsa'y gusto nimong buhaton ugma?",
+      "en": "What do you want to do tomorrow?",
+      "speaker": "Jiana",
+      "scene": "Living room",
+      "tip": "gusto = want. buhaton = to do.",
+      "check": ""
+    },
+    {
+      "id": "W13-18",
+      "ceb": "Gusto ko moadto sa dagat.",
+      "en": "I want to go to the sea.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "Swap the place: sa merkado, sa simbahan, sa Chocolate Hills.",
+      "check": ""
+    },
+    {
+      "id": "W13-19",
+      "ceb": "Kanus-a ka mobalik?",
+      "en": "When will you come back?",
+      "speaker": "Tatay",
+      "scene": "Outside the house",
+      "tip": "mobalik = come back.",
+      "check": ""
+    },
+    {
+      "id": "W13-20",
+      "ceb": "Sa sunod tuig, kung itugot sa Ginoo.",
+      "en": "Next year, God willing.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "kung itugot sa Ginoo = God willing. Very much appreciated in a religious family.",
+      "check": ""
+    },
+    {
+      "id": "W13-21",
+      "ceb": "Text dayon pag-abot nimo.",
+      "en": "Text right away when you arrive.",
+      "speaker": "Nanay",
+      "scene": "Airport departure",
+      "tip": "dayon = right away.",
+      "check": ""
+    },
+    {
+      "id": "W13-22",
+      "ceb": "Oo, Nay. Mo-text dayon ko.",
+      "en": "Yes, Mom. I'll text right away.",
+      "speaker": "Thomas",
+      "scene": "Airport departure",
+      "tip": "And do it.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W13-D1",
+      "title": "Arrival",
+      "scene": "Airport arrival",
+      "lines": [
+        {
+          "chunk": "W13-01"
+        },
+        {
+          "chunk": "W13-02"
+        },
+        {
+          "id": "W13-D1-03",
+          "speaker": "Jiana",
+          "ceb": "Kumusta ang biyahe?",
+          "en": "How was the trip?",
+          "check": ""
+        },
+        {
+          "chunk": "W13-04"
+        },
+        {
+          "id": "W13-D1-05",
+          "speaker": "Jiana",
+          "ceb": "Kapoy ka?",
+          "en": "Are you tired?",
+          "check": ""
+        },
+        {
+          "id": "W13-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Gamay. Pero nalipay kaayo ko.",
+          "en": "A little. But I'm very happy.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W13-D2",
+      "title": "Arriving home",
+      "scene": "Arriving at the house",
+      "lines": [
+        {
+          "chunk": "W13-07"
+        },
+        {
+          "chunk": "W13-08"
+        },
+        {
+          "id": "W13-D2-03",
+          "speaker": "Nanay",
+          "ceb": "Kaloy-an ka sa Ginoo. Kumusta ka?",
+          "en": "God bless you. How are you?",
+          "check": ""
+        },
+        {
+          "id": "W13-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Maayo man ko, Nay. Naa koy pasalubong para ninyo.",
+          "en": "I'm good, Mom. I have gifts for you all.",
+          "check": ""
+        },
+        {
+          "id": "W13-D2-05",
+          "speaker": "Nanay",
+          "ceb": "Ay, salamat kaayo!",
+          "en": "Oh, thank you so much!",
+          "check": ""
+        },
+        {
+          "id": "W13-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Walay sapayan, Nay.",
+          "en": "You're welcome, Mom.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W13-D3",
+      "title": "Your Bisaya",
+      "scene": "Living room",
+      "lines": [
+        {
+          "id": "W13-D3-01",
+          "speaker": "Inday",
+          "ceb": "Kabalo na ka mag-Bisaya?",
+          "en": "Can you speak Bisaya now?",
+          "check": ""
+        },
+        {
+          "chunk": "W13-14"
+        },
+        {
+          "id": "W13-D3-03",
+          "speaker": "Inday",
+          "ceb": "Maayo kaayo imong Bisaya!",
+          "en": "Your Bisaya is very good!",
+          "check": ""
+        },
+        {
+          "chunk": "W13-16"
+        },
+        {
+          "id": "W13-D3-05",
+          "speaker": "Inday",
+          "ceb": "Unsa'y gusto nimong buhaton ugma?",
+          "en": "What do you want to do tomorrow?",
+          "check": ""
+        },
+        {
+          "chunk": "W13-18"
+        }
+      ]
+    },
+    {
+      "id": "W13-D4",
+      "title": "Dinner",
+      "scene": "Dinner table",
+      "lines": [
+        {
+          "chunk": "W13-11"
+        },
+        {
+          "chunk": "W13-12"
+        },
+        {
+          "id": "W13-D4-03",
+          "speaker": "Nanay",
+          "ceb": "Kaon pa, Thomas!",
+          "en": "Eat more, Thomas!",
+          "check": ""
+        },
+        {
+          "id": "W13-D4-04",
+          "speaker": "Thomas",
+          "ceb": "Busog na gyud ko, Nay. Salamat.",
+          "en": "I'm really full, Mom. Thank you.",
+          "check": ""
+        },
+        {
+          "id": "W13-D4-05",
+          "speaker": "Nanay",
+          "ceb": "Lami?",
+          "en": "Was it good?",
+          "check": ""
+        },
+        {
+          "id": "W13-D4-06",
+          "speaker": "Thomas",
+          "ceb": "Lami kaayo ang imong luto, Nay!",
+          "en": "Your cooking is delicious, Mom!",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W13-D5",
+      "title": "The last day",
+      "scene": "Living room",
+      "lines": [
+        {
+          "id": "W13-D5-01",
+          "speaker": "Jiana",
+          "ceb": "Ugma na ka mouli.",
+          "en": "You're going home tomorrow.",
+          "check": ""
+        },
+        {
+          "id": "W13-D5-02",
+          "speaker": "Thomas",
+          "ceb": "Oo. Masulub-on ko.",
+          "en": "Yes. I'm sad.",
+          "check": ""
+        },
+        {
+          "id": "W13-D5-03",
+          "speaker": "Jiana",
+          "ceb": "Kanus-a ka mobalik?",
+          "en": "When will you come back?",
+          "check": ""
+        },
+        {
+          "id": "W13-D5-04",
+          "speaker": "Thomas",
+          "ceb": "Sa sunod tuig, kung itugot sa Ginoo.",
+          "en": "Next year, God willing.",
+          "check": ""
+        },
+        {
+          "id": "W13-D5-05",
+          "speaker": "Jiana",
+          "ceb": "Mingawon ko nimo.",
+          "en": "I'll miss you.",
+          "check": ""
+        },
+        {
+          "id": "W13-D5-06",
+          "speaker": "Thomas",
+          "ceb": "Gihigugma tika, Jiana.",
+          "en": "I love you, Jiana.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W13-D6",
+      "title": "Departure",
+      "scene": "Airport departure",
+      "lines": [
+        {
+          "chunk": "W13-21"
+        },
+        {
+          "chunk": "W13-22"
+        },
+        {
+          "id": "W13-D6-03",
+          "speaker": "Nanay",
+          "ceb": "Amping sa biyahe, Thomas.",
+          "en": "Have a safe trip, Thomas.",
+          "check": ""
+        },
+        {
+          "id": "W13-D6-04",
+          "speaker": "Thomas",
+          "ceb": "Salamat sa tanan, Nay.",
+          "en": "Thank you for everything, Mom.",
+          "check": ""
+        },
+        {
+          "id": "W13-D6-05",
+          "speaker": "Nanay",
+          "ceb": "Balik ka, ha?",
+          "en": "Come back, okay?",
+          "check": ""
+        },
+        {
+          "id": "W13-D6-06",
+          "speaker": "Thomas",
+          "ceb": "Mobalik gyud ko. Babay!",
+          "en": "I'll definitely come back. Bye!",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "At the airport",
+      "intro": "The trip begins: meeting Jiana and the family at arrivals.",
+      "new": [
+        "W13-01",
+        "W13-02",
+        "W13-03",
+        "W13-04",
+        "W13-05",
+        "W13-06"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W13-03",
+          "answer": "Airport arrival",
+          "options": [
+            "Airport arrival",
+            "Church",
+            "Bedroom"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W13-02",
+          "distractors": [
+            "W13-04",
+            "W13-06"
+          ],
+          "prompt": "W13-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-04",
+          "distractors": [
+            "W13-02",
+            "W13-06"
+          ],
+          "prompt": "W13-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-06",
+          "distractors": [
+            "W13-04",
+            "W01-11"
+          ],
+          "prompt": "W13-05"
+        },
+        {
+          "type": "fill",
+          "ref": "W13-04",
+          "text": "Taas kaayo, ___ okay ra.",
+          "answer": "pero",
+          "options": [
+            "pero",
+            "ug",
+            "o"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W13-06",
+          "text": "Salamat, Kuya. ___ kaayo!",
+          "answer": "Bug-at",
+          "options": [
+            "Bug-at",
+            "Init",
+            "Lami"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-04",
+          "tiles": [
+            "Taas kaayo,",
+            "pero okay ra.",
+            "kapoy"
+          ],
+          "answers": [
+            [
+              "Taas kaayo,",
+              "pero okay ra."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-02",
+          "tiles": [
+            "Jiana!",
+            "Mingaw kaayo ko nimo!",
+            "Salamat"
+          ],
+          "answers": [
+            [
+              "Jiana!",
+              "Mingaw kaayo ko nimo!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "The welcome party",
+        "text": "Don't be surprised if half the family comes to the airport, sometimes with a sign. Greet the elders first, let Kuya take your bag, and be ready for photos."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Arriving at the house",
+      "intro": "Mano, gifts, and making yourself at home.",
+      "new": [
+        "W13-07",
+        "W13-08",
+        "W13-09",
+        "W13-10"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W13-08",
+          "distractors": [
+            "W13-09",
+            "W13-04"
+          ],
+          "prompt": "W13-07"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-25",
+          "distractors": [
+            "W13-08",
+            "W13-02"
+          ],
+          "prompt": "W13-10"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-09",
+          "distractors": [
+            "W13-08",
+            "W13-06"
+          ],
+          "context": "You open your suitcase full of presents for the family."
+        },
+        {
+          "type": "fill",
+          "ref": "W13-09",
+          "text": "Naa koy ___ para ninyo.",
+          "answer": "pasalubong",
+          "options": [
+            "pasalubong",
+            "tambal",
+            "kan-on"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W13-08",
+          "text": "___, Nay. Mano, Tay.",
+          "answer": "Mano",
+          "options": [
+            "Mano",
+            "Kumusta",
+            "Salamat"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-09",
+          "tiles": [
+            "Naa koy pasalubong",
+            "para ninyo.",
+            "Mano"
+          ],
+          "answers": [
+            [
+              "Naa koy pasalubong",
+              "para ninyo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-08",
+          "tiles": [
+            "Mano, Nay.",
+            "Mano, Tay."
+          ],
+          "answers": [
+            [
+              "Mano, Nay.",
+              "Mano, Tay."
+            ],
+            [
+              "Mano, Tay.",
+              "Mano, Nay."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "First things first",
+        "text": "At the house: greet each elder with a mano, accept the drink or snack you're offered, and give your pasalubong. Then rest - the family knows you're tired."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Dinner and compliments",
+      "intro": "The first family meal of the trip.",
+      "new": [
+        "W13-11",
+        "W13-12",
+        "W13-15",
+        "W13-16"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W13-12",
+          "distractors": [
+            "W13-16",
+            "W13-04"
+          ],
+          "prompt": "W13-11"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-16",
+          "distractors": [
+            "W13-12",
+            "W13-06"
+          ],
+          "prompt": "W13-15"
+        },
+        {
+          "type": "fill",
+          "ref": "W13-12",
+          "text": "Oo, ___ kaayo ko. Lami kaayo ni!",
+          "answer": "gigutom",
+          "options": [
+            "gigutom",
+            "busog",
+            "kapoy"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W13-16",
+          "text": "Salamat! Si Jiana ang akong ___.",
+          "answer": "maestra",
+          "options": [
+            "maestra",
+            "uyab",
+            "manghod"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-12",
+          "tiles": [
+            "Oo, gigutom kaayo ko.",
+            "Lami kaayo ni!",
+            "Busog"
+          ],
+          "answers": [
+            [
+              "Oo, gigutom kaayo ko.",
+              "Lami kaayo ni!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-16",
+          "tiles": [
+            "Salamat!",
+            "Si Jiana",
+            "ang akong maestra.",
+            "Kuya"
+          ],
+          "answers": [
+            [
+              "Salamat!",
+              "Si Jiana",
+              "ang akong maestra."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Show what you learned",
+        "text": "Use your Bisaya at the table, even if it's only a few words. Families talk for weeks about the foreign boyfriend who said Lami kaayo! and Busog na ko in Bisaya."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Your Bisaya, and plans",
+      "intro": "Answer the language question with pride, and say what you want to do.",
+      "new": [
+        "W13-13",
+        "W13-14",
+        "W13-17",
+        "W13-18"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W13-14",
+          "distractors": [
+            "W13-18",
+            "W13-12"
+          ],
+          "prompt": "W13-13"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-18",
+          "distractors": [
+            "W13-14",
+            "W13-04"
+          ],
+          "prompt": "W13-17"
+        },
+        {
+          "type": "fill",
+          "ref": "W13-14",
+          "text": "Gamay pa. Pero nagtuon ko ___ adlaw.",
+          "answer": "matag",
+          "options": [
+            "matag",
+            "sunod",
+            "ugma"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W13-18",
+          "text": "Gusto ko moadto sa ___.",
+          "answer": "dagat",
+          "options": [
+            "dagat",
+            "balay",
+            "tubig"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-14",
+          "tiles": [
+            "Gamay pa.",
+            "Pero nagtuon ko",
+            "matag adlaw.",
+            "Wala"
+          ],
+          "answers": [
+            [
+              "Gamay pa.",
+              "Pero nagtuon ko",
+              "matag adlaw."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-18",
+          "tiles": [
+            "Gusto ko moadto",
+            "sa dagat.",
+            "Asa"
+          ],
+          "answers": [
+            [
+              "Gusto ko moadto",
+              "sa dagat."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Thirteen weeks",
+        "text": "Week 1 you answered Kabalo ka mag-Bisaya? with 'just a little'. You still might - but now you can hold a short conversation, ask for repeats, and understand much more than you can say. That's exactly how it should be."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Leaving",
+      "intro": "Promise to return, and promise to text.",
+      "new": [
+        "W13-19",
+        "W13-20",
+        "W13-21",
+        "W13-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W13-20",
+          "distractors": [
+            "W13-22",
+            "W13-14"
+          ],
+          "prompt": "W13-19"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-22",
+          "distractors": [
+            "W13-20",
+            "W13-06"
+          ],
+          "prompt": "W13-21"
+        },
+        {
+          "type": "fill",
+          "ref": "W13-20",
+          "text": "Sa sunod ___, kung itugot sa Ginoo.",
+          "answer": "tuig",
+          "options": [
+            "tuig",
+            "adlaw",
+            "semana"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W13-22",
+          "text": "Oo, Nay. Mo-text ___ ko.",
+          "answer": "dayon",
+          "options": [
+            "dayon",
+            "ugma",
+            "unya"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-20",
+          "tiles": [
+            "Sa sunod tuig,",
+            "kung itugot sa Ginoo."
+          ],
+          "answers": [
+            [
+              "Sa sunod tuig,",
+              "kung itugot sa Ginoo."
+            ],
+            [
+              "Kung itugot sa Ginoo,",
+              "sa sunod tuig."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W13-22",
+          "tiles": [
+            "Oo, Nay.",
+            "Mo-text dayon ko.",
+            "Unya"
+          ],
+          "answers": [
+            [
+              "Oo, Nay.",
+              "Mo-text dayon ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Kung itugot sa Ginoo",
+        "text": "Many Filipinos add 'God willing' to future plans. Using it yourself shows respect for the family's faith, and it sounds natural."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Mock trip, part 1",
+      "intro": "Arrival, coming home, and your Bisaya: three conversations from the start of the trip.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W13-04",
+          "distractors": [
+            "W13-06",
+            "W13-02"
+          ],
+          "prompt": "W13-D1-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D1-06",
+          "distractors": [
+            "W13-04",
+            "W13-06"
+          ],
+          "prompt": "W13-D1-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D2-04",
+          "distractors": [
+            "W13-08",
+            "W13-14"
+          ],
+          "prompt": "W13-D2-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D2-06",
+          "distractors": [
+            "W13-06",
+            "W13-12"
+          ],
+          "prompt": "W13-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-14",
+          "distractors": [
+            "W13-18",
+            "W13-12"
+          ],
+          "prompt": "W13-D3-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-18",
+          "distractors": [
+            "W13-14",
+            "W13-16"
+          ],
+          "prompt": "W13-D3-05"
+        }
+      ],
+      "dialogues": [
+        "W13-D1",
+        "W13-D2",
+        "W13-D3"
+      ],
+      "culture": {
+        "title": "Answer as Thomas",
+        "text": "Play each conversation once with the text. Then play it again, pause after each family line, and say Thomas's line before he does."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Mock trip, part 2",
+      "intro": "Dinner, the last day, and the goodbye: the end of the trip.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W13-D4-04",
+          "distractors": [
+            "W13-12",
+            "W13-02"
+          ],
+          "prompt": "W13-D4-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D4-06",
+          "distractors": [
+            "W13-12",
+            "W13-04"
+          ],
+          "prompt": "W13-D4-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D5-02",
+          "distractors": [
+            "W13-20",
+            "W13-22"
+          ],
+          "prompt": "W13-D5-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D5-04",
+          "distractors": [
+            "W13-22",
+            "W13-02"
+          ],
+          "prompt": "W13-D5-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D6-04",
+          "distractors": [
+            "W13-22",
+            "W13-06"
+          ],
+          "prompt": "W13-D6-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W13-D6-06",
+          "distractors": [
+            "W13-20",
+            "W13-22"
+          ],
+          "prompt": "W13-D6-05"
+        },
+        {
+          "type": "order",
+          "ref": "W13-D5-06",
+          "tiles": [
+            "Gihigugma tika,",
+            "Jiana."
+          ],
+          "answers": [
+            [
+              "Gihigugma tika,",
+              "Jiana."
+            ],
+            [
+              "Jiana,",
+              "gihigugma tika."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W13-D4",
+        "W13-D5",
+        "W13-D6"
+      ],
+      "culture": {
+        "title": "Maayo kaayo!",
+        "text": "You've finished the course. Keep going: one review session a day, one video call a week in Bisaya, and every new phrase Jiana teaches you. Ang pagtuon walay katapusan - learning never ends."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Final mission: the whole trip on video",
+    "steps": [
+      "Ask Jiana to play the family: she says their lines, you answer in Bisaya.",
+      "Run the arrival: Mingaw kaayo ko nimo! - Taas kaayo, pero okay ra. - Mano, Nay. Mano, Tay.",
+      "Run dinner: Lami kaayo! - Busog na gyud ko. Salamat.",
+      "Run the goodbye: Salamat sa tanan. - Mobalik gyud ko, kung itugot sa Ginoo.",
+      "Ask her to grade you, then plan your next real visit."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W13-X1",
+      "ceb": "| Ang pagtuon walay katapusan.",
+      "en": "Learning never ends.",
+      "where": "Day 7 culture note",
+      "check": "Natural saying?"
+    }
+  ]
+}

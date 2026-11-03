@@ -1,0 +1,39 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+5,W05-01,Kanus-a ka niabot?,When did you arrive?,Tatay,Airport arrival,Learner tip: kanus-a = when. niabot = arrived.
+5,W05-02,Niabot ko gahapon.,I arrived yesterday.,Thomas,Airport arrival,"Learner tip: gahapon = yesterday. karon = today, now."
+5,W05-03,Kanus-a ka mouli?,When are you going home?,Nanay,Living room,Learner tip: mouli = go home. Expect a sad face when you answer.
+5,W05-04,Mouli ko sa Domingo.,I'm going home on Sunday.,Thomas,Living room,"Learner tip: Days come from Spanish: Lunes, Martes, Miyerkoles, Huwebes, Biyernes, Sabado, Domingo."
+5,W05-05,Pila ka adlaw ka diri?,How many days are you here?,Inday,Living room,Learner tip: adlaw = day. diri = here.
+5,W05-06,Duha ka semana.,Two weeks.,Thomas,Living room,Learner tip: semana = week. ka links a number to a noun.
+5,W05-07,Unsa'y oras na?,What time is it?,Thomas,Any conversation,"Learner tip: oras = hour, time."
+5,W05-08,Alas tres na.,It's three o'clock.,Kuya,Any conversation,"Learner tip: Clock times use Spanish numbers: alas una (1), alas dos (2), alas tres (3)..."
+5,W05-09,Unsa'y oras diha?,What time is it there?,Jiana,Video call,Learner tip: diha = there (where you are).
+5,W05-10,Alas nuwebe sa gabii diri.,It's nine at night here.,Thomas,Video call,"Learner tip: sa buntag = in the morning, sa hapon = in the afternoon, sa gabii = at night."
+5,W05-11,Ugma ta molakaw.,We'll go out tomorrow.,Nanay,Living room,"Learner tip: ugma = tomorrow. molakaw = go out, leave. | QUESTION FOR REVIEWER: Natural?"
+5,W05-12,Unsang orasa?,What time?,Thomas,Living room,Learner tip: Short and useful whenever a plan is mentioned.
+5,W05-13,Sayo ta mobiya.,We'll leave early.,Tatay,Living room,Learner tip: sayo = early. mobiya = leave.
+5,W05-14,"Sige, mobangon ko og sayo.","Okay, I'll get up early.",Thomas,Living room,Learner tip: bangon = get up.
+5,W05-15,Hulat lang kadiyot.,Just wait a moment.,Jiana,Any conversation,Learner tip: hulat = wait. kadiyot = a moment.
+5,W05-16,"Sige, maghulat ko.","Okay, I'll wait.",Thomas,Any conversation,Learner tip: mag- = will (doing something).
+5,W05-17,"Usa, duha, tulo, upat, lima.","One, two, three, four, five.",Thomas,Any conversation,"Learner tip: Bisaya numbers, used for counting things and people."
+5,W05-18,"Unom, pito, walo, siyam, napulo.","Six, seven, eight, nine, ten.",Thomas,Any conversation,Learner tip: For prices and times people usually switch to Spanish or English numbers.
+5,W05-19,Pila ka oras ang biyahe?,How many hours is the trip?,Dodong,Living room,"Learner tip: biyahe = trip, journey."
+5,W05-20,Mga baynte ka oras.,About twenty hours.,Thomas,Living room,Learner tip: mga = about. baynte = twenty (Spanish). | QUESTION FOR REVIEWER: Natural?
+5,W05-21,Pila na lang ka adlaw?,How many days left?,Jiana,Video call,Learner tip: na lang = only ... left. The countdown before your visit.
+5,W05-22,Tulo na lang ka adlaw!,Only three days left!,Thomas,Video call,Learner tip: Change tulo to the real number.
+5,W05-23,Unya na lang.,Later.,Nanay,Living room,Learner tip: unya = later. Plans often move. Relax.
+5,W05-24,Karon na?,Now?,Thomas,Living room,"Learner tip: karon = now, today."
+5,W05-25,Late na ta!,We're late!,Kuya,Outside the house,Learner tip: English words like late mix in naturally.
+5,W05-D1-01,Kanus-a ka niabot?,When did you arrive?,Nanay,Living room,Learner tip: Dialogue: How long are you staying?
+5,W05-D1-05,Mubo ra kaayo!,That's so short!,Nanay,Living room,Learner tip: Dialogue: How long are you staying?
+5,W05-D1-06,"Mobalik ko dayon, Nay.","I'll come back soon, Mom.",Thomas,Living room,Learner tip: Dialogue: How long are you staying? | QUESTION FOR REVIEWER: dayon = soon here?
+5,W05-D2-05,"Diri, alas nuwebe sa buntag.","Here, it's nine in the morning.",Jiana,Video call,Learner tip: Dialogue: The countdown
+5,W05-D2-06,Maayong buntag diha!,Good morning over there!,Thomas,Video call,Learner tip: Dialogue: The countdown
+5,W05-D3-01,"Hulat lang kadiyot, Thomas.","Just wait a moment, Thomas.",Inday,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-D3-03,Unya na lang ta mokaon.,We'll eat later.,Inday,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-D3-05,"Dili, unya na.","No, later.",Inday,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-D3-06,"Sige, Inday.","Okay, Inday.",Thomas,Living room,Learner tip: Dialogue: Waiting for Inday
+5,W05-02-ALT2,"Gahapon, niabot ko.",I arrived yesterday.,Thomas,Airport arrival,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+5,W05-04-ALT2,"Sa Domingo, mouli ko.",I'm going home on Sunday.,Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+5,W05-X1,| Moabot ko sa Biyernes.,I'll arrive on Friday.,"(text only, no audio)",Mission,QUESTION FOR REVIEWER: Natural?
+5,W05-X2,"| alas siyete, alas otso, alas diyes, alas onse, alas dose","7, 8, 10, 11, 12 o'clock","(text only, no audio)",Day 3 culture note,

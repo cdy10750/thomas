@@ -1,0 +1,1018 @@
+{
+  "week": 4,
+  "title": "Hot and Tired",
+  "subtitle": "Health, heat, and feeling tired",
+  "goal": "Understand when the family checks on you, and tell them how you feel: tired, hot, sleepy, or sick.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W04-01",
+      "ceb": "Kapoy ka?",
+      "en": "Are you tired?",
+      "speaker": "Nanay",
+      "scene": "Arriving at the house",
+      "tip": "kapoy = tired. The first thing Nanay will ask after a long flight.",
+      "check": ""
+    },
+    {
+      "id": "W04-02",
+      "ceb": "Oo, kapoy kaayo ko.",
+      "en": "Yes, I'm very tired.",
+      "speaker": "Thomas",
+      "scene": "Arriving at the house",
+      "tip": "kaayo = very.",
+      "check": ""
+    },
+    {
+      "id": "W04-03",
+      "ceb": "Init kaayo, no?",
+      "en": "It's really hot, isn't it?",
+      "speaker": "Tatay",
+      "scene": "Outside the house",
+      "tip": "init = hot. no? at the end means 'right?'.",
+      "check": ""
+    },
+    {
+      "id": "W04-04",
+      "ceb": "Oo, init kaayo!",
+      "en": "Yes, it's very hot!",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "Bohol is hot and humid all year. This conversation never gets old.",
+      "check": ""
+    },
+    {
+      "id": "W04-05",
+      "ceb": "Gusto ka og electric fan?",
+      "en": "Do you want an electric fan?",
+      "speaker": "Inday",
+      "scene": "Living room",
+      "tip": "Everyone says 'electric fan' in English. gusto = want.",
+      "check": ""
+    },
+    {
+      "id": "W04-06",
+      "ceb": "Oo, palihug.",
+      "en": "Yes, please.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "Short and polite. Works for any offer.",
+      "check": ""
+    },
+    {
+      "id": "W04-07",
+      "ceb": "Pahulay sa.",
+      "en": "Rest for a while.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "pahulay = rest. sa = first, for now.",
+      "check": ""
+    },
+    {
+      "id": "W04-08",
+      "ceb": "Sige, mopahulay sa ko.",
+      "en": "Okay, I'll rest for a bit.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "mo- = will (future).",
+      "check": "Natural?"
+    },
+    {
+      "id": "W04-09",
+      "ceb": "Okay ra ka?",
+      "en": "Are you okay?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "Mixed English: okay ra = just fine.",
+      "check": ""
+    },
+    {
+      "id": "W04-10",
+      "ceb": "Okay ra ko.",
+      "en": "I'm okay.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "The easy answer. Use it only if it's true.",
+      "check": ""
+    },
+    {
+      "id": "W04-11",
+      "ceb": "Sakit akong ulo.",
+      "en": "I have a headache.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "sakit = hurts, sick. ulo = head.",
+      "check": ""
+    },
+    {
+      "id": "W04-12",
+      "ceb": "Sakit akong tiyan.",
+      "en": "My stomach hurts.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "tiyan = stomach. New food and water can do this on the first days.",
+      "check": ""
+    },
+    {
+      "id": "W04-13",
+      "ceb": "Naa kay tambal?",
+      "en": "Do you have medicine?",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "tambal = medicine.",
+      "check": ""
+    },
+    {
+      "id": "W04-14",
+      "ceb": "Wala. Naa moy tambal?",
+      "en": "No. Do you have any medicine?",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "moy = you (all) have. Asking for help is fine.",
+      "check": ""
+    },
+    {
+      "id": "W04-15",
+      "ceb": "Gihilantan ka?",
+      "en": "Do you have a fever?",
+      "speaker": "Kuya",
+      "scene": "Living room",
+      "tip": "hilanat = fever.",
+      "check": ""
+    },
+    {
+      "id": "W04-16",
+      "ceb": "Dili, kapoy lang ko.",
+      "en": "No, I'm just tired.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "Dili = no / not. lang = just.",
+      "check": ""
+    },
+    {
+      "id": "W04-17",
+      "ceb": "Inom og daghang tubig.",
+      "en": "Drink lots of water.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "daghang = a lot of.",
+      "check": ""
+    },
+    {
+      "id": "W04-18",
+      "ceb": "Nasunog ka sa adlaw!",
+      "en": "You got sunburned!",
+      "speaker": "Dodong",
+      "scene": "Beach",
+      "tip": "adlaw = sun (also 'day'). nasunog = burned.",
+      "check": ""
+    },
+    {
+      "id": "W04-19",
+      "ceb": "Pula na kaayo ko!",
+      "en": "I'm so red!",
+      "speaker": "Thomas",
+      "scene": "Beach",
+      "tip": "pula = red. Expect laughter.",
+      "check": "Natural?"
+    },
+    {
+      "id": "W04-20",
+      "ceb": "Gitugnaw ko.",
+      "en": "I'm cold.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "tugnaw = cold. Useful in strong air-conditioning, malls, and buses.",
+      "check": ""
+    },
+    {
+      "id": "W04-21",
+      "ceb": "Katulog na.",
+      "en": "Go to sleep now.",
+      "speaker": "Nanay",
+      "scene": "Bedroom",
+      "tip": "tulog = sleep.",
+      "check": ""
+    },
+    {
+      "id": "W04-22",
+      "ceb": "Katulgon na ko.",
+      "en": "I'm sleepy.",
+      "speaker": "Thomas",
+      "scene": "Bedroom",
+      "tip": "katulgon = sleepy.",
+      "check": ""
+    },
+    {
+      "id": "W04-23",
+      "ceb": "Jet lag pa ka?",
+      "en": "Are you still jet-lagged?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "pa = still. English words like jet lag stay in English.",
+      "check": ""
+    },
+    {
+      "id": "W04-24",
+      "ceb": "Oo, gamay pa.",
+      "en": "Yes, still a little.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "gamay = a little.",
+      "check": ""
+    },
+    {
+      "id": "W04-25",
+      "ceb": "Maayo na ka?",
+      "en": "Are you better now?",
+      "speaker": "Tatay",
+      "scene": "Living room",
+      "tip": "maayo = good, well. na = now, already.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W04-D1",
+      "title": "Just arrived",
+      "scene": "Arriving at the house",
+      "lines": [
+        {
+          "chunk": "W04-01"
+        },
+        {
+          "chunk": "W04-02"
+        },
+        {
+          "chunk": "W04-07"
+        },
+        {
+          "chunk": "W04-08"
+        },
+        {
+          "chunk": "W04-17"
+        },
+        {
+          "id": "W04-D1-06",
+          "speaker": "Thomas",
+          "ceb": "Sige, Nay. Salamat.",
+          "en": "Okay, Mom. Thanks.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W04-D2",
+      "title": "Jet lag on video",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W04-23"
+        },
+        {
+          "chunk": "W04-24"
+        },
+        {
+          "chunk": "W04-09"
+        },
+        {
+          "chunk": "W04-11"
+        },
+        {
+          "id": "W04-D2-05",
+          "speaker": "Jiana",
+          "ceb": "Inom og tubig, unya katulog na.",
+          "en": "Drink water, then go to sleep.",
+          "check": ""
+        },
+        {
+          "id": "W04-D2-06",
+          "speaker": "Thomas",
+          "ceb": "Sige. Maayong gabii, Jiana.",
+          "en": "Okay. Good night, Jiana.",
+          "check": ""
+        }
+      ]
+    },
+    {
+      "id": "W04-D3",
+      "title": "A hot afternoon",
+      "scene": "Living room",
+      "lines": [
+        {
+          "id": "W04-D3-01",
+          "speaker": "Inday",
+          "ceb": "Init kaayo, no?",
+          "en": "It's really hot, isn't it?",
+          "check": ""
+        },
+        {
+          "chunk": "W04-04"
+        },
+        {
+          "chunk": "W04-05"
+        },
+        {
+          "chunk": "W04-06"
+        },
+        {
+          "id": "W04-D3-05",
+          "speaker": "Inday",
+          "ceb": "Okay ra ka, Thomas?",
+          "en": "Are you okay, Thomas?",
+          "check": ""
+        },
+        {
+          "chunk": "W04-10"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Tired?",
+      "intro": "After the flight everyone will ask if you're tired. Answer honestly.",
+      "new": [
+        "W04-01",
+        "W04-02",
+        "W04-09",
+        "W04-10"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W04-01",
+          "answer": "Arriving at the house",
+          "options": [
+            "Arriving at the house",
+            "Church",
+            "Market"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W04-02",
+          "distractors": [
+            "W03-12",
+            "W02-08"
+          ],
+          "prompt": "W04-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-10",
+          "distractors": [
+            "W04-02",
+            "W01-11"
+          ],
+          "prompt": "W04-09"
+        },
+        {
+          "type": "fill",
+          "ref": "W04-02",
+          "text": "Oo, ___ kaayo ko.",
+          "answer": "kapoy",
+          "options": [
+            "kapoy",
+            "init",
+            "busog"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W04-10",
+          "text": "___ ra ko.",
+          "answer": "Okay",
+          "options": [
+            "Okay",
+            "Kapoy",
+            "Init"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-02",
+          "tiles": [
+            "Oo,",
+            "kapoy kaayo ko.",
+            "init"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "kapoy kaayo ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-10",
+          "tiles": [
+            "Okay",
+            "ra ko.",
+            "ka"
+          ],
+          "answers": [
+            [
+              "Okay",
+              "ra ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Being looked after",
+        "text": "Expect the family to watch over you closely: if you look tired, hot or quiet, someone will ask. Answering honestly lets them help you, and they want to."
+      }
+    },
+    {
+      "day": 2,
+      "title": "The heat",
+      "intro": "Talk about the weather everyone talks about, and accept the fan.",
+      "new": [
+        "W04-03",
+        "W04-04",
+        "W04-05",
+        "W04-06"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W04-04",
+          "distractors": [
+            "W04-02",
+            "W02-08"
+          ],
+          "prompt": "W04-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-06",
+          "distractors": [
+            "W04-04",
+            "W02-13"
+          ],
+          "prompt": "W04-05"
+        },
+        {
+          "type": "fill",
+          "ref": "W04-03",
+          "text": "___ kaayo, no?",
+          "answer": "Init",
+          "options": [
+            "Init",
+            "Kapoy",
+            "Lami"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W04-05",
+          "text": "Gusto ka og ___?",
+          "answer": "electric fan",
+          "options": [
+            "electric fan",
+            "tubig",
+            "tambal"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-04",
+          "tiles": [
+            "Oo,",
+            "init kaayo!",
+            "kapoy"
+          ],
+          "answers": [
+            [
+              "Oo,",
+              "init kaayo!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-03",
+          "tiles": [
+            "Init kaayo,",
+            "no?",
+            "ka"
+          ],
+          "answers": [
+            [
+              "Init kaayo,",
+              "no?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Init kaayo!",
+        "text": "Bohol is hot and humid all year, with a hotter dry season from March to May. Small talk about the heat is like small talk about the weather at home. Light cotton clothes and lots of water help."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Rest and sleep",
+      "intro": "Accept the invitation to rest, and say you're sleepy.",
+      "new": [
+        "W04-07",
+        "W04-08",
+        "W04-21",
+        "W04-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W04-08",
+          "distractors": [
+            "W04-22",
+            "W04-04"
+          ],
+          "prompt": "W04-07"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-23",
+          "distractors": [
+            "W04-04",
+            "W04-02"
+          ],
+          "prompt": "W04-21"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-22",
+          "distractors": [
+            "W04-06",
+            "W04-04"
+          ],
+          "context": "It's late and your eyes are closing."
+        },
+        {
+          "type": "fill",
+          "ref": "W04-07",
+          "text": "___ sa.",
+          "answer": "Pahulay",
+          "options": [
+            "Pahulay",
+            "Kaon",
+            "Inom"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W04-22",
+          "text": "___ na ko.",
+          "answer": "Katulgon",
+          "options": [
+            "Katulgon",
+            "Kapoy",
+            "Busog"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-08",
+          "tiles": [
+            "Sige,",
+            "mopahulay sa ko.",
+            "init"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "mopahulay sa ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-21",
+          "tiles": [
+            "Katulog",
+            "na.",
+            "pa"
+          ],
+          "answers": [
+            [
+              "Katulog",
+              "na."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Siesta",
+        "text": "In the hottest part of the afternoon many people rest or nap. If Nanay says Pahulay sa, it's a kind offer, and taking it is polite."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Not feeling well",
+      "intro": "Say where it hurts and ask for medicine.",
+      "new": [
+        "W04-11",
+        "W04-12",
+        "W04-13",
+        "W04-14"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W04-14",
+          "distractors": [
+            "W04-10",
+            "W04-06"
+          ],
+          "prompt": "W04-13"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-11",
+          "distractors": [
+            "W04-12",
+            "W04-06"
+          ],
+          "context": "Your head is pounding after a long day in the sun."
+        },
+        {
+          "type": "respond",
+          "answer": "W04-12",
+          "distractors": [
+            "W04-11",
+            "W04-04"
+          ],
+          "context": "You ate something new and your stomach feels bad."
+        },
+        {
+          "type": "fill",
+          "ref": "W04-11",
+          "text": "Sakit akong ___.",
+          "answer": "ulo",
+          "options": [
+            "ulo",
+            "tiyan",
+            "tubig"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W04-13",
+          "text": "Naa kay ___?",
+          "answer": "tambal",
+          "options": [
+            "tambal",
+            "tubig",
+            "anak"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-11",
+          "tiles": [
+            "Sakit",
+            "akong ulo.",
+            "tiyan"
+          ],
+          "answers": [
+            [
+              "Sakit",
+              "akong ulo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-14",
+          "tiles": [
+            "Wala.",
+            "Naa moy tambal?",
+            "Oo"
+          ],
+          "answers": [
+            [
+              "Wala.",
+              "Naa moy tambal?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Tambal",
+        "text": "Families often have their own remedies: ginger tea (salabat), a balm called Vicks or efficasent oil rubbed on the stomach or forehead. Accept the care - it's a way of showing love."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Fever, water, and feeling better",
+      "intro": "Answer the 'are you sick?' questions and tell them you're better.",
+      "new": [
+        "W04-15",
+        "W04-16",
+        "W04-17",
+        "W04-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W04-16",
+          "distractors": [
+            "W04-10",
+            "W04-14"
+          ],
+          "prompt": "W04-15"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-D1-06",
+          "distractors": [
+            "W04-02",
+            "W04-12"
+          ],
+          "prompt": "W04-25"
+        },
+        {
+          "type": "fill",
+          "ref": "W04-16",
+          "text": "Dili, kapoy ___ ko.",
+          "answer": "lang",
+          "options": [
+            "lang",
+            "ra",
+            "pa"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W04-17",
+          "text": "Inom og ___ tubig.",
+          "answer": "daghang",
+          "options": [
+            "daghang",
+            "gamay",
+            "init"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-16",
+          "tiles": [
+            "Dili,",
+            "kapoy lang ko.",
+            "Oo"
+          ],
+          "answers": [
+            [
+              "Dili,",
+              "kapoy lang ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-17",
+          "tiles": [
+            "Inom og",
+            "daghang tubig.",
+            "kan-on"
+          ],
+          "answers": [
+            [
+              "Inom og",
+              "daghang tubig."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Drink water - the right kind",
+        "text": "Drink bottled or filtered water, not tap water. Families usually have a big water dispenser. Asking Pwede ko mangayo og tubig? is always fine."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Sun, cold, and jet lag",
+      "intro": "Sunburn at the beach, cold air-conditioning, and jet lag on video calls.",
+      "new": [
+        "W04-18",
+        "W04-19",
+        "W04-20",
+        "W04-23",
+        "W04-24"
+      ],
+      "exercises": [
+        {
+          "type": "scene",
+          "ref": "W04-18",
+          "answer": "Beach",
+          "options": [
+            "Beach",
+            "Church",
+            "Dinner table"
+          ]
+        },
+        {
+          "type": "respond",
+          "answer": "W04-19",
+          "distractors": [
+            "W04-20",
+            "W04-10"
+          ],
+          "prompt": "W04-18"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-24",
+          "distractors": [
+            "W04-19",
+            "W04-22"
+          ],
+          "prompt": "W04-23"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-20",
+          "distractors": [
+            "W04-04",
+            "W04-19"
+          ],
+          "context": "The air-conditioning in the bus is blowing straight at you."
+        },
+        {
+          "type": "fill",
+          "ref": "W04-20",
+          "text": "___ ko.",
+          "answer": "Gitugnaw",
+          "options": [
+            "Gitugnaw",
+            "Gigutom",
+            "Kapoy"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W04-24",
+          "text": "Oo, ___ pa.",
+          "answer": "gamay",
+          "options": [
+            "gamay",
+            "daghan",
+            "init"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-19",
+          "tiles": [
+            "Pula",
+            "na kaayo ko!",
+            "init"
+          ],
+          "answers": [
+            [
+              "Pula",
+              "na kaayo ko!"
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-23",
+          "tiles": [
+            "Jet lag",
+            "pa ka?",
+            "na"
+          ],
+          "answers": [
+            [
+              "Jet lag",
+              "pa ka?"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Hot outside, freezing inside",
+        "text": "Malls, buses and some homes use very strong air-conditioning. Bring a light jacket. Gitugnaw ko is a sentence you may need on a 10-hour bus ride."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three conversations about how you feel, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W04-D2-06",
+          "distractors": [
+            "W04-24",
+            "W04-11"
+          ],
+          "prompt": "W04-D2-05"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-04",
+          "distractors": [
+            "W04-02",
+            "W04-19"
+          ],
+          "prompt": "W04-D3-01"
+        },
+        {
+          "type": "respond",
+          "answer": "W04-10",
+          "distractors": [
+            "W04-06",
+            "W04-16"
+          ],
+          "prompt": "W04-D3-05"
+        },
+        {
+          "type": "order",
+          "ref": "W04-D2-06",
+          "tiles": [
+            "Sige.",
+            "Maayong gabii, Jiana.",
+            "Kapoy"
+          ],
+          "answers": [
+            [
+              "Sige.",
+              "Maayong gabii, Jiana."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W04-D1-06",
+          "tiles": [
+            "Sige, Nay.",
+            "Salamat."
+          ],
+          "answers": [
+            [
+              "Sige, Nay.",
+              "Salamat."
+            ],
+            [
+              "Salamat.",
+              "Sige, Nay."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W04-D1",
+        "W04-D2",
+        "W04-D3"
+      ],
+      "culture": {
+        "title": "Taking care of yourself is polite",
+        "text": "If you get sick, the whole family worries. Drinking water, resting, and telling them how you feel early is the considerate thing to do."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 4",
+    "steps": [
+      "Ask Jiana: Kapoy ka? and Init ba diha? (Is it hot there?)",
+      "Tell her how you feel today with one sentence: kapoy, init, gitugnaw, or katulgon.",
+      "Pretend you have a headache and say Sakit akong ulo. Ask her what remedy her family would give you.",
+      "When she asks Okay ra ka? answer honestly.",
+      "Say goodnight with: Katulgon na ko. Maayong gabii!"
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W04-X1",
+      "ceb": "| Init ba diha?",
+      "en": "Is it hot there?",
+      "where": "Mission",
+      "check": "Natural question on a video call?"
+    },
+    {
+      "id": "W04-X2",
+      "ceb": "| salabat",
+      "en": "Ginger tea",
+      "where": "Day 4 culture note",
+      "check": ""
+    }
+  ]
+}

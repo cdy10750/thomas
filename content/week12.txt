@@ -1,0 +1,133 @@
+TITLE Thanks and Goodbye
+SUBTITLE Gratitude, feelings, saying goodbye
+GOAL Thank the family properly, say how you feel, promise to come back, and say goodbye in a way they'll remember.
+
+C 01 | Thomas | Dinner table | Salamat sa tanan. | Thank you for everything. | tanan = everything, everyone.
+C 02 | Nanay | Dinner table | Balik ka, ha? | Come back, okay? | ha? at the end = okay?, right?
+C 03 | Thomas | Dinner table | Mobalik gyud ko. | I'll definitely come back. | gyud = really, definitely.
+C 04 | Thomas | Living room | Nalipay kaayo ko diri. | I was very happy here. | nalipay = was happy.
+C 05 | Thomas | Living room | Mingawon ko ninyo. | I'll miss you all. | ninyo = you all. mingawon = will miss.
+C 06 | Nanay | Living room | Mingawon pud mi nimo. | We'll miss you too. | mi = we (not including you).
+C 07 | Tatay | Outside the house | Amping sa biyahe. | Have a safe trip. | biyahe = trip. amping = take care.
+C 08 | Thomas | Outside the house | Salamat, Tay. Amping pud mo. | Thanks, Dad. You all take care too. | mo = you (plural).
+C 09 | Inday | Outside the house | Ayaw kalimti mi. | Don't forget us. | kalimot = forget.
+C 10 | Thomas | Outside the house | Dili gyud ko mokalimot ninyo. | I'll never forget you all. | dili gyud = never, definitely not. | check: Natural?
+C 11 | Thomas | Any conversation | Malipayon kaayo ko. | I'm very happy. | malipayon = happy.
+C 12 | Thomas | Any conversation | Masulub-on ko. | I'm sad. | masulub-on = sad.
+C 13 | Jiana | Video call | Nganong masulub-on ka? | Why are you sad? | ngano = why.
+C 14 | Thomas | Video call | Kay mobiya na ko ugma. | Because I'm leaving tomorrow. | kay = because.
+C 15 | Nanay | Outside the house | Ayaw paghilak. | Don't cry. | hilak = cry. Goodbyes get emotional - for everyone.
+C 16 | Thomas | Dinner table | Daghang salamat sa inyong kaayo. | Thank you so much for your kindness. | kaayo = kindness here (also 'very'). inyong = your (plural).
+C 17 | Kuya | Outside the house | Text-text lang ta. | Let's keep in touch by text. | Doubling = doing it often.
+C 18 | Thomas | Outside the house | Sige, mag-chat ta. | Sure, let's chat. | chat on Messenger is how most families stay in touch.
+C 19 | Jiana | Living room | Hatdan tika sa airport. | I'll take you to the airport. | hatod = take someone somewhere.
+C 20 | Thomas | Living room | Ikaw ang akong kalipay. | You are my happiness. | kalipay = happiness, joy. | check: Natural romantic phrase?
+C 21 | Nanay | Dinner table | Kini, para nimo. | This is for you. | Expect a farewell gift or food for the trip.
+C 22 | Thomas | Dinner table | Wow, salamat kaayo! Nindot kaayo. | Wow, thank you so much! It's beautiful. | Receive gifts with both hands.
+C 23 | Tatay | Outside the house | Welcome ka diri bisan kanus-a. | You're welcome here anytime. | bisan kanus-a = anytime.
+C 24 | Thomas | Outside the house | Hangtod sa sunod! | Until next time! | hangtod = until. sunod = next.
+C 25 | Thomas | Outside the house | Babay! Amping mo tanan! | Bye! Take care, everyone! | babay = bye-bye.
+
+D 1 | The last dinner | Dinner table
+L 01
+L Nanay | Walay sapayan. Pamilya man ta. | You're welcome. We're family.
+L 21
+L 22
+L 02
+L 03
+D 2 | The last night | Video call
+L 13
+L 14
+L Jiana | Mingawon ko nimo pag-ayo. | I'll miss you so much.
+L Thomas | Mingawon pud ko nimo. Mobalik gyud ko. | I'll miss you too. I'll definitely come back.
+L 19
+L 20
+D 3 | At the door | Outside the house
+L 09
+L 10
+L Inday | Babay, Thomas! Amping! | Bye, Thomas! Take care!
+L 25
+L Inday | Hangtod sa sunod! | Until next time!
+L Thomas | Hangtod sa sunod, Inday! | Until next time, Inday!
+
+DAY 1 | Thank you for everything | Thank-yous that go beyond Salamat.
+CULTURE Utang kabubut-on | Filipinos value utang kabubut-on - a debt of gratitude that is remembered for years. A sincere, specific thank-you to Nanay and Tatay before you leave will be talked about long after.
+NEW 01 16 21 22
+RESP 21 > 22 | 01 03
+RESPC It's your last evening and you want to thank the whole family. > 01 | 22 03
+FILL 01 | tanan | adlaw; balay
+FILL 16 | kaayo | tanan; gugma
+ORDER 01 | Salamat / sa tanan. | extra: Nindot
+ORDER 16 | Daghang salamat / sa inyong kaayo. | extra: tanan
+
+DAY 2 | Happy and sad | Name your feelings and say why.
+CULTURE It's okay to show feelings | Goodbyes in Filipino families are emotional - tears at the airport are normal for men and women. Saying Masulub-on ko is honest, and it tells them how much the visit meant.
+NEW 11 12 13 14 15
+RESP 13 > 14 | 11 03
+RESP 15 > 12 | 11 03
+RESPC The family is laughing together at your last dinner. > 11 | 12 14
+FILL 12 | Masulub-on | Malipayon; Kapoy
+FILL 14 | ugma | gahapon; karon
+ORDER 14 | Kay mobiya na ko / ugma. | extra: gahapon
+ORDER 11 | Malipayon / kaayo ko. | extra: Masulub-on
+
+DAY 3 | Missing each other | Tell them you'll miss them - and that you won't forget.
+CULTURE Mingaw | Mingaw is that heavy, lonely feeling of missing people. You'll hear Mingawon mi nimo (We'll miss you) many times on your last day. Answer in kind.
+NEW 04 05 06 09 10
+RESP 06 > 05 | 04 11
+RESP 09 > 10 | 05 03
+RESPC Nanay asks if you enjoyed your stay. > 04 | 10 12
+FILL 05 | ninyo | nako; siya
+FILL 04 | diri | didto; ugma
+ORDER 05 | Mingawon / ko ninyo. | extra: pud
+ORDER 10 | Dili gyud ko / mokalimot ninyo. | extra: Ayaw
+
+DAY 4 | Come back! | Promise to return. Hear that the door is always open.
+CULTURE Balik ka | 'Come back' is the warmest thing a Filipino host can say. Answering Mobalik gyud ko - and meaning it - is the perfect reply.
+NEW 02 03 23 24
+RESP 02 > 03 | 24 11
+RESP 23 > 24 | 03 12
+FILL 03 | gyud | ra; pa
+FILL 23 | kanus-a | diri; ugma
+ORDER 03 | Mobalik / gyud ko. | extra: dili
+ORDER 24 | Hangtod / sa sunod! | extra: ugma
+
+DAY 5 | Staying in touch | Texting, chatting, the airport ride, and something sweet for Jiana.
+CULTURE Messenger family groups | Many families have a group chat. Ask to be added. Even a short Maayong buntag! in the group keeps you close to everyone between visits.
+NEW 17 18 19 20
+RESP 17 > 18 | 20 03
+RESP 19 > W01-24 | 18 20
+RESPC Jiana looks sad that you're leaving. You want to say something loving. > 20 | 18 14
+FILL 18 | mag-chat | mokaon; molakaw
+FILL 20 | kalipay | gugma; balay
+ORDER 18 | Sige, / mag-chat ta. | extra: ugma
+ORDER 20 | Ikaw / ang akong kalipay. | extra: mingaw
+
+DAY 6 | Goodbye at the door | The final words as you leave the house.
+CULTURE Leaving the house | Before leaving, give each elder a mano one last time. Family members may walk you to the car and wave until you're out of sight. Wave back until you can't see them.
+NEW 07 08 25
+RESP 07 > 08 | 25 03
+RESPC You're getting in the car and the whole family is outside. > 25 | 08 04
+FILL 07 | biyahe | balay; adlaw
+FILL 25 | tanan | Nay; ninyo
+ORDER 08 | Salamat, Tay. / Amping pud mo. | extra: Babay
+ORDER 25 | Babay! / Amping mo tanan! | extra: Tay
+
+DAY 7 | Putting it together | No new phrases. Three goodbye scenes, then your mission.
+DIALOGUES 1 2 3
+CULTURE Pasalubong in reverse | You'll probably leave with more than you came with: dried mangoes, peanut kisses, delicacies for your family. Pack light on the way there.
+RESP D1-02 > 21 | 03 05
+RESP D2-03 > D2-04 | 14 11
+RESP D3-03 > 25 | 10 05
+RESP D3-05 > D3-06 | 25 03
+ORDER D2-04 | Mingawon pud ko nimo. / Mobalik gyud ko. | alt: Mobalik gyud ko. / Mingawon pud ko nimo.
+
+MISSION Video-call mission: Week 12
+STEP Thank Jiana for something specific this week, starting with Salamat sa...
+STEP Tell her how you feel today: Malipayon ko / Masulub-on ko, and why: Kay...
+STEP Say: Mingaw na ko nimo. and Ikaw ang akong kalipay.
+STEP Record a short goodbye message for her family: Salamat sa tanan. Mingawon ko ninyo. Mobalik gyud ko.
+STEP Ask Jiana to play it for Nanay and Tatay.
+
+X | utang kabubut-on | debt of gratitude | Day 1 culture note
+X | Salamat sa... | Thank you for... | Mission

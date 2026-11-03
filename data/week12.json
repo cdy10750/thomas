@@ -1,0 +1,997 @@
+{
+  "week": 12,
+  "title": "Thanks and Goodbye",
+  "subtitle": "Gratitude, feelings, saying goodbye",
+  "goal": "Thank the family properly, say how you feel, promise to come back, and say goodbye in a way they'll remember.",
+  "voices": {
+    "Danilo": [
+      "Thomas",
+      "Tatay",
+      "Kuya",
+      "Dodong"
+    ],
+    "Marisol": [
+      "Jiana",
+      "Nanay",
+      "Inday",
+      "Tindera"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "W12-01",
+      "ceb": "Salamat sa tanan.",
+      "en": "Thank you for everything.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "tanan = everything, everyone.",
+      "check": ""
+    },
+    {
+      "id": "W12-02",
+      "ceb": "Balik ka, ha?",
+      "en": "Come back, okay?",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "ha? at the end = okay?, right?",
+      "check": ""
+    },
+    {
+      "id": "W12-03",
+      "ceb": "Mobalik gyud ko.",
+      "en": "I'll definitely come back.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "gyud = really, definitely.",
+      "check": ""
+    },
+    {
+      "id": "W12-04",
+      "ceb": "Nalipay kaayo ko diri.",
+      "en": "I was very happy here.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "nalipay = was happy.",
+      "check": ""
+    },
+    {
+      "id": "W12-05",
+      "ceb": "Mingawon ko ninyo.",
+      "en": "I'll miss you all.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "ninyo = you all. mingawon = will miss.",
+      "check": ""
+    },
+    {
+      "id": "W12-06",
+      "ceb": "Mingawon pud mi nimo.",
+      "en": "We'll miss you too.",
+      "speaker": "Nanay",
+      "scene": "Living room",
+      "tip": "mi = we (not including you).",
+      "check": ""
+    },
+    {
+      "id": "W12-07",
+      "ceb": "Amping sa biyahe.",
+      "en": "Have a safe trip.",
+      "speaker": "Tatay",
+      "scene": "Outside the house",
+      "tip": "biyahe = trip. amping = take care.",
+      "check": ""
+    },
+    {
+      "id": "W12-08",
+      "ceb": "Salamat, Tay. Amping pud mo.",
+      "en": "Thanks, Dad. You all take care too.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "mo = you (plural).",
+      "check": ""
+    },
+    {
+      "id": "W12-09",
+      "ceb": "Ayaw kalimti mi.",
+      "en": "Don't forget us.",
+      "speaker": "Inday",
+      "scene": "Outside the house",
+      "tip": "kalimot = forget.",
+      "check": ""
+    },
+    {
+      "id": "W12-10",
+      "ceb": "Dili gyud ko mokalimot ninyo.",
+      "en": "I'll never forget you all.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "dili gyud = never, definitely not.",
+      "check": "Natural?"
+    },
+    {
+      "id": "W12-11",
+      "ceb": "Malipayon kaayo ko.",
+      "en": "I'm very happy.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "malipayon = happy.",
+      "check": ""
+    },
+    {
+      "id": "W12-12",
+      "ceb": "Masulub-on ko.",
+      "en": "I'm sad.",
+      "speaker": "Thomas",
+      "scene": "Any conversation",
+      "tip": "masulub-on = sad.",
+      "check": ""
+    },
+    {
+      "id": "W12-13",
+      "ceb": "Nganong masulub-on ka?",
+      "en": "Why are you sad?",
+      "speaker": "Jiana",
+      "scene": "Video call",
+      "tip": "ngano = why.",
+      "check": ""
+    },
+    {
+      "id": "W12-14",
+      "ceb": "Kay mobiya na ko ugma.",
+      "en": "Because I'm leaving tomorrow.",
+      "speaker": "Thomas",
+      "scene": "Video call",
+      "tip": "kay = because.",
+      "check": ""
+    },
+    {
+      "id": "W12-15",
+      "ceb": "Ayaw paghilak.",
+      "en": "Don't cry.",
+      "speaker": "Nanay",
+      "scene": "Outside the house",
+      "tip": "hilak = cry. Goodbyes get emotional - for everyone.",
+      "check": ""
+    },
+    {
+      "id": "W12-16",
+      "ceb": "Daghang salamat sa inyong kaayo.",
+      "en": "Thank you so much for your kindness.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "kaayo = kindness here (also 'very'). inyong = your (plural).",
+      "check": ""
+    },
+    {
+      "id": "W12-17",
+      "ceb": "Text-text lang ta.",
+      "en": "Let's keep in touch by text.",
+      "speaker": "Kuya",
+      "scene": "Outside the house",
+      "tip": "Doubling = doing it often.",
+      "check": ""
+    },
+    {
+      "id": "W12-18",
+      "ceb": "Sige, mag-chat ta.",
+      "en": "Sure, let's chat.",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "chat on Messenger is how most families stay in touch.",
+      "check": ""
+    },
+    {
+      "id": "W12-19",
+      "ceb": "Hatdan tika sa airport.",
+      "en": "I'll take you to the airport.",
+      "speaker": "Jiana",
+      "scene": "Living room",
+      "tip": "hatod = take someone somewhere.",
+      "check": ""
+    },
+    {
+      "id": "W12-20",
+      "ceb": "Ikaw ang akong kalipay.",
+      "en": "You are my happiness.",
+      "speaker": "Thomas",
+      "scene": "Living room",
+      "tip": "kalipay = happiness, joy.",
+      "check": "Natural romantic phrase?"
+    },
+    {
+      "id": "W12-21",
+      "ceb": "Kini, para nimo.",
+      "en": "This is for you.",
+      "speaker": "Nanay",
+      "scene": "Dinner table",
+      "tip": "Expect a farewell gift or food for the trip.",
+      "check": ""
+    },
+    {
+      "id": "W12-22",
+      "ceb": "Wow, salamat kaayo! Nindot kaayo.",
+      "en": "Wow, thank you so much! It's beautiful.",
+      "speaker": "Thomas",
+      "scene": "Dinner table",
+      "tip": "Receive gifts with both hands.",
+      "check": ""
+    },
+    {
+      "id": "W12-23",
+      "ceb": "Welcome ka diri bisan kanus-a.",
+      "en": "You're welcome here anytime.",
+      "speaker": "Tatay",
+      "scene": "Outside the house",
+      "tip": "bisan kanus-a = anytime.",
+      "check": ""
+    },
+    {
+      "id": "W12-24",
+      "ceb": "Hangtod sa sunod!",
+      "en": "Until next time!",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "hangtod = until. sunod = next.",
+      "check": ""
+    },
+    {
+      "id": "W12-25",
+      "ceb": "Babay! Amping mo tanan!",
+      "en": "Bye! Take care, everyone!",
+      "speaker": "Thomas",
+      "scene": "Outside the house",
+      "tip": "babay = bye-bye.",
+      "check": ""
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "W12-D1",
+      "title": "The last dinner",
+      "scene": "Dinner table",
+      "lines": [
+        {
+          "chunk": "W12-01"
+        },
+        {
+          "id": "W12-D1-02",
+          "speaker": "Nanay",
+          "ceb": "Walay sapayan. Pamilya man ta.",
+          "en": "You're welcome. We're family.",
+          "check": ""
+        },
+        {
+          "chunk": "W12-21"
+        },
+        {
+          "chunk": "W12-22"
+        },
+        {
+          "chunk": "W12-02"
+        },
+        {
+          "chunk": "W12-03"
+        }
+      ]
+    },
+    {
+      "id": "W12-D2",
+      "title": "The last night",
+      "scene": "Video call",
+      "lines": [
+        {
+          "chunk": "W12-13"
+        },
+        {
+          "chunk": "W12-14"
+        },
+        {
+          "id": "W12-D2-03",
+          "speaker": "Jiana",
+          "ceb": "Mingawon ko nimo pag-ayo.",
+          "en": "I'll miss you so much.",
+          "check": ""
+        },
+        {
+          "id": "W12-D2-04",
+          "speaker": "Thomas",
+          "ceb": "Mingawon pud ko nimo. Mobalik gyud ko.",
+          "en": "I'll miss you too. I'll definitely come back.",
+          "check": ""
+        },
+        {
+          "chunk": "W12-19"
+        },
+        {
+          "chunk": "W12-20"
+        }
+      ]
+    },
+    {
+      "id": "W12-D3",
+      "title": "At the door",
+      "scene": "Outside the house",
+      "lines": [
+        {
+          "chunk": "W12-09"
+        },
+        {
+          "chunk": "W12-10"
+        },
+        {
+          "id": "W12-D3-03",
+          "speaker": "Inday",
+          "ceb": "Babay, Thomas! Amping!",
+          "en": "Bye, Thomas! Take care!",
+          "check": ""
+        },
+        {
+          "chunk": "W12-25"
+        },
+        {
+          "id": "W12-D3-05",
+          "speaker": "Inday",
+          "ceb": "Hangtod sa sunod!",
+          "en": "Until next time!",
+          "check": ""
+        },
+        {
+          "id": "W12-D3-06",
+          "speaker": "Thomas",
+          "ceb": "Hangtod sa sunod, Inday!",
+          "en": "Until next time, Inday!",
+          "check": ""
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Thank you for everything",
+      "intro": "Thank-yous that go beyond Salamat.",
+      "new": [
+        "W12-01",
+        "W12-16",
+        "W12-21",
+        "W12-22"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-22",
+          "distractors": [
+            "W12-01",
+            "W12-03"
+          ],
+          "prompt": "W12-21"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-01",
+          "distractors": [
+            "W12-22",
+            "W12-03"
+          ],
+          "context": "It's your last evening and you want to thank the whole family."
+        },
+        {
+          "type": "fill",
+          "ref": "W12-01",
+          "text": "Salamat sa ___.",
+          "answer": "tanan",
+          "options": [
+            "tanan",
+            "adlaw",
+            "balay"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W12-16",
+          "text": "Daghang salamat sa inyong ___.",
+          "answer": "kaayo",
+          "options": [
+            "kaayo",
+            "tanan",
+            "gugma"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-01",
+          "tiles": [
+            "Salamat",
+            "sa tanan.",
+            "Nindot"
+          ],
+          "answers": [
+            [
+              "Salamat",
+              "sa tanan."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-16",
+          "tiles": [
+            "Daghang salamat",
+            "sa inyong kaayo.",
+            "tanan"
+          ],
+          "answers": [
+            [
+              "Daghang salamat",
+              "sa inyong kaayo."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Utang kabubut-on",
+        "text": "Filipinos value utang kabubut-on - a debt of gratitude that is remembered for years. A sincere, specific thank-you to Nanay and Tatay before you leave will be talked about long after."
+      }
+    },
+    {
+      "day": 2,
+      "title": "Happy and sad",
+      "intro": "Name your feelings and say why.",
+      "new": [
+        "W12-11",
+        "W12-12",
+        "W12-13",
+        "W12-14",
+        "W12-15"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-14",
+          "distractors": [
+            "W12-11",
+            "W12-03"
+          ],
+          "prompt": "W12-13"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-12",
+          "distractors": [
+            "W12-11",
+            "W12-03"
+          ],
+          "prompt": "W12-15"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-11",
+          "distractors": [
+            "W12-12",
+            "W12-14"
+          ],
+          "context": "The family is laughing together at your last dinner."
+        },
+        {
+          "type": "fill",
+          "ref": "W12-12",
+          "text": "___ ko.",
+          "answer": "Masulub-on",
+          "options": [
+            "Masulub-on",
+            "Malipayon",
+            "Kapoy"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W12-14",
+          "text": "Kay mobiya na ko ___.",
+          "answer": "ugma",
+          "options": [
+            "ugma",
+            "gahapon",
+            "karon"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-14",
+          "tiles": [
+            "Kay mobiya na ko",
+            "ugma.",
+            "gahapon"
+          ],
+          "answers": [
+            [
+              "Kay mobiya na ko",
+              "ugma."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-11",
+          "tiles": [
+            "Malipayon",
+            "kaayo ko.",
+            "Masulub-on"
+          ],
+          "answers": [
+            [
+              "Malipayon",
+              "kaayo ko."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "It's okay to show feelings",
+        "text": "Goodbyes in Filipino families are emotional - tears at the airport are normal for men and women. Saying Masulub-on ko is honest, and it tells them how much the visit meant."
+      }
+    },
+    {
+      "day": 3,
+      "title": "Missing each other",
+      "intro": "Tell them you'll miss them - and that you won't forget.",
+      "new": [
+        "W12-04",
+        "W12-05",
+        "W12-06",
+        "W12-09",
+        "W12-10"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-05",
+          "distractors": [
+            "W12-04",
+            "W12-11"
+          ],
+          "prompt": "W12-06"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-10",
+          "distractors": [
+            "W12-05",
+            "W12-03"
+          ],
+          "prompt": "W12-09"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-04",
+          "distractors": [
+            "W12-10",
+            "W12-12"
+          ],
+          "context": "Nanay asks if you enjoyed your stay."
+        },
+        {
+          "type": "fill",
+          "ref": "W12-05",
+          "text": "Mingawon ko ___.",
+          "answer": "ninyo",
+          "options": [
+            "ninyo",
+            "nako",
+            "siya"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W12-04",
+          "text": "Nalipay kaayo ko ___.",
+          "answer": "diri",
+          "options": [
+            "diri",
+            "didto",
+            "ugma"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-05",
+          "tiles": [
+            "Mingawon",
+            "ko ninyo.",
+            "pud"
+          ],
+          "answers": [
+            [
+              "Mingawon",
+              "ko ninyo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-10",
+          "tiles": [
+            "Dili gyud ko",
+            "mokalimot ninyo.",
+            "Ayaw"
+          ],
+          "answers": [
+            [
+              "Dili gyud ko",
+              "mokalimot ninyo."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Mingaw",
+        "text": "Mingaw is that heavy, lonely feeling of missing people. You'll hear Mingawon mi nimo (We'll miss you) many times on your last day. Answer in kind."
+      }
+    },
+    {
+      "day": 4,
+      "title": "Come back!",
+      "intro": "Promise to return. Hear that the door is always open.",
+      "new": [
+        "W12-02",
+        "W12-03",
+        "W12-23",
+        "W12-24"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-03",
+          "distractors": [
+            "W12-24",
+            "W12-11"
+          ],
+          "prompt": "W12-02"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-24",
+          "distractors": [
+            "W12-03",
+            "W12-12"
+          ],
+          "prompt": "W12-23"
+        },
+        {
+          "type": "fill",
+          "ref": "W12-03",
+          "text": "Mobalik ___ ko.",
+          "answer": "gyud",
+          "options": [
+            "gyud",
+            "ra",
+            "pa"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W12-23",
+          "text": "Welcome ka diri bisan ___.",
+          "answer": "kanus-a",
+          "options": [
+            "kanus-a",
+            "diri",
+            "ugma"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-03",
+          "tiles": [
+            "Mobalik",
+            "gyud ko.",
+            "dili"
+          ],
+          "answers": [
+            [
+              "Mobalik",
+              "gyud ko."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-24",
+          "tiles": [
+            "Hangtod",
+            "sa sunod!",
+            "ugma"
+          ],
+          "answers": [
+            [
+              "Hangtod",
+              "sa sunod!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Balik ka",
+        "text": "'Come back' is the warmest thing a Filipino host can say. Answering Mobalik gyud ko - and meaning it - is the perfect reply."
+      }
+    },
+    {
+      "day": 5,
+      "title": "Staying in touch",
+      "intro": "Texting, chatting, the airport ride, and something sweet for Jiana.",
+      "new": [
+        "W12-17",
+        "W12-18",
+        "W12-19",
+        "W12-20"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-18",
+          "distractors": [
+            "W12-20",
+            "W12-03"
+          ],
+          "prompt": "W12-17"
+        },
+        {
+          "type": "respond",
+          "answer": "W01-24",
+          "distractors": [
+            "W12-18",
+            "W12-20"
+          ],
+          "prompt": "W12-19"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-20",
+          "distractors": [
+            "W12-18",
+            "W12-14"
+          ],
+          "context": "Jiana looks sad that you're leaving. You want to say something loving."
+        },
+        {
+          "type": "fill",
+          "ref": "W12-18",
+          "text": "Sige, ___ ta.",
+          "answer": "mag-chat",
+          "options": [
+            "mag-chat",
+            "mokaon",
+            "molakaw"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W12-20",
+          "text": "Ikaw ang akong ___.",
+          "answer": "kalipay",
+          "options": [
+            "kalipay",
+            "gugma",
+            "balay"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-18",
+          "tiles": [
+            "Sige,",
+            "mag-chat ta.",
+            "ugma"
+          ],
+          "answers": [
+            [
+              "Sige,",
+              "mag-chat ta."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-20",
+          "tiles": [
+            "Ikaw",
+            "ang akong kalipay.",
+            "mingaw"
+          ],
+          "answers": [
+            [
+              "Ikaw",
+              "ang akong kalipay."
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Messenger family groups",
+        "text": "Many families have a group chat. Ask to be added. Even a short Maayong buntag! in the group keeps you close to everyone between visits."
+      }
+    },
+    {
+      "day": 6,
+      "title": "Goodbye at the door",
+      "intro": "The final words as you leave the house.",
+      "new": [
+        "W12-07",
+        "W12-08",
+        "W12-25"
+      ],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-08",
+          "distractors": [
+            "W12-25",
+            "W12-03"
+          ],
+          "prompt": "W12-07"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-25",
+          "distractors": [
+            "W12-08",
+            "W12-04"
+          ],
+          "context": "You're getting in the car and the whole family is outside."
+        },
+        {
+          "type": "fill",
+          "ref": "W12-07",
+          "text": "Amping sa ___.",
+          "answer": "biyahe",
+          "options": [
+            "biyahe",
+            "balay",
+            "adlaw"
+          ]
+        },
+        {
+          "type": "fill",
+          "ref": "W12-25",
+          "text": "Babay! Amping mo ___!",
+          "answer": "tanan",
+          "options": [
+            "tanan",
+            "Nay",
+            "ninyo"
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-08",
+          "tiles": [
+            "Salamat, Tay.",
+            "Amping pud mo.",
+            "Babay"
+          ],
+          "answers": [
+            [
+              "Salamat, Tay.",
+              "Amping pud mo."
+            ]
+          ]
+        },
+        {
+          "type": "order",
+          "ref": "W12-25",
+          "tiles": [
+            "Babay!",
+            "Amping mo tanan!",
+            "Tay"
+          ],
+          "answers": [
+            [
+              "Babay!",
+              "Amping mo tanan!"
+            ]
+          ]
+        }
+      ],
+      "culture": {
+        "title": "Leaving the house",
+        "text": "Before leaving, give each elder a mano one last time. Family members may walk you to the car and wave until you're out of sight. Wave back until you can't see them."
+      }
+    },
+    {
+      "day": 7,
+      "title": "Putting it together",
+      "intro": "No new phrases. Three goodbye scenes, then your mission.",
+      "new": [],
+      "exercises": [
+        {
+          "type": "respond",
+          "answer": "W12-21",
+          "distractors": [
+            "W12-03",
+            "W12-05"
+          ],
+          "prompt": "W12-D1-02"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-D2-04",
+          "distractors": [
+            "W12-14",
+            "W12-11"
+          ],
+          "prompt": "W12-D2-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-25",
+          "distractors": [
+            "W12-10",
+            "W12-05"
+          ],
+          "prompt": "W12-D3-03"
+        },
+        {
+          "type": "respond",
+          "answer": "W12-D3-06",
+          "distractors": [
+            "W12-25",
+            "W12-03"
+          ],
+          "prompt": "W12-D3-05"
+        },
+        {
+          "type": "order",
+          "ref": "W12-D2-04",
+          "tiles": [
+            "Mingawon pud ko nimo.",
+            "Mobalik gyud ko."
+          ],
+          "answers": [
+            [
+              "Mingawon pud ko nimo.",
+              "Mobalik gyud ko."
+            ],
+            [
+              "Mobalik gyud ko.",
+              "Mingawon pud ko nimo."
+            ]
+          ]
+        }
+      ],
+      "dialogues": [
+        "W12-D1",
+        "W12-D2",
+        "W12-D3"
+      ],
+      "culture": {
+        "title": "Pasalubong in reverse",
+        "text": "You'll probably leave with more than you came with: dried mangoes, peanut kisses, delicacies for your family. Pack light on the way there."
+      }
+    }
+  ],
+  "mission": {
+    "title": "Video-call mission: Week 12",
+    "steps": [
+      "Thank Jiana for something specific this week, starting with Salamat sa...",
+      "Tell her how you feel today: Malipayon ko / Masulub-on ko, and why: Kay...",
+      "Say: Mingaw na ko nimo. and Ikaw ang akong kalipay.",
+      "Record a short goodbye message for her family: Salamat sa tanan. Mingawon ko ninyo. Mobalik gyud ko.",
+      "Ask Jiana to play it for Nanay and Tatay."
+    ]
+  },
+  "reviewExtras": [
+    {
+      "id": "W12-X1",
+      "ceb": "| utang kabubut-on",
+      "en": "debt of gratitude",
+      "where": "Day 1 culture note",
+      "check": ""
+    },
+    {
+      "id": "W12-X2",
+      "ceb": "| Salamat sa...",
+      "en": "Thank you for...",
+      "where": "Mission",
+      "check": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+6,W06-01,Ganahan ka og isda?,Do you like fish?,Nanay,Dinner table,Learner tip: ganahan = like. isda = fish. Bohol is an island - fish is everywhere.
+6,W06-02,"Oo, ganahan kaayo ko.","Yes, I like it a lot.",Thomas,Dinner table,Learner tip: kaayo = very.
+6,W06-03,Dili kaayo ko ganahan.,I don't really like it.,Thomas,Dinner table,"Learner tip: dili kaayo = not really. A soft, polite no."
+6,W06-04,Gusto ka mosulay og balut?,Do you want to try balut?,Kuya,Family gathering,Learner tip: balut = a boiled duck egg with a developing chick inside. A classic test for visitors.
+6,W06-05,"Sige, gamay lang.","Okay, just a little.",Thomas,Family gathering,Learner tip: A brave but careful answer.
+6,W06-06,Halang!,Spicy!,Thomas,Dinner table,Learner tip: halang = spicy. Say it while fanning your mouth.
+6,W06-07,Halang ba?,Is it spicy?,Inday,Dinner table,Learner tip: ba turns a sentence into a yes/no question.
+6,W06-08,Tam-is kaayo.,It's very sweet.,Thomas,Dinner table,Learner tip: tam-is = sweet.
+6,W06-09,Parat gamay.,It's a little salty.,Thomas,Dinner table,Learner tip: parat = salty. Use gamay (a little) to keep it gentle. | QUESTION FOR REVIEWER: Natural word order?
+6,W06-10,Unsa'y imong paborito?,What's your favorite?,Nanay,Dinner table,Learner tip: paborito = favorite (from Spanish).
+6,W06-11,Paborito nako ang lechon.,My favorite is lechon.,Thomas,Dinner table,"Learner tip: lechon = whole roast pig, the star of every fiesta."
+6,W06-12,"Unsa'y imong gusto, kape o tsaa?","What do you want, coffee or tea?",Jiana,Video call,Learner tip: o = or.
+6,W06-13,"Kape, palihug.","Coffee, please.",Thomas,Video call,"Learner tip: kape = coffee, tsaa = tea."
+6,W06-14,Ganahan ka diri sa Bohol?,Do you like it here in Bohol?,Tatay,Living room,Learner tip: diri = here.
+6,W06-15,Ganahan kaayo ko diri.,I really like it here.,Thomas,Living room,Learner tip: The answer Tatay hopes for.
+6,W06-16,"Unsa'y mas lami, kini o kana?","Which is tastier, this or that?",Dodong,Dinner table,Learner tip: mas = more. kana = that.
+6,W06-17,Mas lami kini.,This one is tastier.,Thomas,Dinner table,Learner tip: Point at it as you say it.
+6,W06-18,Pareha ra.,They're the same.,Thomas,Dinner table,Learner tip: pareha = same. A diplomatic answer.
+6,W06-19,"Ayaw kabalaka, dili halang.","Don't worry, it's not spicy.",Nanay,Dinner table,Learner tip: ayaw = don't. kabalaka = worry.
+6,W06-20,Unsa'y tawag ani?,What's this called?,Thomas,Dinner table,"Learner tip: tawag = name, what it's called. ani = this."
+6,W06-21,Adobo kana.,That's adobo.,Inday,Dinner table,"Learner tip: adobo = meat stewed in vinegar, soy sauce and garlic."
+6,W06-22,Mangga! Akong paborito.,Mangoes! My favorite.,Thomas,Market,Learner tip: Philippine mangoes are famous for being very sweet.
+6,W06-23,Ganahan ka og tuba?,Do you like tuba?,Kuya,Family gathering,"Learner tip: tuba = coconut wine, popular in Bohol. Offered at gatherings."
+6,W06-24,"Dili ko moinom, salamat.","I don't drink, thanks.",Thomas,Family gathering,"Learner tip: Only if true. Otherwise: Sige, gamay lang. Either answer is respected."
+6,W06-25,"Lami kaayo ang imong luto, Nay!","Your cooking is delicious, Mom!",Thomas,Dinner table,Learner tip: luto = cooking. The compliment that matters most.
+6,W06-D1-03,Sulayi ang adobo. Dili halang.,Try the adobo. It's not spicy.,Nanay,Dinner table,Learner tip: Dialogue: Nanay's cooking
+6,W06-D2-03,Ganahan ka og tam-is?,Do you like sweets?,Jiana,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D2-04,"Oo, ganahan kaayo ko og mangga.","Yes, I really like mangoes.",Thomas,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D2-05,Daghan og mangga diri sa Bohol!,There are lots of mangoes here in Bohol!,Jiana,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D2-06,Lami!,Yum!,Thomas,Video call,Learner tip: Dialogue: Coffee or tea?
+6,W06-D3-03,Inom og tubig! Ha ha!,Drink some water! Ha ha!,Inday,Dinner table,Learner tip: Dialogue: Too spicy
+6,W06-D3-04,"Halang kaayo, Inday!","It's really spicy, Inday!",Thomas,Dinner table,Learner tip: Dialogue: Too spicy
+6,W06-D3-05,"Unsa'y mas lami, kini o kana?","Which is tastier, this or that?",Inday,Dinner table,Learner tip: Dialogue: Too spicy
+6,W06-15-ALT2,"Diri, ganahan kaayo ko.",I really like it here.,Thomas,Living room,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 1 word-order exercise. Is it natural? (punctuation is ignored)
+6,W06-11-ALT2,"Ang lechon, paborito nako.",My favorite is lechon.,Thomas,Dinner table,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 4 word-order exercise. Is it natural? (punctuation is ignored)
+6,W06-X1,| Lami kaayo ang luto ni Nanay!,Mom's cooking is delicious!,"(text only, no audio)",Mission,
+6,W06-X2,| sili,chili pepper,"(text only, no audio)",Day 3 culture note,
+6,W06-X3,| tagay,shared drinking round,"(text only, no audio)",Day 6 culture note,

@@ -1,0 +1,34 @@
+﻿週,ID,セブアノ語,英訳,話者,場面,備考
+4,W04-01,Kapoy ka?,Are you tired?,Nanay,Arriving at the house,Learner tip: kapoy = tired. The first thing Nanay will ask after a long flight.
+4,W04-02,"Oo, kapoy kaayo ko.","Yes, I'm very tired.",Thomas,Arriving at the house,Learner tip: kaayo = very.
+4,W04-03,"Init kaayo, no?","It's really hot, isn't it?",Tatay,Outside the house,Learner tip: init = hot. no? at the end means 'right?'.
+4,W04-04,"Oo, init kaayo!","Yes, it's very hot!",Thomas,Outside the house,Learner tip: Bohol is hot and humid all year. This conversation never gets old.
+4,W04-05,Gusto ka og electric fan?,Do you want an electric fan?,Inday,Living room,Learner tip: Everyone says 'electric fan' in English. gusto = want.
+4,W04-06,"Oo, palihug.","Yes, please.",Thomas,Living room,Learner tip: Short and polite. Works for any offer.
+4,W04-07,Pahulay sa.,Rest for a while.,Nanay,Living room,"Learner tip: pahulay = rest. sa = first, for now."
+4,W04-08,"Sige, mopahulay sa ko.","Okay, I'll rest for a bit.",Thomas,Living room,Learner tip: mo- = will (future). | QUESTION FOR REVIEWER: Natural?
+4,W04-09,Okay ra ka?,Are you okay?,Jiana,Video call,Learner tip: Mixed English: okay ra = just fine.
+4,W04-10,Okay ra ko.,I'm okay.,Thomas,Video call,Learner tip: The easy answer. Use it only if it's true.
+4,W04-11,Sakit akong ulo.,I have a headache.,Thomas,Any conversation,"Learner tip: sakit = hurts, sick. ulo = head."
+4,W04-12,Sakit akong tiyan.,My stomach hurts.,Thomas,Any conversation,Learner tip: tiyan = stomach. New food and water can do this on the first days.
+4,W04-13,Naa kay tambal?,Do you have medicine?,Nanay,Living room,Learner tip: tambal = medicine.
+4,W04-14,Wala. Naa moy tambal?,No. Do you have any medicine?,Thomas,Living room,Learner tip: moy = you (all) have. Asking for help is fine.
+4,W04-15,Gihilantan ka?,Do you have a fever?,Kuya,Living room,Learner tip: hilanat = fever.
+4,W04-16,"Dili, kapoy lang ko.","No, I'm just tired.",Thomas,Living room,Learner tip: Dili = no / not. lang = just.
+4,W04-17,Inom og daghang tubig.,Drink lots of water.,Nanay,Living room,Learner tip: daghang = a lot of.
+4,W04-18,Nasunog ka sa adlaw!,You got sunburned!,Dodong,Beach,Learner tip: adlaw = sun (also 'day'). nasunog = burned.
+4,W04-19,Pula na kaayo ko!,I'm so red!,Thomas,Beach,Learner tip: pula = red. Expect laughter. | QUESTION FOR REVIEWER: Natural?
+4,W04-20,Gitugnaw ko.,I'm cold.,Thomas,Living room,"Learner tip: tugnaw = cold. Useful in strong air-conditioning, malls, and buses."
+4,W04-21,Katulog na.,Go to sleep now.,Nanay,Bedroom,Learner tip: tulog = sleep.
+4,W04-22,Katulgon na ko.,I'm sleepy.,Thomas,Bedroom,Learner tip: katulgon = sleepy.
+4,W04-23,Jet lag pa ka?,Are you still jet-lagged?,Jiana,Video call,Learner tip: pa = still. English words like jet lag stay in English.
+4,W04-24,"Oo, gamay pa.","Yes, still a little.",Thomas,Video call,Learner tip: gamay = a little.
+4,W04-25,Maayo na ka?,Are you better now?,Tatay,Living room,"Learner tip: maayo = good, well. na = now, already."
+4,W04-D1-06,"Sige, Nay. Salamat.","Okay, Mom. Thanks.",Thomas,Arriving at the house,Learner tip: Dialogue: Just arrived
+4,W04-D2-05,"Inom og tubig, unya katulog na.","Drink water, then go to sleep.",Jiana,Video call,Learner tip: Dialogue: Jet lag on video
+4,W04-D2-06,"Sige. Maayong gabii, Jiana.","Okay. Good night, Jiana.",Thomas,Video call,Learner tip: Dialogue: Jet lag on video
+4,W04-D3-01,"Init kaayo, no?","It's really hot, isn't it?",Inday,Living room,Learner tip: Dialogue: A hot afternoon
+4,W04-D3-05,"Okay ra ka, Thomas?","Are you okay, Thomas?",Inday,Living room,Learner tip: Dialogue: A hot afternoon
+4,W04-D1-06-ALT2,"Salamat. Sige, Nay.","Okay, Mom. Thanks.",Thomas,Arriving at the house,QUESTION FOR REVIEWER: Alternative word order accepted as CORRECT in the Day 7 word-order exercise. Is it natural? (punctuation is ignored)
+4,W04-X1,| Init ba diha?,Is it hot there?,"(text only, no audio)",Mission,QUESTION FOR REVIEWER: Natural question on a video call?
+4,W04-X2,| salabat,Ginger tea,"(text only, no audio)",Day 4 culture note,
