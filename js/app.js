@@ -74,6 +74,7 @@
     p = p || {};
     p.done = p.done || {}; p.srs = p.srs || {}; p.streak = p.streak || { last: null, count: 0 };
     p.missions = p.missions || {}; p.totals = p.totals || { answered: 0, correct: 0, minutes: 0 };
+    p.settings = p.settings || {}; if (p.settings.sfx === undefined) p.settings.sfx = true;
     return p;
   }
   function save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(progress)); } catch (e) { /* storage unavailable */ } }
@@ -109,6 +110,32 @@
     lastAudioError = Date.now();
     if (playQueue && playQueue.length) { var next = playQueue.shift(); setTimeout(next, 300); }
   });
+
+  /* Answer sound effects, synthesized with Web Audio (no files needed). */
+  var sfxCtx = null;
+  function sfx(correct) {
+    if (!progress.settings.sfx) return;
+    try {
+      var AC = window.AudioContext || window.webkitAudioContext;
+      if (!AC) return;
+      sfxCtx = sfxCtx || new AC();
+      if (sfxCtx.state === "suspended") sfxCtx.resume();
+      var t0 = sfxCtx.currentTime + 0.01;
+      var notes = correct ? [[880, 0, 0.13], [1318.5, 0.11, 0.22]]   // A5 -> E6: bright two-note chime
+                          : [[196, 0, 0.16], [164.8, 0.14, 0.24]];   // G3 -> E3: low, short "uh-oh"
+      notes.forEach(function (n) {
+        var osc = sfxCtx.createOscillator(), gain = sfxCtx.createGain();
+        osc.type = correct ? "sine" : "triangle";
+        osc.frequency.value = n[0];
+        var a = t0 + n[1], z = a + n[2];
+        gain.gain.setValueAtTime(0.0001, a);
+        gain.gain.exponentialRampToValueAtTime(correct ? 0.25 : 0.3, a + 0.015);
+        gain.gain.exponentialRampToValueAtTime(0.0001, z);
+        osc.connect(gain); gain.connect(sfxCtx.destination);
+        osc.start(a); osc.stop(z + 0.02);
+      });
+    } catch (e) { /* sound effects are optional */ }
+  }
 
   var ICON_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
   function audioRow(id, opts) {
@@ -279,6 +306,16 @@
     });
     app.appendChild(el("section", { class: "card" }, el("h2", { text: "13-week plan" }), list));
 
+    var sfxToggle = el("input", { type: "checkbox", id: "sfxToggle" });
+    sfxToggle.checked = !!progress.settings.sfx;
+    sfxToggle.addEventListener("change", function () {
+      progress.settings.sfx = sfxToggle.checked; save();
+      if (sfxToggle.checked) sfx(true);
+    });
+    app.appendChild(el("section", { class: "card" },
+      el("div", { class: "check-list" }, el("label", { for: "sfxToggle", style: "display:flex;gap:10px;align-items:center" },
+        sfxToggle, el("span", null, el("strong", { text: "Sound effects" }),
+          el("span", { class: "muted small", text: " - a chime for right answers, a low tone for wrong ones" }))))));
     app.appendChild(el("p", { class: "muted small", style: "text-align:center" },
       el("button", { class: "reveal-btn", type: "button", onclick: function () {
         askConfirm("Reset progress?", "This erases all lessons done and the review schedule on this device.", "Erase progress",
@@ -287,6 +324,7 @@
   }
   function loadProgressFrom(p) {
     p.done = {}; p.srs = {}; p.streak = { last: null, count: 0 }; p.missions = {}; p.totals = { answered: 0, correct: 0, minutes: 0 };
+    p.settings = { sfx: true };
     return p;
   }
   function stat(n, label) {
@@ -493,6 +531,7 @@
     app.appendChild(r.node);
     r.onAnswer = function (correct, detail) {
       stopAudio();
+      sfx(correct);
       var it = items[shadowItemFor(ex)];
       var fb = el("div", { class: "feedback " + (correct ? "good" : "bad") },
         el("div", { class: "feedback-title", text: correct ? "Correct!" : "Not quite." }),
@@ -500,7 +539,7 @@
         el("div", { class: "ceb", text: it.ceb }), el("div", { class: "en", text: it.en }));
       app.appendChild(fb);
       app.appendChild(stickyButton("Continue", function () { shadow(it.id, function () { cb(correct); }); }));
-      if (ex.type === "fill" || ex.type === "order" || ex.type === "respond") setTimeout(function () { play(it.id, false); }, 200);
+      if (ex.type === "fill" || ex.type === "order" || ex.type === "respond") setTimeout(function () { play(it.id, false); }, 650);
       fb.scrollIntoView({ behavior: "smooth", block: "nearest" });
     };
   }
