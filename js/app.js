@@ -733,5 +733,50 @@
         el("p", { text: "If you opened index.html directly from your computer, start a small local web server instead (see README). Details: " + e.message })));
     });
   }
-  boot();
+  /* ---------- access code (website only; see js/config.js) ---------- */
+  var ACCESS_KEY = "bisaya-thomas-access";
+  function sha256hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.prototype.map.call(new Uint8Array(buf), function (b) { return ("0" + b.toString(16)).slice(-2); }).join("");
+    });
+  }
+  function gate(next) {
+    var cfg = window.BISAYA_ACCESS;
+    if (!cfg || !cfg.hash) return next();
+    var saved = null;
+    try { saved = localStorage.getItem(ACCESS_KEY); } catch (e) { saved = null; }
+    if (saved === cfg.hash) return next();
+    clear(); setTop("Bisaya for Thomas", false);
+    if (!window.crypto || !crypto.subtle) {
+      app.appendChild(el("section", { class: "card" }, el("h1", { text: "Please open the secure link" }),
+        el("p", { text: "This page must be opened with https:// to check your access code." })));
+      return;
+    }
+    var input = el("input", { class: "code-input", id: "accessCode", type: "password", autocomplete: "current-password",
+      autocapitalize: "none", spellcheck: "false", "aria-label": "Access code" });
+    var msg = el("p", { class: "small", role: "alert", style: "color:var(--bad);min-height:1.5em" });
+    var btn = el("button", { class: "btn primary block", type: "submit" }, "Open the course");
+    var form = el("form", { class: "card" },
+      el("div", { class: "eyebrow", text: "Welcome" }),
+      el("h1", { text: "Maayong pag-abot!" }),
+      el("p", { text: "Enter the access code from your teacher. You only need to do this once on this device." }),
+      el("label", { for: "accessCode", class: "small muted", text: "Access code" }), input, msg, btn);
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var code = input.value.trim().toLowerCase();
+      if (!code) { msg.textContent = "Type the access code first."; return; }
+      btn.disabled = true;
+      sha256hex(cfg.salt + code).then(function (h) {
+        btn.disabled = false;
+        if (h !== cfg.hash) { msg.textContent = "That code isn't right. Check it and try again."; input.select(); return; }
+        try { localStorage.setItem(ACCESS_KEY, h); } catch (err) { /* will ask again next time */ }
+        clear(); app.appendChild(el("p", { class: "muted", text: "Loading lessons..." }));
+        next();
+      });
+    });
+    app.appendChild(form);
+    input.focus();
+  }
+
+  gate(boot);
 })();

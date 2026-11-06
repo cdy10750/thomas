@@ -57,6 +57,18 @@ Weeks 2-13 are written in a compact source format in `content/weekNN.txt` (forma
 `tools/batch_audio.py` is how Weeks 2-13 were voiced: one take per week and voice with `[long pause]` between
 lines, then split into one mp3 per line at the longest pauses (needs ffmpeg).
 
+## Publish it for one student (GitHub Pages + access code)
+
+1. Set the access code: `python3 tools/set_password.py` (random) or `python3 tools/set_password.py your-code`.
+   Only a salted hash goes into `js/config.js`. Commit and push.
+2. On GitHub: Settings > Pages > Build and deployment > Source: "Deploy from a branch",
+   Branch: the branch with this code, folder `/ (root)` > Save.
+3. After a minute the site is at `https://<owner>.github.io/<repo>/`. Send the student the link and the code.
+
+The student enters the code once per device. The site asks search engines not to index it (`robots.txt`, meta tag).
+This is a light lock, not real security: the repository is public, so the lesson files themselves can be read on GitHub.
+`python3 tools/set_password.py --off` removes the code.
+
 ## Use it inside Claude
 
 `python3 tools/build_artifact.py OUT_DIR` builds a single-page version (CSS and JS inlined) plus the data and audio
